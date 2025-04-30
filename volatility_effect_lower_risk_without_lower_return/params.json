@@ -1,0 +1,6 @@
+{
+    "leverage": 1.0,
+    "lookback_period": 756,
+    "rebalance_period": 21,
+    "total_days": 8964
+}

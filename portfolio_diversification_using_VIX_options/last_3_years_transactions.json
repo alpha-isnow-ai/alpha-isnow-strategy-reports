@@ -1,0 +1,1582 @@
+[
+    {
+        "datetime": "2022-02-02 00:00:00",
+        "date": "2022-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -492,
+                "price": 103.18,
+                "value": 52247.65,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -267,
+                "price": 435.93,
+                "value": 114770.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 21.56,
+                "value": -559.36,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -45,
+                "price": 435.93,
+                "value": -19616.67,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 128,
+                "price": 103.18,
+                "value": 13207.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 21.56,
+                "value": 409.64,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -6053.01,
+        "cash": 184282.12,
+        "total_value": 178229.12
+    },
+    {
+        "datetime": "2022-03-02 00:00:00",
+        "date": "2022-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -128,
+                "price": 103.33,
+                "value": 13207.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 45,
+                "price": 413.79,
+                "value": -19616.67,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 34.2,
+                "value": 409.64,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 280,
+                "price": 413.79,
+                "value": 115861.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 494,
+                "price": 103.33,
+                "value": 51044.64,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 34.2,
+                "value": -649.8,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 167324.38,
+        "cash": 13281.48,
+        "total_value": 180605.86
+    },
+    {
+        "datetime": "2022-04-04 00:00:00",
+        "date": "2022-04-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -494,
+                "price": 98.2,
+                "value": 51044.64,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -280,
+                "price": 435.01,
+                "value": 115861.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 20.75,
+                "value": -649.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -52,
+                "price": 435.01,
+                "value": -22620.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 177,
+                "price": 98.2,
+                "value": 17381.86,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 20.75,
+                "value": 394.25,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -5098.09,
+        "cash": 188044.88,
+        "total_value": 182946.79
+    },
+    {
+        "datetime": "2022-06-02 00:00:00",
+        "date": "2022-06-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -177,
+                "price": 94.89,
+                "value": 17381.86,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 52,
+                "price": 393.04,
+                "value": -22620.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 25.73,
+                "value": 394.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 305,
+                "price": 393.04,
+                "value": 119878.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 526,
+                "price": 94.89,
+                "value": 49914.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 25.73,
+                "value": -488.87,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 171584.15,
+        "cash": 15587.79,
+        "total_value": 187171.93
+    },
+    {
+        "datetime": "2022-07-04 00:00:00",
+        "date": "2022-07-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -526,
+                "price": 95.23,
+                "value": 49914.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -305,
+                "price": 363.06,
+                "value": 119878.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 27.96,
+                "value": -488.87,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -44,
+                "price": 363.06,
+                "value": -15974.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 143,
+                "price": 95.23,
+                "value": 13618.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 27.96,
+                "value": 531.24,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2015.93,
+        "cash": 177707.21,
+        "total_value": 175691.27
+    },
+    {
+        "datetime": "2022-08-02 00:00:00",
+        "date": "2022-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -143,
+                "price": 97.66,
+                "value": 13618.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 44,
+                "price": 394.45,
+                "value": -15974.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 24.08,
+                "value": 531.24,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 282,
+                "price": 394.45,
+                "value": 111235.48,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 500,
+                "price": 97.66,
+                "value": 48828.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 24.08,
+                "value": -457.52,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 158664.29,
+        "cash": 15167.31,
+        "total_value": 173831.6
+    },
+    {
+        "datetime": "2022-09-02 00:00:00",
+        "date": "2022-09-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -500,
+                "price": 93.01,
+                "value": 48828.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -282,
+                "price": 385.93,
+                "value": 111235.48,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 25.51,
+                "value": -457.52,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -43,
+                "price": 385.93,
+                "value": -16594.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 155,
+                "price": 93.01,
+                "value": 14416.76,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 25.51,
+                "value": 484.69,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -1337.95,
+        "cash": 171713.76,
+        "total_value": 170375.81
+    },
+    {
+        "datetime": "2022-11-02 00:00:00",
+        "date": "2022-11-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -155,
+                "price": 87.76,
+                "value": 14416.76,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 43,
+                "price": 371.66,
+                "value": -16594.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 25.7,
+                "value": 484.69,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 289,
+                "price": 371.66,
+                "value": 107408.79,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 542,
+                "price": 87.76,
+                "value": 47567.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 25.7,
+                "value": -488.3,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 151817.67,
+        "cash": 15335.8,
+        "total_value": 167153.47
+    },
+    {
+        "datetime": "2022-12-02 00:00:00",
+        "date": "2022-12-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -542,
+                "price": 91.3,
+                "value": 47567.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -289,
+                "price": 389.42,
+                "value": 107408.79,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 20.42,
+                "value": -488.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -44,
+                "price": 389.42,
+                "value": -17134.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 158,
+                "price": 91.3,
+                "value": 14426.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 20.42,
+                "value": 387.98,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2432.83,
+        "cash": 179298.14,
+        "total_value": 176865.31
+    },
+    {
+        "datetime": "2023-02-02 00:00:00",
+        "date": "2023-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -158,
+                "price": 93.64,
+                "value": 14426.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 44,
+                "price": 403.47,
+                "value": -17134.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 17.74,
+                "value": 387.98,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 282,
+                "price": 403.47,
+                "value": 113779.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 523,
+                "price": 93.64,
+                "value": 48975.94,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 17.74,
+                "value": -337.06,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 162754.82,
+        "cash": 14259.72,
+        "total_value": 177014.54
+    },
+    {
+        "datetime": "2023-03-02 00:00:00",
+        "date": "2023-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -523,
+                "price": 88.46,
+                "value": 48975.94,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -282,
+                "price": 381.9,
+                "value": 113779.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 21.41,
+                "value": -337.06,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -44,
+                "price": 381.9,
+                "value": -16803.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 159,
+                "price": 88.46,
+                "value": 14065.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 21.41,
+                "value": 406.79,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2567.89,
+        "cash": 170145.96,
+        "total_value": 167578.06
+    },
+    {
+        "datetime": "2023-05-02 00:00:00",
+        "date": "2023-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -159,
+                "price": 92.97,
+                "value": 14065.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 44,
+                "price": 404.93,
+                "value": -16803.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 16.27,
+                "value": 406.79,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 266,
+                "price": 404.93,
+                "value": 107710.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 491,
+                "price": 92.97,
+                "value": 45646.58,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 16.27,
+                "value": -309.13,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 152433.29,
+        "cash": 14372.4,
+        "total_value": 166805.69
+    },
+    {
+        "datetime": "2023-06-02 00:00:00",
+        "date": "2023-06-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -491,
+                "price": 92.5,
+                "value": 45646.58,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -266,
+                "price": 414.42,
+                "value": 107710.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 15.65,
+                "value": -309.13,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -44,
+                "price": 414.42,
+                "value": -18234.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 166,
+                "price": 92.5,
+                "value": 15354.59,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 15.65,
+                "value": 297.35,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2845.25,
+        "cash": 172311.03,
+        "total_value": 169465.78
+    },
+    {
+        "datetime": "2023-08-02 00:00:00",
+        "date": "2023-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -166,
+                "price": 89.85,
+                "value": 15354.59,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 44,
+                "price": 444.14,
+                "value": -18234.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 15.7,
+                "value": 297.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 246,
+                "price": 444.14,
+                "value": 109257.46,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 504,
+                "price": 89.85,
+                "value": 45285.04,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 15.7,
+                "value": -298.3,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 153527.76,
+        "cash": 13738.45,
+        "total_value": 167266.21
+    },
+    {
+        "datetime": "2023-09-04 00:00:00",
+        "date": "2023-09-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -504,
+                "price": 90.0,
+                "value": 45285.04,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -246,
+                "price": 444.06,
+                "value": 109257.46,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 13.62,
+                "value": -298.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -41,
+                "price": 444.06,
+                "value": -18206.36,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 169,
+                "price": 90.0,
+                "value": 15209.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 13.62,
+                "value": 258.78,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2749.87,
+        "cash": 170813.95,
+        "total_value": 168064.09
+    },
+    {
+        "datetime": "2023-11-02 00:00:00",
+        "date": "2023-11-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -169,
+                "price": 87.12,
+                "value": 15209.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 41,
+                "price": 419.48,
+                "value": -18206.36,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 16.59,
+                "value": 258.78,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 260,
+                "price": 419.48,
+                "value": 109063.94,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 533,
+                "price": 87.12,
+                "value": 46437.21,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 16.59,
+                "value": -315.21,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 156206.02,
+        "cash": 13468.68,
+        "total_value": 169674.7
+    },
+    {
+        "datetime": "2023-12-04 00:00:00",
+        "date": "2023-12-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -533,
+                "price": 89.87,
+                "value": 46437.21,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -260,
+                "price": 448.01,
+                "value": 109063.94,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 13.28,
+                "value": -315.21,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -46,
+                "price": 448.01,
+                "value": -20608.62,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 180,
+                "price": 89.87,
+                "value": 16176.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 13.28,
+                "value": 252.32,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -4237.89,
+        "cash": 181780.47,
+        "total_value": 177542.58
+    },
+    {
+        "datetime": "2024-01-02 00:00:00",
+        "date": "2024-01-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -180,
+                "price": 92.31,
+                "value": 16176.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 46,
+                "price": 466.18,
+                "value": -20608.62,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 13.22,
+                "value": 252.32,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 249,
+                "price": 466.18,
+                "value": 116078.87,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 507,
+                "price": 92.31,
+                "value": 46801.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 13.22,
+                "value": -251.18,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 162794.13,
+        "cash": 14573.96,
+        "total_value": 177368.09
+    },
+    {
+        "datetime": "2024-02-02 00:00:00",
+        "date": "2024-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -507,
+                "price": 92.34,
+                "value": 46801.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -249,
+                "price": 483.45,
+                "value": 116078.87,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 13.95,
+                "value": -251.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -45,
+                "price": 483.45,
+                "value": -21755.19,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 194,
+                "price": 92.34,
+                "value": 17914.84,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 13.95,
+                "value": 265.05,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3819.7,
+        "cash": 185081.6,
+        "total_value": 181261.9
+    },
+    {
+        "datetime": "2024-03-04 00:00:00",
+        "date": "2024-03-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -194,
+                "price": 90.98,
+                "value": 17914.84,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 45,
+                "price": 505.55,
+                "value": -21755.19,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 13.49,
+                "value": 265.05,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 237,
+                "price": 505.55,
+                "value": 119814.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 516,
+                "price": 90.98,
+                "value": 46947.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 13.49,
+                "value": -256.31,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 166623.67,
+        "cash": 13733.65,
+        "total_value": 180357.31
+    },
+    {
+        "datetime": "2024-04-02 00:00:00",
+        "date": "2024-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -516,
+                "price": 90.31,
+                "value": 46947.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -237,
+                "price": 513.27,
+                "value": 119814.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 13.74,
+                "value": -256.31,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -46,
+                "price": 513.27,
+                "value": -23610.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 209,
+                "price": 90.31,
+                "value": 18874.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 13.74,
+                "value": 261.06,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -4440.8,
+        "cash": 186190.78,
+        "total_value": 181749.98
+    },
+    {
+        "datetime": "2024-05-02 00:00:00",
+        "date": "2024-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -209,
+                "price": 89.03,
+                "value": 18874.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 46,
+                "price": 499.31,
+                "value": -23610.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 15.14,
+                "value": 261.06,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 244,
+                "price": 499.31,
+                "value": 121832.02,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 528,
+                "price": 89.03,
+                "value": 47008.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 15.14,
+                "value": -287.66,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 168994.9,
+        "cash": 13564.92,
+        "total_value": 182559.82
+    },
+    {
+        "datetime": "2024-07-02 00:00:00",
+        "date": "2024-07-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -528,
+                "price": 91.08,
+                "value": 47008.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -244,
+                "price": 540.22,
+                "value": 121832.02,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 12.67,
+                "value": -287.66,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -51,
+                "price": 540.22,
+                "value": -27551.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 239,
+                "price": 91.08,
+                "value": 21767.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 12.67,
+                "value": 240.73,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -5833.84,
+        "cash": 198769.16,
+        "total_value": 192935.32
+    },
+    {
+        "datetime": "2024-08-02 00:00:00",
+        "date": "2024-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -239,
+                "price": 95.41,
+                "value": 21767.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 51,
+                "price": 532.32,
+                "value": -27551.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 20.52,
+                "value": 240.73,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 245,
+                "price": 532.32,
+                "value": 130418.43,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 501,
+                "price": 95.41,
+                "value": 47797.96,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 20.52,
+                "value": -389.88,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 177319.19,
+        "cash": 16986.02,
+        "total_value": 194305.21
+    },
+    {
+        "datetime": "2024-10-02 00:00:00",
+        "date": "2024-10-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -501,
+                "price": 96.52,
+                "value": 47797.96,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -245,
+                "price": 565.81,
+                "value": 130418.43,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 19.65,
+                "value": -389.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -50,
+                "price": 565.81,
+                "value": -28290.29,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 256,
+                "price": 96.52,
+                "value": 24709.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 19.65,
+                "value": 373.35,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3238.49,
+        "cash": 206799.83,
+        "total_value": 203561.34
+    },
+    {
+        "datetime": "2024-11-04 00:00:00",
+        "date": "2024-11-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -256,
+                "price": 93.42,
+                "value": 24709.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 50,
+                "price": 569.26,
+                "value": -28290.29,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 22.5,
+                "value": 373.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 242,
+                "price": 569.26,
+                "value": 137761.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 529,
+                "price": 93.42,
+                "value": 49420.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 22.5,
+                "value": -427.5,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 186356.24,
+        "cash": 15925.14,
+        "total_value": 202281.38
+    },
+    {
+        "datetime": "2025-01-02 00:00:00",
+        "date": "2025-01-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -529,
+                "price": 92.36,
+                "value": 49420.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -242,
+                "price": 589.39,
+                "value": 137761.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 17.21,
+                "value": -427.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -52,
+                "price": 589.39,
+                "value": -30648.28,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 276,
+                "price": 92.36,
+                "value": 25490.03,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "BUY",
+                "size": 19,
+                "price": 17.21,
+                "value": 326.99,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -4611.85,
+        "cash": 211917.69,
+        "total_value": 207305.84
+    },
+    {
+        "datetime": "2025-04-02 00:00:00",
+        "date": "2025-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -276,
+                "price": 93.37,
+                "value": 25490.03,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 52,
+                "price": 609.94,
+                "value": -30648.28,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 22.3,
+                "value": 326.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VIX",
+                "side": "SELL",
+                "size": -19,
+                "price": 22.3,
+                "value": -423.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -408.69,
+        "cash": 206818.33,
+        "total_value": 206409.64
+    }
+]

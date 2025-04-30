@@ -1,0 +1,1260 @@
+[
+    {
+        "datetime": "2022-01-15 00:00:00",
+        "date": "2022-01-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 267,
+                "price": 441.37,
+                "value": 117846.2,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 118748.21,
+        "cash": 14407.59,
+        "total_value": 133155.8
+    },
+    {
+        "datetime": "2022-01-16 00:00:00",
+        "date": "2022-01-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -267,
+                "price": 441.37,
+                "value": 117846.2,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 132253.79,
+        "total_value": 132253.79
+    },
+    {
+        "datetime": "2022-02-16 00:00:00",
+        "date": "2022-02-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 278,
+                "price": 424.85,
+                "value": 118109.2,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 118819.57,
+        "cash": 14144.59,
+        "total_value": 132964.16
+    },
+    {
+        "datetime": "2022-02-17 00:00:00",
+        "date": "2022-02-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -278,
+                "price": 424.17,
+                "value": 118109.2,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 132064.89,
+        "total_value": 132064.89
+    },
+    {
+        "datetime": "2022-03-16 00:00:00",
+        "date": "2022-03-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 291,
+                "price": 411.42,
+                "value": 119722.21,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 121317.98,
+        "cash": 12342.68,
+        "total_value": 133660.66
+    },
+    {
+        "datetime": "2022-03-17 00:00:00",
+        "date": "2022-03-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -291,
+                "price": 414.96,
+                "value": 119722.21,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 133095.32,
+        "total_value": 133095.32
+    },
+    {
+        "datetime": "2022-04-16 00:00:00",
+        "date": "2022-04-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 285,
+                "price": 425.81,
+                "value": 121355.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 119779.43,
+        "cash": 11739.96,
+        "total_value": 131519.39
+    },
+    {
+        "datetime": "2022-04-17 00:00:00",
+        "date": "2022-04-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -285,
+                "price": 425.81,
+                "value": 121355.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 133095.32,
+        "total_value": 133095.32
+    },
+    {
+        "datetime": "2022-05-14 00:00:00",
+        "date": "2022-05-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 310,
+                "price": 380.84,
+                "value": 118060.96,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 119551.94,
+        "cash": 15034.36,
+        "total_value": 134586.3
+    },
+    {
+        "datetime": "2022-05-15 00:00:00",
+        "date": "2022-05-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -310,
+                "price": 380.84,
+                "value": 118060.96,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 133095.32,
+        "total_value": 133095.32
+    },
+    {
+        "datetime": "2022-06-16 00:00:00",
+        "date": "2022-06-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 329,
+                "price": 355.69,
+                "value": 117021.96,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 115802.81,
+        "cash": 16073.36,
+        "total_value": 131876.17
+    },
+    {
+        "datetime": "2022-06-17 00:00:00",
+        "date": "2022-06-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -329,
+                "price": 352.41,
+                "value": 117021.96,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 132014.8,
+        "total_value": 132014.8
+    },
+    {
+        "datetime": "2022-07-16 00:00:00",
+        "date": "2022-07-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 319,
+                "price": 368.83,
+                "value": 117658.24,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 118451.75,
+        "cash": 14356.56,
+        "total_value": 132808.32
+    },
+    {
+        "datetime": "2022-07-17 00:00:00",
+        "date": "2022-07-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -319,
+                "price": 368.83,
+                "value": 117658.24,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 132014.8,
+        "total_value": 132014.8
+    },
+    {
+        "datetime": "2022-08-16 00:00:00",
+        "date": "2022-08-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 287,
+                "price": 412.39,
+                "value": 118357.3,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 118902.42,
+        "cash": 13657.49,
+        "total_value": 132559.92
+    },
+    {
+        "datetime": "2022-08-17 00:00:00",
+        "date": "2022-08-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -287,
+                "price": 410.64,
+                "value": 118357.3,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131511.21,
+        "total_value": 131511.21
+    },
+    {
+        "datetime": "2022-09-16 00:00:00",
+        "date": "2022-09-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 314,
+                "price": 371.89,
+                "value": 116773.16,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117204.81,
+        "cash": 14738.05,
+        "total_value": 131942.86
+    },
+    {
+        "datetime": "2022-09-17 00:00:00",
+        "date": "2022-09-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -314,
+                "price": 371.89,
+                "value": 116773.16,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131511.21,
+        "total_value": 131511.21
+    },
+    {
+        "datetime": "2022-10-15 00:00:00",
+        "date": "2022-10-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 341,
+                "price": 356.8,
+                "value": 121667.52,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 118062.56,
+        "cash": 9843.69,
+        "total_value": 127906.25
+    },
+    {
+        "datetime": "2022-10-16 00:00:00",
+        "date": "2022-10-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -341,
+                "price": 356.8,
+                "value": 121667.52,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131511.21,
+        "total_value": 131511.21
+    },
+    {
+        "datetime": "2022-11-16 00:00:00",
+        "date": "2022-11-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 306,
+                "price": 384.13,
+                "value": 117542.53,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117148.53,
+        "cash": 13968.68,
+        "total_value": 131117.21
+    },
+    {
+        "datetime": "2022-11-17 00:00:00",
+        "date": "2022-11-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -306,
+                "price": 378.01,
+                "value": 117542.53,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 129638.96,
+        "total_value": 129638.96
+    },
+    {
+        "datetime": "2022-12-16 00:00:00",
+        "date": "2022-12-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 309,
+                "price": 374.61,
+                "value": 115753.94,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 115179.95,
+        "cash": 13885.02,
+        "total_value": 129064.96
+    },
+    {
+        "datetime": "2022-12-17 00:00:00",
+        "date": "2022-12-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -309,
+                "price": 374.61,
+                "value": 115753.94,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 129638.96,
+        "total_value": 129638.96
+    },
+    {
+        "datetime": "2023-01-14 00:00:00",
+        "date": "2023-01-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 301,
+                "price": 382.82,
+                "value": 115227.78,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 116656.35,
+        "cash": 14411.17,
+        "total_value": 131067.52
+    },
+    {
+        "datetime": "2023-01-15 00:00:00",
+        "date": "2023-01-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -301,
+                "price": 382.82,
+                "value": 115227.78,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 129638.96,
+        "total_value": 129638.96
+    },
+    {
+        "datetime": "2023-02-16 00:00:00",
+        "date": "2023-02-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 289,
+                "price": 397.57,
+                "value": 114897.79,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 114754.44,
+        "cash": 14741.17,
+        "total_value": 129495.61
+    },
+    {
+        "datetime": "2023-02-17 00:00:00",
+        "date": "2023-02-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -289,
+                "price": 394.92,
+                "value": 114897.79,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 128871.65,
+        "total_value": 128871.65
+    },
+    {
+        "datetime": "2023-03-16 00:00:00",
+        "date": "2023-03-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 306,
+                "price": 376.2,
+                "value": 115118.18,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117882.89,
+        "cash": 13753.48,
+        "total_value": 131636.36
+    },
+    {
+        "datetime": "2023-03-17 00:00:00",
+        "date": "2023-03-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -306,
+                "price": 383.89,
+                "value": 115118.18,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131222.93,
+        "total_value": 131222.93
+    },
+    {
+        "datetime": "2023-04-15 00:00:00",
+        "date": "2023-04-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 293,
+                "price": 403.01,
+                "value": 118082.55,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117982.43,
+        "cash": 13140.39,
+        "total_value": 131122.82
+    },
+    {
+        "datetime": "2023-04-16 00:00:00",
+        "date": "2023-04-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -293,
+                "price": 403.01,
+                "value": 118082.55,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131222.93,
+        "total_value": 131222.93
+    },
+    {
+        "datetime": "2023-05-16 00:00:00",
+        "date": "2023-05-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 292,
+                "price": 402.08,
+                "value": 117408.73,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 116949.77,
+        "cash": 13814.21,
+        "total_value": 130763.98
+    },
+    {
+        "datetime": "2023-05-17 00:00:00",
+        "date": "2023-05-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -292,
+                "price": 402.56,
+                "value": 117408.73,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131362.63,
+        "total_value": 131362.63
+    },
+    {
+        "datetime": "2023-06-16 00:00:00",
+        "date": "2023-06-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 273,
+                "price": 434.11,
+                "value": 118512.49,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117560.15,
+        "cash": 12850.14,
+        "total_value": 130410.29
+    },
+    {
+        "datetime": "2023-06-17 00:00:00",
+        "date": "2023-06-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -273,
+                "price": 434.11,
+                "value": 118512.49,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131362.63,
+        "total_value": 131362.63
+    },
+    {
+        "datetime": "2023-07-15 00:00:00",
+        "date": "2023-07-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 268,
+                "price": 441.42,
+                "value": 118301.02,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117985.88,
+        "cash": 13061.61,
+        "total_value": 131047.49
+    },
+    {
+        "datetime": "2023-07-16 00:00:00",
+        "date": "2023-07-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -268,
+                "price": 441.42,
+                "value": 118301.02,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131362.63,
+        "total_value": 131362.63
+    },
+    {
+        "datetime": "2023-08-16 00:00:00",
+        "date": "2023-08-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 272,
+                "price": 433.56,
+                "value": 117929.12,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117177.51,
+        "cash": 13433.51,
+        "total_value": 130611.02
+    },
+    {
+        "datetime": "2023-08-17 00:00:00",
+        "date": "2023-08-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -272,
+                "price": 432.29,
+                "value": 117929.12,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131016.14,
+        "total_value": 131016.14
+    },
+    {
+        "datetime": "2023-09-16 00:00:00",
+        "date": "2023-09-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 270,
+                "price": 439.69,
+                "value": 118717.48,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117716.52,
+        "cash": 12298.67,
+        "total_value": 130015.19
+    },
+    {
+        "datetime": "2023-09-17 00:00:00",
+        "date": "2023-09-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -270,
+                "price": 439.69,
+                "value": 118717.48,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131016.14,
+        "total_value": 131016.14
+    },
+    {
+        "datetime": "2023-10-14 00:00:00",
+        "date": "2023-10-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 277,
+                "price": 427.96,
+                "value": 118545.74,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117535.19,
+        "cash": 12470.4,
+        "total_value": 130005.59
+    },
+    {
+        "datetime": "2023-10-15 00:00:00",
+        "date": "2023-10-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -277,
+                "price": 427.96,
+                "value": 118545.74,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131016.14,
+        "total_value": 131016.14
+    },
+    {
+        "datetime": "2023-11-16 00:00:00",
+        "date": "2023-11-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 266,
+                "price": 441.74,
+                "value": 117502.76,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117766.95,
+        "cash": 13513.39,
+        "total_value": 131280.33
+    },
+    {
+        "datetime": "2023-11-17 00:00:00",
+        "date": "2023-11-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -266,
+                "price": 442.74,
+                "value": 117502.76,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131282.96,
+        "total_value": 131282.96
+    },
+    {
+        "datetime": "2023-12-16 00:00:00",
+        "date": "2023-12-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 254,
+                "price": 463.54,
+                "value": 117740.17,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117700.04,
+        "cash": 13542.79,
+        "total_value": 131242.83
+    },
+    {
+        "datetime": "2023-12-17 00:00:00",
+        "date": "2023-12-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -254,
+                "price": 463.54,
+                "value": 117740.17,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131282.96,
+        "total_value": 131282.96
+    },
+    {
+        "datetime": "2024-01-16 00:00:00",
+        "date": "2024-01-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 251,
+                "price": 469.24,
+                "value": 117779.47,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117697.68,
+        "cash": 13503.49,
+        "total_value": 131201.17
+    },
+    {
+        "datetime": "2024-01-17 00:00:00",
+        "date": "2024-01-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -251,
+                "price": 465.84,
+                "value": 117779.47,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 130430.45,
+        "total_value": 130430.45
+    },
+    {
+        "datetime": "2024-02-16 00:00:00",
+        "date": "2024-02-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 236,
+                "price": 495.35,
+                "value": 116901.67,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 116391.38,
+        "cash": 13528.78,
+        "total_value": 129920.16
+    },
+    {
+        "datetime": "2024-02-17 00:00:00",
+        "date": "2024-02-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -236,
+                "price": 495.35,
+                "value": 116901.67,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 130430.45,
+        "total_value": 130430.45
+    },
+    {
+        "datetime": "2024-03-16 00:00:00",
+        "date": "2024-03-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 232,
+                "price": 505.31,
+                "value": 117232.72,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117145.41,
+        "cash": 13197.73,
+        "total_value": 130343.14
+    },
+    {
+        "datetime": "2024-03-17 00:00:00",
+        "date": "2024-03-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -232,
+                "price": 505.31,
+                "value": 117232.72,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 130430.45,
+        "total_value": 130430.45
+    },
+    {
+        "datetime": "2024-04-16 00:00:00",
+        "date": "2024-04-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 234,
+                "price": 500.09,
+                "value": 117022.01,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 116695.23,
+        "cash": 13408.45,
+        "total_value": 130103.68
+    },
+    {
+        "datetime": "2024-04-17 00:00:00",
+        "date": "2024-04-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -234,
+                "price": 501.19,
+                "value": 117022.01,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 130687.69,
+        "total_value": 130687.69
+    },
+    {
+        "datetime": "2024-05-16 00:00:00",
+        "date": "2024-05-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 224,
+                "price": 524.79,
+                "value": 117554.01,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117290.0,
+        "cash": 13133.68,
+        "total_value": 130423.69
+    },
+    {
+        "datetime": "2024-05-17 00:00:00",
+        "date": "2024-05-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -224,
+                "price": 523.73,
+                "value": 117554.01,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 130450.3,
+        "total_value": 130450.3
+    },
+    {
+        "datetime": "2024-06-15 00:00:00",
+        "date": "2024-06-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 218,
+                "price": 535.69,
+                "value": 116780.23,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117190.46,
+        "cash": 13670.07,
+        "total_value": 130860.53
+    },
+    {
+        "datetime": "2024-06-16 00:00:00",
+        "date": "2024-06-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -218,
+                "price": 535.69,
+                "value": 116780.23,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 130450.3,
+        "total_value": 130450.3
+    },
+    {
+        "datetime": "2024-07-16 00:00:00",
+        "date": "2024-07-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 210,
+                "price": 559.27,
+                "value": 117445.96,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117861.18,
+        "cash": 13004.34,
+        "total_value": 130865.52
+    },
+    {
+        "datetime": "2024-07-17 00:00:00",
+        "date": "2024-07-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -210,
+                "price": 555.22,
+                "value": 117445.96,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 129601.09,
+        "total_value": 129601.09
+    },
+    {
+        "datetime": "2024-08-16 00:00:00",
+        "date": "2024-08-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 212,
+                "price": 547.89,
+                "value": 116152.63,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 116761.39,
+        "cash": 13448.45,
+        "total_value": 130209.85
+    },
+    {
+        "datetime": "2024-08-17 00:00:00",
+        "date": "2024-08-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -212,
+                "price": 547.89,
+                "value": 116152.63,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 129601.09,
+        "total_value": 129601.09
+    },
+    {
+        "datetime": "2024-09-14 00:00:00",
+        "date": "2024-09-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 208,
+                "price": 556.13,
+                "value": 115674.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 116149.69,
+        "cash": 13926.73,
+        "total_value": 130076.42
+    },
+    {
+        "datetime": "2024-09-15 00:00:00",
+        "date": "2024-09-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -208,
+                "price": 556.13,
+                "value": 115674.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 129601.09,
+        "total_value": 129601.09
+    },
+    {
+        "datetime": "2024-10-16 00:00:00",
+        "date": "2024-10-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 201,
+                "price": 577.84,
+                "value": 116144.88,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 116649.69,
+        "cash": 13456.21,
+        "total_value": 130105.9
+    },
+    {
+        "datetime": "2024-10-17 00:00:00",
+        "date": "2024-10-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -201,
+                "price": 583.94,
+                "value": 116144.88,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 130829.07,
+        "total_value": 130829.07
+    },
+    {
+        "datetime": "2024-11-16 00:00:00",
+        "date": "2024-11-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 201,
+                "price": 587.74,
+                "value": 118136.1,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117340.82,
+        "cash": 12692.97,
+        "total_value": 130033.78
+    },
+    {
+        "datetime": "2024-11-17 00:00:00",
+        "date": "2024-11-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -201,
+                "price": 587.74,
+                "value": 118136.1,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 130829.07,
+        "total_value": 130829.07
+    },
+    {
+        "datetime": "2024-12-14 00:00:00",
+        "date": "2024-12-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 195,
+                "price": 604.37,
+                "value": 117851.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117425.74,
+        "cash": 12977.71,
+        "total_value": 130403.45
+    },
+    {
+        "datetime": "2024-12-15 00:00:00",
+        "date": "2024-12-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -195,
+                "price": 604.37,
+                "value": 117851.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 130829.07,
+        "total_value": 130829.07
+    },
+    {
+        "datetime": "2025-01-16 00:00:00",
+        "date": "2025-01-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 198,
+                "price": 594.17,
+                "value": 117645.66,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 117144.72,
+        "cash": 13183.41,
+        "total_value": 130328.14
+    },
+    {
+        "datetime": "2025-01-17 00:00:00",
+        "date": "2025-01-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -198,
+                "price": 596.96,
+                "value": 117645.66,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 131381.5,
+        "total_value": 131381.5
+    }
+]

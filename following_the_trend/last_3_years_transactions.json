@@ -1,0 +1,2111 @@
+[
+    {
+        "datetime": "2022-06-14 00:00:00",
+        "date": "2022-06-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "CAC",
+                "side": "SELL",
+                "size": -0.01,
+                "price": 6312.45,
+                "value": -49.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "DAX",
+                "side": "SELL",
+                "size": -0.0,
+                "price": 14113.36,
+                "value": -22.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "DE10Y",
+                "side": "SELL",
+                "size": -110661661.83,
+                "price": 0.01,
+                "value": -688397.81,
+                "commission": 0.0
+            },
+            {
+                "symbol": "DE2Y",
+                "side": "SELL",
+                "size": -1541.31,
+                "price": 21.63,
+                "value": -33343.59,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GB1Y",
+                "side": "SELL",
+                "size": -2426.83,
+                "price": 33.18,
+                "value": -80518.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GBPUSD",
+                "side": "SELL",
+                "size": -580088.8,
+                "price": 1.21,
+                "value": -703731.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LB1",
+                "side": "SELL",
+                "size": -0.45,
+                "price": 519.3,
+                "value": -235.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NDX",
+                "side": "SELL",
+                "size": -0.0,
+                "price": 11385.18,
+                "value": -24.46,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RTY",
+                "side": "SELL",
+                "size": -0.11,
+                "price": 1717.33,
+                "value": -191.57,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPX",
+                "side": "SELL",
+                "size": -0.03,
+                "price": 3763.52,
+                "value": -100.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SX5E",
+                "side": "SELL",
+                "size": -0.02,
+                "price": 3656.05,
+                "value": -79.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "US2Y",
+                "side": "SELL",
+                "size": -90170.96,
+                "price": 5.2,
+                "value": -468737.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XPDUSD",
+                "side": "SELL",
+                "size": -0.05,
+                "price": 1797.25,
+                "value": -91.01,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -4071100.45,
+        "cash": 6821722.88,
+        "total_value": 2750622.43
+    },
+    {
+        "datetime": "2022-06-15 00:00:00",
+        "date": "2022-06-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "GC1",
+                "side": "SELL",
+                "size": -0.53,
+                "price": 1808.1,
+                "value": -962.34,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NZDUSD",
+                "side": "SELL",
+                "size": -5665088.75,
+                "price": 0.62,
+                "value": -3520484.43,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -8702434.92,
+        "cash": 10343169.64,
+        "total_value": 1640734.72
+    },
+    {
+        "datetime": "2022-06-16 00:00:00",
+        "date": "2022-06-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE2Y",
+                "side": "BUY",
+                "size": 1541.31,
+                "price": 23.14,
+                "value": -33343.59,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GB1Y",
+                "side": "BUY",
+                "size": 2426.83,
+                "price": 34.61,
+                "value": -80518.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 23160.17,
+                "price": 4.26,
+                "value": 98761.91,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -2185.19,
+                "price": 18.53,
+                "value": -40491.51,
+                "commission": 0.0
+            },
+            {
+                "symbol": "US2Y",
+                "side": "BUY",
+                "size": 90170.96,
+                "price": 5.65,
+                "value": -468737.23,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -6637452.89,
+        "cash": 9655763.28,
+        "total_value": 3018310.39
+    },
+    {
+        "datetime": "2022-06-17 00:00:00",
+        "date": "2022-06-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "GB1Y",
+                "side": "SELL",
+                "size": -9639.96,
+                "price": 32.75,
+                "value": -315753.52,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -7748456.49,
+        "cash": 9971516.81,
+        "total_value": 2223060.32
+    },
+    {
+        "datetime": "2022-06-18 00:00:00",
+        "date": "2022-06-18 00:00:00",
+        "trades": [
+            {
+                "symbol": "HG1",
+                "side": "SELL",
+                "size": -52365.86,
+                "price": 4.12,
+                "value": -215799.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -7959071.96,
+        "cash": 10187316.5,
+        "total_value": 2228244.54
+    },
+    {
+        "datetime": "2022-06-23 00:00:00",
+        "date": "2022-06-23 00:00:00",
+        "trades": [
+            {
+                "symbol": "GB1Y",
+                "side": "BUY",
+                "size": 9639.96,
+                "price": 32.07,
+                "value": -315753.52,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "SELL",
+                "size": -1.33,
+                "price": 587.75,
+                "value": -784.39,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "SELL",
+                "size": -0.32,
+                "price": 1565.0,
+                "value": -495.76,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -10323541.38,
+        "cash": 9879425.54,
+        "total_value": -444115.84
+    },
+    {
+        "datetime": "2022-06-28 00:00:00",
+        "date": "2022-06-28 00:00:00",
+        "trades": [
+            {
+                "symbol": "C1",
+                "side": "SELL",
+                "size": -1.01,
+                "price": 666.0,
+                "value": -671.01,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -17.46,
+                "price": 103.0,
+                "value": -1798.76,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -7626617.49,
+        "cash": 9881895.32,
+        "total_value": 2255277.83
+    },
+    {
+        "datetime": "2022-06-30 00:00:00",
+        "date": "2022-06-30 00:00:00",
+        "trades": [
+            {
+                "symbol": "LB1",
+                "side": "BUY",
+                "size": 0.45,
+                "price": 635.0,
+                "value": -235.27,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -20277251.98,
+        "cash": 9881607.63,
+        "total_value": -10395644.35
+    },
+    {
+        "datetime": "2022-07-01 00:00:00",
+        "date": "2022-07-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -23160.17,
+                "price": 3.79,
+                "value": 98761.91,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -36017577.91,
+        "cash": 9969417.1,
+        "total_value": -26048160.81
+    },
+    {
+        "datetime": "2022-07-02 00:00:00",
+        "date": "2022-07-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE10Y",
+                "side": "BUY",
+                "size": 110661661.83,
+                "price": 0.02,
+                "value": -688397.81,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -32395135.54,
+        "cash": 7730783.33,
+        "total_value": -24664352.21
+    },
+    {
+        "datetime": "2022-07-08 00:00:00",
+        "date": "2022-07-08 00:00:00",
+        "trades": [
+            {
+                "symbol": "NDX",
+                "side": "BUY",
+                "size": 0.0,
+                "price": 11977.95,
+                "value": -24.46,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPX",
+                "side": "BUY",
+                "size": 0.03,
+                "price": 3888.26,
+                "value": -100.27,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -28182167.86,
+        "cash": 7730654.0,
+        "total_value": -20451513.85
+    },
+    {
+        "datetime": "2022-07-09 00:00:00",
+        "date": "2022-07-09 00:00:00",
+        "trades": [
+            {
+                "symbol": "XPDUSD",
+                "side": "BUY",
+                "size": 0.05,
+                "price": 1991.74,
+                "value": -91.01,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -28182057.35,
+        "cash": 7730553.14,
+        "total_value": -20451504.2
+    },
+    {
+        "datetime": "2022-07-13 00:00:00",
+        "date": "2022-07-13 00:00:00",
+        "trades": [
+            {
+                "symbol": "O1",
+                "side": "BUY",
+                "size": 1.33,
+                "price": 468.25,
+                "value": -784.39,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -73682886.67,
+        "cash": 7729928.23,
+        "total_value": -65952958.43
+    },
+    {
+        "datetime": "2022-07-14 00:00:00",
+        "date": "2022-07-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 2185.19,
+                "price": 19.14,
+                "value": -40491.51,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -60062453.48,
+        "cash": 7688103.76,
+        "total_value": -52374349.72
+    },
+    {
+        "datetime": "2022-07-20 00:00:00",
+        "date": "2022-07-20 00:00:00",
+        "trades": [
+            {
+                "symbol": "RTY",
+                "side": "BUY",
+                "size": 0.11,
+                "price": 1797.94,
+                "value": -191.57,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -41562675.47,
+        "cash": 7687903.2,
+        "total_value": -33874772.27
+    },
+    {
+        "datetime": "2022-07-29 00:00:00",
+        "date": "2022-07-29 00:00:00",
+        "trades": [
+            {
+                "symbol": "CAC",
+                "side": "BUY",
+                "size": 0.01,
+                "price": 6539.92,
+                "value": -49.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "BUY",
+                "size": 0.32,
+                "price": 1457.0,
+                "value": -495.76,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SX5E",
+                "side": "BUY",
+                "size": 0.02,
+                "price": 3735.13,
+                "value": -79.88,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -374356061.41,
+        "cash": 7687308.51,
+        "total_value": -366668752.9
+    },
+    {
+        "datetime": "2022-07-30 00:00:00",
+        "date": "2022-07-30 00:00:00",
+        "trades": [
+            {
+                "symbol": "DAX",
+                "side": "BUY",
+                "size": 0.0,
+                "price": 13617.34,
+                "value": -22.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 52365.86,
+                "price": 3.5,
+                "value": -215799.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -374168359.71,
+        "cash": 7504267.65,
+        "total_value": -366664092.06
+    },
+    {
+        "datetime": "2022-07-31 00:00:00",
+        "date": "2022-07-31 00:00:00",
+        "trades": [
+            {
+                "symbol": "CT1",
+                "side": "BUY",
+                "size": 17.46,
+                "price": 103.05,
+                "value": -1798.76,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -374166558.68,
+        "cash": 7502468.02,
+        "total_value": -366664090.66
+    },
+    {
+        "datetime": "2022-08-02 00:00:00",
+        "date": "2022-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "GBPUSD",
+                "side": "BUY",
+                "size": 580088.8,
+                "price": 1.23,
+                "value": -703731.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 0.53,
+                "price": 1771.97,
+                "value": -962.34,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -419440519.45,
+        "cash": 6790240.33,
+        "total_value": -412650279.12
+    },
+    {
+        "datetime": "2022-08-11 00:00:00",
+        "date": "2022-08-11 00:00:00",
+        "trades": [
+            {
+                "symbol": "NZDUSD",
+                "side": "BUY",
+                "size": 5665088.75,
+                "price": 0.64,
+                "value": -3520484.43,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -280360877.13,
+        "cash": 3164300.27,
+        "total_value": -277196576.86
+    },
+    {
+        "datetime": "2022-08-12 00:00:00",
+        "date": "2022-08-12 00:00:00",
+        "trades": [
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 1.01,
+                "price": 627.75,
+                "value": -671.01,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -274814228.77,
+        "cash": 3163667.79,
+        "total_value": -271650560.98
+    },
+    {
+        "datetime": "2022-09-23 00:00:00",
+        "date": "2022-09-23 00:00:00",
+        "trades": [
+            {
+                "symbol": "DAX",
+                "side": "SELL",
+                "size": -0.0,
+                "price": 12301.91,
+                "value": -2.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "DE2Y",
+                "side": "SELL",
+                "size": -1067.9,
+                "price": 12.27,
+                "value": -13101.37,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EURUSD",
+                "side": "SELL",
+                "size": -106183.93,
+                "price": 0.98,
+                "value": -104445.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GB1Y",
+                "side": "SELL",
+                "size": -2894.93,
+                "price": 23.18,
+                "value": -67105.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HSI",
+                "side": "SELL",
+                "size": -0.01,
+                "price": 2300.27,
+                "value": -24.79,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NZDUSD",
+                "side": "SELL",
+                "size": -234753.22,
+                "price": 0.59,
+                "value": -138268.47,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SHCOMP",
+                "side": "SELL",
+                "size": -0.57,
+                "price": 438.93,
+                "value": -250.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "US2Y",
+                "side": "SELL",
+                "size": -46147.85,
+                "price": 3.8,
+                "value": -175217.77,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3488130.43,
+        "cash": 3662084.92,
+        "total_value": 173954.49
+    },
+    {
+        "datetime": "2022-09-24 00:00:00",
+        "date": "2022-09-24 00:00:00",
+        "trades": [
+            {
+                "symbol": "AUDUSD",
+                "side": "SELL",
+                "size": -309480.9,
+                "price": 0.66,
+                "value": -205682.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -5.76,
+                "price": 83.15,
+                "value": -478.58,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CO1",
+                "side": "SELL",
+                "size": -5.57,
+                "price": 88.12,
+                "value": -490.67,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GBPUSD",
+                "side": "SELL",
+                "size": -113918.63,
+                "price": 1.13,
+                "value": -128301.43,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "SELL",
+                "size": -0.04,
+                "price": 1671.09,
+                "value": -71.32,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -3746.97,
+                "price": 3.24,
+                "value": -12158.17,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SX5E",
+                "side": "SELL",
+                "size": -0.01,
+                "price": 3371.04,
+                "value": -17.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XB1",
+                "side": "SELL",
+                "size": -6822.32,
+                "price": 2.37,
+                "value": -16139.57,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3841936.05,
+        "cash": 4025424.44,
+        "total_value": 183488.39
+    },
+    {
+        "datetime": "2022-09-27 00:00:00",
+        "date": "2022-09-27 00:00:00",
+        "trades": [
+            {
+                "symbol": "CAC",
+                "side": "SELL",
+                "size": -0.01,
+                "price": 5582.77,
+                "value": -36.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -34.83,
+                "price": 80.22,
+                "value": -2794.63,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2269411.23,
+        "cash": 4028255.58,
+        "total_value": 1758844.35
+    },
+    {
+        "datetime": "2022-09-29 00:00:00",
+        "date": "2022-09-29 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE2Y",
+                "side": "BUY",
+                "size": 1067.9,
+                "price": 11.55,
+                "value": -13101.37,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GB1Y",
+                "side": "BUY",
+                "size": 2894.93,
+                "price": 20.28,
+                "value": -67105.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "US2Y",
+                "side": "BUY",
+                "size": 46147.85,
+                "price": 3.77,
+                "value": -175217.77,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -4335025.26,
+        "cash": 3783166.37,
+        "total_value": -551858.89
+    },
+    {
+        "datetime": "2022-10-04 00:00:00",
+        "date": "2022-10-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "GBPUSD",
+                "side": "BUY",
+                "size": 113918.63,
+                "price": 1.13,
+                "value": -128301.43,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -17412714.06,
+        "cash": 3654461.67,
+        "total_value": -13758252.39
+    },
+    {
+        "datetime": "2022-10-05 00:00:00",
+        "date": "2022-10-05 00:00:00",
+        "trades": [
+            {
+                "symbol": "EURUSD",
+                "side": "BUY",
+                "size": 106183.93,
+                "price": 1.0,
+                "value": -104445.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 0.04,
+                "price": 1726.16,
+                "value": -71.32,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -8663212.9,
+        "cash": 3548354.32,
+        "total_value": -5114858.58
+    },
+    {
+        "datetime": "2022-10-06 00:00:00",
+        "date": "2022-10-06 00:00:00",
+        "trades": [
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 3746.97,
+                "price": 3.56,
+                "value": -12158.17,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -5527331.57,
+        "cash": 3534997.12,
+        "total_value": -1992334.45
+    },
+    {
+        "datetime": "2022-10-07 00:00:00",
+        "date": "2022-10-07 00:00:00",
+        "trades": [
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 5.76,
+                "price": 88.12,
+                "value": -478.58,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CO1",
+                "side": "BUY",
+                "size": 5.57,
+                "price": 93.08,
+                "value": -490.67,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3052601.76,
+        "cash": 3533971.65,
+        "total_value": 481369.89
+    },
+    {
+        "datetime": "2022-10-08 00:00:00",
+        "date": "2022-10-08 00:00:00",
+        "trades": [
+            {
+                "symbol": "XB1",
+                "side": "BUY",
+                "size": 6822.32,
+                "price": 2.56,
+                "value": -16139.57,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3034925.12,
+        "cash": 3516527.65,
+        "total_value": 481602.53
+    },
+    {
+        "datetime": "2022-10-11 00:00:00",
+        "date": "2022-10-11 00:00:00",
+        "trades": [
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 1.32,
+                "price": 697.0,
+                "value": 917.14,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NDX",
+                "side": "SELL",
+                "size": -0.0,
+                "price": 10865.32,
+                "value": -49.82,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "BUY",
+                "size": 0.43,
+                "price": 934.0,
+                "value": 403.18,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2112961.27,
+        "cash": 3515257.15,
+        "total_value": 1402295.88
+    },
+    {
+        "datetime": "2022-10-12 00:00:00",
+        "date": "2022-10-12 00:00:00",
+        "trades": [
+            {
+                "symbol": "US2Y",
+                "side": "SELL",
+                "size": -969926.54,
+                "price": 3.54,
+                "value": -3434754.84,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -5576504.8,
+        "cash": 6950011.99,
+        "total_value": 1373507.19
+    },
+    {
+        "datetime": "2022-10-13 00:00:00",
+        "date": "2022-10-13 00:00:00",
+        "trades": [
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -48.96,
+                "price": 84.92,
+                "value": -4157.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPX",
+                "side": "SELL",
+                "size": -0.05,
+                "price": 3520.37,
+                "value": -170.21,
+                "commission": 0.0
+            },
+            {
+                "symbol": "US2Y",
+                "side": "BUY",
+                "size": 969926.54,
+                "price": 3.56,
+                "value": -3434754.84,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2915345.0,
+        "cash": 3500111.45,
+        "total_value": 584766.46
+    },
+    {
+        "datetime": "2022-10-14 00:00:00",
+        "date": "2022-10-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "US2Y",
+                "side": "SELL",
+                "size": -470866.83,
+                "price": 3.32,
+                "value": -1563969.14,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -4562119.63,
+        "cash": 5064080.59,
+        "total_value": 501960.97
+    },
+    {
+        "datetime": "2022-10-15 00:00:00",
+        "date": "2022-10-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 34.83,
+                "price": 80.78,
+                "value": -2794.63,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 661.26,
+                "price": 18.83,
+                "value": 12451.5,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -4546796.34,
+        "cash": 5048815.3,
+        "total_value": 502018.96
+    },
+    {
+        "datetime": "2022-10-18 00:00:00",
+        "date": "2022-10-18 00:00:00",
+        "trades": [
+            {
+                "symbol": "US2Y",
+                "side": "BUY",
+                "size": 470866.83,
+                "price": 3.38,
+                "value": -1563969.14,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -5032844.77,
+        "cash": 3459458.4,
+        "total_value": -1573386.37
+    },
+    {
+        "datetime": "2022-10-21 00:00:00",
+        "date": "2022-10-21 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE2Y",
+                "side": "SELL",
+                "size": -577.79,
+                "price": 10.1,
+                "value": -5834.12,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 0.94,
+                "price": 151.5,
+                "value": 143.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -80.82,
+                "price": 6.07,
+                "value": -490.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "US2Y",
+                "side": "SELL",
+                "size": -18867.19,
+                "price": 3.18,
+                "value": -59991.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3296680.56,
+        "cash": 3525631.58,
+        "total_value": 228951.02
+    },
+    {
+        "datetime": "2022-10-22 00:00:00",
+        "date": "2022-10-22 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE2Y",
+                "side": "BUY",
+                "size": 577.79,
+                "price": 10.1,
+                "value": -5834.12,
+                "commission": 0.0
+            },
+            {
+                "symbol": "US2Y",
+                "side": "BUY",
+                "size": 18867.19,
+                "price": 3.18,
+                "value": -59991.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3227857.14,
+        "cash": 3459805.75,
+        "total_value": 231948.62
+    },
+    {
+        "datetime": "2022-10-25 00:00:00",
+        "date": "2022-10-25 00:00:00",
+        "trades": [
+            {
+                "symbol": "CAC",
+                "side": "BUY",
+                "size": 0.01,
+                "price": 6095.18,
+                "value": -36.5,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -5640457.34,
+        "cash": 3459765.9,
+        "total_value": -2180691.44
+    },
+    {
+        "datetime": "2022-10-26 00:00:00",
+        "date": "2022-10-26 00:00:00",
+        "trades": [
+            {
+                "symbol": "DAX",
+                "side": "BUY",
+                "size": 0.0,
+                "price": 13009.13,
+                "value": -2.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPX",
+                "side": "BUY",
+                "size": 0.05,
+                "price": 3825.97,
+                "value": -170.21,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SX5E",
+                "side": "BUY",
+                "size": 0.01,
+                "price": 3574.01,
+                "value": -17.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -0.43,
+                "price": 836.25,
+                "value": 403.18,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -6120664.22,
+        "cash": 3459920.59,
+        "total_value": -2660743.63
+    },
+    {
+        "datetime": "2022-10-28 00:00:00",
+        "date": "2022-10-28 00:00:00",
+        "trades": [
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -661.26,
+                "price": 17.72,
+                "value": 12451.5,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -8868198.07,
+        "cash": 3471638.09,
+        "total_value": -5396559.98
+    },
+    {
+        "datetime": "2022-11-04 00:00:00",
+        "date": "2022-11-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "CT1",
+                "side": "BUY",
+                "size": 48.96,
+                "price": 83.45,
+                "value": -4157.3,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -5607901.53,
+        "cash": 3467552.76,
+        "total_value": -2140348.76
+    },
+    {
+        "datetime": "2022-11-05 00:00:00",
+        "date": "2022-11-05 00:00:00",
+        "trades": [
+            {
+                "symbol": "NZDUSD",
+                "side": "BUY",
+                "size": 234753.22,
+                "price": 0.58,
+                "value": -138268.47,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SHCOMP",
+                "side": "BUY",
+                "size": 0.57,
+                "price": 410.46,
+                "value": -250.6,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -5468442.99,
+        "cash": 3331679.18,
+        "total_value": -2136763.81
+    },
+    {
+        "datetime": "2022-11-08 00:00:00",
+        "date": "2022-11-08 00:00:00",
+        "trades": [
+            {
+                "symbol": "HSI",
+                "side": "BUY",
+                "size": 0.01,
+                "price": 2119.84,
+                "value": -24.79,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 80.82,
+                "price": 7.02,
+                "value": -490.35,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -8263751.95,
+        "cash": 3331088.63,
+        "total_value": -4932663.32
+    },
+    {
+        "datetime": "2022-11-11 00:00:00",
+        "date": "2022-11-11 00:00:00",
+        "trades": [
+            {
+                "symbol": "AUDUSD",
+                "side": "BUY",
+                "size": 309480.9,
+                "price": 0.66,
+                "value": -205682.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "SELL",
+                "size": -1.32,
+                "price": 659.5,
+                "value": 917.14,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -8983965.85,
+        "cash": 3127126.49,
+        "total_value": -5856839.36
+    },
+    {
+        "datetime": "2022-11-12 00:00:00",
+        "date": "2022-11-12 00:00:00",
+        "trades": [
+            {
+                "symbol": "NDX",
+                "side": "BUY",
+                "size": 0.0,
+                "price": 11604.36,
+                "value": -49.82,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -8983911.67,
+        "cash": 3127073.29,
+        "total_value": -5856838.38
+    },
+    {
+        "datetime": "2022-12-21 00:00:00",
+        "date": "2022-12-21 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE2Y",
+                "side": "SELL",
+                "size": -65497.39,
+                "price": 8.13,
+                "value": -532236.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 0.25,
+                "price": 1817.99,
+                "value": 450.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LB1",
+                "side": "SELL",
+                "size": -2.53,
+                "price": 480.0,
+                "value": -1215.49,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -4459.9,
+                "price": 4.84,
+                "value": -21590.38,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 1201.47,
+                "price": 20.65,
+                "value": 24810.46,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 591.41,
+                "price": 24.16,
+                "value": 14291.47,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2059093.33,
+        "cash": 3642563.21,
+        "total_value": 1583469.88
+    },
+    {
+        "datetime": "2022-12-22 00:00:00",
+        "date": "2022-12-22 00:00:00",
+        "trades": [
+            {
+                "symbol": "RR1",
+                "side": "BUY",
+                "size": 3137.82,
+                "price": 18.15,
+                "value": 56951.46,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2211141.37,
+        "cash": 3585611.74,
+        "total_value": 1374470.37
+    },
+    {
+        "datetime": "2022-12-28 00:00:00",
+        "date": "2022-12-28 00:00:00",
+        "trades": [
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 87.36,
+                "price": 90.47,
+                "value": 7903.62,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -1587710.35,
+        "cash": 3577708.12,
+        "total_value": 1989997.77
+    },
+    {
+        "datetime": "2022-12-29 00:00:00",
+        "date": "2022-12-29 00:00:00",
+        "trades": [
+            {
+                "symbol": "S1",
+                "side": "BUY",
+                "size": 0.59,
+                "price": 1513.0,
+                "value": 886.59,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -1787916.6,
+        "cash": 3576821.53,
+        "total_value": 1788904.94
+    },
+    {
+        "datetime": "2022-12-30 00:00:00",
+        "date": "2022-12-30 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE2Y",
+                "side": "BUY",
+                "size": 65497.39,
+                "price": 7.38,
+                "value": -532236.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XPTUSD",
+                "side": "BUY",
+                "size": 0.46,
+                "price": 1053.0,
+                "value": 481.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -961984.07,
+        "cash": 3093218.27,
+        "total_value": 2131234.21
+    },
+    {
+        "datetime": "2022-12-31 00:00:00",
+        "date": "2022-12-31 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE2Y",
+                "side": "SELL",
+                "size": -230293.14,
+                "price": 7.38,
+                "value": -1698687.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EURUSD",
+                "side": "BUY",
+                "size": 2425413.1,
+                "price": 1.07,
+                "value": 2586217.99,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -20464.52,
+        "cash": 2205687.54,
+        "total_value": 2185223.01
+    },
+    {
+        "datetime": "2023-01-03 00:00:00",
+        "date": "2023-01-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE2Y",
+                "side": "BUY",
+                "size": 230293.14,
+                "price": 7.32,
+                "value": -1698687.25,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 663643.51,
+        "cash": 520756.64,
+        "total_value": 1184400.15
+    },
+    {
+        "datetime": "2023-01-04 00:00:00",
+        "date": "2023-01-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "HSI",
+                "side": "BUY",
+                "size": 0.08,
+                "price": 2600.67,
+                "value": 215.52,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -296074.49,
+        "cash": 520541.12,
+        "total_value": 224466.63
+    },
+    {
+        "datetime": "2023-01-05 00:00:00",
+        "date": "2023-01-05 00:00:00",
+        "trades": [
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -1201.47,
+                "price": 19.6,
+                "value": 24810.46,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 362882.36,
+        "cash": 544090.02,
+        "total_value": 906972.38
+    },
+    {
+        "datetime": "2023-01-11 00:00:00",
+        "date": "2023-01-11 00:00:00",
+        "trades": [
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 21925.26,
+                "price": 4.07,
+                "value": 89268.69,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -1260311.7,
+        "cash": 454821.33,
+        "total_value": -805490.37
+    },
+    {
+        "datetime": "2023-01-12 00:00:00",
+        "date": "2023-01-12 00:00:00",
+        "trades": [
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -87.36,
+                "price": 88.4,
+                "value": 7903.62,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -4599838.92,
+        "cash": 462543.69,
+        "total_value": -4137295.23
+    },
+    {
+        "datetime": "2023-01-18 00:00:00",
+        "date": "2023-01-18 00:00:00",
+        "trades": [
+            {
+                "symbol": "LB1",
+                "side": "BUY",
+                "size": 2.53,
+                "price": 538.5,
+                "value": -1215.49,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -8753591.64,
+        "cash": 461180.06,
+        "total_value": -8292411.57
+    },
+    {
+        "datetime": "2023-02-04 00:00:00",
+        "date": "2023-02-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "GC1",
+                "side": "SELL",
+                "size": -0.25,
+                "price": 1912.35,
+                "value": 450.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XPTUSD",
+                "side": "SELL",
+                "size": -0.46,
+                "price": 1021.48,
+                "value": 481.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2293710.3,
+        "cash": 462121.45,
+        "total_value": -1831588.84
+    },
+    {
+        "datetime": "2023-02-07 00:00:00",
+        "date": "2023-02-07 00:00:00",
+        "trades": [
+            {
+                "symbol": "HSI",
+                "side": "SELL",
+                "size": -0.08,
+                "price": 2713.09,
+                "value": 215.52,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RR1",
+                "side": "SELL",
+                "size": -3137.82,
+                "price": 17.84,
+                "value": 56951.46,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -362182.17,
+        "cash": 518325.03,
+        "total_value": 156142.86
+    },
+    {
+        "datetime": "2023-02-10 00:00:00",
+        "date": "2023-02-10 00:00:00",
+        "trades": [
+            {
+                "symbol": "SI1",
+                "side": "SELL",
+                "size": -591.41,
+                "price": 21.98,
+                "value": 14291.47,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -13139.34,
+        "cash": 531321.42,
+        "total_value": 518182.09
+    },
+    {
+        "datetime": "2023-02-11 00:00:00",
+        "date": "2023-02-11 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE2Y",
+                "side": "SELL",
+                "size": -57619.57,
+                "price": 7.24,
+                "value": -417271.38,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EURUSD",
+                "side": "SELL",
+                "size": -2425413.1,
+                "price": 1.07,
+                "value": 2586217.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "SELL",
+                "size": -21925.26,
+                "price": 4.04,
+                "value": 89268.69,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XPDUSD",
+                "side": "SELL",
+                "size": -0.04,
+                "price": 1629.69,
+                "value": -69.63,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3099568.01,
+        "cash": 3641798.57,
+        "total_value": 542230.56
+    },
+    {
+        "datetime": "2023-02-17 00:00:00",
+        "date": "2023-02-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "CAC",
+                "side": "BUY",
+                "size": 0.0,
+                "price": 7803.91,
+                "value": 38.27,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2673623.88,
+        "cash": 3641760.3,
+        "total_value": 968136.42
+    },
+    {
+        "datetime": "2023-02-18 00:00:00",
+        "date": "2023-02-18 00:00:00",
+        "trades": [
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -29511.81,
+                "price": 2.73,
+                "value": -80691.2,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2752703.73,
+        "cash": 3722451.49,
+        "total_value": 969747.77
+    },
+    {
+        "datetime": "2023-02-22 00:00:00",
+        "date": "2023-02-22 00:00:00",
+        "trades": [
+            {
+                "symbol": "GB1Y",
+                "side": "SELL",
+                "size": -19351.04,
+                "price": 19.99,
+                "value": -386866.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3048260.3,
+        "cash": 4109317.49,
+        "total_value": 1061057.19
+    },
+    {
+        "datetime": "2023-02-23 00:00:00",
+        "date": "2023-02-23 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE2Y",
+                "side": "BUY",
+                "size": 57619.57,
+                "price": 6.46,
+                "value": -417271.38,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3113946.87,
+        "cash": 3736821.06,
+        "total_value": 622874.19
+    },
+    {
+        "datetime": "2023-02-24 00:00:00",
+        "date": "2023-02-24 00:00:00",
+        "trades": [
+            {
+                "symbol": "GB1Y",
+                "side": "BUY",
+                "size": 19351.04,
+                "price": 19.96,
+                "value": -386866.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2557698.63,
+        "cash": 3350495.7,
+        "total_value": 792797.07
+    },
+    {
+        "datetime": "2023-02-25 00:00:00",
+        "date": "2023-02-25 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE2Y",
+                "side": "SELL",
+                "size": -173771.11,
+                "price": 6.6,
+                "value": -1146591.63,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GB1Y",
+                "side": "SELL",
+                "size": -16144.37,
+                "price": 19.96,
+                "value": -322307.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XPTUSD",
+                "side": "SELL",
+                "size": -0.3,
+                "price": 947.26,
+                "value": -281.8,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3955439.38,
+        "cash": 4819676.38,
+        "total_value": 864237.0
+    },
+    {
+        "datetime": "2023-02-26 00:00:00",
+        "date": "2023-02-26 00:00:00",
+        "trades": [
+            {
+                "symbol": "SI1",
+                "side": "SELL",
+                "size": -666.15,
+                "price": 21.32,
+                "value": -14202.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3969274.5,
+        "cash": 4833879.08,
+        "total_value": 864604.58
+    },
+    {
+        "datetime": "2023-02-28 00:00:00",
+        "date": "2023-02-28 00:00:00",
+        "trades": [
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 1036.25,
+                "price": 22.11,
+                "value": 22911.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -0.76,
+                "price": 710.0,
+                "value": -540.42,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3498109.17,
+        "cash": 4811507.96,
+        "total_value": 1313398.79
+    },
+    {
+        "datetime": "2023-03-01 00:00:00",
+        "date": "2023-03-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "S1",
+                "side": "SELL",
+                "size": -0.59,
+                "price": 1481.5,
+                "value": 886.59,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3101578.39,
+        "cash": 4812376.09,
+        "total_value": 1710797.7
+    },
+    {
+        "datetime": "2023-03-02 00:00:00",
+        "date": "2023-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 4459.9,
+                "price": 2.94,
+                "value": -21590.38,
+                "commission": 0.0
+            },
+            {
+                "symbol": "US2Y",
+                "side": "SELL",
+                "size": -1751800.19,
+                "price": 2.89,
+                "value": -5058149.19,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -7701351.02,
+        "cash": 9857422.09,
+        "total_value": 2156071.07
+    },
+    {
+        "datetime": "2023-03-03 00:00:00",
+        "date": "2023-03-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -1036.25,
+                "price": 20.35,
+                "value": 22911.54,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -8171991.81,
+        "cash": 9878509.83,
+        "total_value": 1706518.02
+    },
+    {
+        "datetime": "2023-03-04 00:00:00",
+        "date": "2023-03-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "GB1Y",
+                "side": "BUY",
+                "size": 16144.37,
+                "price": 19.6,
+                "value": -322307.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "US2Y",
+                "side": "BUY",
+                "size": 1751800.19,
+                "price": 2.87,
+                "value": -5058149.19,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2754091.86,
+        "cash": 4526139.55,
+        "total_value": 1772047.7
+    },
+    {
+        "datetime": "2023-03-07 00:00:00",
+        "date": "2023-03-07 00:00:00",
+        "trades": [
+            {
+                "symbol": "GB1Y",
+                "side": "SELL",
+                "size": -65825.06,
+                "price": 18.24,
+                "value": -1200530.08,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3941082.63,
+        "cash": 5726669.63,
+        "total_value": 1785587.01
+    },
+    {
+        "datetime": "2023-03-08 00:00:00",
+        "date": "2023-03-08 00:00:00",
+        "trades": [
+            {
+                "symbol": "NZDUSD",
+                "side": "SELL",
+                "size": -4077464.08,
+                "price": 0.61,
+                "value": -2490290.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "US2Y",
+                "side": "SELL",
+                "size": -2591407.1,
+                "price": 2.74,
+                "value": -7112744.07,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -14064910.65,
+        "cash": 15329704.5,
+        "total_value": 1264793.85
+    },
+    {
+        "datetime": "2023-03-09 00:00:00",
+        "date": "2023-03-09 00:00:00",
+        "trades": [
+            {
+                "symbol": "GB1Y",
+                "side": "BUY",
+                "size": 65825.06,
+                "price": 19.2,
+                "value": -1200530.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RR1",
+                "side": "SELL",
+                "size": -2614.23,
+                "price": 16.33,
+                "value": -42690.37,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -13430844.08,
+        "cash": 14108715.4,
+        "total_value": 677871.31
+    },
+    {
+        "datetime": "2023-03-10 00:00:00",
+        "date": "2023-03-10 00:00:00",
+        "trades": [
+            {
+                "symbol": "DE2Y",
+                "side": "BUY",
+                "size": 173771.11,
+                "price": 5.47,
+                "value": -1146591.63,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GB1Y",
+                "side": "SELL",
+                "size": -22446.5,
+                "price": 19.72,
+                "value": -442644.36,
+                "commission": 0.0
+            },
+            {
+                "symbol": "US2Y",
+                "side": "BUY",
+                "size": 2591407.1,
+                "price": 2.94,
+                "value": -7112744.07,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -6101526.27,
+        "cash": 5987590.09,
+        "total_value": -113936.17
+    },
+    {
+        "datetime": "2023-03-11 00:00:00",
+        "date": "2023-03-11 00:00:00",
+        "trades": [
+            {
+                "symbol": "GB1Y",
+                "side": "BUY",
+                "size": 22446.5,
+                "price": 19.72,
+                "value": -442644.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -5654117.54,
+        "cash": 5544945.73,
+        "total_value": -109171.81
+    },
+    {
+        "datetime": "2023-03-16 00:00:00",
+        "date": "2023-03-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "CAC",
+                "side": "SELL",
+                "size": -0.0,
+                "price": 7390.75,
+                "value": 38.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -0.94,
+                "price": 161.8,
+                "value": 143.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RR1",
+                "side": "BUY",
+                "size": 2614.23,
+                "price": 17.27,
+                "value": -42690.37,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -14479338.13,
+        "cash": 5499986.95,
+        "total_value": -8979351.18
+    },
+    {
+        "datetime": "2023-03-18 00:00:00",
+        "date": "2023-03-18 00:00:00",
+        "trades": [
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 666.15,
+                "price": 21.7,
+                "value": -14202.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -21373641.97,
+        "cash": 5485532.31,
+        "total_value": -15888109.66
+    },
+    {
+        "datetime": "2023-04-05 00:00:00",
+        "date": "2023-04-05 00:00:00",
+        "trades": [
+            {
+                "symbol": "NZDUSD",
+                "side": "BUY",
+                "size": 4077464.08,
+                "price": 0.63,
+                "value": -2490290.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XPTUSD",
+                "side": "BUY",
+                "size": 0.3,
+                "price": 1017.5,
+                "value": -281.8,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -7161285.36,
+        "cash": 2911452.74,
+        "total_value": -4249832.62
+    },
+    {
+        "datetime": "2023-04-18 00:00:00",
+        "date": "2023-04-18 00:00:00",
+        "trades": [
+            {
+                "symbol": "XPDUSD",
+                "side": "BUY",
+                "size": 0.04,
+                "price": 1558.5,
+                "value": -69.63,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -9862559.89,
+        "cash": 2911386.15,
+        "total_value": -6951173.73
+    },
+    {
+        "datetime": "2023-05-16 00:00:00",
+        "date": "2023-05-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "W1",
+                "side": "BUY",
+                "size": 0.76,
+                "price": 661.75,
+                "value": -540.42,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -16753033.4,
+        "cash": 2910882.46,
+        "total_value": -13842150.94
+    },
+    {
+        "datetime": "2023-06-16 00:00:00",
+        "date": "2023-06-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 29511.81,
+                "price": 2.45,
+                "value": -80691.2,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -11246674.19,
+        "cash": 2838593.28,
+        "total_value": -8408080.92
+    }
+]

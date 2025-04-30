@@ -1,0 +1,1974 @@
+[
+    {
+        "datetime": "2024-04-14 00:00:00",
+        "date": "2024-04-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 64021.36,
+                "value": 64021.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 65777.05,
+        "cash": 35978.64,
+        "total_value": 101755.69
+    },
+    {
+        "datetime": "2024-04-15 00:00:00",
+        "date": "2024-04-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 65764.56,
+                "value": 64021.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 101743.2,
+        "total_value": 101743.2
+    },
+    {
+        "datetime": "2024-04-16 00:00:00",
+        "date": "2024-04-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 63452.18,
+                "value": 63452.18,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 63814.94,
+        "cash": 38291.02,
+        "total_value": 102105.96
+    },
+    {
+        "datetime": "2024-04-17 00:00:00",
+        "date": "2024-04-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 63814.94,
+                "value": 63452.18,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 102105.96,
+        "total_value": 102105.96
+    },
+    {
+        "datetime": "2024-04-18 00:00:00",
+        "date": "2024-04-18 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 61275.73,
+                "value": 61275.73,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 63513.85,
+        "cash": 40830.23,
+        "total_value": 104344.08
+    },
+    {
+        "datetime": "2024-04-19 00:00:00",
+        "date": "2024-04-19 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 63514.84,
+                "value": 61275.73,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 104345.07,
+        "total_value": 104345.07
+    },
+    {
+        "datetime": "2024-04-23 00:00:00",
+        "date": "2024-04-23 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 66856.07,
+                "value": 66856.07,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 66414.16,
+        "cash": 37489.0,
+        "total_value": 103903.16
+    },
+    {
+        "datetime": "2024-04-24 00:00:00",
+        "date": "2024-04-24 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 66418.0,
+                "value": 66856.07,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 103907.0,
+        "total_value": 103907.0
+    },
+    {
+        "datetime": "2024-04-28 00:00:00",
+        "date": "2024-04-28 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 63422.34,
+                "value": 63422.34,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 63108.94,
+        "cash": 40484.66,
+        "total_value": 103593.6
+    },
+    {
+        "datetime": "2024-04-30 00:00:00",
+        "date": "2024-04-30 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 63845.01,
+                "value": 63422.34,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 104329.67,
+        "total_value": 104329.67
+    },
+    {
+        "datetime": "2024-05-01 00:00:00",
+        "date": "2024-05-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 60621.2,
+                "value": 60621.2,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 58265.59,
+        "cash": 43708.47,
+        "total_value": 101974.06
+    },
+    {
+        "datetime": "2024-05-03 00:00:00",
+        "date": "2024-05-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 59070.3,
+                "value": 60621.2,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 102778.77,
+        "total_value": 102778.77
+    },
+    {
+        "datetime": "2024-05-06 00:00:00",
+        "date": "2024-05-06 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 64023.45,
+                "value": 64023.45,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 63162.24,
+        "cash": 38755.32,
+        "total_value": 101917.56
+    },
+    {
+        "datetime": "2024-05-07 00:00:00",
+        "date": "2024-05-07 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 63161.35,
+                "value": 64023.45,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 101916.67,
+        "total_value": 101916.67
+    },
+    {
+        "datetime": "2024-05-16 00:00:00",
+        "date": "2024-05-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 66244.68,
+                "value": 66244.68,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 65252.18,
+        "cash": 35671.99,
+        "total_value": 100924.17
+    },
+    {
+        "datetime": "2024-05-17 00:00:00",
+        "date": "2024-05-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 65252.17,
+                "value": 66244.68,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 100924.16,
+        "total_value": 100924.16
+    },
+    {
+        "datetime": "2024-05-18 00:00:00",
+        "date": "2024-05-18 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 67046.34,
+                "value": 67046.34,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 66923.87,
+        "cash": 33877.82,
+        "total_value": 100801.69
+    },
+    {
+        "datetime": "2024-05-19 00:00:00",
+        "date": "2024-05-19 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 66923.87,
+                "value": 67046.34,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 100801.69,
+        "total_value": 100801.69
+    },
+    {
+        "datetime": "2024-05-21 00:00:00",
+        "date": "2024-05-21 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 71432.16,
+                "value": 71432.16,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 70142.84,
+        "cash": 29369.53,
+        "total_value": 99512.37
+    },
+    {
+        "datetime": "2024-05-22 00:00:00",
+        "date": "2024-05-22 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 70142.88,
+                "value": 71432.16,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 99512.41,
+        "total_value": 99512.41
+    },
+    {
+        "datetime": "2024-05-30 00:00:00",
+        "date": "2024-05-30 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 67569.44,
+                "value": 67569.44,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 68338.58,
+        "cash": 31942.97,
+        "total_value": 100281.55
+    },
+    {
+        "datetime": "2024-05-31 00:00:00",
+        "date": "2024-05-31 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 68338.58,
+                "value": 67569.44,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 100281.55,
+        "total_value": 100281.55
+    },
+    {
+        "datetime": "2024-06-01 00:00:00",
+        "date": "2024-06-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 67473.07,
+                "value": 67473.07,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 67719.29,
+        "cash": 32808.48,
+        "total_value": 100527.77
+    },
+    {
+        "datetime": "2024-06-02 00:00:00",
+        "date": "2024-06-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 67719.29,
+                "value": 67473.07,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 100527.77,
+        "total_value": 100527.77
+    },
+    {
+        "datetime": "2024-06-05 00:00:00",
+        "date": "2024-06-05 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 70541.68,
+                "value": 70541.68,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 71121.11,
+        "cash": 29986.09,
+        "total_value": 101107.2
+    },
+    {
+        "datetime": "2024-06-07 00:00:00",
+        "date": "2024-06-07 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 70773.63,
+                "value": 70541.68,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 100759.72,
+        "total_value": 100759.72
+    },
+    {
+        "datetime": "2024-06-12 00:00:00",
+        "date": "2024-06-12 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 67316.52,
+                "value": 67316.52,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 68248.6,
+        "cash": 33443.2,
+        "total_value": 101691.8
+    },
+    {
+        "datetime": "2024-06-13 00:00:00",
+        "date": "2024-06-13 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 68248.59,
+                "value": 67316.52,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 101691.79,
+        "total_value": 101691.79
+    },
+    {
+        "datetime": "2024-06-14 00:00:00",
+        "date": "2024-06-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 66746.46,
+                "value": 66746.46,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 66004.39,
+        "cash": 34945.33,
+        "total_value": 100949.72
+    },
+    {
+        "datetime": "2024-06-16 00:00:00",
+        "date": "2024-06-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 66192.0,
+                "value": 66746.46,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 101137.33,
+        "total_value": 101137.33
+    },
+    {
+        "datetime": "2024-06-19 00:00:00",
+        "date": "2024-06-19 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 65150.9,
+                "value": 65150.9,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 64943.79,
+        "cash": 35986.43,
+        "total_value": 100930.22
+    },
+    {
+        "datetime": "2024-06-23 00:00:00",
+        "date": "2024-06-23 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 64235.0,
+                "value": 65150.9,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 100221.43,
+        "total_value": 100221.43
+    },
+    {
+        "datetime": "2024-06-24 00:00:00",
+        "date": "2024-06-24 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 63169.36,
+                "value": 63169.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 60263.0,
+        "cash": 37052.07,
+        "total_value": 97315.07
+    },
+    {
+        "datetime": "2024-06-26 00:00:00",
+        "date": "2024-06-26 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 61794.47,
+                "value": 63169.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 98846.54,
+        "total_value": 98846.54
+    },
+    {
+        "datetime": "2024-07-04 00:00:00",
+        "date": "2024-07-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 60145.01,
+                "value": 60145.01,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 57042.14,
+        "cash": 38701.53,
+        "total_value": 95743.67
+    },
+    {
+        "datetime": "2024-07-07 00:00:00",
+        "date": "2024-07-07 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 58240.36,
+                "value": 60145.01,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 96941.89,
+        "total_value": 96941.89
+    },
+    {
+        "datetime": "2024-07-08 00:00:00",
+        "date": "2024-07-08 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 55852.61,
+                "value": 55852.61,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 56699.43,
+        "cash": 41089.28,
+        "total_value": 97788.71
+    },
+    {
+        "datetime": "2024-07-09 00:00:00",
+        "date": "2024-07-09 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 56701.18,
+                "value": 55852.61,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 97790.46,
+        "total_value": 97790.46
+    },
+    {
+        "datetime": "2024-07-14 00:00:00",
+        "date": "2024-07-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 59224.58,
+                "value": 59224.58,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 60808.42,
+        "cash": 38565.88,
+        "total_value": 99374.3
+    },
+    {
+        "datetime": "2024-07-18 00:00:00",
+        "date": "2024-07-18 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 64085.82,
+                "value": 59224.58,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 102651.7,
+        "total_value": 102651.7
+    },
+    {
+        "datetime": "2024-07-20 00:00:00",
+        "date": "2024-07-20 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 66707.61,
+                "value": 66707.61,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 67163.83,
+        "cash": 35944.09,
+        "total_value": 103107.92
+    },
+    {
+        "datetime": "2024-07-23 00:00:00",
+        "date": "2024-07-23 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 67560.03,
+                "value": 66707.61,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 103504.12,
+        "total_value": 103504.12
+    },
+    {
+        "datetime": "2024-07-29 00:00:00",
+        "date": "2024-07-29 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 68244.3,
+                "value": 68244.3,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 66771.45,
+        "cash": 35259.82,
+        "total_value": 102031.27
+    },
+    {
+        "datetime": "2024-07-30 00:00:00",
+        "date": "2024-07-30 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 66767.14,
+                "value": 68244.3,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 102026.96,
+        "total_value": 102026.96
+    },
+    {
+        "datetime": "2024-08-01 00:00:00",
+        "date": "2024-08-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 64609.61,
+                "value": 64609.61,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 65288.18,
+        "cash": 37417.35,
+        "total_value": 102705.53
+    },
+    {
+        "datetime": "2024-08-02 00:00:00",
+        "date": "2024-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 65293.48,
+                "value": 64609.61,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 102710.83,
+        "total_value": 102710.83
+    },
+    {
+        "datetime": "2024-08-03 00:00:00",
+        "date": "2024-08-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 61418.06,
+                "value": 61418.06,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 60674.93,
+        "cash": 41292.77,
+        "total_value": 101967.7
+    },
+    {
+        "datetime": "2024-08-07 00:00:00",
+        "date": "2024-08-07 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 56048.07,
+                "value": 61418.06,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 97340.84,
+        "total_value": 97340.84
+    },
+    {
+        "datetime": "2024-08-22 00:00:00",
+        "date": "2024-08-22 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 61167.54,
+                "value": 61167.54,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 60383.29,
+        "cash": 36173.3,
+        "total_value": 96556.59
+    },
+    {
+        "datetime": "2024-08-23 00:00:00",
+        "date": "2024-08-23 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 60383.28,
+                "value": 61167.54,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 96556.58,
+        "total_value": 96556.58
+    },
+    {
+        "datetime": "2024-08-24 00:00:00",
+        "date": "2024-08-24 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 64091.63,
+                "value": 64091.63,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 64179.63,
+        "cash": 32464.95,
+        "total_value": 96644.58
+    },
+    {
+        "datetime": "2024-08-27 00:00:00",
+        "date": "2024-08-27 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 62840.09,
+                "value": 64091.63,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 95305.04,
+        "total_value": 95305.04
+    },
+    {
+        "datetime": "2024-09-01 00:00:00",
+        "date": "2024-09-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 58968.37,
+                "value": 58968.37,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 57299.0,
+        "cash": 36336.67,
+        "total_value": 93635.67
+    },
+    {
+        "datetime": "2024-09-03 00:00:00",
+        "date": "2024-09-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 59138.89,
+                "value": 58968.37,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 95475.56,
+        "total_value": 95475.56
+    },
+    {
+        "datetime": "2024-09-06 00:00:00",
+        "date": "2024-09-06 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 56156.82,
+                "value": 56156.82,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 53950.01,
+        "cash": 39318.74,
+        "total_value": 93268.75
+    },
+    {
+        "datetime": "2024-09-08 00:00:00",
+        "date": "2024-09-08 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 54159.6,
+                "value": 56156.82,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 93478.34,
+        "total_value": 93478.34
+    },
+    {
+        "datetime": "2024-09-13 00:00:00",
+        "date": "2024-09-13 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 58137.33,
+                "value": 58137.33,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 60543.35,
+        "cash": 35341.01,
+        "total_value": 95884.36
+    },
+    {
+        "datetime": "2024-09-15 00:00:00",
+        "date": "2024-09-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 60012.34,
+                "value": 58137.33,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 95353.35,
+        "total_value": 95353.35
+    },
+    {
+        "datetime": "2024-09-19 00:00:00",
+        "date": "2024-09-19 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 61770.38,
+                "value": 61770.38,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 62960.14,
+        "cash": 33582.97,
+        "total_value": 96543.11
+    },
+    {
+        "datetime": "2024-09-24 00:00:00",
+        "date": "2024-09-24 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 63338.85,
+                "value": 61770.38,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 96921.82,
+        "total_value": 96921.82
+    },
+    {
+        "datetime": "2024-09-25 00:00:00",
+        "date": "2024-09-25 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 64272.93,
+                "value": 64272.93,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 63130.89,
+        "cash": 32648.89,
+        "total_value": 95779.78
+    },
+    {
+        "datetime": "2024-09-26 00:00:00",
+        "date": "2024-09-26 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 63131.13,
+                "value": 64272.93,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 95780.02,
+        "total_value": 95780.02
+    },
+    {
+        "datetime": "2024-09-27 00:00:00",
+        "date": "2024-09-27 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 65176.39,
+                "value": 65176.39,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 65789.0,
+        "cash": 30603.63,
+        "total_value": 96392.63
+    },
+    {
+        "datetime": "2024-09-30 00:00:00",
+        "date": "2024-09-30 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 65600.01,
+                "value": 65176.39,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 96203.64,
+        "total_value": 96203.64
+    },
+    {
+        "datetime": "2024-10-02 00:00:00",
+        "date": "2024-10-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 60792.63,
+                "value": 60792.63,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 60631.37,
+        "cash": 35411.01,
+        "total_value": 96042.38
+    },
+    {
+        "datetime": "2024-10-04 00:00:00",
+        "date": "2024-10-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 60745.0,
+                "value": 60792.63,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 96156.01,
+        "total_value": 96156.01
+    },
+    {
+        "datetime": "2024-10-10 00:00:00",
+        "date": "2024-10-10 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 60578.28,
+                "value": 60578.28,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 60279.53,
+        "cash": 35577.73,
+        "total_value": 95857.26
+    },
+    {
+        "datetime": "2024-10-12 00:00:00",
+        "date": "2024-10-12 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 62518.75,
+                "value": 60578.28,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 98096.48,
+        "total_value": 98096.48
+    },
+    {
+        "datetime": "2024-10-13 00:00:00",
+        "date": "2024-10-13 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 63183.08,
+                "value": 63183.08,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 62845.3,
+        "cash": 34913.4,
+        "total_value": 97758.7
+    },
+    {
+        "datetime": "2024-10-14 00:00:00",
+        "date": "2024-10-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 62847.89,
+                "value": 63183.08,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 97761.29,
+        "total_value": 97761.29
+    },
+    {
+        "datetime": "2024-10-15 00:00:00",
+        "date": "2024-10-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 66065.64,
+                "value": 66065.64,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 67056.6,
+        "cash": 31695.65,
+        "total_value": 98752.25
+    },
+    {
+        "datetime": "2024-10-18 00:00:00",
+        "date": "2024-10-18 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 67399.86,
+                "value": 66065.64,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 99095.51,
+        "total_value": 99095.51
+    },
+    {
+        "datetime": "2024-10-19 00:00:00",
+        "date": "2024-10-19 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 68426.11,
+                "value": 68426.11,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 68363.73,
+        "cash": 30669.4,
+        "total_value": 99033.13
+    },
+    {
+        "datetime": "2024-10-20 00:00:00",
+        "date": "2024-10-20 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 68363.73,
+                "value": 68426.11,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 99033.13,
+        "total_value": 99033.13
+    },
+    {
+        "datetime": "2024-10-21 00:00:00",
+        "date": "2024-10-21 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 69014.87,
+                "value": 69014.87,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 67346.15,
+        "cash": 30018.26,
+        "total_value": 97364.41
+    },
+    {
+        "datetime": "2024-10-22 00:00:00",
+        "date": "2024-10-22 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 67346.15,
+                "value": 69014.87,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 97364.41,
+        "total_value": 97364.41
+    },
+    {
+        "datetime": "2024-10-26 00:00:00",
+        "date": "2024-10-26 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 66564.51,
+                "value": 66564.51,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 67012.56,
+        "cash": 30799.9,
+        "total_value": 97812.46
+    },
+    {
+        "datetime": "2024-10-27 00:00:00",
+        "date": "2024-10-27 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 67008.15,
+                "value": 66564.51,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 97808.05,
+        "total_value": 97808.05
+    },
+    {
+        "datetime": "2024-10-29 00:00:00",
+        "date": "2024-10-29 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 69924.49,
+                "value": 69924.49,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 72724.35,
+        "cash": 27883.56,
+        "total_value": 100607.91
+    },
+    {
+        "datetime": "2024-10-31 00:00:00",
+        "date": "2024-10-31 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 72322.91,
+                "value": 69924.49,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 100206.47,
+        "total_value": 100206.47
+    },
+    {
+        "datetime": "2024-11-07 00:00:00",
+        "date": "2024-11-07 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 75646.55,
+                "value": 75646.55,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 75920.0,
+        "cash": 24559.92,
+        "total_value": 100479.92
+    },
+    {
+        "datetime": "2024-11-13 00:00:00",
+        "date": "2024-11-13 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 88035.43,
+                "value": 75646.55,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 112595.35,
+        "total_value": 112595.35
+    },
+    {
+        "datetime": "2024-11-14 00:00:00",
+        "date": "2024-11-14 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 90499.4,
+                "value": 90499.4,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 87340.4,
+        "cash": 22095.95,
+        "total_value": 109436.35
+    },
+    {
+        "datetime": "2024-11-15 00:00:00",
+        "date": "2024-11-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 87338.96,
+                "value": 90499.4,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 109434.91,
+        "total_value": 109434.91
+    },
+    {
+        "datetime": "2024-11-16 00:00:00",
+        "date": "2024-11-16 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 91058.36,
+                "value": 91058.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 90636.24,
+        "cash": 18376.55,
+        "total_value": 109012.79
+    },
+    {
+        "datetime": "2024-11-17 00:00:00",
+        "date": "2024-11-17 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 90638.54,
+                "value": 91058.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 109015.09,
+        "total_value": 109015.09
+    },
+    {
+        "datetime": "2024-11-20 00:00:00",
+        "date": "2024-11-20 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 92445.04,
+                "value": 92445.04,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 94393.15,
+        "cash": 16570.05,
+        "total_value": 110963.2
+    },
+    {
+        "datetime": "2024-11-24 00:00:00",
+        "date": "2024-11-24 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 97778.78,
+                "value": 92445.04,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 114348.83,
+        "total_value": 114348.83
+    },
+    {
+        "datetime": "2024-12-05 00:00:00",
+        "date": "2024-12-05 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 98746.24,
+                "value": 98746.24,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 97044.23,
+        "cash": 15602.59,
+        "total_value": 112646.82
+    },
+    {
+        "datetime": "2024-12-06 00:00:00",
+        "date": "2024-12-06 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 97049.47,
+                "value": 98746.24,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 112652.06,
+        "total_value": 112652.06
+    },
+    {
+        "datetime": "2024-12-07 00:00:00",
+        "date": "2024-12-07 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 99885.37,
+                "value": 99885.37,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 99929.32,
+        "cash": 12766.69,
+        "total_value": 112696.01
+    },
+    {
+        "datetime": "2024-12-10 00:00:00",
+        "date": "2024-12-10 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 97330.66,
+                "value": 99885.37,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 110097.35,
+        "total_value": 110097.35
+    },
+    {
+        "datetime": "2024-12-22 00:00:00",
+        "date": "2024-12-22 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 97230.09,
+                "value": 97230.09,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 95087.75,
+        "cash": 12867.26,
+        "total_value": 107955.01
+    },
+    {
+        "datetime": "2024-12-25 00:00:00",
+        "date": "2024-12-25 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 98594.47,
+                "value": 97230.09,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 111461.73,
+        "total_value": 111461.73
+    },
+    {
+        "datetime": "2024-12-28 00:00:00",
+        "date": "2024-12-28 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 94171.7,
+                "value": 94171.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 95130.82,
+        "cash": 17290.03,
+        "total_value": 112420.85
+    },
+    {
+        "datetime": "2024-12-29 00:00:00",
+        "date": "2024-12-29 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 95125.59,
+                "value": 94171.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 112415.62,
+        "total_value": 112415.62
+    },
+    {
+        "datetime": "2024-12-30 00:00:00",
+        "date": "2024-12-30 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 93563.35,
+                "value": 93563.35,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 92620.71,
+        "cash": 18852.27,
+        "total_value": 111472.98
+    },
+    {
+        "datetime": "2025-01-01 00:00:00",
+        "date": "2025-01-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 93347.59,
+                "value": 93563.35,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 112199.86,
+        "total_value": 112199.86
+    },
+    {
+        "datetime": "2025-01-05 00:00:00",
+        "date": "2025-01-05 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 98209.85,
+                "value": 98209.85,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 98345.33,
+        "cash": 13990.01,
+        "total_value": 112335.34
+    },
+    {
+        "datetime": "2025-01-08 00:00:00",
+        "date": "2025-01-08 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 96941.98,
+                "value": 98209.85,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 110931.99,
+        "total_value": 110931.99
+    },
+    {
+        "datetime": "2025-01-10 00:00:00",
+        "date": "2025-01-10 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 92547.44,
+                "value": 92547.44,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 94701.18,
+        "cash": 18384.55,
+        "total_value": 113085.73
+    },
+    {
+        "datetime": "2025-01-11 00:00:00",
+        "date": "2025-01-11 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 94701.48,
+                "value": 92547.44,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 113086.03,
+        "total_value": 113086.03
+    },
+    {
+        "datetime": "2025-02-02 00:00:00",
+        "date": "2025-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 100623.88,
+                "value": 100623.88,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 97676.52,
+        "cash": 12462.15,
+        "total_value": 110138.67
+    },
+    {
+        "datetime": "2025-02-04 00:00:00",
+        "date": "2025-02-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 101460.15,
+                "value": 100623.88,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 113922.3,
+        "total_value": 113922.3
+    },
+    {
+        "datetime": "2025-02-06 00:00:00",
+        "date": "2025-02-06 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 96635.62,
+                "value": 96635.62,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 96564.62,
+        "cash": 17286.68,
+        "total_value": 113851.3
+    },
+    {
+        "datetime": "2025-02-11 00:00:00",
+        "date": "2025-02-11 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 97451.66,
+                "value": 96635.62,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 114738.34,
+        "total_value": 114738.34
+    },
+    {
+        "datetime": "2025-02-12 00:00:00",
+        "date": "2025-02-12 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 95770.95,
+                "value": 95770.95,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 97862.53,
+        "cash": 18967.39,
+        "total_value": 116829.92
+    },
+    {
+        "datetime": "2025-02-13 00:00:00",
+        "date": "2025-02-13 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 97864.28,
+                "value": 95770.95,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 116831.67,
+        "total_value": 116831.67
+    },
+    {
+        "datetime": "2025-02-19 00:00:00",
+        "date": "2025-02-19 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 95612.97,
+                "value": 95612.97,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 96632.03,
+        "cash": 21218.7,
+        "total_value": 117850.73
+    },
+    {
+        "datetime": "2025-02-20 00:00:00",
+        "date": "2025-02-20 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 96632.03,
+                "value": 95612.97,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 117850.73,
+        "total_value": 117850.73
+    },
+    {
+        "datetime": "2025-02-21 00:00:00",
+        "date": "2025-02-21 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 98347.2,
+                "value": 98347.2,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 96157.03,
+        "cash": 19503.53,
+        "total_value": 115660.56
+    },
+    {
+        "datetime": "2025-02-22 00:00:00",
+        "date": "2025-02-22 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 96157.03,
+                "value": 98347.2,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 115660.56,
+        "total_value": 115660.56
+    },
+    {
+        "datetime": "2025-02-25 00:00:00",
+        "date": "2025-02-25 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 91509.88,
+                "value": 91509.88,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 88583.74,
+        "cash": 24150.68,
+        "total_value": 112734.42
+    },
+    {
+        "datetime": "2025-02-28 00:00:00",
+        "date": "2025-02-28 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 84627.5,
+                "value": 91509.88,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 108778.18,
+        "total_value": 108778.18
+    },
+    {
+        "datetime": "2025-03-10 00:00:00",
+        "date": "2025-03-10 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "BUY",
+                "size": 1,
+                "price": 80708.21,
+                "value": 80708.21,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 78544.71,
+        "cash": 28069.97,
+        "total_value": 106614.68
+    },
+    {
+        "datetime": "2025-03-12 00:00:00",
+        "date": "2025-03-12 00:00:00",
+        "trades": [
+            {
+                "symbol": "BTC",
+                "side": "SELL",
+                "size": -1,
+                "price": 82911.81,
+                "value": 80708.21,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 110981.78,
+        "total_value": 110981.78
+    }
+]

@@ -1,0 +1,1136 @@
+[
+    {
+        "datetime": "2022-01-04 00:00:00",
+        "date": "2022-01-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -5196,
+                "price": 104.25,
+                "value": 548647.69,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 602936.13,
+        "total_value": 602936.13
+    },
+    {
+        "datetime": "2022-02-02 00:00:00",
+        "date": "2022-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 417,
+                "price": 435.93,
+                "value": 181781.15,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 1853,
+                "price": 98.13,
+                "value": 181827.34,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 1075,
+                "price": 168.34,
+                "value": 180965.5,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 547368.28,
+        "cash": 58362.14,
+        "total_value": 605730.43
+    },
+    {
+        "datetime": "2022-03-02 00:00:00",
+        "date": "2022-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -1853,
+                "price": 93.84,
+                "value": 181827.34,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -417,
+                "price": 413.79,
+                "value": 181781.15,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -1075,
+                "price": 180.13,
+                "value": 180965.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 5180,
+                "price": 103.33,
+                "value": 535245.38,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 530248.0,
+        "cash": 63183.51,
+        "total_value": 593431.51
+    },
+    {
+        "datetime": "2022-04-04 00:00:00",
+        "date": "2022-04-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -5180,
+                "price": 98.2,
+                "value": 535245.38,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 571872.88,
+        "total_value": 571872.88
+    },
+    {
+        "datetime": "2022-05-03 00:00:00",
+        "date": "2022-05-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 5483,
+                "price": 94.42,
+                "value": 517689.69,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 515265.88,
+        "cash": 54183.2,
+        "total_value": 569449.07
+    },
+    {
+        "datetime": "2022-06-02 00:00:00",
+        "date": "2022-06-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -32,
+                "price": 94.89,
+                "value": 3021.35,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 516518.02,
+        "cash": 57219.83,
+        "total_value": 573737.85
+    },
+    {
+        "datetime": "2022-07-04 00:00:00",
+        "date": "2022-07-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -4,
+                "price": 95.23,
+                "value": 377.67,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 519336.95,
+        "cash": 57600.76,
+        "total_value": 576937.71
+    },
+    {
+        "datetime": "2022-08-02 00:00:00",
+        "date": "2022-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -14,
+                "price": 97.66,
+                "value": 1321.84,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 523433.52,
+        "cash": 58967.96,
+        "total_value": 582401.48
+    },
+    {
+        "datetime": "2022-09-02 00:00:00",
+        "date": "2022-09-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 29,
+                "price": 93.01,
+                "value": 2697.33,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 508837.81,
+        "cash": 56270.63,
+        "total_value": 565108.45
+    },
+    {
+        "datetime": "2022-10-04 00:00:00",
+        "date": "2022-10-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 16,
+                "price": 90.38,
+                "value": 1446.07,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 494131.01,
+        "cash": 54824.57,
+        "total_value": 548955.57
+    },
+    {
+        "datetime": "2022-11-02 00:00:00",
+        "date": "2022-11-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 15,
+                "price": 87.76,
+                "value": 1316.45,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 480654.31,
+        "cash": 53508.11,
+        "total_value": 534162.42
+    },
+    {
+        "datetime": "2022-12-02 00:00:00",
+        "date": "2022-12-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -24,
+                "price": 91.3,
+                "value": 2265.12,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 503220.02,
+        "cash": 55699.42,
+        "total_value": 558919.44
+    },
+    {
+        "datetime": "2023-01-03 00:00:00",
+        "date": "2023-01-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 13,
+                "price": 90.54,
+                "value": 1177.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 494386.42,
+        "cash": 54522.42,
+        "total_value": 548908.84
+    },
+    {
+        "datetime": "2023-02-02 00:00:00",
+        "date": "2023-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -5482,
+                "price": 93.64,
+                "value": 517340.56,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 567880.14,
+        "total_value": 567880.14
+    },
+    {
+        "datetime": "2023-03-02 00:00:00",
+        "date": "2023-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 5746,
+                "price": 88.46,
+                "value": 508294.29,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 508941.19,
+        "cash": 59585.85,
+        "total_value": 568527.04
+    },
+    {
+        "datetime": "2023-04-04 00:00:00",
+        "date": "2023-04-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -5746,
+                "price": 93.04,
+                "value": 508294.29,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 594165.92,
+        "total_value": 594165.92
+    },
+    {
+        "datetime": "2023-05-02 00:00:00",
+        "date": "2023-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 968,
+                "price": 184.65,
+                "value": 178741.19,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 439,
+                "price": 404.93,
+                "value": 177762.32,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 4805,
+                "price": 36.95,
+                "value": 177541.39,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 534087.67,
+        "cash": 60121.02,
+        "total_value": 594208.69
+    },
+    {
+        "datetime": "2023-06-02 00:00:00",
+        "date": "2023-06-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 5,
+                "price": 183.53,
+                "value": 917.65,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -4,
+                "price": 414.42,
+                "value": 1619.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 34,
+                "price": 37.57,
+                "value": 1277.3,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 539862.02,
+        "cash": 59583.78,
+        "total_value": 599445.8
+    },
+    {
+        "datetime": "2023-07-04 00:00:00",
+        "date": "2023-07-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -120,
+                "price": 434.01,
+                "value": 48591.07,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -1271,
+                "price": 38.35,
+                "value": 46968.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -206,
+                "price": 178.61,
+                "value": 38036.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 1639,
+                "price": 82.64,
+                "value": 135440.22,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 547426.71,
+        "cash": 61762.55,
+        "total_value": 609189.26
+    },
+    {
+        "datetime": "2023-08-02 00:00:00",
+        "date": "2023-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -2,
+                "price": 444.14,
+                "value": 809.85,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -51,
+                "price": 39.06,
+                "value": 1884.64,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 6,
+                "price": 180.57,
+                "value": 1083.42,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 22,
+                "price": 83.5,
+                "value": 1836.92,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 551918.59,
+        "cash": 61722.54,
+        "total_value": 613641.13
+    },
+    {
+        "datetime": "2023-09-04 00:00:00",
+        "date": "2023-09-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -3,
+                "price": 444.06,
+                "value": 1214.78,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -12,
+                "price": 180.8,
+                "value": 2215.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 87,
+                "price": 38.06,
+                "value": 3311.49,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 16,
+                "price": 81.95,
+                "value": 1311.16,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 547920.23,
+        "cash": 60601.67,
+        "total_value": 608521.9
+    },
+    {
+        "datetime": "2023-10-03 00:00:00",
+        "date": "2023-10-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -3604,
+                "price": 35.85,
+                "value": 133277.45,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -761,
+                "price": 169.14,
+                "value": 140490.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -1677,
+                "price": 73.76,
+                "value": 138588.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -310,
+                "price": 417.98,
+                "value": 125526.92,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 5983,
+                "price": 86.27,
+                "value": 516162.03,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 512965.29,
+        "cash": 55627.91,
+        "total_value": 568593.2
+    },
+    {
+        "datetime": "2023-11-02 00:00:00",
+        "date": "2023-11-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -19,
+                "price": 87.12,
+                "value": 1639.16,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 518867.04,
+        "cash": 57283.27,
+        "total_value": 576150.32
+    },
+    {
+        "datetime": "2023-12-04 00:00:00",
+        "date": "2023-12-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -5964,
+                "price": 89.87,
+                "value": 514522.88,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 593271.21,
+        "total_value": 593271.21
+    },
+    {
+        "datetime": "2024-01-02 00:00:00",
+        "date": "2024-01-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 284,
+                "price": 466.18,
+                "value": 132395.17,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 1497,
+                "price": 88.73,
+                "value": 132825.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 698,
+                "price": 191.44,
+                "value": 133625.12,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 3399,
+                "price": 38.9,
+                "value": 132221.6,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 532183.99,
+        "cash": 62204.01,
+        "total_value": 594388.01
+    },
+    {
+        "datetime": "2024-02-02 00:00:00",
+        "date": "2024-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -9,
+                "price": 483.45,
+                "value": 4195.62,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 44,
+                "price": 85.19,
+                "value": 3748.29,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 106,
+                "price": 37.69,
+                "value": 3995.04,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 529064.48,
+        "cash": 58811.72,
+        "total_value": 587876.2
+    },
+    {
+        "datetime": "2024-03-04 00:00:00",
+        "date": "2024-03-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -5,
+                "price": 505.55,
+                "value": 2330.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 20,
+                "price": 87.07,
+                "value": 1741.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 8,
+                "price": 194.15,
+                "value": 1553.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -57,
+                "price": 39.59,
+                "value": 2215.22,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 548602.06,
+        "cash": 60301.68,
+        "total_value": 608903.74
+    },
+    {
+        "datetime": "2024-04-02 00:00:00",
+        "date": "2024-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -34,
+                "price": 209.07,
+                "value": 6510.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 24,
+                "price": 40.33,
+                "value": 967.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 51,
+                "price": 85.86,
+                "value": 4378.63,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 558206.45,
+        "cash": 62063.61,
+        "total_value": 620270.06
+    },
+    {
+        "datetime": "2024-05-02 00:00:00",
+        "date": "2024-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -1612,
+                "price": 81.76,
+                "value": 142693.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 182,
+                "price": 211.9,
+                "value": 38565.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 98,
+                "price": 499.31,
+                "value": 48932.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 1088,
+                "price": 40.61,
+                "value": 44182.91,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 553530.11,
+        "cash": 62186.36,
+        "total_value": 615716.47
+    },
+    {
+        "datetime": "2024-06-04 00:00:00",
+        "date": "2024-06-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -203,
+                "price": 216.24,
+                "value": 39752.37,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -97,
+                "price": 521.41,
+                "value": 46075.31,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -1133,
+                "price": 40.59,
+                "value": 44513.03,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 1670,
+                "price": 84.2,
+                "value": 140616.23,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 563857.68,
+        "cash": 62031.58,
+        "total_value": 625889.26
+    },
+    {
+        "datetime": "2024-07-02 00:00:00",
+        "date": "2024-07-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -6,
+                "price": 540.22,
+                "value": 2850.02,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 12,
+                "price": 215.33,
+                "value": 2583.96,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -17,
+                "price": 41.83,
+                "value": 667.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 1,
+                "price": 85.87,
+                "value": 85.87,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 574681.41,
+        "cash": 63314.24,
+        "total_value": 637995.65
+    },
+    {
+        "datetime": "2024-08-02 00:00:00",
+        "date": "2024-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -10,
+                "price": 227.95,
+                "value": 1961.78,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -105,
+                "price": 93.77,
+                "value": 8841.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 8,
+                "price": 532.32,
+                "value": 4258.56,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 139,
+                "price": 40.84,
+                "value": 5676.83,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 584356.38,
+        "cash": 65503.89,
+        "total_value": 649860.27
+    },
+    {
+        "datetime": "2024-09-03 00:00:00",
+        "date": "2024-09-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -18,
+                "price": 97.31,
+                "value": 1515.64,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 2,
+                "price": 230.38,
+                "value": 460.76,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -2,
+                "price": 556.88,
+                "value": 953.37,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 8,
+                "price": 42.25,
+                "value": 337.97,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 599946.98,
+        "cash": 67570.56,
+        "total_value": 667517.53
+    },
+    {
+        "datetime": "2024-10-02 00:00:00",
+        "date": "2024-10-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -14,
+                "price": 245.61,
+                "value": 2747.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 18,
+                "price": 99.57,
+                "value": 1792.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -94,
+                "price": 46.32,
+                "value": 3699.38,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 6,
+                "price": 565.81,
+                "value": 3394.83,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 631658.07,
+        "cash": 70175.95,
+        "total_value": 701834.02
+    },
+    {
+        "datetime": "2024-11-04 00:00:00",
+        "date": "2024-11-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -24,
+                "price": 253.32,
+                "value": 4710.77,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -3,
+                "price": 569.26,
+                "value": 1435.84,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 49,
+                "price": 96.88,
+                "value": 4747.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 96,
+                "price": 44.19,
+                "value": 4242.62,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 625559.28,
+        "cash": 68973.73,
+        "total_value": 694533.01
+    },
+    {
+        "datetime": "2024-12-03 00:00:00",
+        "date": "2024-12-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -13,
+                "price": 601.37,
+                "value": 6221.97,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 27,
+                "price": 244.96,
+                "value": 6613.92,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -46,
+                "price": 100.11,
+                "value": 3898.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 116,
+                "price": 42.54,
+                "value": 4934.85,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 627637.24,
+        "cash": 69847.89,
+        "total_value": 697485.13
+    },
+    {
+        "datetime": "2025-01-02 00:00:00",
+        "date": "2025-01-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -13,
+                "price": 244.22,
+                "value": 2578.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 71,
+                "price": 93.2,
+                "value": 6617.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -24,
+                "price": 41.87,
+                "value": 949.97,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 611272.42,
+        "cash": 67410.43,
+        "total_value": 678682.85
+    },
+    {
+        "datetime": "2025-02-04 00:00:00",
+        "date": "2025-02-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -27,
+                "price": 261.83,
+                "value": 5354.72,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 1,
+                "price": 597.83,
+                "value": 597.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 20,
+                "price": 93.92,
+                "value": 1878.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 48,
+                "price": 42.94,
+                "value": 2061.12,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 633004.59,
+        "cash": 69942.49,
+        "total_value": 702947.08
+    }
+]

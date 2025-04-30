@@ -1,0 +1,19 @@
+[
+    {
+        "datetime": "2025-01-21 00:00:00",
+        "date": "2025-01-21 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -763,
+                "price": 600.67,
+                "value": 277065.91,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 488651.03,
+        "total_value": 488651.03
+    }
+]

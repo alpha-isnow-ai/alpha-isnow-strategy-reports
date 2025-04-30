@@ -1,0 +1,10 @@
+{
+    "atr_multiplier": 3,
+    "atr_period": 20,
+    "breakout_period": 50,
+    "leverage": 5,
+    "ma_long": 100,
+    "ma_short": 50,
+    "risk_factor": 0.0,
+    "total_days": 8951
+}

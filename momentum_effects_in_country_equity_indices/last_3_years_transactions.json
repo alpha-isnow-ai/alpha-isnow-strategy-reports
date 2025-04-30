@@ -1,0 +1,1727 @@
+[
+    {
+        "datetime": "2022-01-02 00:00:00",
+        "date": "2022-01-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "PCOMP",
+                "side": "SELL",
+                "size": -1536,
+                "price": 142.17,
+                "value": 211922.97,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SENSEX",
+                "side": "SELL",
+                "size": -277,
+                "price": 777.22,
+                "value": 217943.03,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SSE50",
+                "side": "BUY",
+                "size": 419,
+                "price": 513.05,
+                "value": 214967.62,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NDX",
+                "side": "BUY",
+                "size": 13,
+                "price": 16411.26,
+                "value": 213346.43,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 872114.66,
+        "cash": 210934.9,
+        "total_value": 1083049.56
+    },
+    {
+        "datetime": "2022-02-02 00:00:00",
+        "date": "2022-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "NDX",
+                "side": "SELL",
+                "size": -13,
+                "price": 15173.03,
+                "value": 213346.43,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SSE50",
+                "side": "SELL",
+                "size": -419,
+                "price": 491.06,
+                "value": 214967.62,
+                "commission": 0.0
+            },
+            {
+                "symbol": "JALSH",
+                "side": "BUY",
+                "size": 42,
+                "price": 4937.46,
+                "value": 207373.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "COLCAP",
+                "side": "BUY",
+                "size": 536652,
+                "price": 0.39,
+                "value": 209832.37,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 856943.71,
+        "cash": 196732.34,
+        "total_value": 1053676.05
+    },
+    {
+        "datetime": "2022-03-02 00:00:00",
+        "date": "2022-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "JCI",
+                "side": "SELL",
+                "size": -468947,
+                "price": 0.48,
+                "value": 215508.04,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IBOV",
+                "side": "BUY",
+                "size": 9,
+                "price": 21925.6,
+                "value": 197330.39,
+                "commission": 0.0
+            },
+            {
+                "symbol": "BVQA",
+                "side": "BUY",
+                "size": 162,
+                "price": 1285.35,
+                "value": 208226.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1053907.62,
+        "cash": 17612.77,
+        "total_value": 1071520.4
+    },
+    {
+        "datetime": "2022-04-02 00:00:00",
+        "date": "2022-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "BVQA",
+                "side": "SELL",
+                "size": -162,
+                "price": 1294.45,
+                "value": 208226.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TA125",
+                "side": "SELL",
+                "size": -344,
+                "price": 663.39,
+                "value": 215286.41,
+                "commission": 0.0
+            },
+            {
+                "symbol": "MEXBOL",
+                "side": "BUY",
+                "size": 79,
+                "price": 2845.1,
+                "value": 224762.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LUXXX",
+                "side": "BUY",
+                "size": 114,
+                "price": 1972.2,
+                "value": 224831.13,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1134719.31,
+        "cash": 5927.05,
+        "total_value": 1140646.37
+    },
+    {
+        "datetime": "2022-05-02 00:00:00",
+        "date": "2022-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "JALSH",
+                "side": "SELL",
+                "size": -42,
+                "price": 4506.37,
+                "value": 207373.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LUXXX",
+                "side": "SELL",
+                "size": -114,
+                "price": 1804.31,
+                "value": 224831.13,
+                "commission": 0.0
+            },
+            {
+                "symbol": "MEXBOL",
+                "side": "SELL",
+                "size": -79,
+                "price": 2515.99,
+                "value": 224762.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "JCI",
+                "side": "BUY",
+                "size": 404950,
+                "price": 0.5,
+                "value": 203564.06,
+                "commission": 0.0
+            },
+            {
+                "symbol": "BVQA",
+                "side": "BUY",
+                "size": 159,
+                "price": 1267.73,
+                "value": 201569.07,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 806213.02,
+        "cash": 194516.19,
+        "total_value": 1000729.21
+    },
+    {
+        "datetime": "2022-06-02 00:00:00",
+        "date": "2022-06-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "BVQA",
+                "side": "SELL",
+                "size": -159,
+                "price": 1262.49,
+                "value": 201569.07,
+                "commission": 0.0
+            },
+            {
+                "symbol": "OSEAX",
+                "side": "BUY",
+                "size": 1347,
+                "price": 153.23,
+                "value": 206394.65,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 848783.54,
+        "cash": 188857.45,
+        "total_value": 1037640.99
+    },
+    {
+        "datetime": "2022-07-02 00:00:00",
+        "date": "2022-07-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "COLCAP",
+                "side": "SELL",
+                "size": -536652,
+                "price": 0.32,
+                "value": 209832.37,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IBOV",
+                "side": "SELL",
+                "size": -9,
+                "price": 18743.21,
+                "value": 197330.39,
+                "commission": 0.0
+            },
+            {
+                "symbol": "JCI",
+                "side": "SELL",
+                "size": -404950,
+                "price": 0.46,
+                "value": 203564.06,
+                "commission": 0.0
+            },
+            {
+                "symbol": "OSEAX",
+                "side": "SELL",
+                "size": -1347,
+                "price": 134.57,
+                "value": 206394.65,
+                "commission": 0.0
+            },
+            {
+                "symbol": "INDEXCF",
+                "side": "BUY",
+                "size": 4606,
+                "price": 40.7,
+                "value": 187473.07,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PSI20",
+                "side": "BUY",
+                "size": 28,
+                "price": 6308.14,
+                "value": 176627.82,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AEX",
+                "side": "BUY",
+                "size": 261,
+                "price": 682.54,
+                "value": 178143.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS30",
+                "side": "BUY",
+                "size": 39,
+                "price": 4656.5,
+                "value": 181603.57,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 712658.33,
+        "cash": 175091.45,
+        "total_value": 887749.78
+    },
+    {
+        "datetime": "2022-08-02 00:00:00",
+        "date": "2022-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "PSI20",
+                "side": "SELL",
+                "size": -28,
+                "price": 6257.67,
+                "value": 176627.82,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS51",
+                "side": "BUY",
+                "size": 36,
+                "price": 4913.0,
+                "value": 176868.07,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 723716.99,
+        "cash": 173438.14,
+        "total_value": 897155.14
+    },
+    {
+        "datetime": "2022-09-02 00:00:00",
+        "date": "2022-09-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "AEX",
+                "side": "SELL",
+                "size": -261,
+                "price": 669.49,
+                "value": 178143.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS30",
+                "side": "SELL",
+                "size": -39,
+                "price": 4805.84,
+                "value": 181603.57,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS51",
+                "side": "SELL",
+                "size": -36,
+                "price": 4646.79,
+                "value": 176868.07,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RIGSE",
+                "side": "BUY",
+                "size": 159,
+                "price": 1109.76,
+                "value": 176452.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SHCOMP",
+                "side": "BUY",
+                "size": 385,
+                "price": 461.8,
+                "value": 177792.51,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CYSMMAPA",
+                "side": "BUY",
+                "size": 2438,
+                "price": 72.87,
+                "value": 177649.78,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 721520.61,
+        "cash": 170992.0,
+        "total_value": 892512.61
+    },
+    {
+        "datetime": "2022-10-02 00:00:00",
+        "date": "2022-10-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CYSMMAPA",
+                "side": "SELL",
+                "size": -2438,
+                "price": 72.1,
+                "value": 177649.78,
+                "commission": 0.0
+            },
+            {
+                "symbol": "INDEXCF",
+                "side": "SELL",
+                "size": -4606,
+                "price": 33.88,
+                "value": 187473.07,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RIGSE",
+                "side": "SELL",
+                "size": -159,
+                "price": 1057.89,
+                "value": 176452.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SHCOMP",
+                "side": "SELL",
+                "size": -385,
+                "price": 426.97,
+                "value": 177792.51,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AEX",
+                "side": "BUY",
+                "size": 263,
+                "price": 624.55,
+                "value": 164257.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS30",
+                "side": "BUY",
+                "size": 38,
+                "price": 4394.49,
+                "value": 166990.67,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS51",
+                "side": "BUY",
+                "size": 39,
+                "price": 4260.85,
+                "value": 166173.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS52",
+                "side": "BUY",
+                "size": 40,
+                "price": 4155.35,
+                "value": 166214.04,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ATX",
+                "side": "BUY",
+                "size": 62,
+                "price": 2598.31,
+                "value": 161094.97,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 813857.49,
+        "cash": 10684.22,
+        "total_value": 824541.71
+    },
+    {
+        "datetime": "2022-11-02 00:00:00",
+        "date": "2022-11-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "AEX",
+                "side": "SELL",
+                "size": -263,
+                "price": 665.71,
+                "value": 164257.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS30",
+                "side": "SELL",
+                "size": -38,
+                "price": 4585.32,
+                "value": 166990.67,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS51",
+                "side": "SELL",
+                "size": -39,
+                "price": 4462.08,
+                "value": 166173.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS52",
+                "side": "SELL",
+                "size": -40,
+                "price": 4337.43,
+                "value": 166214.04,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ATX",
+                "side": "SELL",
+                "size": -62,
+                "price": 2917.34,
+                "value": 161094.97,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IBOV",
+                "side": "BUY",
+                "size": 7,
+                "price": 22405.7,
+                "value": 156839.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SENSEX",
+                "side": "BUY",
+                "size": 240,
+                "price": 739.73,
+                "value": 177535.64,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NIFTY",
+                "side": "BUY",
+                "size": 809,
+                "price": 219.87,
+                "value": 177877.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RTY",
+                "side": "BUY",
+                "size": 95,
+                "price": 1845.08,
+                "value": 175282.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "INDU",
+                "side": "BUY",
+                "size": 5,
+                "price": 32576.28,
+                "value": 162881.4,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 842511.21,
+        "cash": 37983.49,
+        "total_value": 880494.7
+    },
+    {
+        "datetime": "2022-12-02 00:00:00",
+        "date": "2022-12-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "IBOV",
+                "side": "SELL",
+                "size": -7,
+                "price": 21390.88,
+                "value": 156839.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "INDU",
+                "side": "SELL",
+                "size": -5,
+                "price": 34265.45,
+                "value": 162881.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NIFTY",
+                "side": "SELL",
+                "size": -809,
+                "price": 231.04,
+                "value": 177877.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RTY",
+                "side": "SELL",
+                "size": -95,
+                "price": 1863.94,
+                "value": 175282.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SENSEX",
+                "side": "SELL",
+                "size": -240,
+                "price": 775.94,
+                "value": 177535.64,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CYSMMAPA",
+                "side": "BUY",
+                "size": 1902,
+                "price": 95.92,
+                "value": 182434.74,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FTSEMIB",
+                "side": "BUY",
+                "size": 7,
+                "price": 25899.12,
+                "value": 181293.82,
+                "commission": 0.0
+            },
+            {
+                "symbol": "MEXBOL",
+                "side": "BUY",
+                "size": 67,
+                "price": 2686.73,
+                "value": 180010.85,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ISEQ",
+                "side": "BUY",
+                "size": 23,
+                "price": 7662.84,
+                "value": 176245.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SX5E",
+                "side": "BUY",
+                "size": 43,
+                "price": 4179.72,
+                "value": 179728.11,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 895853.34,
+        "cash": 9550.23,
+        "total_value": 905403.57
+    },
+    {
+        "datetime": "2023-01-02 00:00:00",
+        "date": "2023-01-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "ISEQ",
+                "side": "SELL",
+                "size": -23,
+                "price": 7650.93,
+                "value": 176245.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "MEXBOL",
+                "side": "SELL",
+                "size": -67,
+                "price": 2488.13,
+                "value": 180010.85,
+                "commission": 0.0
+            },
+            {
+                "symbol": "DAX",
+                "side": "BUY",
+                "size": 11,
+                "price": 14975.07,
+                "value": 164725.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ATX",
+                "side": "BUY",
+                "size": 52,
+                "price": 3345.61,
+                "value": 173971.75,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 880086.26,
+        "cash": 13528.53,
+        "total_value": 893614.79
+    },
+    {
+        "datetime": "2023-02-02 00:00:00",
+        "date": "2023-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "DAX",
+                "side": "SELL",
+                "size": -11,
+                "price": 16787.68,
+                "value": 164725.75,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 801290.06,
+        "cash": 198193.05,
+        "total_value": 999483.11
+    },
+    {
+        "datetime": "2023-03-02 00:00:00",
+        "date": "2023-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "SX5E",
+                "side": "SELL",
+                "size": -43,
+                "price": 4485.05,
+                "value": 179728.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HSI",
+                "side": "BUY",
+                "size": 77,
+                "price": 2597.53,
+                "value": 200009.6,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 822226.88,
+        "cash": 191040.59,
+        "total_value": 1013267.47
+    },
+    {
+        "datetime": "2023-04-02 00:00:00",
+        "date": "2023-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "ATX",
+                "side": "SELL",
+                "size": -52,
+                "price": 3510.6,
+                "value": 173971.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ISEQ",
+                "side": "BUY",
+                "size": 22,
+                "price": 9081.85,
+                "value": 199800.78,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 822960.16,
+        "cash": 173791.2,
+        "total_value": 996751.36
+    },
+    {
+        "datetime": "2023-05-02 00:00:00",
+        "date": "2023-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "FTSEMIB",
+                "side": "SELL",
+                "size": -7,
+                "price": 29806.32,
+                "value": 181293.82,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HSI",
+                "side": "SELL",
+                "size": -77,
+                "price": 2563.52,
+                "value": 200009.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NDX",
+                "side": "BUY",
+                "size": 15,
+                "price": 13225.48,
+                "value": 198382.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SBITOP",
+                "side": "BUY",
+                "size": 148,
+                "price": 1364.97,
+                "value": 202015.82,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 824638.33,
+        "cash": 179428.54,
+        "total_value": 1004066.87
+    },
+    {
+        "datetime": "2023-06-02 00:00:00",
+        "date": "2023-06-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "ISEQ",
+                "side": "SELL",
+                "size": -22,
+                "price": 9196.48,
+                "value": 199800.78,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CCMP",
+                "side": "BUY",
+                "size": 15,
+                "price": 13190.48,
+                "value": 197857.24,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 836370.27,
+        "cash": 183893.84,
+        "total_value": 1020264.11
+    },
+    {
+        "datetime": "2023-07-02 00:00:00",
+        "date": "2023-07-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CYSMMAPA",
+                "side": "SELL",
+                "size": -1902,
+                "price": 127.7,
+                "value": 182434.74,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SBITOP",
+                "side": "SELL",
+                "size": -148,
+                "price": 1338.66,
+                "value": 202015.82,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IBOV",
+                "side": "BUY",
+                "size": 8,
+                "price": 24376.83,
+                "value": 195014.67,
+                "commission": 0.0
+            },
+            {
+                "symbol": "BUX",
+                "side": "BUY",
+                "size": 1435,
+                "price": 148.07,
+                "value": 212481.86,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NKY",
+                "side": "BUY",
+                "size": 922,
+                "price": 228.43,
+                "value": 210610.49,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1055421.62,
+        "cash": 6799.09,
+        "total_value": 1062220.7
+    },
+    {
+        "datetime": "2023-08-02 00:00:00",
+        "date": "2023-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "NKY",
+                "side": "SELL",
+                "size": -922,
+                "price": 231.11,
+                "value": 210610.49,
+                "commission": 0.0
+            },
+            {
+                "symbol": "COLCAP",
+                "side": "BUY",
+                "size": 727609,
+                "price": 0.3,
+                "value": 218539.13,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1067686.2,
+        "cash": 1347.66,
+        "total_value": 1069033.86
+    },
+    {
+        "datetime": "2023-09-02 00:00:00",
+        "date": "2023-09-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "COLCAP",
+                "side": "SELL",
+                "size": -727609,
+                "price": 0.26,
+                "value": 218539.13,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IBOV",
+                "side": "SELL",
+                "size": -8,
+                "price": 23363.92,
+                "value": 195014.67,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CYSMMAPA",
+                "side": "BUY",
+                "size": 1443,
+                "price": 146.7,
+                "value": 211682.76,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 876057.26,
+        "cash": 167584.96,
+        "total_value": 1043642.22
+    },
+    {
+        "datetime": "2023-10-02 00:00:00",
+        "date": "2023-10-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CCMP",
+                "side": "SELL",
+                "size": -15,
+                "price": 13217.99,
+                "value": 197857.24,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NDX",
+                "side": "SELL",
+                "size": -15,
+                "price": 14717.9,
+                "value": 198382.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RIGSE",
+                "side": "BUY",
+                "size": 140,
+                "price": 1431.81,
+                "value": 200452.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "OSEAX",
+                "side": "BUY",
+                "size": 1436,
+                "price": 139.95,
+                "value": 200973.35,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 808191.43,
+        "cash": 185197.01,
+        "total_value": 993388.44
+    },
+    {
+        "datetime": "2023-12-02 00:00:00",
+        "date": "2023-12-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "OSEAX",
+                "side": "SELL",
+                "size": -1436,
+                "price": 141.2,
+                "value": 200973.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RIGSE",
+                "side": "SELL",
+                "size": -140,
+                "price": 1471.61,
+                "value": 200452.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "INDEXCF",
+                "side": "BUY",
+                "size": 6056,
+                "price": 35.16,
+                "value": 212903.41,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PSI20",
+                "side": "BUY",
+                "size": 29,
+                "price": 7060.5,
+                "value": 204754.39,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 861177.41,
+        "cash": 176334.58,
+        "total_value": 1037511.99
+    },
+    {
+        "datetime": "2024-01-02 00:00:00",
+        "date": "2024-01-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "BUX",
+                "side": "SELL",
+                "size": -1435,
+                "price": 175.0,
+                "value": 212481.86,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CYSMMAPA",
+                "side": "SELL",
+                "size": -1443,
+                "price": 150.23,
+                "value": 211682.76,
+                "commission": 0.0
+            },
+            {
+                "symbol": "INDEXCF",
+                "side": "SELL",
+                "size": -6056,
+                "price": 34.95,
+                "value": 212903.41,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PSI20",
+                "side": "SELL",
+                "size": -29,
+                "price": 7093.37,
+                "value": 204754.39,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IBOV",
+                "side": "BUY",
+                "size": 7,
+                "price": 27644.9,
+                "value": 193514.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS52",
+                "side": "BUY",
+                "size": 41,
+                "price": 5090.31,
+                "value": 208702.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "COLCAP",
+                "side": "BUY",
+                "size": 688684,
+                "price": 0.31,
+                "value": 211919.48,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS30",
+                "side": "BUY",
+                "size": 39,
+                "price": 5338.43,
+                "value": 208198.66,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS51",
+                "side": "BUY",
+                "size": 40,
+                "price": 5175.67,
+                "value": 207026.92,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1027177.19,
+        "cash": 32224.41,
+        "total_value": 1059401.61
+    },
+    {
+        "datetime": "2024-02-02 00:00:00",
+        "date": "2024-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "AS30",
+                "side": "SELL",
+                "size": -39,
+                "price": 5137.77,
+                "value": 208198.66,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS51",
+                "side": "SELL",
+                "size": -40,
+                "price": 4986.24,
+                "value": 207026.92,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AS52",
+                "side": "SELL",
+                "size": -41,
+                "price": 4928.09,
+                "value": 208702.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IBOV",
+                "side": "SELL",
+                "size": -7,
+                "price": 26131.01,
+                "value": 193514.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "BUX",
+                "side": "BUY",
+                "size": 1125,
+                "price": 185.6,
+                "value": 208800.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NDX",
+                "side": "BUY",
+                "size": 12,
+                "price": 17415.94,
+                "value": 208991.28,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AEX",
+                "side": "BUY",
+                "size": 233,
+                "price": 899.42,
+                "value": 209565.66,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 849413.83,
+        "cash": 189659.17,
+        "total_value": 1039073.0
+    },
+    {
+        "datetime": "2024-03-02 00:00:00",
+        "date": "2024-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "AEX",
+                "side": "SELL",
+                "size": -233,
+                "price": 921.14,
+                "value": 209565.66,
+                "commission": 0.0
+            },
+            {
+                "symbol": "BUX",
+                "side": "SELL",
+                "size": -1125,
+                "price": 181.51,
+                "value": 208800.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "COLCAP",
+                "side": "SELL",
+                "size": -688684,
+                "price": 0.32,
+                "value": 211919.48,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TA125",
+                "side": "BUY",
+                "size": 380,
+                "price": 547.61,
+                "value": 208092.31,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NKY",
+                "side": "BUY",
+                "size": 794,
+                "price": 261.74,
+                "value": 207822.1,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CCMP",
+                "side": "BUY",
+                "size": 12,
+                "price": 16109.83,
+                "value": 193317.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ISEQ",
+                "side": "BUY",
+                "size": 20,
+                "price": 10253.73,
+                "value": 205074.53,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1043124.38,
+        "cash": 17412.69,
+        "total_value": 1060537.07
+    },
+    {
+        "datetime": "2024-04-02 00:00:00",
+        "date": "2024-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CCMP",
+                "side": "SELL",
+                "size": -12,
+                "price": 16199.24,
+                "value": 193317.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NDX",
+                "side": "SELL",
+                "size": -12,
+                "price": 18076.43,
+                "value": 208991.28,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TA125",
+                "side": "SELL",
+                "size": -380,
+                "price": 552.1,
+                "value": 208092.31,
+                "commission": 0.0
+            },
+            {
+                "symbol": "COLCAP",
+                "side": "BUY",
+                "size": 616947,
+                "price": 0.35,
+                "value": 216195.39,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SBITOP",
+                "side": "BUY",
+                "size": 134,
+                "price": 1570.75,
+                "value": 210480.14,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RTY",
+                "side": "BUY",
+                "size": 101,
+                "price": 2087.42,
+                "value": 210829.17,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1061818.48,
+        "cash": 1012.6,
+        "total_value": 1062831.07
+    },
+    {
+        "datetime": "2024-05-02 00:00:00",
+        "date": "2024-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "NKY",
+                "side": "SELL",
+                "size": -794,
+                "price": 245.91,
+                "value": 207822.1,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RTY",
+                "side": "SELL",
+                "size": -101,
+                "price": 1998.32,
+                "value": 210829.17,
+                "commission": 0.0
+            },
+            {
+                "symbol": "INDEXCF",
+                "side": "BUY",
+                "size": 5541,
+                "price": 37.14,
+                "value": 205783.38,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 845057.46,
+        "cash": 192314.98,
+        "total_value": 1037372.44
+    },
+    {
+        "datetime": "2024-06-02 00:00:00",
+        "date": "2024-06-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "INDEXCF",
+                "side": "SELL",
+                "size": -5541,
+                "price": 36.04,
+                "value": 205783.38,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ISEQ",
+                "side": "SELL",
+                "size": -20,
+                "price": 10790.94,
+                "value": 205074.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CYSMMAPA",
+                "side": "BUY",
+                "size": 1180,
+                "price": 178.55,
+                "value": 210687.72,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FTSEMIB",
+                "side": "BUY",
+                "size": 5,
+                "price": 37399.9,
+                "value": 186999.5,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 836972.43,
+        "cash": 210140.03,
+        "total_value": 1047112.46
+    },
+    {
+        "datetime": "2024-07-02 00:00:00",
+        "date": "2024-07-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "COLCAP",
+                "side": "SELL",
+                "size": -616947,
+                "price": 0.33,
+                "value": 216195.39,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FTSEMIB",
+                "side": "SELL",
+                "size": -5,
+                "price": 36037.38,
+                "value": 186999.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SBITOP",
+                "side": "SELL",
+                "size": -134,
+                "price": 1700.75,
+                "value": 210480.14,
+                "commission": 0.0
+            },
+            {
+                "symbol": "JALSH",
+                "side": "BUY",
+                "size": 47,
+                "price": 4351.17,
+                "value": 204505.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "OSEAX",
+                "side": "BUY",
+                "size": 1319,
+                "price": 155.75,
+                "value": 205436.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CCMP",
+                "side": "BUY",
+                "size": 11,
+                "price": 17808.04,
+                "value": 195888.41,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NDX",
+                "side": "BUY",
+                "size": 10,
+                "price": 19746.22,
+                "value": 197462.25,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1011007.86,
+        "cash": 20868.22,
+        "total_value": 1031876.08
+    },
+    {
+        "datetime": "2024-08-02 00:00:00",
+        "date": "2024-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CCMP",
+                "side": "SELL",
+                "size": -11,
+                "price": 16780.44,
+                "value": 195888.41,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NDX",
+                "side": "SELL",
+                "size": -10,
+                "price": 18488.63,
+                "value": 197462.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "OSEAX",
+                "side": "SELL",
+                "size": -1319,
+                "price": 152.85,
+                "value": 205436.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "BUX",
+                "side": "BUY",
+                "size": 1029,
+                "price": 200.3,
+                "value": 206113.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NIFTY",
+                "side": "BUY",
+                "size": 690,
+                "price": 296.06,
+                "value": 204278.75,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 836514.43,
+        "cash": 181562.27,
+        "total_value": 1018076.7
+    },
+    {
+        "datetime": "2024-09-02 00:00:00",
+        "date": "2024-09-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "BUX",
+                "side": "SELL",
+                "size": -1029,
+                "price": 204.98,
+                "value": 206113.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NIFTY",
+                "side": "SELL",
+                "size": -690,
+                "price": 302.0,
+                "value": 204278.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SMI",
+                "side": "BUY",
+                "size": 14,
+                "price": 14616.03,
+                "value": 204624.44,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FBMKLCI",
+                "side": "BUY",
+                "size": 543,
+                "price": 388.6,
+                "value": 211007.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 873379.23,
+        "cash": 185230.93,
+        "total_value": 1058610.15
+    },
+    {
+        "datetime": "2024-10-02 00:00:00",
+        "date": "2024-10-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "SMI",
+                "side": "SELL",
+                "size": -14,
+                "price": 14314.08,
+                "value": 204624.44,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SET50",
+                "side": "BUY",
+                "size": 7638,
+                "price": 28.36,
+                "value": 216646.56,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 910963.27,
+        "cash": 168981.43,
+        "total_value": 1079944.7
+    },
+    {
+        "datetime": "2024-11-02 00:00:00",
+        "date": "2024-11-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "FBMKLCI",
+                "side": "SELL",
+                "size": -543,
+                "price": 366.31,
+                "value": 211007.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "JALSH",
+                "side": "SELL",
+                "size": -47,
+                "price": 4876.82,
+                "value": 204505.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HSI",
+                "side": "BUY",
+                "size": 80,
+                "price": 2627.87,
+                "value": 210229.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SHSZ300",
+                "side": "BUY",
+                "size": 386,
+                "price": 545.42,
+                "value": 210533.91,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 880312.65,
+        "cash": 176333.61,
+        "total_value": 1056646.26
+    },
+    {
+        "datetime": "2025-01-02 00:00:00",
+        "date": "2025-01-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CYSMMAPA",
+                "side": "SELL",
+                "size": -1180,
+                "price": 222.96,
+                "value": 210687.72,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HSI",
+                "side": "SELL",
+                "size": -80,
+                "price": 2564.75,
+                "value": 210229.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SET50",
+                "side": "SELL",
+                "size": -7638,
+                "price": 26.35,
+                "value": 216646.56,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CSEALL",
+                "side": "BUY",
+                "size": 3899,
+                "price": 54.37,
+                "value": 211993.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GGSECI",
+                "side": "BUY",
+                "size": 635,
+                "price": 333.42,
+                "value": 211720.13,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TA125",
+                "side": "BUY",
+                "size": 317,
+                "price": 669.43,
+                "value": 212209.94,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SHCOMP",
+                "side": "BUY",
+                "size": 454,
+                "price": 458.53,
+                "value": 208174.32,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1046731.75,
+        "cash": 1753.62,
+        "total_value": 1048485.37
+    },
+    {
+        "datetime": "2025-02-02 00:00:00",
+        "date": "2025-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "SHCOMP",
+                "side": "SELL",
+                "size": -454,
+                "price": 445.01,
+                "value": 208174.32,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SHSZ300",
+                "side": "SELL",
+                "size": -386,
+                "price": 526.3,
+                "value": 210533.91,
+                "commission": 0.0
+            },
+            {
+                "symbol": "COLCAP",
+                "side": "BUY",
+                "size": 584061,
+                "price": 0.37,
+                "value": 216421.23,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 875574.76,
+        "cash": 190518.74,
+        "total_value": 1066093.5
+    },
+    {
+        "datetime": "2025-04-02 00:00:00",
+        "date": "2025-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "COLCAP",
+                "side": "SELL",
+                "size": -584061,
+                "price": 0.39,
+                "value": 216421.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CSEALL",
+                "side": "SELL",
+                "size": -3899,
+                "price": 53.7,
+                "value": 211993.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TA125",
+                "side": "SELL",
+                "size": -317,
+                "price": 667.09,
+                "value": 212209.94,
+                "commission": 0.0
+            },
+            {
+                "symbol": "INDEXCF",
+                "side": "BUY",
+                "size": 6241,
+                "price": 34.48,
+                "value": 215197.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SBITOP",
+                "side": "BUY",
+                "size": 99,
+                "price": 2180.02,
+                "value": 215821.96,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ATX",
+                "side": "BUY",
+                "size": 48,
+                "price": 4483.57,
+                "value": 215211.5,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 894240.38,
+        "cash": 193001.07,
+        "total_value": 1087241.45
+    }
+]

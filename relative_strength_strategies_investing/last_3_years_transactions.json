@@ -1,0 +1,618 @@
+[
+    {
+        "datetime": "2022-01-02 00:00:00",
+        "date": "2022-01-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLY",
+                "side": "SELL",
+                "size": -985,
+                "price": 199.36,
+                "value": 192962.01,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLE",
+                "side": "BUY",
+                "size": 4124,
+                "price": 49.06,
+                "value": 202335.62,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 622392.3,
+        "cash": 57160.67,
+        "total_value": 679552.97
+    },
+    {
+        "datetime": "2022-03-02 00:00:00",
+        "date": "2022-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "VNQ",
+                "side": "SELL",
+                "size": -2139,
+                "price": 89.99,
+                "value": 190010.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLK",
+                "side": "SELL",
+                "size": -1187,
+                "price": 148.05,
+                "value": 190128.06,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLP",
+                "side": "BUY",
+                "size": 3002,
+                "price": 68.42,
+                "value": 205408.98,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLF",
+                "side": "BUY",
+                "size": 5871,
+                "price": 35.28,
+                "value": 207100.97,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 685423.47,
+        "cash": 12880.24,
+        "total_value": 698303.71
+    },
+    {
+        "datetime": "2022-04-02 00:00:00",
+        "date": "2022-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLF",
+                "side": "SELL",
+                "size": -5871,
+                "price": 36.52,
+                "value": 207100.97,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLP",
+                "side": "SELL",
+                "size": -3002,
+                "price": 70.16,
+                "value": 205408.98,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLU",
+                "side": "BUY",
+                "size": 3154,
+                "price": 67.72,
+                "value": 213603.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLB",
+                "side": "BUY",
+                "size": 2591,
+                "price": 83.27,
+                "value": 215746.5,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 718592.11,
+        "cash": 8578.96,
+        "total_value": 727171.07
+    },
+    {
+        "datetime": "2022-05-02 00:00:00",
+        "date": "2022-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLB",
+                "side": "SELL",
+                "size": -2591,
+                "price": 79.96,
+                "value": 215746.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLP",
+                "side": "BUY",
+                "size": 2922,
+                "price": 72.15,
+                "value": 210819.26,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 691540.72,
+        "cash": 4940.57,
+        "total_value": 696481.29
+    },
+    {
+        "datetime": "2022-06-02 00:00:00",
+        "date": "2022-06-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLP",
+                "side": "SELL",
+                "size": -2922,
+                "price": 67.99,
+                "value": 210819.26,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 541282.71,
+        "cash": 203598.25,
+        "total_value": 744880.96
+    },
+    {
+        "datetime": "2022-10-02 00:00:00",
+        "date": "2022-10-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLV",
+                "side": "BUY",
+                "size": 1719,
+                "price": 117.96,
+                "value": 202773.99,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 663179.37,
+        "cash": 824.26,
+        "total_value": 664003.64
+    },
+    {
+        "datetime": "2022-12-02 00:00:00",
+        "date": "2022-12-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLU",
+                "side": "SELL",
+                "size": -3154,
+                "price": 65.23,
+                "value": 213603.35,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 572300.02,
+        "cash": 206552.79,
+        "total_value": 778852.81
+    },
+    {
+        "datetime": "2023-02-02 00:00:00",
+        "date": "2023-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLV",
+                "side": "SELL",
+                "size": -1719,
+                "price": 128.28,
+                "value": 202773.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLI",
+                "side": "BUY",
+                "size": 2319,
+                "price": 99.38,
+                "value": 230470.68,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 560541.53,
+        "cash": 196602.15,
+        "total_value": 757143.68
+    },
+    {
+        "datetime": "2023-05-02 00:00:00",
+        "date": "2023-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLI",
+                "side": "SELL",
+                "size": -2319,
+                "price": 97.09,
+                "value": 230470.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLB",
+                "side": "BUY",
+                "size": 2897,
+                "price": 76.68,
+                "value": 222134.76,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 532844.82,
+        "cash": 199613.38,
+        "total_value": 732458.2
+    },
+    {
+        "datetime": "2023-06-02 00:00:00",
+        "date": "2023-06-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLE",
+                "side": "SELL",
+                "size": -4124,
+                "price": 73.94,
+                "value": 202335.62,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLK",
+                "side": "BUY",
+                "size": 1304,
+                "price": 164.44,
+                "value": 214431.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLI",
+                "side": "BUY",
+                "size": 2242,
+                "price": 96.06,
+                "value": 215367.09,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 652535.48,
+        "cash": 74740.32,
+        "total_value": 727275.79
+    },
+    {
+        "datetime": "2023-07-02 00:00:00",
+        "date": "2023-07-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLB",
+                "side": "SELL",
+                "size": -2897,
+                "price": 79.74,
+                "value": 222134.76,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLY",
+                "side": "BUY",
+                "size": 1370,
+                "price": 166.64,
+                "value": 228297.48,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 687187.76,
+        "cash": 77447.48,
+        "total_value": 764635.24
+    },
+    {
+        "datetime": "2023-11-02 00:00:00",
+        "date": "2023-11-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLI",
+                "side": "SELL",
+                "size": -2242,
+                "price": 97.47,
+                "value": 215367.09,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLE",
+                "side": "BUY",
+                "size": 2662,
+                "price": 81.05,
+                "value": 215751.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 654744.13,
+        "cash": 80229.36,
+        "total_value": 734973.5
+    },
+    {
+        "datetime": "2023-12-02 00:00:00",
+        "date": "2023-12-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLE",
+                "side": "SELL",
+                "size": -2662,
+                "price": 80.36,
+                "value": 215751.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLF",
+                "side": "BUY",
+                "size": 6511,
+                "price": 34.98,
+                "value": 227786.35,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 700690.91,
+        "cash": 66370.78,
+        "total_value": 767061.69
+    },
+    {
+        "datetime": "2024-01-02 00:00:00",
+        "date": "2024-01-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLF",
+                "side": "SELL",
+                "size": -6511,
+                "price": 36.79,
+                "value": 227786.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLI",
+                "side": "BUY",
+                "size": 2137,
+                "price": 111.23,
+                "value": 237693.28,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 719239.71,
+        "cash": 68194.14,
+        "total_value": 787433.85
+    },
+    {
+        "datetime": "2024-02-02 00:00:00",
+        "date": "2024-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLY",
+                "side": "SELL",
+                "size": -1370,
+                "price": 173.48,
+                "value": 228297.48,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLF",
+                "side": "BUY",
+                "size": 6334,
+                "price": 37.95,
+                "value": 240399.46,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 746293.4,
+        "cash": 65457.16,
+        "total_value": 811750.56
+    },
+    {
+        "datetime": "2024-08-02 00:00:00",
+        "date": "2024-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLK",
+                "side": "SELL",
+                "size": -1304,
+                "price": 203.98,
+                "value": 214431.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLU",
+                "side": "BUY",
+                "size": 3616,
+                "price": 73.4,
+                "value": 265419.87,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 785200.82,
+        "cash": 66026.43,
+        "total_value": 851227.25
+    },
+    {
+        "datetime": "2024-09-02 00:00:00",
+        "date": "2024-09-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLI",
+                "side": "SELL",
+                "size": -2137,
+                "price": 129.06,
+                "value": 237693.28,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLP",
+                "side": "BUY",
+                "size": 3332,
+                "price": 80.55,
+                "value": 268377.22,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 826225.89,
+        "cash": 73449.85,
+        "total_value": 899675.74
+    },
+    {
+        "datetime": "2024-10-02 00:00:00",
+        "date": "2024-10-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLP",
+                "side": "SELL",
+                "size": -3332,
+                "price": 81.45,
+                "value": 268377.22,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLI",
+                "side": "BUY",
+                "size": 2050,
+                "price": 134.17,
+                "value": 275049.81,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 848775.01,
+        "cash": 69782.41,
+        "total_value": 918557.43
+    },
+    {
+        "datetime": "2024-11-02 00:00:00",
+        "date": "2024-11-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLI",
+                "side": "SELL",
+                "size": -2050,
+                "price": 133.43,
+                "value": 275049.81,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VNQ",
+                "side": "BUY",
+                "size": 3002,
+                "price": 92.82,
+                "value": 278643.39,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 845343.54,
+        "cash": 64663.69,
+        "total_value": 910007.23
+    },
+    {
+        "datetime": "2024-12-02 00:00:00",
+        "date": "2024-12-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "VNQ",
+                "side": "SELL",
+                "size": -3002,
+                "price": 95.74,
+                "value": 278643.39,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLY",
+                "side": "BUY",
+                "size": 1317,
+                "price": 222.83,
+                "value": 293471.3,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 902362.41,
+        "cash": 58605.94,
+        "total_value": 960968.35
+    },
+    {
+        "datetime": "2025-01-02 00:00:00",
+        "date": "2025-01-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLU",
+                "side": "SELL",
+                "size": -3616,
+                "price": 75.7,
+                "value": 265419.87,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLK",
+                "side": "BUY",
+                "size": 1202,
+                "price": 233.95,
+                "value": 281206.99,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 873379.64,
+        "cash": 51139.87,
+        "total_value": 924519.51
+    },
+    {
+        "datetime": "2025-02-02 00:00:00",
+        "date": "2025-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLK",
+                "side": "SELL",
+                "size": -1202,
+                "price": 233.92,
+                "value": 281206.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VNQ",
+                "side": "BUY",
+                "size": 3206,
+                "price": 89.59,
+                "value": 287224.56,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 917111.18,
+        "cash": 45086.3,
+        "total_value": 962197.48
+    },
+    {
+        "datetime": "2025-03-02 00:00:00",
+        "date": "2025-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "VNQ",
+                "side": "SELL",
+                "size": -3206,
+                "price": 92.58,
+                "value": 287224.56,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLU",
+                "side": "BUY",
+                "size": 3646,
+                "price": 77.99,
+                "value": 284338.71,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 899751.12,
+        "cash": 57555.82,
+        "total_value": 957306.94
+    },
+    {
+        "datetime": "2025-04-02 00:00:00",
+        "date": "2025-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "XLY",
+                "side": "SELL",
+                "size": -1317,
+                "price": 195.93,
+                "value": 293471.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "XLP",
+                "side": "BUY",
+                "size": 3387,
+                "price": 81.83,
+                "value": 277158.22,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 883488.61,
+        "cash": 38437.41,
+        "total_value": 921926.02
+    }
+]

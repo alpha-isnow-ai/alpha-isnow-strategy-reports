@@ -1,0 +1,2430 @@
+[
+    {
+        "datetime": "2022-01-03 00:00:00",
+        "date": "2022-01-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -2817,
+                "price": 18.64,
+                "value": 1153.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "BUY",
+                "size": 127,
+                "price": 72.52,
+                "value": 9210.1,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -278,
+                "price": 101.1,
+                "value": -28106.06,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 54,
+                "price": 168.86,
+                "value": 1032.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 975,
+                "price": 104.89,
+                "value": 4827.57,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "BUY",
+                "size": 9,
+                "price": 214.76,
+                "value": 1932.81,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 36,
+                "price": 107.27,
+                "value": 3861.69,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 768,
+                "price": 116.88,
+                "value": 27655.01,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "SELL",
+                "size": -10,
+                "price": 391.09,
+                "value": 3898.36,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -10,
+                "price": 455.83,
+                "value": 4402.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -106,
+                "price": 114.63,
+                "value": 11944.21,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "BUY",
+                "size": 19,
+                "price": 53.97,
+                "value": -932.71,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 92208.0,
+        "cash": 57583.94,
+        "total_value": 149791.94
+    },
+    {
+        "datetime": "2022-02-01 00:00:00",
+        "date": "2022-02-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -1008,
+                "price": 103.27,
+                "value": 2479.72,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "SELL",
+                "size": -9,
+                "price": 193.59,
+                "value": 1932.81,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -36,
+                "price": 98.14,
+                "value": 3861.69,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "SELL",
+                "size": -716,
+                "price": 113.38,
+                "value": 34641.92,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "SELL",
+                "size": -4,
+                "price": 357.16,
+                "value": 1559.34,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -3,
+                "price": 431.31,
+                "value": 1320.77,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -672,
+                "price": 112.54,
+                "value": -2429.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "BUY",
+                "size": 227,
+                "price": 61.91,
+                "value": 4396.57,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -168323.32,
+        "cash": 312435.3,
+        "total_value": 144111.97
+    },
+    {
+        "datetime": "2022-03-01 00:00:00",
+        "date": "2022-03-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 3340,
+                "price": 22.02,
+                "value": 23210.16,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "SELL",
+                "size": -127,
+                "price": 66.81,
+                "value": 9210.1,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "BUY",
+                "size": 63,
+                "price": 99.49,
+                "value": -6516.44,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -4,
+                "price": 179.05,
+                "value": 675.44,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 29,
+                "price": 103.46,
+                "value": -2994.91,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 8,
+                "price": 111.17,
+                "value": -907.05,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "BUY",
+                "size": 24,
+                "price": 113.99,
+                "value": -2700.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "BUY",
+                "size": 46,
+                "price": 70.34,
+                "value": 3235.64,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -88208.1,
+        "cash": 231968.23,
+        "total_value": 143760.13
+    },
+    {
+        "datetime": "2022-04-01 00:00:00",
+        "date": "2022-04-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -1336,
+                "price": 23.47,
+                "value": 29415.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -644,
+                "price": 98.35,
+                "value": -63339.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 96,
+                "price": 97.79,
+                "value": -9914.19,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 205,
+                "price": 107.14,
+                "value": -23243.19,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -148,
+                "price": 110.63,
+                "value": -16373.34,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "SELL",
+                "size": -138,
+                "price": 73.37,
+                "value": 8831.29,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -170280.1,
+        "cash": 321818.0,
+        "total_value": 151537.89
+    },
+    {
+        "datetime": "2022-06-01 00:00:00",
+        "date": "2022-06-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 667,
+                "price": 26.14,
+                "value": 17433.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "BUY",
+                "size": 662,
+                "price": 95.39,
+                "value": -66497.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -82,
+                "price": 172.21,
+                "value": -5253.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -133,
+                "price": 95.23,
+                "value": -12665.17,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "SELL",
+                "size": -318,
+                "price": 102.79,
+                "value": -32688.48,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -169,
+                "price": 108.06,
+                "value": -18261.92,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "BUY",
+                "size": 30,
+                "price": 86.71,
+                "value": 2601.3,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -155692.96,
+        "cash": 316369.48,
+        "total_value": 160676.52
+    },
+    {
+        "datetime": "2022-07-01 00:00:00",
+        "date": "2022-07-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -3108,
+                "price": 24.28,
+                "value": -6377.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -120,
+                "price": 92.43,
+                "value": -11092.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -106,
+                "price": 167.14,
+                "value": -17716.84,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 57,
+                "price": 95.23,
+                "value": -5765.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 6,
+                "price": 99.48,
+                "value": -616.76,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "BUY",
+                "size": 327,
+                "price": 106.0,
+                "value": -36269.21,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "BUY",
+                "size": 55,
+                "price": 82.1,
+                "value": 4515.5,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -215155.36,
+        "cash": 375450.98,
+        "total_value": 160295.61
+    },
+    {
+        "datetime": "2022-09-01 00:00:00",
+        "date": "2022-09-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 8,
+                "price": 22.8,
+                "value": -194.28,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "BUY",
+                "size": 179,
+                "price": 88.6,
+                "value": -17669.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 107,
+                "price": 158.17,
+                "value": -18071.51,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 82,
+                "price": 92.76,
+                "value": -8294.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 43,
+                "price": 97.76,
+                "value": -4420.14,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -476,
+                "price": 105.63,
+                "value": -50279.76,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "SELL",
+                "size": -268,
+                "price": 72.09,
+                "value": 456.4,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -232410.34,
+        "cash": 400274.62,
+        "total_value": 167864.28
+    },
+    {
+        "datetime": "2022-10-03 00:00:00",
+        "date": "2022-10-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -712,
+                "price": 21.99,
+                "value": -15657.52,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -254,
+                "price": 86.68,
+                "value": -22016.34,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -16,
+                "price": 155.44,
+                "value": -2487.04,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -153,
+                "price": 89.81,
+                "value": -13741.36,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "SELL",
+                "size": -110,
+                "price": 93.94,
+                "value": -10332.85,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "BUY",
+                "size": 452,
+                "price": 99.75,
+                "value": -48692.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "SELL",
+                "size": -33,
+                "price": 68.6,
+                "value": -2263.8,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -245987.7,
+        "cash": 421688.49,
+        "total_value": 175700.79
+    },
+    {
+        "datetime": "2022-11-01 00:00:00",
+        "date": "2022-11-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -432,
+                "price": 23.03,
+                "value": -9946.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "BUY",
+                "size": 207,
+                "price": 88.0,
+                "value": -19427.62,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 22,
+                "price": 153.82,
+                "value": -3648.94,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 101,
+                "price": 88.37,
+                "value": -9877.91,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 74,
+                "price": 92.85,
+                "value": -7416.49,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -397,
+                "price": 101.12,
+                "value": -40142.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "SELL",
+                "size": -2,
+                "price": 73.8,
+                "value": -147.6,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -259914.71,
+        "cash": 434528.82,
+        "total_value": 174614.12
+    },
+    {
+        "datetime": "2022-12-01 00:00:00",
+        "date": "2022-12-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 5265,
+                "price": 23.12,
+                "value": -9361.92,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 701,
+                "price": 37.13,
+                "value": 26024.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "BUY",
+                "size": 192,
+                "price": 63.57,
+                "value": 12205.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "BUY",
+                "size": 791,
+                "price": 93.1,
+                "value": -5251.46,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 95,
+                "price": 167.48,
+                "value": -423.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -43,
+                "price": 91.01,
+                "value": -3913.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "BUY",
+                "size": 43,
+                "price": 182.39,
+                "value": 7842.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 552,
+                "price": 98.45,
+                "value": -6249.77,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 6,
+                "price": 395.73,
+                "value": 2374.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "BUY",
+                "size": 92,
+                "price": 102.58,
+                "value": -9581.85,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "BUY",
+                "size": 41,
+                "price": 71.64,
+                "value": -2928.74,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 53123.73,
+        "cash": 112017.84,
+        "total_value": 165141.57
+    },
+    {
+        "datetime": "2023-02-01 00:00:00",
+        "date": "2023-02-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -5148,
+                "price": 22.33,
+                "value": -3437.21,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 76,
+                "price": 39.52,
+                "value": 3003.31,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "BUY",
+                "size": 68,
+                "price": 67.23,
+                "value": 4571.51,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -20,
+                "price": 96.76,
+                "value": 1862.04,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 9,
+                "price": 179.75,
+                "value": 1617.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 942,
+                "price": 92.88,
+                "value": 70.16,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "SELL",
+                "size": -13,
+                "price": 186.19,
+                "value": 2371.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 140,
+                "price": 87.26,
+                "value": 12216.39,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 11,
+                "price": 101.77,
+                "value": 1119.43,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "BUY",
+                "size": 9,
+                "price": 290.66,
+                "value": 2615.96,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 3,
+                "price": 394.09,
+                "value": 1182.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "BUY",
+                "size": 1076,
+                "price": 103.39,
+                "value": -21995.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "SELL",
+                "size": -50,
+                "price": 69.21,
+                "value": -3460.5,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 161844.98,
+        "cash": 9738.84,
+        "total_value": 171583.82
+    },
+    {
+        "datetime": "2023-03-01 00:00:00",
+        "date": "2023-03-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 427,
+                "price": 21.62,
+                "value": -9535.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -777,
+                "price": 37.25,
+                "value": 29028.14,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "BUY",
+                "size": 157,
+                "price": 65.73,
+                "value": 10320.06,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "BUY",
+                "size": 126,
+                "price": 94.74,
+                "value": 11937.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -32,
+                "price": 170.95,
+                "value": 5423.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -857,
+                "price": 89.26,
+                "value": 11294.73,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "BUY",
+                "size": 6,
+                "price": 183.27,
+                "value": 1099.63,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -140,
+                "price": 81.76,
+                "value": 12216.39,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "SELL",
+                "size": -497,
+                "price": 96.96,
+                "value": 2264.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "BUY",
+                "size": 3,
+                "price": 289.53,
+                "value": 868.58,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -9,
+                "price": 384.56,
+                "value": 3556.67,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -1004,
+                "price": 101.39,
+                "value": -12924.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "BUY",
+                "size": 61,
+                "price": 67.14,
+                "value": -4319.52,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -85502.23,
+        "cash": 247992.38,
+        "total_value": 162490.15
+    },
+    {
+        "datetime": "2023-04-03 00:00:00",
+        "date": "2023-04-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -383,
+                "price": 21.87,
+                "value": -8376.33,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 833,
+                "price": 37.51,
+                "value": 31246.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "SELL",
+                "size": -151,
+                "price": 67.42,
+                "value": 9812.04,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -14,
+                "price": 96.67,
+                "value": 1309.52,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 707,
+                "price": 92.88,
+                "value": -2634.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "SELL",
+                "size": -13,
+                "price": 174.92,
+                "value": 2372.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 113,
+                "price": 80.69,
+                "value": 9117.65,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 615,
+                "price": 100.87,
+                "value": 14755.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "SELL",
+                "size": -4,
+                "price": 315.2,
+                "value": 1161.51,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 7,
+                "price": 399.15,
+                "value": 2794.02,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "BUY",
+                "size": 955,
+                "price": 104.83,
+                "value": -17432.98,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 160101.41,
+        "cash": 455.95,
+        "total_value": 160557.36
+    },
+    {
+        "datetime": "2023-06-01 00:00:00",
+        "date": "2023-06-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -833,
+                "price": 36.38,
+                "value": 31246.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "SELL",
+                "size": -266,
+                "price": 66.81,
+                "value": 17284.78,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -30,
+                "price": 95.43,
+                "value": 2806.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -3,
+                "price": 182.81,
+                "value": 508.46,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 70,
+                "price": 92.68,
+                "value": 6487.39,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "SELL",
+                "size": -23,
+                "price": 169.94,
+                "value": 4198.36,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -113,
+                "price": 78.11,
+                "value": 9117.65,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 85,
+                "price": 100.09,
+                "value": 8507.87,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "SELL",
+                "size": -4,
+                "price": 343.84,
+                "value": 1161.51,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "BUY",
+                "size": 135,
+                "price": 103.44,
+                "value": 13964.92,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "SELL",
+                "size": -12,
+                "price": 60.66,
+                "value": -727.92,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 124645.66,
+        "cash": 37821.28,
+        "total_value": 162466.93
+    },
+    {
+        "datetime": "2023-07-03 00:00:00",
+        "date": "2023-07-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 777,
+                "price": 20.63,
+                "value": -17299.98,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -596,
+                "price": 97.35,
+                "value": 24251.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -57,
+                "price": 178.61,
+                "value": -3218.81,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -913,
+                "price": 91.2,
+                "value": -9275.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "BUY",
+                "size": 41,
+                "price": 183.2,
+                "value": 7511.29,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 214,
+                "price": 82.64,
+                "value": 17684.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "SELL",
+                "size": -755,
+                "price": 100.66,
+                "value": 16842.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "BUY",
+                "size": 4,
+                "price": 366.43,
+                "value": 1465.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 1,
+                "price": 434.01,
+                "value": 434.01,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -1060,
+                "price": 103.18,
+                "value": -1391.07,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "SELL",
+                "size": -35,
+                "price": 63.82,
+                "value": -2233.7,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -171287.98,
+        "cash": 333761.72,
+        "total_value": 162473.74
+    },
+    {
+        "datetime": "2023-08-01 00:00:00",
+        "date": "2023-08-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 4243,
+                "price": 22.19,
+                "value": 10880.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 706,
+                "price": 39.88,
+                "value": 28158.32,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "BUY",
+                "size": 250,
+                "price": 70.61,
+                "value": 17651.37,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -48,
+                "price": 98.06,
+                "value": -4707.09,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -51,
+                "price": 180.85,
+                "value": -9223.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 149,
+                "price": 90.21,
+                "value": -13588.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "SELL",
+                "size": -14,
+                "price": 193.51,
+                "value": 2564.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 78,
+                "price": 83.96,
+                "value": 6549.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 7,
+                "price": 100.0,
+                "value": -704.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "BUY",
+                "size": 1,
+                "price": 378.55,
+                "value": 378.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "BUY",
+                "size": 175,
+                "price": 102.72,
+                "value": -18056.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "BUY",
+                "size": 325,
+                "price": 72.68,
+                "value": 311.39,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 11312.81,
+        "cash": 147785.98,
+        "total_value": 159098.78
+    },
+    {
+        "datetime": "2023-09-01 00:00:00",
+        "date": "2023-09-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 702,
+                "price": 22.48,
+                "value": 15778.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -706,
+                "price": 38.06,
+                "value": 28158.32,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "SELL",
+                "size": -23,
+                "price": 69.09,
+                "value": 1623.93,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "BUY",
+                "size": 629,
+                "price": 97.28,
+                "value": 19696.94,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 44,
+                "price": 180.8,
+                "value": -7915.96,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 18,
+                "price": 90.0,
+                "value": -1641.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "SELL",
+                "size": -3,
+                "price": 186.3,
+                "value": 549.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -146,
+                "price": 81.95,
+                "value": 12116.66,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 33,
+                "price": 99.4,
+                "value": -3321.73,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "SELL",
+                "size": -1,
+                "price": 376.66,
+                "value": 333.97,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -1,
+                "price": 102.19,
+                "value": -102.19,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "SELL",
+                "size": -10,
+                "price": 76.0,
+                "value": 726.8,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 58326.15,
+        "cash": 100189.07,
+        "total_value": 158515.22
+    },
+    {
+        "datetime": "2023-11-01 00:00:00",
+        "date": "2023-11-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -1245,
+                "price": 22.4,
+                "value": 27705.22,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "SELL",
+                "size": -227,
+                "price": 64.24,
+                "value": 16027.45,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -1000,
+                "price": 94.62,
+                "value": -14793.74,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 58,
+                "price": 183.91,
+                "value": -5341.22,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 10,
+                "price": 85.73,
+                "value": -911.96,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "SELL",
+                "size": -24,
+                "price": 161.95,
+                "value": 4396.85,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -146,
+                "price": 72.85,
+                "value": 12116.66,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 26,
+                "price": 93.99,
+                "value": -2617.12,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "SELL",
+                "size": -8,
+                "price": 348.76,
+                "value": 2671.79,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -8,
+                "price": 412.22,
+                "value": 3228.04,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -164,
+                "price": 99.72,
+                "value": -16353.85,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "SELL",
+                "size": -52,
+                "price": 76.66,
+                "value": 3779.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -108704.69,
+        "cash": 264260.94,
+        "total_value": 155556.25
+    },
+    {
+        "datetime": "2023-12-01 00:00:00",
+        "date": "2023-12-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -3913,
+                "price": 21.67,
+                "value": -4549.66,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "BUY",
+                "size": 220,
+                "price": 69.31,
+                "value": 15248.79,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "BUY",
+                "size": 854,
+                "price": 97.8,
+                "value": -28854.16,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 7,
+                "price": 188.81,
+                "value": 1321.67,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -56,
+                "price": 89.35,
+                "value": -5003.74,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 122,
+                "price": 81.73,
+                "value": 9970.93,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 400,
+                "price": 100.78,
+                "value": -5616.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "BUY",
+                "size": 6,
+                "price": 384.49,
+                "value": 2306.93,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 5,
+                "price": 448.18,
+                "value": 2240.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "BUY",
+                "size": 1096,
+                "price": 102.19,
+                "value": 3720.02,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "SELL",
+                "size": -198,
+                "price": 70.93,
+                "value": 29.64,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 49378.6,
+        "cash": 101189.9,
+        "total_value": 150568.5
+    },
+    {
+        "datetime": "2024-02-01 00:00:00",
+        "date": "2024-02-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 212,
+                "price": 21.19,
+                "value": -4594.31,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 660,
+                "price": 37.72,
+                "value": 24894.14,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "BUY",
+                "size": 63,
+                "price": 72.91,
+                "value": 4593.13,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "BUY",
+                "size": 151,
+                "price": 97.84,
+                "value": 14773.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 28,
+                "price": 189.71,
+                "value": 5311.88,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 107171.14,
+        "cash": 47125.2,
+        "total_value": 154296.34
+    },
+    {
+        "datetime": "2024-03-01 00:00:00",
+        "date": "2024-03-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -1452,
+                "price": 20.94,
+                "value": -30407.74,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -107,
+                "price": 39.34,
+                "value": 4035.87,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "SELL",
+                "size": -123,
+                "price": 75.21,
+                "value": 8623.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -20,
+                "price": 97.95,
+                "value": 1956.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -13,
+                "price": 190.27,
+                "value": 2443.02,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 689,
+                "price": 90.76,
+                "value": -8325.49,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "BUY",
+                "size": 15,
+                "price": 202.15,
+                "value": 3032.28,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 49,
+                "price": 86.36,
+                "value": 4231.56,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 61,
+                "price": 102.83,
+                "value": 6272.73,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -74,
+                "price": 103.96,
+                "value": 7561.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "BUY",
+                "size": 163,
+                "price": 74.74,
+                "value": -2384.38,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 141232.9,
+        "cash": 14865.43,
+        "total_value": 156098.33
+    },
+    {
+        "datetime": "2024-05-01 00:00:00",
+        "date": "2024-05-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -657,
+                "price": 88.94,
+                "value": -4704.02,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "BUY",
+                "size": 4,
+                "price": 194.09,
+                "value": 776.38,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -171,
+                "price": 80.77,
+                "value": 14202.49,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "SELL",
+                "size": -471,
+                "price": 101.54,
+                "value": -559.78,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "SELL",
+                "size": -1,
+                "price": 421.21,
+                "value": 384.49,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -963,
+                "price": 103.15,
+                "value": 1692.01,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "BUY",
+                "size": 21,
+                "price": 77.37,
+                "value": 1624.77,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -81828.24,
+        "cash": 232289.71,
+        "total_value": 150461.47
+    },
+    {
+        "datetime": "2024-06-03 00:00:00",
+        "date": "2024-06-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 5041,
+                "price": 22.07,
+                "value": -33166.77,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "BUY",
+                "size": 133,
+                "price": 41.39,
+                "value": 5504.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "BUY",
+                "size": 110,
+                "price": 78.97,
+                "value": 8686.38,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -64,
+                "price": 99.17,
+                "value": 6260.15,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -25,
+                "price": 215.92,
+                "value": 4698.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -50,
+                "price": 90.4,
+                "value": -4519.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "BUY",
+                "size": 19,
+                "price": 205.64,
+                "value": 3907.12,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "SELL",
+                "size": -68,
+                "price": 103.8,
+                "value": -7058.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "BUY",
+                "size": 43,
+                "price": 104.86,
+                "value": -4435.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "BUY",
+                "size": 45,
+                "price": 73.93,
+                "value": 3326.85,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 30638.46,
+        "cash": 118415.73,
+        "total_value": 149054.18
+    },
+    {
+        "datetime": "2024-08-01 00:00:00",
+        "date": "2024-08-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -3324,
+                "price": 21.42,
+                "value": 3393.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -227,
+                "price": 42.08,
+                "value": 8723.69,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "SELL",
+                "size": -26,
+                "price": 78.27,
+                "value": 1916.72,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "BUY",
+                "size": 186,
+                "price": 98.65,
+                "value": 18348.58,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 13,
+                "price": 226.74,
+                "value": 2947.62,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 776,
+                "price": 94.24,
+                "value": -1682.43,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "SELL",
+                "size": -29,
+                "price": 222.35,
+                "value": 5888.36,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 67,
+                "price": 93.77,
+                "value": 6282.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 627,
+                "price": 107.23,
+                "value": 3196.77,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "SELL",
+                "size": -2,
+                "price": 470.34,
+                "value": 768.98,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -1,
+                "price": 549.03,
+                "value": 448.18,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 105541.15,
+        "cash": 41188.23,
+        "total_value": 146729.38
+    },
+    {
+        "datetime": "2024-10-01 00:00:00",
+        "date": "2024-10-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 228,
+                "price": 21.06,
+                "value": -4882.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -143,
+                "price": 45.33,
+                "value": 5495.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "SELL",
+                "size": -27,
+                "price": 82.54,
+                "value": 1990.44,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -73,
+                "price": 101.64,
+                "value": 7162.12,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -15,
+                "price": 245.2,
+                "value": 3134.24,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 208,
+                "price": 96.94,
+                "value": 20162.77,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "BUY",
+                "size": 9,
+                "price": 219.52,
+                "value": 1975.66,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "BUY",
+                "size": 96,
+                "price": 101.32,
+                "value": 9726.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 3,
+                "price": 111.51,
+                "value": 334.52,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "SELL",
+                "size": -3,
+                "price": 486.91,
+                "value": 1153.47,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 126929.53,
+        "cash": 25457.24,
+        "total_value": 152386.78
+    },
+    {
+        "datetime": "2024-11-01 00:00:00",
+        "date": "2024-11-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -925,
+                "price": 99.84,
+                "value": -3273.32,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -1,
+                "price": 254.33,
+                "value": 208.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -1018,
+                "price": 93.47,
+                "value": 13526.94,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "BUY",
+                "size": 7,
+                "price": 218.85,
+                "value": 1531.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -15,
+                "price": 98.12,
+                "value": 1473.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "SELL",
+                "size": -594,
+                "price": 107.75,
+                "value": 5664.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "BUY",
+                "size": 7,
+                "price": 484.72,
+                "value": 3393.03,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 2,
+                "price": 569.4,
+                "value": 1138.81,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "SELL",
+                "size": -38,
+                "price": 108.01,
+                "value": -4104.37,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "SELL",
+                "size": -179,
+                "price": 73.63,
+                "value": 5978.74,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -140727.95,
+        "cash": 289911.98,
+        "total_value": 149184.03
+    },
+    {
+        "datetime": "2025-01-01 00:00:00",
+        "date": "2025-01-01 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -1202,
+                "price": 21.27,
+                "value": -25566.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EEM",
+                "side": "SELL",
+                "size": -316,
+                "price": 41.94,
+                "value": 12143.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "SELL",
+                "size": -217,
+                "price": 75.86,
+                "value": 15997.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "SELL",
+                "size": -110,
+                "price": 95.75,
+                "value": -10532.77,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -21,
+                "price": 241.05,
+                "value": -1462.05,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 66,
+                "price": 92.45,
+                "value": -6169.21,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "SELL",
+                "size": -15,
+                "price": 222.12,
+                "value": 3201.02,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IYR",
+                "side": "SELL",
+                "size": -148,
+                "price": 93.08,
+                "value": 14536.1,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 34,
+                "price": 106.9,
+                "value": -3663.41,
+                "commission": 0.0
+            },
+            {
+                "symbol": "QQQ",
+                "side": "SELL",
+                "size": -2,
+                "price": 516.9,
+                "value": 969.44,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -2,
+                "price": 589.91,
+                "value": 977.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "BUY",
+                "size": 99,
+                "price": 106.85,
+                "value": -10250.98,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "SELL",
+                "size": -49,
+                "price": 75.24,
+                "value": -3686.76,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -213429.99,
+        "cash": 363481.2,
+        "total_value": 150051.2
+    },
+    {
+        "datetime": "2025-02-03 00:00:00",
+        "date": "2025-02-03 00:00:00",
+        "trades": [
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 4550,
+                "price": 22.07,
+                "value": -11731.22,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EFA",
+                "side": "BUY",
+                "size": 139,
+                "price": 77.91,
+                "value": 10829.49,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FXE",
+                "side": "BUY",
+                "size": 217,
+                "price": 94.78,
+                "value": -21498.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "BUY",
+                "size": 25,
+                "price": 259.75,
+                "value": -16.65,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -91,
+                "price": 92.99,
+                "value": -8462.09,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IWM",
+                "side": "BUY",
+                "size": 11,
+                "price": 221.51,
+                "value": 2436.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "SELL",
+                "size": -51,
+                "price": 107.36,
+                "value": -5475.36,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TIP",
+                "side": "BUY",
+                "size": 762,
+                "price": 108.65,
+                "value": 4915.64,
+                "commission": 0.0
+            },
+            {
+                "symbol": "USO",
+                "side": "BUY",
+                "size": 184,
+                "price": 78.42,
+                "value": -702.56,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 7538.72,
+        "cash": 139452.46,
+        "total_value": 146991.17
+    }
+]

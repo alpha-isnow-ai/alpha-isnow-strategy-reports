@@ -1,0 +1,8 @@
+{
+    "leverage": 0.9,
+    "leverage_cap": 2.0,
+    "period": 252,
+    "quantile": 10,
+    "rebalance_months": 1,
+    "total_days": 6406
+}

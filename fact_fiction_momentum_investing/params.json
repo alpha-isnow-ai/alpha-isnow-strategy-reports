@@ -1,0 +1,7 @@
+{
+    "leverage": 0.9,
+    "momentum_period": 252,
+    "quantile": 5,
+    "skip_period": 21,
+    "total_days": 6404
+}

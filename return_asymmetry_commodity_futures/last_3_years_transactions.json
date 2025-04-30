@@ -1,0 +1,3436 @@
+[
+    {
+        "datetime": "2022-02-02 00:00:00",
+        "date": "2022-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -330,
+                "price": 127.46,
+                "value": 29558.58,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -499,
+                "price": 97.9,
+                "value": 50357.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 1646,
+                "price": 22.64,
+                "value": -36672.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 2,
+                "price": 1800.56,
+                "value": 3601.12,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 360,
+                "price": 4.68,
+                "value": 1685.16,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 15,
+                "price": 2613.0,
+                "value": 39195.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 768,
+                "price": 4.43,
+                "value": 3404.93,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "SELL",
+                "size": -2,
+                "price": 1533.25,
+                "value": 2549.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -2534,
+                "price": 2.75,
+                "value": 5359.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 483,
+                "price": 86.64,
+                "value": 41847.12,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -2259,
+                "price": 18.5,
+                "value": -41791.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -33,
+                "price": 163.9,
+                "value": -5408.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "SELL",
+                "size": -7,
+                "price": 719.0,
+                "value": -5033.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "SELL",
+                "size": -1,
+                "price": 1027.54,
+                "value": -1027.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -19,
+                "price": 237.7,
+                "value": -4516.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -31,
+                "price": 140.62,
+                "value": -4359.38,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -6,
+                "price": 767.5,
+                "value": -4605.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 5525.7,
+        "cash": 325170.22,
+        "total_value": 330695.92
+    },
+    {
+        "datetime": "2022-03-02 00:00:00",
+        "date": "2022-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -483,
+                "price": 103.43,
+                "value": 41847.12,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 2259,
+                "price": 18.5,
+                "value": -41791.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "SELL",
+                "size": -2,
+                "price": 1694.0,
+                "value": 2549.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 2,
+                "price": 2503.0,
+                "value": 5006.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "SELL",
+                "size": -1,
+                "price": 1943.31,
+                "value": 1880.77,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "SELL",
+                "size": -115,
+                "price": 4.56,
+                "value": 505.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -1193,
+                "price": 3.12,
+                "value": 2523.05,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 401,
+                "price": 106.9,
+                "value": 42866.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 197,
+                "price": 4.6,
+                "value": 906.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -337,
+                "price": 124.57,
+                "value": -41980.09,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -4,
+                "price": 235.0,
+                "value": -940.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "BUY",
+                "size": 9,
+                "price": 1009.25,
+                "value": -5203.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -11,
+                "price": 160.55,
+                "value": -1766.05,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -6,
+                "price": 141.5,
+                "value": -849.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 8895.3,
+        "cash": 330591.07,
+        "total_value": 339486.37
+    },
+    {
+        "datetime": "2022-04-02 00:00:00",
+        "date": "2022-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CT1",
+                "side": "BUY",
+                "size": 337,
+                "price": 136.0,
+                "value": -41980.09,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -401,
+                "price": 121.08,
+                "value": 42866.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 1,
+                "price": 1937.2,
+                "value": 1937.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "BUY",
+                "size": 2,
+                "price": 1600.0,
+                "value": 3200.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 62,
+                "price": 733.0,
+                "value": 45446.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 462,
+                "price": 99.77,
+                "value": 46093.74,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 358,
+                "price": 4.73,
+                "value": 1691.73,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -1512,
+                "price": 5.69,
+                "value": 6394.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -28090,
+                "price": 3.23,
+                "value": -15741.34,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "SELL",
+                "size": -5,
+                "price": 983.31,
+                "value": -4916.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -1,
+                "price": 1003.0,
+                "value": -1003.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "SELL",
+                "size": -5,
+                "price": 681.5,
+                "value": -3407.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -18,
+                "price": 226.0,
+                "value": -4068.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -30,
+                "price": 137.25,
+                "value": -4117.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -6,
+                "price": 166.78,
+                "value": -1000.65,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2520.74,
+        "cash": 352932.34,
+        "total_value": 350411.6
+    },
+    {
+        "datetime": "2022-06-02 00:00:00",
+        "date": "2022-06-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "C1",
+                "side": "SELL",
+                "size": -62,
+                "price": 704.0,
+                "value": 45446.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -7817,
+                "price": 8.75,
+                "value": 33057.22,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 2,
+                "price": 1846.19,
+                "value": 3692.38,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 1093,
+                "price": 4.33,
+                "value": 4730.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 2394,
+                "price": 19.38,
+                "value": 46395.72,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 2135,
+                "price": 21.81,
+                "value": 46565.42,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 1,
+                "price": 2524.0,
+                "value": 2524.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -49,
+                "price": 112.27,
+                "value": 4888.73,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "SELL",
+                "size": -11,
+                "price": 630.0,
+                "value": -6930.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -17,
+                "price": 133.62,
+                "value": -2271.62,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "SELL",
+                "size": -1,
+                "price": 994.16,
+                "value": -994.16,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "BUY",
+                "size": 3,
+                "price": 239.45,
+                "value": -528.1,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -2,
+                "price": 169.72,
+                "value": -339.45,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 2501,
+                "price": 4.05,
+                "value": -8090.48,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "BUY",
+                "size": 1,
+                "price": 1052.75,
+                "value": -587.37,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2101.81,
+        "cash": 365223.96,
+        "total_value": 363122.15
+    },
+    {
+        "datetime": "2022-07-02 00:00:00",
+        "date": "2022-07-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -413,
+                "price": 103.33,
+                "value": 41205.01,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "BUY",
+                "size": 46,
+                "price": 893.5,
+                "value": -43348.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "SELL",
+                "size": -2135,
+                "price": 20.25,
+                "value": 46565.42,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 157,
+                "price": 18.45,
+                "value": 2896.65,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "BUY",
+                "size": 4,
+                "price": 1479.5,
+                "value": 5918.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 74,
+                "price": 633.75,
+                "value": 46897.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 2017,
+                "price": 3.68,
+                "value": 7427.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 8070,
+                "price": 5.6,
+                "value": 45183.93,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 2,
+                "price": 2265.0,
+                "value": 4530.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -518,
+                "price": 88.6,
+                "value": -45894.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "SELL",
+                "size": -17,
+                "price": 511.25,
+                "value": -8691.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "BUY",
+                "size": 9,
+                "price": 173.6,
+                "value": -1379.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 7,
+                "price": 132.7,
+                "value": -875.67,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -393,
+                "price": 3.79,
+                "value": -1490.02,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -6,
+                "price": 232.85,
+                "value": -1397.1,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -9,
+                "price": 890.0,
+                "value": -8010.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -2088.43,
+        "cash": 360164.63,
+        "total_value": 358076.2
+    },
+    {
+        "datetime": "2022-08-02 00:00:00",
+        "date": "2022-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 518,
+                "price": 97.0,
+                "value": -45894.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -8070,
+                "price": 8.23,
+                "value": 45183.93,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "BUY",
+                "size": 91,
+                "price": 435.0,
+                "value": -53654.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 2,
+                "price": 1771.97,
+                "value": 3543.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 267,
+                "price": 17.67,
+                "value": 4717.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 536,
+                "price": 92.2,
+                "value": 49419.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "BUY",
+                "size": 2,
+                "price": 1424.0,
+                "value": 2848.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 7,
+                "price": 604.0,
+                "value": 4228.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "BUY",
+                "size": 494,
+                "price": 99.81,
+                "value": 49306.14,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "BUY",
+                "size": 54,
+                "price": 909.0,
+                "value": 49086.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "SELL",
+                "size": -41,
+                "price": 2339.0,
+                "value": 2136.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "SELL",
+                "size": -26734,
+                "price": 3.52,
+                "value": 5552.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -31,
+                "price": 211.7,
+                "value": -6562.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -2687,
+                "price": 3.39,
+                "value": -9097.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -11,
+                "price": 179.9,
+                "value": -1978.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -4,
+                "price": 142.55,
+                "value": -570.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -7,
+                "price": 795.0,
+                "value": -5565.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 426.12,
+        "cash": 387401.1,
+        "total_value": 387827.22
+    },
+    {
+        "datetime": "2022-09-02 00:00:00",
+        "date": "2022-09-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 13963,
+                "price": 3.42,
+                "value": -49170.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "BUY",
+                "size": 232,
+                "price": 236.9,
+                "value": -42286.03,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 1,
+                "price": 1695.35,
+                "value": 1695.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -127,
+                "price": 18.06,
+                "value": 2434.1,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 25,
+                "price": 85.99,
+                "value": 2149.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "SELL",
+                "size": -7,
+                "price": 658.0,
+                "value": 4418.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -46,
+                "price": 108.1,
+                "value": 4591.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 526,
+                "price": 83.33,
+                "value": 43828.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -5187,
+                "price": 9.26,
+                "value": -48026.43,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "SELL",
+                "size": -112,
+                "price": 827.33,
+                "value": 1100.86,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 791,
+                "price": 3.5,
+                "value": -2592.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "BUY",
+                "size": 13,
+                "price": 184.22,
+                "value": -2005.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 8,
+                "price": 143.35,
+                "value": -1002.38,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -7933.67,
+        "cash": 383207.59,
+        "total_value": 375273.92
+    },
+    {
+        "datetime": "2022-11-02 00:00:00",
+        "date": "2022-11-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "PL1",
+                "side": "BUY",
+                "size": 58,
+                "price": 943.41,
+                "value": -47985.14,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -2691,
+                "price": 18.45,
+                "value": 51576.16,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 32,
+                "price": 87.97,
+                "value": 2815.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "SELL",
+                "size": -1,
+                "price": 1446.0,
+                "value": 1326.82,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "SELL",
+                "size": -5,
+                "price": 701.0,
+                "value": 3155.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -15,
+                "price": 87.42,
+                "value": 1378.85,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "BUY",
+                "size": 186,
+                "price": 78.4,
+                "value": 14582.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 13014,
+                "price": 6.18,
+                "value": 336.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "SELL",
+                "size": -13705,
+                "price": 3.47,
+                "value": -47576.91,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 115,
+                "price": 3.47,
+                "value": -376.92,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -4,
+                "price": 179.55,
+                "value": -718.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 25,
+                "price": 152.0,
+                "value": -3132.42,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -272,
+                "price": 175.2,
+                "value": -47654.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "BUY",
+                "size": 8,
+                "price": 915.25,
+                "value": -5246.76,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 3344.34,
+        "cash": 371017.98,
+        "total_value": 374362.32
+    },
+    {
+        "datetime": "2022-12-02 00:00:00",
+        "date": "2022-12-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "GC1",
+                "side": "SELL",
+                "size": -28,
+                "price": 1803.09,
+                "value": 52245.79,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 13705,
+                "price": 3.79,
+                "value": -47576.91,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -7827,
+                "price": 6.71,
+                "value": 48363.03,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "BUY",
+                "size": 1,
+                "price": 1438.5,
+                "value": 1438.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -8,
+                "price": 88.72,
+                "value": 668.73,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 5,
+                "price": 660.25,
+                "value": 3301.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 57,
+                "price": 81.35,
+                "value": 4636.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 28963,
+                "price": 3.21,
+                "value": 3995.73,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 2496,
+                "price": 19.66,
+                "value": 49071.36,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -56,
+                "price": 84.28,
+                "value": 5237.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "SELL",
+                "size": -2151,
+                "price": 22.77,
+                "value": -48968.38,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -15,
+                "price": 159.65,
+                "value": -2394.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -1,
+                "price": 155.4,
+                "value": -155.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "SELL",
+                "size": -47,
+                "price": 1041.35,
+                "value": -48943.47,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 1,
+                "price": 2489.0,
+                "value": -2339.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -3,
+                "price": 181.15,
+                "value": -543.45,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -9,
+                "price": 782.0,
+                "value": -7038.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1344.53,
+        "cash": 381661.9,
+        "total_value": 383006.43
+    },
+    {
+        "datetime": "2023-02-02 00:00:00",
+        "date": "2023-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "W1",
+                "side": "BUY",
+                "size": 62,
+                "price": 769.0,
+                "value": -41797.78,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 1438,
+                "price": 2.89,
+                "value": 4156.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 19,
+                "price": 84.8,
+                "value": 1611.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "SELL",
+                "size": -2,
+                "price": 1518.5,
+                "value": 2660.21,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "SELL",
+                "size": -3,
+                "price": 679.25,
+                "value": 1899.43,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "BUY",
+                "size": 559,
+                "price": 177.0,
+                "value": -1905.15,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 22,
+                "price": 77.06,
+                "value": 1695.32,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -17,
+                "price": 85.8,
+                "value": 1589.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 148,
+                "price": 23.98,
+                "value": -3369.28,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -4742,
+                "price": 21.36,
+                "value": 1096.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "SELL",
+                "size": -24,
+                "price": 1950.41,
+                "value": -46809.84,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "BUY",
+                "size": 8,
+                "price": 183.57,
+                "value": -1239.74,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 1,
+                "price": 2587.0,
+                "value": -2339.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 19,
+                "price": 162.22,
+                "value": -2382.46,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1470.12,
+        "cash": 371523.52,
+        "total_value": 372993.64
+    },
+    {
+        "datetime": "2023-03-02 00:00:00",
+        "date": "2023-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -625,
+                "price": 77.9,
+                "value": 56522.37,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 487,
+                "price": 2.81,
+                "value": 1367.93,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 4,
+                "price": 637.0,
+                "value": 2548.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -11,
+                "price": 183.95,
+                "value": 1947.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 16405,
+                "price": 2.94,
+                "value": 48197.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "BUY",
+                "size": 9,
+                "price": 82.85,
+                "value": 745.65,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -101,
+                "price": 20.57,
+                "value": -2077.57,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "BUY",
+                "size": 12,
+                "price": 193.68,
+                "value": -1859.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "SELL",
+                "size": -296,
+                "price": 21.0,
+                "value": -6215.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "SELL",
+                "size": -2,
+                "price": 1837.14,
+                "value": -3674.28,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 1,
+                "price": 2769.0,
+                "value": -2339.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 3,
+                "price": 165.12,
+                "value": -376.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "SELL",
+                "size": -3,
+                "price": 955.34,
+                "value": -2866.02,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -3088.53,
+        "cash": 378619.5,
+        "total_value": 375530.97
+    },
+    {
+        "datetime": "2023-05-02 00:00:00",
+        "date": "2023-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "C1",
+                "side": "SELL",
+                "size": -75,
+                "price": 641.75,
+                "value": 47501.17,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "BUY",
+                "size": 250,
+                "price": 209.53,
+                "value": -38741.76,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "BUY",
+                "size": 131,
+                "price": 303.5,
+                "value": 39758.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "SELL",
+                "size": -4,
+                "price": 1460.0,
+                "value": 5320.41,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -348,
+                "price": 2.38,
+                "value": 1104.48,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -66,
+                "price": 78.6,
+                "value": 6161.77,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -63,
+                "price": 78.83,
+                "value": 5268.82,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 881,
+                "price": 2.31,
+                "value": 2038.63,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 529,
+                "price": 75.76,
+                "value": 40077.04,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 5,
+                "price": 1982.75,
+                "value": -9708.48,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -475,
+                "price": 188.1,
+                "value": 5943.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 49,
+                "price": 164.8,
+                "value": -6144.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 694,
+                "price": 24.96,
+                "value": -15641.17,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 778,
+                "price": 25.5,
+                "value": -16591.63,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "BUY",
+                "size": 11,
+                "price": 1051.0,
+                "value": -11398.09,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 5,
+                "price": 3130.0,
+                "value": -11695.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -12646.29,
+        "cash": 316305.47,
+        "total_value": 303659.18
+    },
+    {
+        "datetime": "2023-06-02 00:00:00",
+        "date": "2023-06-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -504,
+                "price": 86.42,
+                "value": 47053.55,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 21,
+                "price": 1977.87,
+                "value": -40775.64,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "BUY",
+                "size": 214,
+                "price": 183.3,
+                "value": -40253.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 1605,
+                "price": 23.86,
+                "value": -36173.03,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "SELL",
+                "size": -11,
+                "price": 336.5,
+                "value": 3338.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 778,
+                "price": 2.31,
+                "value": 1799.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "BUY",
+                "size": 4,
+                "price": 1242.0,
+                "value": 4968.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 77,
+                "price": 523.5,
+                "value": 40309.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 50,
+                "price": 70.25,
+                "value": 3512.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 609,
+                "price": 2.28,
+                "value": 1388.52,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 10961,
+                "price": 3.71,
+                "value": 40692.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -65,
+                "price": 623.0,
+                "value": -40495.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -168,
+                "price": 242.9,
+                "value": -40807.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -1014,
+                "price": 80.33,
+                "value": 1512.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -65,
+                "price": 24.88,
+                "value": -1617.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 8,
+                "price": 172.72,
+                "value": -1003.14,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "SELL",
+                "size": -1,
+                "price": 1005.0,
+                "value": -1005.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 3670.73,
+        "cash": 315819.35,
+        "total_value": 319490.08
+    },
+    {
+        "datetime": "2023-08-02 00:00:00",
+        "date": "2023-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "C1",
+                "side": "SELL",
+                "size": -77,
+                "price": 507.25,
+                "value": 40309.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -17895,
+                "price": 2.69,
+                "value": 51625.04,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 1634,
+                "price": 24.39,
+                "value": -35077.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -31,
+                "price": 81.54,
+                "value": 2333.81,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 383,
+                "price": 3.91,
+                "value": 1497.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -2766,
+                "price": 3.03,
+                "value": 8673.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "SELL",
+                "size": -18,
+                "price": 455.0,
+                "value": 5463.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 25,
+                "price": 3538.0,
+                "value": 12049.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 22,
+                "price": 1944.49,
+                "value": 42778.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -8,
+                "price": 251.9,
+                "value": -2015.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -269,
+                "price": 164.55,
+                "value": -44263.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -7,
+                "price": 181.62,
+                "value": -1271.38,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -9,
+                "price": 85.25,
+                "value": -767.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -511,
+                "price": 85.83,
+                "value": -43859.13,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "SELL",
+                "size": -7,
+                "price": 931.0,
+                "value": -6517.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -1903.81,
+        "cash": 348201.63,
+        "total_value": 346297.82
+    },
+    {
+        "datetime": "2023-09-02 00:00:00",
+        "date": "2023-09-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "FC1",
+                "side": "BUY",
+                "size": 176,
+                "price": 255.78,
+                "value": -42822.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "BUY",
+                "size": 269,
+                "price": 151.5,
+                "value": -44263.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "SELL",
+                "size": -102,
+                "price": 493.5,
+                "value": 30957.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 5,
+                "price": 82.9,
+                "value": 414.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 904,
+                "price": 3.81,
+                "value": 3444.24,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 599,
+                "price": 3.03,
+                "value": 1816.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "BUY",
+                "size": 2,
+                "price": 1369.0,
+                "value": 2738.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 97,
+                "price": 478.0,
+                "value": 46366.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 1,
+                "price": 3626.0,
+                "value": 3626.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 2,
+                "price": 1939.59,
+                "value": 3879.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -13,
+                "price": 602.0,
+                "value": -7826.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -17,
+                "price": 180.8,
+                "value": -3073.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -1816,
+                "price": 25.11,
+                "value": -45599.76,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -111,
+                "price": 74.33,
+                "value": -8250.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "SELL",
+                "size": -1940,
+                "price": 24.39,
+                "value": -47311.36,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "SELL",
+                "size": -1,
+                "price": 967.23,
+                "value": -967.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -12,
+                "price": 88.79,
+                "value": -1065.48,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 44.99,
+        "cash": 364577.37,
+        "total_value": 364622.36
+    },
+    {
+        "datetime": "2023-11-02 00:00:00",
+        "date": "2023-11-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "GC1",
+                "side": "SELL",
+                "size": -24,
+                "price": 1983.15,
+                "value": 46658.07,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "SELL",
+                "size": -12248,
+                "price": 3.66,
+                "value": 45634.48,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 260,
+                "price": 184.0,
+                "value": -33937.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 628,
+                "price": 73.62,
+                "value": -49822.43,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 35,
+                "price": 80.44,
+                "value": 2815.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 861,
+                "price": 2.9,
+                "value": 2492.77,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "BUY",
+                "size": 118,
+                "price": 400.5,
+                "value": 47259.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "BUY",
+                "size": 2,
+                "price": 1290.25,
+                "value": 2580.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "BUY",
+                "size": 197,
+                "price": 238.97,
+                "value": 47078.07,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "SELL",
+                "size": -3,
+                "price": 922.0,
+                "value": -2766.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -1,
+                "price": 589.0,
+                "value": -589.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -294,
+                "price": 160.7,
+                "value": -47245.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -12550,
+                "price": 3.76,
+                "value": -47225.65,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "SELL",
+                "size": -108,
+                "price": 22.92,
+                "value": -2475.85,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 103,
+                "price": 27.56,
+                "value": -2586.33,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -69,
+                "price": 79.55,
+                "value": -5488.95,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 4728.91,
+        "cash": 363657.21,
+        "total_value": 368386.12
+    },
+    {
+        "datetime": "2023-12-02 00:00:00",
+        "date": "2023-12-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "O1",
+                "side": "SELL",
+                "size": -118,
+                "price": 374.5,
+                "value": 47259.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "SELL",
+                "size": -36,
+                "price": 1361.5,
+                "value": 47529.37,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "SELL",
+                "size": -2,
+                "price": 4428.0,
+                "value": 7089.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 38,
+                "price": 75.71,
+                "value": 2876.98,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 1406,
+                "price": 2.7,
+                "value": 3800.98,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 663,
+                "price": 71.6,
+                "value": 47470.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "BUY",
+                "size": 20,
+                "price": 220.0,
+                "value": 4400.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 275,
+                "price": 171.82,
+                "value": 47251.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "BUY",
+                "size": 1,
+                "price": 926.66,
+                "value": -1013.07,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "BUY",
+                "size": 1,
+                "price": 595.5,
+                "value": -619.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "BUY",
+                "size": 53,
+                "price": 193.9,
+                "value": -8517.1,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -4234,
+                "price": 2.77,
+                "value": -11728.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -142,
+                "price": 26.15,
+                "value": -3713.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -1,
+                "price": 76.0,
+                "value": -76.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 217,
+                "price": 25.26,
+                "value": -5275.3,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1451.47,
+        "cash": 358154.77,
+        "total_value": 359606.24
+    },
+    {
+        "datetime": "2024-02-02 00:00:00",
+        "date": "2024-02-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "C1",
+                "side": "SELL",
+                "size": -97,
+                "price": 457.25,
+                "value": 46366.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -275,
+                "price": 183.18,
+                "value": 47251.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "BUY",
+                "size": 78,
+                "price": 609.0,
+                "value": -48290.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 66,
+                "price": 73.9,
+                "value": 4877.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "BUY",
+                "size": 132,
+                "price": 372.0,
+                "value": 49104.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -8,
+                "price": 245.0,
+                "value": 1897.81,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 1536,
+                "price": 2.66,
+                "value": 4086.68,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -53,
+                "price": 83.75,
+                "value": 3794.8,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 4023,
+                "price": 23.44,
+                "value": 4091.19,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "SELL",
+                "size": -13256,
+                "price": 3.85,
+                "value": -51095.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "SELL",
+                "size": -42,
+                "price": 1213.75,
+                "value": -50977.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "BUY",
+                "size": 2,
+                "price": 86.42,
+                "value": -170.29,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "SELL",
+                "size": -375,
+                "price": 23.17,
+                "value": -8689.91,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -7966,
+                "price": 2.07,
+                "value": -16465.72,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -22,
+                "price": 194.2,
+                "value": -4272.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PL1",
+                "side": "SELL",
+                "size": -5,
+                "price": 912.93,
+                "value": -4564.66,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 3968.48,
+        "cash": 395303.3,
+        "total_value": 399271.78
+    },
+    {
+        "datetime": "2024-03-02 00:00:00",
+        "date": "2024-03-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "PL1",
+                "side": "BUY",
+                "size": 55,
+                "price": 878.05,
+                "value": -55218.22,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "BUY",
+                "size": 42,
+                "price": 1139.0,
+                "value": -50977.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 2206,
+                "price": 22.67,
+                "value": -53201.82,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -6,
+                "price": 77.49,
+                "value": 452.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "BUY",
+                "size": 1,
+                "price": 254.3,
+                "value": 254.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 401,
+                "price": 21.83,
+                "value": 8753.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 1286,
+                "price": 2.59,
+                "value": 3336.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 5,
+                "price": 86.62,
+                "value": 433.12,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 127,
+                "price": 429.25,
+                "value": 54514.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "BUY",
+                "size": 13,
+                "price": 372.5,
+                "value": 4842.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "SELL",
+                "size": -19,
+                "price": 6769.0,
+                "value": -15159.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "BUY",
+                "size": 35,
+                "price": 97.56,
+                "value": -2979.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -287,
+                "price": 185.43,
+                "value": -53216.98,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -2689,
+                "price": 1.99,
+                "value": -5359.18,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "SELL",
+                "size": -26,
+                "price": 2043.29,
+                "value": -53125.54,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "SELL",
+                "size": -798,
+                "price": 3.84,
+                "value": -3065.12,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -19,
+                "price": 193.55,
+                "value": -3677.45,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -354.5,
+        "cash": 421139.75,
+        "total_value": 420785.25
+    },
+    {
+        "datetime": "2024-04-02 00:00:00",
+        "date": "2024-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 27439,
+                "price": 1.84,
+                "value": -80778.73,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -2569,
+                "price": 22.19,
+                "value": 59571.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "BUY",
+                "size": 4,
+                "price": 246.68,
+                "value": 986.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -71,
+                "price": 84.04,
+                "value": 5359.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "BUY",
+                "size": 1110,
+                "price": 92.76,
+                "value": 4049.76,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -1014,
+                "price": 2.64,
+                "value": 3065.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 573,
+                "price": 180.65,
+                "value": -1551.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "BUY",
+                "size": 92,
+                "price": 557.5,
+                "value": 51290.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "SELL",
+                "size": -2050,
+                "price": 25.09,
+                "value": -51432.45,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 3,
+                "price": 2250.08,
+                "value": -6129.87,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "SELL",
+                "size": -245,
+                "price": 435.75,
+                "value": 3096.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 2,
+                "price": 9720.0,
+                "value": -13538.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 1337,
+                "price": 4.05,
+                "value": -5152.44,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -1205,
+                "price": 87.22,
+                "value": -7353.62,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "BUY",
+                "size": 9,
+                "price": 188.0,
+                "value": -1489.74,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -11042.38,
+        "cash": 407622.3,
+        "total_value": 396579.92
+    },
+    {
+        "datetime": "2024-05-02 00:00:00",
+        "date": "2024-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 6,
+                "price": 8925.47,
+                "value": -40614.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -92,
+                "price": 598.75,
+                "value": 51290.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -18,
+                "price": 243.86,
+                "value": 4274.69,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -17,
+                "price": 79.19,
+                "value": 1283.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "SELL",
+                "size": -15,
+                "price": 361.28,
+                "value": 5580.67,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -14,
+                "price": 176.04,
+                "value": 2529.1,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 2455,
+                "price": 19.22,
+                "value": 47181.91,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "BUY",
+                "size": 177,
+                "price": 74.55,
+                "value": 13194.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -284,
+                "price": 2.46,
+                "value": 858.69,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -24429,
+                "price": 1.98,
+                "value": -48271.7,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 2,
+                "price": 2323.85,
+                "value": -4086.58,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 283,
+                "price": 26.77,
+                "value": -7100.19,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "BUY",
+                "size": 55,
+                "price": 219.98,
+                "value": -9103.97,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 82,
+                "price": 92.78,
+                "value": -7152.45,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 13,
+                "price": 450.0,
+                "value": -5664.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 2334,
+                "price": 4.57,
+                "value": -8994.61,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 6177.81,
+        "cash": 362924.01,
+        "total_value": 369101.82
+    },
+    {
+        "datetime": "2024-07-02 00:00:00",
+        "date": "2024-07-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 21,
+                "price": 2332.27,
+                "value": -42909.09,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 10383,
+                "price": 4.42,
+                "value": -40013.31,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 508,
+                "price": 89.1,
+                "value": -44310.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -17,
+                "price": 257.22,
+                "value": 4037.2,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -46,
+                "price": 83.95,
+                "value": 3472.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -22,
+                "price": 185.01,
+                "value": 3974.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -175,
+                "price": 20.06,
+                "value": 3363.27,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -1617,
+                "price": 2.61,
+                "value": 4889.09,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "BUY",
+                "size": 17,
+                "price": 298.02,
+                "value": 5066.32,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CC1",
+                "side": "BUY",
+                "size": 6,
+                "price": 7299.67,
+                "value": 43798.03,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -1400,
+                "price": 68.93,
+                "value": 18467.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "BUY",
+                "size": 13,
+                "price": 225.32,
+                "value": -2151.85,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 5869,
+                "price": 2.45,
+                "value": -11597.14,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -77,
+                "price": 589.0,
+                "value": -45353.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 205,
+                "price": 29.46,
+                "value": -5143.24,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "SELL",
+                "size": -39,
+                "price": 1158.32,
+                "value": -45174.63,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "SELL",
+                "size": -4,
+                "price": 421.75,
+                "value": -1687.0,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 4304.92,
+        "cash": 359400.42,
+        "total_value": 363705.34
+    },
+    {
+        "datetime": "2024-08-02 00:00:00",
+        "date": "2024-08-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "O1",
+                "side": "SELL",
+                "size": -147,
+                "price": 314.51,
+                "value": 53432.15,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "BUY",
+                "size": 77,
+                "price": 532.0,
+                "value": -45353.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "BUY",
+                "size": 10,
+                "price": 253.92,
+                "value": 2539.22,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 9,
+                "price": 185.0,
+                "value": 1664.97,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 76,
+                "price": 74.38,
+                "value": 5652.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "BUY",
+                "size": 302,
+                "price": 18.56,
+                "value": 5605.57,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 2253,
+                "price": 2.41,
+                "value": 5436.49,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "BUY",
+                "size": 19,
+                "price": 2445.86,
+                "value": 46471.34,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "SELL",
+                "size": -7,
+                "price": 1019.55,
+                "value": -7136.88,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "SELL",
+                "size": -11,
+                "price": 399.25,
+                "value": -4391.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -49,
+                "price": 66.52,
+                "value": -3259.69,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -514,
+                "price": 93.0,
+                "value": -47802.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "SELL",
+                "size": -120,
+                "price": 28.5,
+                "value": -3420.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -5800,
+                "price": 2.01,
+                "value": -11658.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -6,
+                "price": 226.81,
+                "value": -1360.89,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -9643.72,
+        "cash": 376328.04,
+        "total_value": 366684.33
+    },
+    {
+        "datetime": "2024-10-02 00:00:00",
+        "date": "2024-10-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 120,
+                "price": 431.25,
+                "value": -51832.5,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "BUY",
+                "size": 718,
+                "price": 70.32,
+                "value": -49376.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "BUY",
+                "size": 87,
+                "price": 1045.5,
+                "value": -9446.01,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -12,
+                "price": 246.19,
+                "value": 2860.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -6,
+                "price": 72.17,
+                "value": 452.14,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -84,
+                "price": 2.19,
+                "value": 248.16,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -23,
+                "price": 184.07,
+                "value": 4158.42,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "SELL",
+                "size": -2,
+                "price": 2660.37,
+                "value": 4891.72,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 298,
+                "price": 31.36,
+                "value": -7549.15,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -72,
+                "price": 606.25,
+                "value": -43650.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "SELL",
+                "size": -9569,
+                "price": 4.58,
+                "value": -43792.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "SELL",
+                "size": -5,
+                "price": 83.85,
+                "value": -419.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "BUY",
+                "size": 46,
+                "price": 265.46,
+                "value": -7694.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -4469,
+                "price": 23.0,
+                "value": 6022.64,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 9372,
+                "price": 2.96,
+                "value": -18594.94,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 1500.26,
+        "cash": 337628.55,
+        "total_value": 339128.81
+    },
+    {
+        "datetime": "2024-11-02 00:00:00",
+        "date": "2024-11-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 519,
+                "price": 84.53,
+                "value": -48221.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CL1",
+                "side": "BUY",
+                "size": 25,
+                "price": 71.05,
+                "value": 1776.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "BUY",
+                "size": 6,
+                "price": 245.04,
+                "value": 1470.24,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "BUY",
+                "size": 4,
+                "price": 990.5,
+                "value": 3962.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "BUY",
+                "size": 341,
+                "price": 2.27,
+                "value": 772.37,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "BUY",
+                "size": 7,
+                "price": 185.71,
+                "value": 1299.97,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "SELL",
+                "size": -9,
+                "price": 32.67,
+                "value": -294.01,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "SELL",
+                "size": -113,
+                "price": 397.0,
+                "value": -44861.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "W1",
+                "side": "SELL",
+                "size": -7,
+                "price": 574.75,
+                "value": -4023.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -162,
+                "price": 22.79,
+                "value": -3692.01,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "SELL",
+                "size": -858,
+                "price": 4.34,
+                "value": -3722.35,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "SELL",
+                "size": -21,
+                "price": 245.96,
+                "value": -5165.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "SELL",
+                "size": -2062,
+                "price": 2.71,
+                "value": -5583.9,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": -332.17,
+        "cash": 351820.88,
+        "total_value": 351488.7
+    },
+    {
+        "datetime": "2025-04-02 00:00:00",
+        "date": "2025-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "CL1",
+                "side": "SELL",
+                "size": -647,
+                "price": 67.88,
+                "value": 48648.21,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LC1",
+                "side": "SELL",
+                "size": -243,
+                "price": 209.29,
+                "value": 43969.02,
+                "commission": 0.0
+            },
+            {
+                "symbol": "O1",
+                "side": "BUY",
+                "size": 113,
+                "price": 356.0,
+                "value": -44861.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "FC1",
+                "side": "SELL",
+                "size": -34,
+                "price": 288.3,
+                "value": 8111.44,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HO1",
+                "side": "SELL",
+                "size": -1433,
+                "price": 2.3,
+                "value": 4216.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SI1",
+                "side": "BUY",
+                "size": 2666,
+                "price": 33.67,
+                "value": 7506.15,
+                "commission": 0.0
+            },
+            {
+                "symbol": "C1",
+                "side": "BUY",
+                "size": 93,
+                "price": 455.75,
+                "value": 42384.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LH1",
+                "side": "BUY",
+                "size": 490,
+                "price": 87.38,
+                "value": 42813.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GC1",
+                "side": "SELL",
+                "size": -3,
+                "price": 3115.27,
+                "value": 7337.58,
+                "commission": 0.0
+            },
+            {
+                "symbol": "S1",
+                "side": "SELL",
+                "size": -86,
+                "price": 1029.25,
+                "value": 4628.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CT1",
+                "side": "SELL",
+                "size": -628,
+                "price": 68.16,
+                "value": -42801.72,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KC1",
+                "side": "BUY",
+                "size": 75,
+                "price": 389.37,
+                "value": -13211.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SB1",
+                "side": "SELL",
+                "size": -166,
+                "price": 19.36,
+                "value": -3213.53,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HG1",
+                "side": "BUY",
+                "size": 1891,
+                "price": 5.03,
+                "value": -8617.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NG1",
+                "side": "BUY",
+                "size": 6195,
+                "price": 4.03,
+                "value": -12833.83,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 11515.67,
+        "cash": 324691.78,
+        "total_value": 336207.45
+    }
+]

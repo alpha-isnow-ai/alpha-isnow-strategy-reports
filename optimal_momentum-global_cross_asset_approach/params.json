@@ -1,0 +1,7 @@
+{
+    "leverage": 0.9,
+    "momentum_period": 126,
+    "num_selection": 2,
+    "rebalance_monthly": 1,
+    "total_days": 8902
+}

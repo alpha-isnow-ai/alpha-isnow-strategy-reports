@@ -1,0 +1,5 @@
+{
+    "leverage": 0.9,
+    "max_missing_days": 5,
+    "total_days": 8902
+}

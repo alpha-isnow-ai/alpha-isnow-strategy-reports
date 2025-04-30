@@ -1,0 +1,7 @@
+{
+    "leverage": 0.9,
+    "period": 21,
+    "quantile": 10,
+    "slope_std_threshold": 4.0,
+    "total_days": 6404
+}

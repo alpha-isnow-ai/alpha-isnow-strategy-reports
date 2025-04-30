@@ -1,0 +1,15 @@
+{
+    "start_cash": 10000.0,
+    "final_value": 259647.69,
+    "net_profit": 249647.69,
+    "total_return_percent": 2496.48,
+    "sharpe_ratio": 1.75,
+    "annual_return_percent": 14.3,
+    "annual_volatility_percent": 8.18,
+    "max_drawdown_percent": {
+        "len": 1684,
+        "drawdown": 23.94,
+        "moneydown": 47868.36
+    },
+    "risk_free_rate": 0.0
+}
