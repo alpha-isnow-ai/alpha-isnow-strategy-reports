@@ -1,282 +1,602 @@
 {
     "64_dynamic_hedge_commodities": {
         "display_name": "Rethinking the 60/40 Portfolio: Dynamic Hedging with Commodities",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909458",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909458",
-        "desc": "\nHistorically, the negative correlation between stocks and bonds has been a cornerstone of the 60/40 strategy, offering a hedge against market volatility and economic downturns.\nHowever, recent shifts in market dynamics, particularly the increasing correlation between these asset classes during periods of high inflation, have challenged the effectiveness of this traditional allocation.\nThis paper examines the evolving relationship between stocks and bonds, the impact of inflation on asset correlations, and the potential benefits of incorporating commodities as a dynamic hedge to enhance portfolio performance in the current economic environment.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909458\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909458",
+        "paper_url": "Historically, the negative correlation between stocks and bonds has been a cornerstone of the 60/40 strategy, offering a hedge against market volatility and economic downturns.\nHowever, recent shifts in market dynamics, particularly the increasing correlation between these asset classes during periods of high inflation, have challenged the effectiveness of this traditional allocation.\nThis paper examines the evolving relationship between stocks and bonds, the impact of inflation on asset correlations, and the potential benefits of incorporating commodities as a dynamic hedge to enhance portfolio performance in the current economic environment.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "abnormal_returns_exchange-traded_funds": {
         "display_name": "Abnormal Returns, Momentum, and Contrarian Exchange-Traded Funds",
-        "pdf_url": "https://www2.hawaii.edu/~rheesg/Published%20Papers/2008/Abnormal%20returns%20with%20momentum.pdf",
-        "paper_url": "https://www2.hawaii.edu/~rheesg/Published%20Papers/2008/Abnormal%20returns%20with%20momentum.pdf",
-        "desc": "\nInvesting in portfolios of exchange traded funds (ETFs) provides abnormal returns that exceed transactions costs, when returns are adjusted for risk using Fama & French\u2019s three factor model.\nShort formation and holding periods of one day to one week provide abnormal contrarian returns as past losers become winners and past winners become losers.\nMedium formation and holding periods of 4 to 39 weeks provide abnormal momentum returns as past winners keep winning and past losers keep losing.\nAbnormal returns result for portfolios of ETFs in an asset allocation setting including all four types of ETFs, namely, domestic, international, sector, and bond ETFs,\nwith contrarian returns maximized over a one day formation and holding period, and with momentum returns maximized over a 20 week formation and holding period.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://www2.hawaii.edu/~rheesg/Published%20Papers/2008/Abnormal%20returns%20with%20momentum.pdf\nhttps://www2.hawaii.edu/~rheesg/Published%20Papers/2008/Abnormal%20returns%20with%20momentum.pdf",
+        "paper_url": "http://www.fma.org/Texas/Papers/MomentumContrarianAbnormalReturnsandETFs.pdf\nInvesting in portfolios of exchange traded funds (ETFs) provides abnormal returns that exceed transactions costs, when returns are adjusted for risk using Fama & French\u2019s three factor model.\nShort formation and holding periods of one day to one week provide abnormal contrarian returns as past losers become winners and past winners become losers.\nMedium formation and holding periods of 4 to 39 weeks provide abnormal momentum returns as past winners keep winning and past losers keep losing.\nAbnormal returns result for portfolios of ETFs in an asset allocation setting including all four types of ETFs, namely, domestic, international, sector, and bond ETFs,\nwith contrarian returns maximized over a one day formation and holding period, and with momentum returns maximized over a 20 week formation and holding period.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "betting_against_beta": {
         "display_name": "Betting Against Beta",
         "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0304405X13002675/pdfft?md5=631dae6ac55a9c4602f384d42c1cb18e&pid=1-s2.0-S0304405X13002675-main.pdf",
-        "paper_url": "https://www.sciencedirect.com/science/article/pii/S0304405X13002675",
-        "desc": "\nThe Betting Against Beta (BAB) strategy is a systematic long-short portfolio designed to exploit a persistent market anomaly. It is based on the observation that, contrary to standard CAPM predictions,\nlow\u2010beta securities tend to deliver higher risk\u2010adjusted returns compared to high\u2010beta securities.\nThis phenomenon arises because many investors face leverage or margin constraints and therefore overinvest in high\u2010beta assets in an effort to reach higher returns without the ability to optimally lever up their desired efficient portfolios.\nIn turn, this behavior depresses the risk premium on high\u2010beta assets while low\u2010beta assets\u2014if appropriately leveraged\u2014offer superior risk-adjusted performance.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "paper_url": "https://www.sciencedirect.com/science/article/pii/S0304405X13002675#keys0005",
+        "desc": "The Betting Against Beta (BAB) strategy is a systematic long-short portfolio designed to exploit a persistent market anomaly. It is based on the observation that, contrary to standard CAPM predictions,\nlow\u2010beta securities tend to deliver higher risk\u2010adjusted returns compared to high\u2010beta securities.\nThis phenomenon arises because many investors face leverage or margin constraints and therefore overinvest in high\u2010beta assets in an effort to reach higher returns without the ability to optimally lever up their desired efficient portfolios.\nIn turn, this behavior depresses the risk premium on high\u2010beta assets while low\u2010beta assets\u2014if appropriately leveraged\u2014offer superior risk-adjusted performance.\n\nThe BAB strategy constructs a market\u2013neutral (zero-beta) portfolio by going long on low\u2013beta securities (after leveraging them to have a beta of one) and shorting high\u2013beta securities (after de-leveraging them to reduce their beta to one).\nBy neutralizing market risk, the strategy captures the abnormal return\u2014termed \"alpha\"\u2014that arises from this mispricing. Empirical evidence has shown that the BAB factor produces significant positive risk-adjusted returns across different asset classes such as equities, bonds, and futures.\n",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "equity_returns_at_turn_of_the_month": {
         "display_name": "Equity Returns at the Turn of the Month",
-        "pdf_url": "https://business.purdue.edu/faculty/mcconnell/publications/Equity-Returns-at-the-Turn-of-the-Month.pdf",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=917884",
-        "desc": "\nA turn-of-the-month effect in U.S. equity returns was initially identified by Lakonishok and Smidt (1988) using the DJIA for the period 1897-1986.\nAccording to the turn-of-the-month effect, equity returns over the interval beginning the last trading day of the month and ending three days later are significantly higher than over other days.\nUsing CRSP daily returns, we find that the turn-of-the-month effect persists over the recent interval of 1987-2005: in essence,\nover this 19-year period (and over the 109-year period of 1897-2005) all of the excess market return occurred during the four-day turn-of-the-month interval.\nThus, during the other 16 trading days of the month, on average, investors received no reward for bearing market risk.\nWe further find that the turn-of-the-month effect is not confined to small or low-priced stocks; it is not confined to the December-January turn-of-the-month;\nit is not confined to calendar-quarter-ends; it is not confined to the U.S.; and it is not due to market risk as traditionally measured: the standard deviation of returns at the turn-of-the-month is no higher than during other days.\nThis persistent peculiarity in equity returns poses a challenge to both \"rational\" and \"behavioral\" models of asset pricing.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://business.purdue.edu/faculty/mcconnell/publications/Equity-Returns-at-the-Turn-of-the-Month.pdf\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=917884",
+        "paper_url": "A turn-of-the-month effect in U.S. equity returns was initially identified by Lakonishok and Smidt (1988) using the DJIA for the period 1897-1986.\nAccording to the turn-of-the-month effect, equity returns over the interval beginning the last trading day of the month and ending three days later are significantly higher than over other days.\nUsing CRSP daily returns, we find that the turn-of-the-month effect persists over the recent interval of 1987-2005: in essence,\nover this 19-year period (and over the 109-year period of 1897-2005) all of the excess market return occurred during the four-day turn-of-the-month interval.\nThus, during the other 16 trading days of the month, on average, investors received no reward for bearing market risk.\nWe further find that the turn-of-the-month effect is not confined to small or low-priced stocks; it is not confined to the December-January turn-of-the-month;\nit is not confined to calendar-quarter-ends; it is not confined to the U.S.; and it is not due to market risk as traditionally measured: the standard deviation of returns at the turn-of-the-month is no higher than during other days.\nThis persistent peculiarity in equity returns poses a challenge to both \"rational\" and \"behavioral\" models of asset pricing.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "fact_fiction_momentum_investing": {
         "display_name": "Fact, Fiction and Momentum Investing",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2435323",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2435323",
-        "desc": "\nIt\u2019s been over 20 years since the academic discovery of momentum investing (Jegadeesh and Titman (1993), Asness (1994)), yet much confusion and debate remains regarding its efficacy and its use as a practical investment tool.\nIn some cases \u201cconfusion and debate\u201d is us attempting to be polite, as it is near impossible for informed practitioners and academics to still believe some of the myths uttered about momentum \u2014 but that impossibility is often belied by real world statements.\nIn this article, we aim to clear up much of the confusion by documenting what we know about momentum and disproving many of the often-repeated myths.\nWe highlight ten myths about momentum and refute them, using results from widely circulated academic papers and analysis from the simplest and best publicly available data.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2435323\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=2435323",
+        "paper_url": "It\u2019s been over 20 years since the academic discovery of momentum investing (Jegadeesh and Titman (1993), Asness (1994)), yet much confusion and debate remains regarding its efficacy and its use as a practical investment tool.\nIn some cases \u201cconfusion and debate\u201d is us attempting to be polite, as it is near impossible for informed practitioners and academics to still believe some of the myths uttered about momentum \u2014 but that impossibility is often belied by real world statements.\nIn this article, we aim to clear up much of the confusion by documenting what we know about momentum and disproving many of the often-repeated myths.\nWe highlight ten myths about momentum and refute them, using results from widely circulated academic papers and analysis from the simplest and best publicly available data.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "finding_consistent_trends_strong-rsi": {
         "display_name": "Finding Consistent Trends with Strong Momentum \u2013 Rsi",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3412429",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3412429",
-        "desc": "\nInvestors and traders typically use the Relative Strength Index (RSI) to find signals that help identify turning points in security prices.\nThis strategy, however, discounts the true nature of the indicator and limits its potential. A breakdown of the RSI formula reveals that its power lies in its ability to identify consistent uptrends with strong momentum.\nSome practitioners use RSI ranges to identify existing trends and RSI extremes to signal momentum shifts. However, these approaches do not quantify how long RSI should hold its range, how regularly RSI should reach a momentum milestone and,\nmost importantly, if RSI range and momentum indications have predictive value. The goal of this paper is to systematically test RSI range and momentum signals using stocks in the S&P 500. Moreover,\nthis paper will show that the RSI range alone is inadequate because it does not always capture upside momentum. The RSI range measures trend consistency well,\nbut a momentum component is needed to uncover the strongest uptrends. After quantifying and testing, this paper will provide evidence that signals combining an RSI bull range with RSI momentum can foreshadow sizable advances with good success rates.\nAs such, these signals can be part of a successful investing strategy that combines trend-following and momentum.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3412429\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=3412429",
+        "paper_url": "Investors and traders typically use the Relative Strength Index (RSI) to find signals that help identify turning points in security prices.\nThis strategy, however, discounts the true nature of the indicator and limits its potential. A breakdown of the RSI formula reveals that its power lies in its ability to identify consistent uptrends with strong momentum.\nSome practitioners use RSI ranges to identify existing trends and RSI extremes to signal momentum shifts. However, these approaches do not quantify how long RSI should hold its range, how regularly RSI should reach a momentum milestone and,\nmost importantly, if RSI range and momentum indications have predictive value. The goal of this paper is to systematically test RSI range and momentum signals using stocks in the S&P 500. Moreover,\nthis paper will show that the RSI range alone is inadequate because it does not always capture upside momentum. The RSI range measures trend consistency well,\nbut a momentum component is needed to uncover the strongest uptrends. After quantifying and testing, this paper will provide evidence that signals combining an RSI bull range with RSI momentum can foreshadow sizable advances with good success rates.\nAs such, these signals can be part of a successful investing strategy that combines trend-following and momentum.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "following_the_trend": {
         "display_name": "Following the Trend",
-        "pdf_url": "https://library.wbi.ac.id/repository/122.pdf",
-        "paper_url": "https://library.wbi.ac.id/repository/122.pdf",
-        "desc": "\nDuring bull and bear markets, there is a group of hedge funds and professional traders which have been consistently outperforming traditional investment strategies for the past 30 odd years.\nThey have shown remarkable uncorrelated performance and in the great bear market of 2008 they had record gains. These traders are highly secretive about their proprietary trading algorithms and often employ top PhDs in their research teams.\nYet, it is possible to replicate their trading performance with relatively simplistic models. These traders are trend following cross asset futures managers, also known as CTAs.\nMany books are written about them but none explain their strategies in such detail as to enable the reader to emulate their success and create their own trend following trading business, until now.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://library.wbi.ac.id/repository/122.pdf\nhttps://library.wbi.ac.id/repository/122.pdf",
+        "paper_url": "During bull and bear markets, there is a group of hedge funds and professional traders which have been consistently outperforming traditional investment strategies for the past 30 odd years.\nThey have shown remarkable uncorrelated performance and in the great bear market of 2008 they had record gains. These traders are highly secretive about their proprietary trading algorithms and often employ top PhDs in their research teams.\nYet, it is possible to replicate their trading performance with relatively simplistic models. These traders are trend following cross asset futures managers, also known as CTAs.\nMany books are written about them but none explain their strategies in such detail as to enable the reader to emulate their success and create their own trend following trading business, until now.",
+        "desc": "\n",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "good_news_in_short_Interest": {
         "display_name": "The Good News in Short Interest",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1405511",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1405511",
-        "desc": "\nWe study the information content in monthly short interest using NYSE-, AMEX-, and NASDAQ-listed stocks from 1988 to 2005.\nWe show that stocks with relatively high short interest subsequently experience negative abnormal returns, but the effect can be transient and of debatable economic significance.\nIn contrast, we find that relatively heavily traded stocks with low short interest experience both statistically and economically significant positive abnormal returns.\nThese positive returns are often larger (in absolute value) than the negative returns observed for heavily shorted stocks. Because stocks with greater short interest are priced more accurately, our results suggest that short selling promotes market efficiency.\nHowever, we show that positive information associated with low short interest, which is publicly available, is only slowly incorporated into prices, which raises a broader market efficiency issue.\nOur results also cast doubt on existing theories of the impact of short sale constraints.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1405511\nhttp://papers.ssrn.com/sol3/papers.cfm?abstract_id=1405511",
+        "paper_url": "We study the information content in monthly short interest using NYSE-, AMEX-, and NASDAQ-listed stocks from 1988 to 2005.\nWe show that stocks with relatively high short interest subsequently experience negative abnormal returns, but the effect can be transient and of debatable economic significance.\nIn contrast, we find that relatively heavily traded stocks with low short interest experience both statistically and economically significant positive abnormal returns.\nThese positive returns are often larger (in absolute value) than the negative returns observed for heavily shorted stocks. Because stocks with greater short interest are priced more accurately, our results suggest that short selling promotes market efficiency.\nHowever, we show that positive information associated with low short interest, which is publicly available, is only slowly incorporated into prices, which raises a broader market efficiency issue.\nOur results also cast doubt on existing theories of the impact of short sale constraints.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "long_short_ETF_momentum": {
-        "display_name": "Exploration of Long Short ETF Momentum",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710334",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710334",
-        "desc": "\nCTA funds, recognized for their effectiveness as hedges during crises, are traditionally diversified and involve going long and short on various asset classes.\nThis paper aims to explore trend-following strategies by creating a CTA proxy using ETFs to represent CTA strategies. This allows for a comprehensive assessment of individual substrategies across diverse assets.\nWe identify that the optimal approach involves following trends in all asset classes, except for stocks. Here, adopting a long-only position yields the most favorable results.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "display_name": "Exploration of Long Short ETF Momentum Strategies",
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710334\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710334",
+        "paper_url": "CTA funds, recognized for their effectiveness as hedges during crises, are traditionally diversified and involve going long and short on various asset classes.\nThis paper aims to explore trend-following strategies by creating a CTA proxy using ETFs to represent CTA strategies. This allows for a comprehensive assessment of individual substrategies across diverse assets.\nWe identify that the optimal approach involves following trends in all asset classes, except for stocks. Here, adopting a long-only position yields the most favorable results.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "low_volatility_anomaly_equity\u201310yrs": {
         "display_name": "Low Volatility Anomaly: Equity 10 Years Later",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697914",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697914",
-        "desc": "\nTen years after showing that the low volatility anomaly in the performance of stocks is a phenomenon that should be considered in each sector as opposed to on an absolute basis ignoring sectors, \nwe present evidence that this observation has held up well, and that if anything, has become even more valid.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697914\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697914",
+        "paper_url": "Ten years after showing that the low volatility anomaly in the performance of stocks is a phenomenon that should be considered in each sector as opposed to on an absolute basis ignoring sectors, we present evidence that this observation has held up well, and that if anything, has become even more valid.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "low_volatility_time_the_factor": {
         "display_name": "Low Volatility Strategy: Can We Time the Factor?",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3441508",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3441508",
-        "desc": "\nWe show that the slope of the volatility decile portfolio\u2019s return profile contains valuable information that can be harvested to time volatility and market condition.\nDuring good market condition, high-volatility portfolio produces the highest return, and vice versa. We proceed to devise a volatility timing strategy based on statistical tests on the slope of the volatility decile portfolio return profile.\nVolatility timing is achieved by being aggressive during strong growth periods, while being conservative during market downturns. Superior performance is obtained, with a 30% increase in Sharpe ratio and an order of magnitude improvement on cumulated wealth.\nWe also demonstrate that stocks in the high-volatility portfolio are more strongly correlated compared to stocks in the low-volatility portfolio.\nThe profitability of the volatility timing strategy can be attributed to holding a diversified portfolio during bear markets, while holding a concentrated growth portfolio during bull markets.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7405&context=lkcsb_research\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=3441508",
+        "paper_url": "We show that the slope of the volatility decile portfolio\u2019s return profile contains valuable information that can be harvested to time volatility and market condition.\nDuring good market condition, high-volatility portfolio produces the highest return, and vice versa. We proceed to devise a volatility timing strategy based on statistical tests on the slope of the volatility decile portfolio return profile.\nVolatility timing is achieved by being aggressive during strong growth periods, while being conservative during market downturns. Superior performance is obtained, with a 30% increase in Sharpe ratio and an order of magnitude improvement on cumulated wealth.\nWe also demonstrate that stocks in the high-volatility portfolio are more strongly correlated compared to stocks in the low-volatility portfolio.\nThe profitability of the volatility timing strategy can be attributed to holding a diversified portfolio during bear markets, while holding a concentrated growth portfolio during bull markets.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "market_sentiment_overnight_anomaly": {
         "display_name": "Market Sentiment and an Overnight Anomaly",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3829582",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3829582",
-        "desc": "\nVarious research shows that market sentiment, also called investor sentiment, plays a role in market returns. Market sentiment refers to the general mood on the financial markets and investors' overall tendency to trade.\nThe mood on the market is divided into two main types, bullish and bearish. Naturally, rising prices indicate bullish sentiment. On the other hand, falling prices indicate bearish sentiment.\nThis paper shows various ways to measure market sentiment and its influence on returns.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3829582\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=3829582",
+        "paper_url": "\nVarious research shows that market sentiment, also called investor sentiment, plays a role in market returns. Market sentiment refers to the general mood on the financial markets and investors' overall tendency to trade.\nThe mood on the market is divided into two main types, bullish and bearish. Naturally, rising prices indicate bullish sentiment. On the other hand, falling prices indicate bearish sentiment.\nThis paper shows various ways to measure market sentiment and its influence on returns.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "market_states_momentum": {
         "display_name": "Market States and Momentum",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710334",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710334",
-        "desc": "\nWe test overreaction theories of short-run momentum and long-run reversal in the cross section of stock returns.\nMomentum profits depend on the state of the market, as predicted. From 1929 to 1995,\nthe mean monthly momentum profit following positive market returns is 0.93 percent,\nwhereas the mean profit following negative market returns is negative 0.37 percent.\nThe up-market momentum reverses in the long-run. Our results are robust to the conditioning information in macroeconomic factors.\nMoreover, we find that macroeconomic factors are unable to explain momentum profits after simple methodological adjustments to take account of microstructure concerns.\n\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710334\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710334",
+        "paper_url": "We test overreaction theories of short-run momentum and long-run reversal in the cross section of stock returns.\nMomentum profits depend on the state of the market, as predicted. From 1929 to 1995,\nthe mean monthly momentum profit following positive market returns is 0.93 percent,\nwhereas the mean profit following negative market returns is negative 0.37 percent.\nThe up-market momentum reverses in the long-run. Our results are robust to the conditioning information in macroeconomic factors.\nMoreover, we find that macroeconomic factors are unable to explain momentum profits after simple methodological adjustments to take account of microstructure concerns.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "momentum_effects_in_country_equity_indices": {
         "display_name": "Momentum Effects in Country Equity Indices",
-        "pdf_url": "http://repository.up.ac.za/bitstream/handle/2263/14149/Muller_Momentum%282010%29.pdf?sequence=1",
-        "paper_url": "https://www.researchgate.net/publication/265154074_Momentum_Effects_in_Country_Equity_Indices",
-        "desc": "\nThis paper examines the 70 country indices which comprise the MSCI world index as a representative set of global equity investment opportunities, and examines momentum and meanreversion effects in these.\nWe show that persistent and significant effects do exist, particularly with regard to short-term momentum. A strategy of holding for one month, a portfolio of the four best performing MSCI country indices over the previous 11 months,\nwas found to persistently out-perform an equal weighted benchmark by around 10% per annum over the 39 year period from 1970 to 2009.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "http://repository.up.ac.za/bitstream/handle/2263/14149/Muller_Momentum%282010%29.pdf?sequence=1\nhttps://www.researchgate.net/publication/265154074_Momentum_Effects_in_Country_Equity_Indices",
+        "paper_url": "This paper examines the 70 country indices which comprise the MSCI world index as a representative set of global equity investment opportunities, and examines momentum and meanreversion effects in these.\nWe show that persistent and significant effects do exist, particularly with regard to short-term momentum. A strategy of holding for one month, a portfolio of the four best performing MSCI country indices over the previous 11 months,\nwas found to persistently out-perform an equal weighted benchmark by around 10% per annum over the 39 year period from 1970 to 2009.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "momentum_reversals_coexist": {
-        "display_name": "Momentum and Reversals Coexist",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1679464",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1679464",
-        "desc": "\nThe answer to the title question is \"Yes.\" Examining stocks traded on the NYSE, AMEX and NASDAQ for the period of 1964 to 2009, this study discovers that, while momentum prevails among small stocks,\nmomentum and reversals coexist among large stocks for a holding period of up to six months.\nThe momentum/reversal divide is along the volatility dimension: Large-cap/low-volatility stocks exhibit reversals while large-cap/high-volatility stocks experience momentum.\nThis new discovery cannot be fully rationalized with either risk-based or behavioral-based explanations.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "display_name": "Do Momentum and Reversals Coexist?",
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1679464\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=1679464",
+        "paper_url": "The answer to the title question is \"Yes.\" Examining stocks traded on the NYSE, AMEX and NASDAQ for the period of 1964 to 2009, this study discovers that, while momentum prevails among small stocks,\nmomentum and reversals coexist among large stocks for a holding period of up to six months.\nThe momentum/reversal divide is along the volatility dimension: Large-cap/low-volatility stocks exhibit reversals while large-cap/high-volatility stocks experience momentum.\nThis new discovery cannot be fully rationalized with either risk-based or behavioral-based explanations.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "opposing_seasonalities_treasury_vs_equity": {
         "display_name": "Opposing Seasonalities in Treasury Versus Equity Returns",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=891215",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=891215",
-        "desc": "\nWe demonstrate a novel and striking annual cycle in the US Treasury market, with a variation of over 80 basis points from peak to trough in monthly returns.\nThe Treasury return seasonal pattern is opposite to that evident in equity returns, and the opposing patterns are not due to unconditional negative correlation between Treasury and stock returns.\nWe show that the seasonal Treasury and equity return patterns are unlikely to arise from macroeconomic seasonalities, seasonal variation in risk, cross-hedging between equity and Treasury markets, investor sentiment,\nseasonalities in the Treasury market auction schedule, seasonalities in the Treasury debt supply, seasonalities in the FOMC cycle, or peculiarities of the sample period considered.\nThe seasonal cycles become more pronounced during periods of high market volatility, consistent with the notion that the seasonal cycles are a result of time-varying risk aversion among market participants.\nThe seasonal patterns in equity and Treasury returns are coincident with the incidence of seasonal depression observed clinically in North American populations, and depression has been shown to be associated with reduced risk tolerance.\nThe White (2000) reality test confirms that the correlation between returns and the clinical incidence of seasonal depression cannot be easily dismissed as the simple result of data snooping.\nOur findings are all the more remarkable given that it is expert traders who dominate the Treasury market.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=891215\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=891215",
+        "paper_url": "We demonstrate a novel and striking annual cycle in the US Treasury market, with a variation of over 80 basis points from peak to trough in monthly returns.\nThe Treasury return seasonal pattern is opposite to that evident in equity returns, and the opposing patterns are not due to unconditional negative correlation between Treasury and stock returns.\nWe show that the seasonal Treasury and equity return patterns are unlikely to arise from macroeconomic seasonalities, seasonal variation in risk, cross-hedging between equity and Treasury markets, investor sentiment,\nseasonalities in the Treasury market auction schedule, seasonalities in the Treasury debt supply, seasonalities in the FOMC cycle, or peculiarities of the sample period considered.\nThe seasonal cycles become more pronounced during periods of high market volatility, consistent with the notion that the seasonal cycles are a result of time-varying risk aversion among market participants.\nThe seasonal patterns in equity and Treasury returns are coincident with the incidence of seasonal depression observed clinically in North American populations, and depression has been shown to be associated with reduced risk tolerance.\nThe White (2000) reality test confirms that the correlation between returns and the clinical incidence of seasonal depression cannot be easily dismissed as the simple result of data snooping.\nOur findings are all the more remarkable given that it is expert traders who dominate the Treasury market.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "optimal_momentum-global_cross_asset_approach": {
         "display_name": "Optimal Momentum: A Global Cross Asset Approach",
-        "pdf_url": "https://web.archive.org/web/20141222090441id_/http://www.optimalmomentum.com:80/OptimalMomentum.pdf",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1833722",
-        "desc": "\nMomentum is widely accepted among academic researchers as one of the strongest return generating factors, yet it remains largely unknown by the investing public.\nThis paper explores that dichotomy by examining momentum from a practical point of view. Using exchange traded fund data from 2002 through 2010, we compare industry, style and geographic applications of momentum.\nGlobal stock index funds using four geographic regions give the best momentum results, but with a high level of volatility.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://web.archive.org/web/20141222090441id_/http://www.optimalmomentum.com:80/OptimalMomentum.pdf\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=1833722",
+        "paper_url": "Momentum is widely accepted among academic researchers as one of the strongest return generating factors, yet it remains largely unknown by the investing public.\nThis paper explores that dichotomy by examining momentum from a practical point of view. Using exchange traded fund data from 2002 through 2010, we compare industry, style and geographic applications of momentum.\nGlobal stock index funds using four geographic regions give the best momentum results, but with a high level of volatility.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "optimism_cycle-sell_in_may": {
-        "display_name": "Optimism Cycle: Sell in May",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=643583",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=643583",
-        "desc": "\nThe market maxim \u201cSell in May and go away\u201d is a simple but profitable one. On average, stocks deliver close to zero returns in the six month period from May through October, only giving a risk premium from November through April.\nThis effect, however, has not been widely covered in academic literature. We examine the hypothesis that the seasonal pattern is caused by an optimism cycle.\nTowards year end, investors start to look towards the new year, often with overly optimistic expectations. This results in attractive returns for stocks.\nSeveral months into the year, this initial optimism becomes hard to maintain and the stock market experiences a summer lull. A zero-investment global sector-rotation strategy based on this theory appears to be highly profitable.\nGlobal earnings growth revisions also follow a seasonal pattern parallel to that of the stock market. Finally, in a separate analysis for the US stock market, investors\u2019 optimism as measured by the initial returns on IPOs almost completely capture the results of the sector-rotation strategy.\nAll these findings support the optimism-cycle hypothesis.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "display_name": "The Optimism Cycle: Sell in May",
+        "pdf_url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=643583\nhttp://papers.ssrn.com/sol3/papers.cfm?abstract_id=643583",
+        "paper_url": "The market maxim \u201cSell in May and go away\u201d is a simple but profitable one. On average, stocks deliver close to zero returns in the six month period from May through October, only giving a risk premium from November through April.\nThis effect, however, has not been widely covered in academic literature. We examine the hypothesis that the seasonal pattern is caused by an optimism cycle.\nTowards year end, investors start to look towards the new year, often with overly optimistic expectations. This results in attractive returns for stocks.\nSeveral months into the year, this initial optimism becomes hard to maintain and the stock market experiences a summer lull. A zero-investment global sector-rotation strategy based on this theory appears to be highly profitable.\nGlobal earnings growth revisions also follow a seasonal pattern parallel to that of the stock market. Finally, in a separate analysis for the US stock market, investors\u2019 optimism as measured by the initial returns on IPOs almost completely capture the results of the sector-rotation strategy.\nAll these findings support the optimism-cycle hypothesis.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "own_stock_own_gold": {
         "display_name": "When to Own Stocks and When to Own Gold",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710334",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710334",
-        "desc": "\nAbstract: We show that dynamic investment portfolio asset allocation based on secular market cycles outperforms a buy-and-hold portfolio of equities and outperforms a buy-and-hold portfolio of gold over long periods.\nAn objective definition of secular market enables identification of an appropriate ex-ante risk-on or risk-off posture for a portfolio.\nWe construct an objective measure which we term a \u201csecular market indicator (SMI)\u201d using a modified Shiller CAPE ratio with gold as a reference point.\nThis SMI has slightly greater predictive power than Shiller\u2019s CAPE Ratio in that it provides a consistent threshold signal for secular macroeconomic reversals.\nFinally, we use the SMI to create a simple decision rule to shift asset allocation between equity and gold depending on the secular market cycle.\nThe resulting portfolio outperforms an all-equity portfolio and an all-gold portfolio over holding periods of 10 years about 70% of the time, and produces superior risk-adjusted performance about 80% of the time.\n\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710334\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710334",
+        "paper_url": "https://jwm.pm-research.com/content/21/3/26 https://www.researchgate.net/publication/328868767_When_to_Own_Stocks_and_When_to_Own_Gold\nAbstract: We show that dynamic investment portfolio asset allocation based on secular market cycles outperforms a buy-and-hold portfolio of equities and outperforms a buy-and-hold portfolio of gold over long periods.\nAn objective definition of secular market enables identification of an appropriate ex-ante risk-on or risk-off posture for a portfolio.\nWe construct an objective measure which we term a \u201csecular market indicator (SMI)\u201d using a modified Shiller CAPE ratio with gold as a reference point.\nThis SMI has slightly greater predictive power than Shiller\u2019s CAPE Ratio in that it provides a consistent threshold signal for secular macroeconomic reversals.\nFinally, we use the SMI to create a simple decision rule to shift asset allocation between equity and gold depending on the secular market cycle.\nThe resulting portfolio outperforms an all-equity portfolio and an all-gold portfolio over holding periods of 10 years about 70% of the time, and produces superior risk-adjusted performance about 80% of the time.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "paired-switching_tactical_portfolio_allocation": {
         "display_name": "Paired-Switching for Tactical Portfolio Allocation",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1917044",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1917044",
-        "desc": "\nPaired-switching refers to investing in one of a pair of negatively correlated equities/ETFs/Funds and periodic switching of the position on the basis of either the relative performance of the two equities/ETFs/Funds over a period immediately prior to the switching or some other criterion.\nIt is based upon the idea that if the returns of two equities are negatively correlated, the overlapping of the periods during which the equities individually yield returns greater than their mean values will be infrequent.\nConsequently, if the criterion for switching is even minimally accurate in its ability to identify the boundaries of such periods, there is a possibility of improving the performance of the portfolio consisting of the two equities over the portfolio wherein the two equities are statically weighted on the basis of traditional methods such as,\nfor example, variance minimization. In this paper we present some results that indicate that some very simple criteria for paired-switching can lead to lower volatility without any significant penalty in terms of lower returns.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1917044\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=1917044",
+        "paper_url": "\nPaired-switching refers to investing in one of a pair of negatively correlated equities/ETFs/Funds and periodic switching of the position on the basis of either the relative performance of the two equities/ETFs/Funds over a period immediately prior to the switching or some other criterion.\nIt is based upon the idea that if the returns of two equities are negatively correlated, the overlapping of the periods during which the equities individually yield returns greater than their mean values will be infrequent.\nConsequently, if the criterion for switching is even minimally accurate in its ability to identify the boundaries of such periods, there is a possibility of improving the performance of the portfolio consisting of the two equities over the portfolio wherein the two equities are statically weighted on the basis of traditional methods such as,\nfor example, variance minimization. In this paper we present some results that indicate that some very simple criteria for paired-switching can lead to lower volatility without any significant penalty in terms of lower returns.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "pairs_trading_international_ETFs": {
         "display_name": "Pairs Trading International ETFs",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1958546",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1958546",
-        "desc": "\nPairs trading is a popular, market-neutral trading strategy among finance practitioners that has been recently evaluated in a number of papers. Since it is a successful trading strategy, allowing for multiple implementations of solid underlying ideas,\nit is interesting to further explore the underlying factors for its success. In this paper we do so using a large family of international exchange traded funds (ETFs), a recent instrument of choice among professionals.\nUsing ETFs from across the world we examine the performance of the pairs trading strategy and the various potential sources of its profitability. Our results show that pair trading is a profitable strategy in the context of international ETFs.\nThere is a clear difference between the long and short component of the pairs, maybe in contrast to the common perception on the profitability of long trades. Finally, we explore the sources of the strategy\u2019s total profitability and find that it can be explained by a number of fundamentals,\nthe most important being the earnings per share, the dividend yield and the unemployment rate.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1958546\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=1958546",
+        "paper_url": "Pairs trading is a popular, market-neutral trading strategy among finance practitioners that has been recently evaluated in a number of papers. Since it is a successful trading strategy, allowing for multiple implementations of solid underlying ideas,\nit is interesting to further explore the underlying factors for its success. In this paper we do so using a large family of international exchange traded funds (ETFs), a recent instrument of choice among professionals.\nUsing ETFs from across the world we examine the performance of the pairs trading strategy and the various potential sources of its profitability. Our results show that pair trading is a profitable strategy in the context of international ETFs.\nThere is a clear difference between the long and short component of the pairs, maybe in contrast to the common perception on the profitability of long trades. Finally, we explore the sources of the strategy\u2019s total profitability and find that it can be explained by a number of fundamentals,\nthe most important being the earnings per share, the dividend yield and the unemployment rate.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "paris_trading-relative_value_arbitrage_rule": {
         "display_name": "Pairs Trading: Performance of a Relative Value Arbitrage Rule",
         "pdf_url": "http://stat.wharton.upenn.edu/~steele/Courses/434/434Context/PairsTrading/PairsTradingGGR.pdf",
         "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=141615",
-        "desc": "\nWe test a Wall Street investment strategy, pairs trading, with daily data over 1962-2002.\nStocks are matched into pairs with minimum distance between normalized historical prices.\nA simple trading rule yields average annualized excess returns of up to 11 percent for selffinancing portfolios of pairs.\nThe profits typically exceed conservative transaction costs estimates.\nBootstrap results suggest that the pairs effect differs from previously-documented reversal profits.\nRobustness of the excess returns indicates that pairs trading profits from temporary mis-pricing of close substitutes.\nWe link the profitability to the presence of a common factor in the returns, different from conventional risk measures.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "desc": "We test a Wall Street investment strategy, pairs trading, with daily data over 1962-2002.\nStocks are matched into pairs with minimum distance between normalized historical prices.\nA simple trading rule yields average annualized excess returns of up to 11 percent for selffinancing portfolios of pairs.\nThe profits typically exceed conservative transaction costs estimates.\nBootstrap results suggest that the pairs effect differs from previously-documented reversal profits.\nRobustness of the excess returns indicates that pairs trading profits from temporary mis-pricing of close substitutes.\nWe link the profitability to the presence of a common factor in the returns, different from conventional risk measures.\n\n",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "payday": {
         "display_name": "Payday Anomaly",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3257064",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3257064",
-        "desc": "\nAbnormal returns have been found on days near the turn of the calendar months. Previous studies have linked the phenomenon to month-end paychecks, of which a sizable proportion goes into employees\u2019 retirement accounts and is then automatically invested in the market.\nSince many institutions adopt a semi-monthly pay schedule, we test the hypothesis that the market should exhibit detectable mid-month abnormal movement. Our results indicate that the 16th day of the month statistically and economically outperforms all other calendar days except the 1st and 2nd.\nAs more and more institutions transition into bi-weekly pay schedule, the mid-month payday anomaly becomes less prominent.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3257064\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=3257064",
+        "paper_url": "Abnormal returns have been found on days near the turn of the calendar months. Previous studies have linked the phenomenon to month-end paychecks, of which a sizable proportion goes into employees\u2019 retirement accounts and is then automatically invested in the market.\nSince many institutions adopt a semi-monthly pay schedule, we test the hypothesis that the market should exhibit detectable mid-month abnormal movement. Our results indicate that the 16th day of the month statistically and economically outperforms all other calendar days except the 1st and 2nd.\nAs more and more institutions transition into bi-weekly pay schedule, however, the mid-month payday anomaly becomes less prominent.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "portfolio_diversification_using_VIX_options": {
         "display_name": "A Study in Portfolio Diversification Using VIX Options",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2792358",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2792358",
-        "desc": "\nThe search for dependable, low-cost portfolio tail protection or hedge from exogenous events such as the 1987 crash, the 2000 dot-com bubble, the 2008 credit crisis and the 2011 European crisis continues.\nThis study assesses the performance of a systematic VIX call buying strategy with a defined cost to hedge an equity portfolio from systemic risk. A portfolio manager must weigh these costs against those of hedging strategiesthat have potentially undefinable costs, for example, protective puts or shorting equity index futures.\nThe analysis shows that a passive allocation to VIX calls has proven effective in large drawdown periods and can be accomplished by spending a relatively small defined percentage of capital when the hedge is not needed.\nThe study applies a set of fixed rules to empirical data with the goal of optimizing ex-post the moneyness and expiry of VIX call options over the period studied. For the period of analysis, the systematic purchase of properly placed VIX calls tends to provide sufficient protection in tail risk events for minimal cost when hedging is not needed.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2792358\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=2792358",
+        "paper_url": "The search for dependable, low-cost portfolio tail protection or hedge from exogenous events such as the 1987 crash, the 2000 dot-com bubble, the 2008 credit crisis and the 2011 European crisis continues. This study assesses the performance of a systematic VIX call buying strategy with a defined cost to hedge an equity portfolio from systemic risk. A portfolio manager must weigh these costs against those of hedging strategiesthat have potentially undefinable costs, for example, protective puts or shorting equity index futures. The analysis shows that a passive allocation to VIX calls has proven effective in large drawdown periods and can be accomplished by spending a relatively small defined percentage of capital when the hedge is not needed. The study applies a set of fixed rules to empirical data with the goal of optimizing ex-post the moneyness and expiry of VIX call options over the period studied. For the period of analysis, the systematic purchase of properly placed VIX calls tends to provide sufficient protection in tail risk events for minimal cost when hedging is not needed.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "premia_harvesting_through_dual_momentum": {
         "display_name": "Risk Premia Harvesting Through Dual Momentum",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2042750",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2042750",
-        "desc": "\nMomentum is the premier market anomaly. It is nearly universal in its applicability. This paper examines multi-asset momentum with respect to what can make it most effective for momentum investors.\nWe show that both absolute and relative momentum can enhance returns, but that absolute momentum does far more to lessen volatility and drawdown. We see that combining absolute and relative momentum gives the best results.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2042750\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=2042750",
+        "paper_url": "Momentum is the premier market anomaly. It is nearly universal in its applicability. This paper examines multi-asset momentum with respect to what can make it most effective for momentum investors.\nWe show that both absolute and relative momentum can enhance returns, but that absolute momentum does far more to lessen volatility and drawdown. We see that combining absolute and relative momentum gives the best results.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "presidential-partisan_cycles": {
         "display_name": "Presidential-Partisan Cycles and the Cross-Section of Stock Returns",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876493",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876493",
-        "desc": "\nFrom 1926 to 2020, average excess stock return differentials between Democratic and Republican presidencies were positive for more than two-thirds of publicly traded US firms, averaging about 12% per annum across all firms.\nDemocratic presidents outperform their Republican counterparts primarily for unprofitable, illiquid, inefficient, distressed, and financially constrained small and medium-sized enterprises.\nDemocratic presidencies notably more favorably impact firms in the oil and telecommunications industries, while gun-related firms thrive under Republican presidencies.\nPresidential politics appears less relevant to large corporations or information asymmetries mitigation and to how investors value capital assets or how firms make their investment and financing decisions.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876493\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876493",
+        "paper_url": "From 1926 to 2020, average excess stock return differentials between Democratic and Republican presidencies were positive for more than two-thirds of publicly traded US firms, averaging about 12% per annum across all firms.\nDemocratic presidents outperform their Republican counterparts primarily for unprofitable, illiquid, inefficient, distressed, and financially constrained small and medium-sized enterprises.\nDemocratic presidencies notably more favorably impact firms in the oil and telecommunications industries, while gun-related firms thrive under Republican presidencies.\nPresidential politics appears less relevant to large corporations or information asymmetries mitigation and to how investors value capital assets or how firms make their investment and financing decisions.",
+        "desc": "\n",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "protective_asset_allocation-term_deposit_alternative": {
-        "display_name": "Protective Asset Allocation: A Simple Momentum-Based Alternative for Term Deposits",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759734",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759734",
-        "desc": "\nSince the financial crisis of 2008 and the recent (end of 2015) pull back, investors are searching for less risky investments. Therefore, there is a growing demand for low risk/absolute return portfolios.\nIn this paper we describe a simple dual-momentum model (called Protective Asset Allocation or PAA) with a vigorous \u201ccrash protection\u201d which might fit this bill.\nIt is a tactical variation on the traditional 60/40 stock/bond portfolio where the optimal stock/bond mix is determined by multi-market breadth using dual momentum.\nWe backtested the model with several global multi-asset ETF-proxies. Starting from Dec 1970 allows us to investigate the behavior of PAA in periods with rate hikes as well.\nThe in-sample (Dec 1970-Dec 1992) and out-of-sample returns of the most protective variant of our PAA strategy satisfy our absolute return requirement without compromising high returns. This makes PAA an appealing alternative for a 1-year term deposit.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "display_name": "Protective Asset Allocation (PAA): A Simple Momentum-Based Alternative for Term Deposits",
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759734\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759734",
+        "paper_url": "Since the financial crisis of 2008 and the recent (end of 2015) pull back, investors are searching for less risky investments. Therefore, there is a growing demand for low risk/absolute return portfolios.\nIn this paper we describe a simple dual-momentum model (called Protective Asset Allocation or PAA) with a vigorous \u201ccrash protection\u201d which might fit this bill.\nIt is a tactical variation on the traditional 60/40 stock/bond portfolio where the optimal stock/bond mix is determined by multi-market breadth using dual momentum.\nWe backtested the model with several global multi-asset ETF-proxies. Starting from Dec 1970 allows us to investigate the behavior of PAA in periods with rate hikes as well.\nThe in-sample (Dec 1970-Dec 1992) and out-of-sample returns of the most protective variant of our PAA strategy satisfy our absolute return requirement without compromising high returns. This makes PAA an appealing alternative for a 1-year term deposit.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "quantitative_approach_tactical_asset_allocation": {
         "display_name": "A Quantitative Approach to Tactical Asset Allocation",
-        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=962461",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=962461",
-        "desc": "\nIn this paper we update our 2006 white paper \u201cA Quantitative Approach to Tactical Asset Allocation\u201d with new data from the 2008-2012 period.\nHow well did the purpose of the original paper \u2013 to present a simple quantitative method that improves the risk-adjusted returns across various asset classes \u2013 hold up since publication? Overall,\nwe find that the models have performed well in real-time, achieving equity like returns with bond like volatility and drawdowns. We also examine the effects of departures from the original system including adding more asset classes,\nintroducing various portfolio allocations, and implementing alternative cash management strategies.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=962461\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=962461",
+        "paper_url": "In this paper we update our 2006 white paper \u201cA Quantitative Approach to Tactical Asset Allocation\u201d with new data from the 2008-2012 period.\nHow well did the purpose of the original paper \u2013 to present a simple quantitative method that improves the risk-adjusted returns across various asset classes \u2013 hold up since publication? Overall,\nwe find that the models have performed well in real-time, achieving equity like returns with bond like volatility and drawdowns. We also examine the effects of departures from the original system including adding more asset classes,\nintroducing various portfolio allocations, and implementing alternative cash management strategies.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "relative_strength_strategies_investing": {
         "display_name": "Relative Strength Strategies Investing",
-        "pdf_url": "https://www.cambriainvestments.com/wp-content/uploads/2018/01/Relative-Strength-Strategies-for-Investing.pdf",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1585517",
-        "desc": "\nThe purpose of this paper is to present simple quantitative methods that improve risk-adjusted returns for investing in US equity sectors and global asset class portfolios.\nA relative strength model is tested on the French-Fama US equity sector data back to the 1920s that results in increased absolute returns with equity-like risk.\nThe relative strength portfolios outperform the buy and hold benchmark in approximately 70% of all years and returns are persistent across time.\nThe addition of a trend-following parameter to dynamically hedge the portfolio decreases both volatility and drawdown.\nThe relative strength model is then tested across a portfolio of global asset classes with supporting results.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://www.cambriainvestments.com/wp-content/uploads/2018/01/Relative-Strength-Strategies-for-Investing.pdf\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=1585517",
+        "paper_url": "The purpose of this paper is to present simple quantitative methods that improve risk-adjusted returns for investing in US equity sectors and global asset class portfolios.\nA relative strength model is tested on the French-Fama US equity sector data back to the 1920s that results in increased absolute returns with equity-like risk.\nThe relative strength portfolios outperform the buy and hold benchmark in approximately 70% of all years and returns are persistent across time.\nThe addition of a trend-following parameter to dynamically hedge the portfolio decreases both volatility and drawdown.\nThe relative strength model is then tested across a portfolio of global asset classes with supporting results.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "return_asymmetry_commodity_futures": {
         "display_name": "Return Asymmetry in Commodity Futures",
-        "pdf_url": "https://ssrn.com/abstract=3918896",
-        "paper_url": "https://ssrn.com/abstract=3918896",
-        "desc": "\nThis paper aims to examine the return asymmetry in commodity futures. Instead of using skewness as a proxy for the return asymmetry, we rely on a new asymmetric measure IE,\nthat uses the difference between upside and downside return probabilities to capture the degree of asymmetry and has a low correlation to the original skewness effect.\nOur study documents that the high (low) IE commodities are overvalued (undervalued), and their subsequent returns are lower (higher).\nThese results are consistent with the high (low) demand by the risk-averse investors for the high (low) IE commodities.\nA strategy that takes a long position in the bottom seven commodities with the lowest IE in the previous month and shorts the top seven commodities with the highest IE exhibits an economically large and statistically significant return.\nBesides, it can serve as a hedge to the stock portfolio because of its negative correlation with the stock market. Our results contribute to the existing literature by expanding an asymmetric measure IE to the new asset class.\n\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://ssrn.com/abstract=3918896\nhttps://ssrn.com/abstract=3918896",
+        "paper_url": "This paper aims to examine the return asymmetry in commodity futures. Instead of using skewness as a proxy for the return asymmetry, we rely on a new asymmetric measure IE,\nthat uses the difference between upside and downside return probabilities to capture the degree of asymmetry and has a low correlation to the original skewness effect.\nOur study documents that the high (low) IE commodities are overvalued (undervalued), and their subsequent returns are lower (higher).\nThese results are consistent with the high (low) demand by the risk-averse investors for the high (low) IE commodities.\nA strategy that takes a long position in the bottom seven commodities with the lowest IE in the previous month and shorts the top seven commodities with the highest IE exhibits an economically large and statistically significant return.\nBesides, it can serve as a hedge to the stock portfolio because of its negative correlation with the stock market. Our results contribute to the existing literature by expanding an asymmetric measure IE to the new asset class.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "risk_parity_global_asset_allocation": {
         "display_name": "The Trend is Our Friend: Risk Parity, Momentum and Trend Following in Global Asset Allocation",
-        "pdf_url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2126478",
-        "paper_url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2126478",
-        "desc": "\nWe examine the effectiveness of applying a trend following methodology to global asset allocation between equities,bonds,commodities and real estate.The application of trend following offers a substantial improvement in risk-adjusted performance compared to traditional buy-and-hold portfolios.\nWe also find it to be a superior method of asset allocation than risk parity. Momentum and trend following have often been used interchangeably although the former is a relative concept and the latter absolute.\nBy combining the two we find that one can achieve the higher return levels associated with momentum portfolios but with much reduced volatility and drawdowns due to trend following.\nWe observe that a flexible asset allocation strategy that allocates capital to the best performing instruments irrespective of asset class enhances this further.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2126478\nhttp://papers.ssrn.com/sol3/papers.cfm?abstract_id=2126478",
+        "paper_url": "We examine the effectiveness of applying a trend following methodology to global asset allocation between equities,bonds,commodities and real estate.The application of trend following offers a substantial improvement in risk-adjusted performance compared to traditional buy-and-hold portfolios.\nWe also find it to be a superior method of asset allocation than risk parity. Momentum and trend following have often been used interchangeably although the former is a relative concept and the latter absolute.\nBy combining the two we find that one can achieve the higher return levels associated with momentum portfolios but with much reduced volatility and drawdowns due to trend following.\nWe observe that a flexible asset allocation strategy that allocates capital to the best performing instruments irrespective of asset class enhances this further.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "sector_rotation_monetary_conditions": {
         "display_name": "Sector Rotation and Monetary Conditions",
-        "pdf_url": "https://www.pm-research.com/content/iijinvest/17/1/34",
-        "paper_url": "https://www.pm-research.com/content/iijinvest/17/1/34",
-        "desc": "\nWe investigate the efficacy of a sector rotation strategy that utilizes an easily observable signal based on monetary conditions.\nUsing 33 years of data, we find that the rotation strategy earns consistent and economically significant excess returns while requiring only infrequent rebalancing.\nThe strategy places greater emphasis on cyclical stocks during periods of Fed easing, and over-weights defensive stocks during periods of Fed tightening. Interestingly,\nthe benefits from the rotation strategy accrue predominantly during periods of poor equity market performance, which is when performance enhancement is most valued by investors.\nSpecifically, during restrictive monetary periods, returns to the strategy are nearly twice that of comparable investments, yet the strategy assumes less risk. Overall,\nour results suggest that investors should consider monetary conditions when determining their portfolio allocations.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://www.pm-research.com/content/iijinvest/17/1/34\nhttps://www.pm-research.com/content/iijinvest/17/1/34",
+        "paper_url": "https://joi.pm-research.com/content/17/1/34 We investigate the efficacy of a sector rotation strategy that utilizes an easily observable signal based on monetary conditions.\nUsing 33 years of data, we find that the rotation strategy earns consistent and economically significant excess returns while requiring only infrequent rebalancing.\nThe strategy places greater emphasis on cyclical stocks during periods of Fed easing, and over-weights defensive stocks during periods of Fed tightening. Interestingly,\nthe benefits from the rotation strategy accrue predominantly during periods of poor equity market performance, which is when performance enhancement is most valued by investors.\nSpecifically, during restrictive monetary periods, returns to the strategy are nearly twice that of comparable investments, yet the strategy assumes less risk. Overall,\nour results suggest that investors should consider monetary conditions when determining their portfolio allocations.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "sock_return_predictability_and_seasonality": {
         "display_name": "Stock Return Predictability and Seasonality",
-        "pdf_url": "https://ssrn.com/abstract=3180992",
-        "paper_url": "https://ssrn.com/abstract=3180992",
-        "desc": "\nAn examination of the Shiller cyclically adjusted pricing-earnings (CAPE) ratio reveals its forecasting power for 12-month CRSP equally weighted (EW) excess returns and value weighted (VW) excess returns.\nThe 12-month EW excess returns following low CAPE ratios are, on average, 20.7% higher than those following high CAPE ratios for the period of 1927-2016.\nThis dichotomy in the Shiller CAPE ratio has a more reliable predictability than the January barometer. Previous studies report that the Halloween indicator was weak or negative in the US stock market prior to the 1950s.\nWe find that the Halloween effect is strongly present following high CAPE ratios, even for the period of 1926-1971. Our results recommend a practical investment strategy.\nMore specifically, if the CAPE ratio in September is lower than the 36-month median of the CAPE ratio, invest in stock markets from November to October of the following year; otherwise, invest for six months from November to April and sell in May and go away.\n\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://ssrn.com/abstract=3180992\nhttps://ssrn.com/abstract=3180992",
+        "paper_url": "An examination of the Shiller cyclically adjusted pricing-earnings (CAPE) ratio reveals its forecasting power for 12-month CRSP equally weighted (EW) excess returns and value weighted (VW) excess returns.\nThe 12-month EW excess returns following low CAPE ratios are, on average, 20.7% higher than those following high CAPE ratios for the period of 1927-2016.\nThis dichotomy in the Shiller CAPE ratio has a more reliable predictability than the January barometer. Previous studies report that the Halloween indicator was weak or negative in the US stock market prior to the 1950s.\nWe find that the Halloween effect is strongly present following high CAPE ratios, even for the period of 1926-1971. Our results recommend a practical investment strategy.\nMore specifically, if the CAPE ratio in September is lower than the 36-month median of the CAPE ratio, invest in stock markets from November to October of the following year; otherwise, invest for six months from November to April and sell in May and go away.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "testing_calendar_effects": {
         "display_name": "Testing the Significance of Calendar Effects",
-        "pdf_url": "https://www.econstor.eu/bitstream/10419/100920/1/wp2005-02.pdf",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=388601",
-        "desc": "\nThis paper studies tests of calendar effects in equity returns. It is necessary to control for all possible calendar effects to avoid spurious results.\nThe authors contribute to the calendar effects literature and its significance with a test for calendar-specific anomalies that conditions on the nuisance of possible calendar effects.\nThus, their approach to test for calendar effects produces robust data-mining results. Unfortunately, attempts to control for a large number of possible calendar effects have the downside of diminishing the power of the test, making it more difficult to detect actual anomalies.\nThe authors show that our test achieves good power properties because it exploits the correlation structure of (excess) returns specific to the calendar effect being studied.\nWe implement the test with bootstrap methods and apply it to stock indices from Denmark, France, Germany, Hong Kong, Italy, Japan, Norway, Sweden, the United Kingdom, and the United States.\nBootstrap p- values reveal that calendar effects are significant for returns in most of these equity markets, but end-of-the-year effects are predominant.\nIt also appears that, beginning in the late 1980s, calendar effects have diminished except in small-cap stock indices.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://www.econstor.eu/bitstream/10419/100920/1/wp2005-02.pdf\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=388601",
+        "paper_url": "\nThis paper studies tests of calendar effects in equity returns. It is necessary to control for all possible calendar effects to avoid spurious results.\nThe authors contribute to the calendar effects literature and its significance with a test for calendar-specific anomalies that conditions on the nuisance of possible calendar effects.\nThus, their approach to test for calendar effects produces robust data-mining results. Unfortunately, attempts to control for a large number of possible calendar effects have the downside of diminishing the power of the test, making it more difficult to detect actual anomalies.\nThe authors show that our test achieves good power properties because it exploits the correlation structure of (excess) returns specific to the calendar effect being studied.\nWe implement the test with bootstrap methods and apply it to stock indices from Denmark, France, Germany, Hong Kong, Italy, Japan, Norway, Sweden, the United Kingdom, and the United States.\nBootstrap p- values reveal that calendar effects are significant for returns in most of these equity markets, but end-of-the-year effects are predominant.\nIt also appears that, beginning in the late 1980s, calendar effects have diminished except in small-cap stock indices.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "time_series_momentum": {
         "display_name": "Time Series Momentum",
-        "pdf_url": "https://pages.stern.nyu.edu/~lpederse/papers/TimeSeriesMomentum.pdf",
-        "paper_url": "https://pages.stern.nyu.edu/~lpederse/papers/TimeSeriesMomentum.pdf",
-        "desc": "\nWe document significant \"time series momentum\" in equity index, currency, commodity, and bond futures for each of the 58 liquid instruments we consider.\nWe find persistence in returns for one to 12 months that partially reverses over longer horizons, consistent with sentiment theories of initial under-reaction and delayed over-reaction.\nA diversified portfolio of time series momentum strategies across all asset classes delivers substantial abnormal returns with little exposure to standard asset pricing factors and performs best during extreme markets.\nExamining the trading activities of speculators and hedgers, we find that speculators profit from time series momentum at the expense of hedgers.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://pages.stern.nyu.edu/~lpederse/papers/TimeSeriesMomentum.pdf\nhttps://pages.stern.nyu.edu/~lpederse/papers/TimeSeriesMomentum.pdf",
+        "paper_url": "We document significant \"time series momentum\" in equity index, currency, commodity, and bond futures for each of the 58 liquid instruments we consider.\nWe find persistence in returns for one to 12 months that partially reverses over longer horizons, consistent with sentiment theories of initial under-reaction and delayed over-reaction.\nA diversified portfolio of time series momentum strategies across all asset classes delivers substantial abnormal returns with little exposure to standard asset pricing factors and performs best during extreme markets.\nExamining the trading activities of speculators and hedgers, we find that speculators profit from time series momentum at the expense of hedgers.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "trade_january_barometer": {
         "display_name": "What's the Best Way to Trade Using the January Barometer?",
-        "pdf_url": "https://business.purdue.edu/faculty/mcconnell/publications/Whats-the-best-way.pdf",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1436516",
-        "desc": "\nAccording to Streetlore, as embedded in the adage 'As goes January so goes the rest of the year,' the market return in January provides useful information to would-be investors in that the January market return predicts the market return over the remainder of the year.\nThis adage has become known as the January Barometer. In an earlier paper (Cooper, McConnell and Ovtchinnikov, 2006) we investigated the power of the January market return to predict returns for the next 11 months using 147 years of U.S. stock market returns.\nWe found that, on average, the 11-month holding period return following positive Januarys was significantly higher, by a wide margin, than the 11-month holding period return following negative Januarys.\nIn this paper we update that analysis through 2008 and address the question of how an investor can best use that information as part of an investment strategy.\nWe find that the best way to use the January Barometer is not the obvious one of being long following positive Januarys and short following negative Januarys, but to be long following positive Januarys and invest in t-bills following negative Januarys.\nThis strategy beats various alternatives, including a passive long-the-market-all-the-time strategy, by significant margins over the 152 years for which we have data.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://business.purdue.edu/faculty/mcconnell/publications/Whats-the-best-way.pdf\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=1436516",
+        "paper_url": "According to Streetlore, as embedded in the adage 'As goes January so goes the rest of the year,' the market return in January provides useful information to would-be investors in that the January market return predicts the market return over the remainder of the year.\nThis adage has become known as the January Barometer. In an earlier paper (Cooper, McConnell and Ovtchinnikov, 2006) we investigated the power of the January market return to predict returns for the next 11 months using 147 years of U.S. stock market returns.\nWe found that, on average, the 11-month holding period return following positive Januarys was significantly higher, by a wide margin, than the 11-month holding period return following negative Januarys.\nIn this paper we update that analysis through 2008 and address the question of how an investor can best use that information as part of an investment strategy.\nWe find that the best way to use the January Barometer is not the obvious one of being long following positive Januarys and short following negative Januarys, but to be long following positive Januarys and invest in t-bills following negative Januarys.\nThis strategy beats various alternatives, including a passive long-the-market-all-the-time strategy, by significant margins over the 152 years for which we have data.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "trend_following_mean_reversion_bitcoin": {
-        "display_name": "Seasonality, Trend-following, and Mean Reversion in Bitcoin",
-        "pdf_url": "https://ssrn.com/abstract=4081000",
-        "paper_url": "https://ssrn.com/abstract=4081000",
-        "desc": "\nThe cryptocurrency market is not negligible nor minor anymore. With the continuous development of the crypto market, researchers aimed to analyze novel cryptocurrencies thoroughly.\nAn excellent starting point might be in other recognized effects from the developed asset classes. This research examines seasonality effects such as when the major NYSE opened or closed and their intraday, overnight, or daily components.\nFurthermore, we also examine the distribution of the daily returns and the returns that are significant. The results point to a simple seasonality strategy that is based on holding BTC only for two hours per day.\nThe second aim is to examine trend-following and mean reversion strategies. The data suggests that BTC tends to trend when it is at its maximum and bounce back when at the minimum.\nThese findings support the empirical observations that BTC tends to trend strongly and revert after drawdowns.\n\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "display_name": "Seasonality, Trend-following, and Mean reversion in Bitcoin",
+        "pdf_url": "https://ssrn.com/abstract=4081000\nhttps://ssrn.com/abstract=4081000",
+        "paper_url": "The cryptocurrency market is not negligible nor minor anymore. With the continuous development of the crypto market, researchers aimed to analyze novel cryptocurrencies thoroughly.\nAn excellent starting point might be in other recognized effects from the developed asset classes. This research examines seasonality effects such as when the major NYSE opened or closed and their intraday, overnight, or daily components.\nFurthermore, we also examine the distribution of the daily returns and the returns that are significant. The results point to a simple seasonality strategy that is based on holding BTC only for two hours per day.\nThe second aim is to examine trend-following and mean reversion strategies. The data suggests that BTC tends to trend when it is at its maximum and bounce back when at the minimum.\nThese findings support the empirical observations that BTC tends to trend strongly and revert after drawdowns.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "trend_following_on_stocks": {
-        "display_name": "Trend Following on Stocks",
-        "pdf_url": "https://www.cis.upenn.edu/~mkearns/finread/trend.pdf",
-        "paper_url": "https://www.semanticscholar.org/paper/Does-Trend-Following-Work-on-Stocks-Wilcox-Crittenden/1453464b12d66c43ba6d1b28b58baf4871f6b4bc",
-        "desc": "\nOver the years many commodity trading advisors, proprietary traders, and global macro hedge funds have successfully applied various trend following methods to profitably trade in global futures markets. \nVery little research, however, has been published regarding trend following strategies applied to stocks. Is it reasonable to assume that trend following works on futures but not stocks? We decided to put a long only trend following strategy to the test by running it against a comprehensive database of U.S. stocks that have been adjusted for corporate actions 1 . Delisted 2 companies were included to account for survivorship bias 3 . Realistic transaction cost estimates (slippage & commission) were applied. Liquidity filters were used to limit hypothetical trading to only stocks that would have been liquid enough to trade, at the time of the trade. Coverage included 24,000+ securities spanning 22 years. The empirical results strongly suggest that trend following on stocks does offer a positive mathematical expectancy 4 , an essential building block of an effective investing or trading system.\n\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "display_name": "Does Trend Following Work on Stocks",
+        "pdf_url": "https://www.cis.upenn.edu/~mkearns/finread/trend.pdf\nhttps://www.semanticscholar.org/paper/Does-Trend-Following-Work-on-Stocks-Wilcox-Crittenden/1453464b12d66c43ba6d1b28b58baf4871f6b4bc",
+        "paper_url": "Over the years many commodity trading advisors, proprietary traders, and global macro hedge funds have successfully applied various trend following methods to profitably trade in global futures markets. Very little research, however, has been published regarding trend following strategies applied to stocks. Is it reasonable to assume that trend following works on futures but not stocks? We decided to put a long only trend following strategy to the test by running it against a comprehensive database of U.S. stocks that have been adjusted for corporate actions 1 . Delisted 2 companies were included to account for survivorship bias 3 . Realistic transaction cost estimates (slippage & commission) were applied. Liquidity filters were used to limit hypothetical trading to only stocks that would have been liquid enough to trade, at the time of the trade. Coverage included 24,000+ securities spanning 22 years. The empirical results strongly suggest that trend following on stocks does offer a positive mathematical expectancy 4 , an essential building block of an effective investing or trading system.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "two_centuries_trend": {
         "display_name": "Two Centuries of Trend Following",
-        "pdf_url": "https://arxiv.org/pdf/1404.3274",
-        "paper_url": "https://arxiv.org/abs/1404.3274",
-        "desc": "\nWe establish the existence of anomalous excess returns based on trend following strategies across four asset classes (commodities, currencies, stock indices, bonds) and over very long time scales.\nWe use for our studies both futures time series, that exist since 1960, and spot time series that allow us to go back to 1800 on commodities and indices.\nThe overall t-stat of the excess returns is \u22485 since 1960 and \u224810 since 1800, after accounting for the overall upward drift of these markets. The effect is very stable, both across time and asset classes.\nIt makes the existence of trends one of the most statistically significant anomalies in financial markets. When analyzing the trend following signal further, we find a clear saturation effect for large signals,\nsuggesting that fundamentalist traders do not attempt to resist \"weak trends\", but step in when their own signal becomes strong enough. Finally, we study the performance of trend following in the recent period.\nWe find no sign of a statistical degradation of long trends, whereas shorter trends have significantly withered.\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://arxiv.org/pdf/1404.3274\nhttps://arxiv.org/abs/1404.3274",
+        "paper_url": "We establish the existence of anomalous excess returns based on trend following strategies across four asset classes (commodities, currencies, stock indices, bonds) and over very long time scales.\nWe use for our studies both futures time series, that exist since 1960, and spot time series that allow us to go back to 1800 on commodities and indices.\nThe overall t-stat of the excess returns is \u22485 since 1960 and \u224810 since 1800, after accounting for the overall upward drift of these markets. The effect is very stable, both across time and asset classes.\nIt makes the existence of trends one of the most statistically significant anomalies in financial markets. When analyzing the trend following signal further, we find a clear saturation effect for large signals,\nsuggesting that fundamentalist traders do not attempt to resist \"weak trends\", but step in when their own signal becomes strong enough. Finally, we study the performance of trend following in the recent period.\nWe find no sign of a statistical degradation of long trends, whereas shorter trends have significantly withered.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     },
     "volatility_effect_lower_risk_without_lower_return": {
         "display_name": "The Volatility Effect: Lower Risk Without Lower Return",
-        "pdf_url": "https://www.robeco.com/files/docm/docu-the-volatility-effect-2007.pdf",
-        "paper_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=980865",
-        "desc": "\nWe present empirical evidence that stocks with low volatility earn high risk-adjusted returns. The annual alpha spread of global low versus high volatility decile portfolios amounts to 12% over the 1986-2006 period.\nWe also observe this volatility effect within the US, European and Japanese markets in isolation. Furthermore, we find that the volatility effect cannot be explained by other well-known effects such as value and size.\nOur results indicate that equity investors overpay for risky stocks. Possible explanations for this phenomenon include (i) leverage restrictions, (ii) inefficient two-step investment processes, and (iii) behavioral biases of private investors.\nIn order to exploit the volatility effect in practice we argue that investors should include low risk stocks as a separate asset class in the strategic asset allocation phase of their investment process.\n\n",
-        "last_updated": "2025-04-30 15:26:43"
+        "pdf_url": "https://www.robeco.com/files/docm/docu-the-volatility-effect-2007.pdf\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=980865",
+        "paper_url": "\nWe present empirical evidence that stocks with low volatility earn high risk-adjusted returns. The annual alpha spread of global low versus high volatility decile portfolios amounts to 12% over the 1986-2006 period.\nWe also observe this volatility effect within the US, European and Japanese markets in isolation. Furthermore, we find that the volatility effect cannot be explained by other well-known effects such as value and size.\nOur results indicate that equity investors overpay for risky stocks. Possible explanations for this phenomenon include (i) leverage restrictions, (ii) inefficient two-step investment processes, and (iii) behavioral biases of private investors.\nIn order to exploit the volatility effect in practice we argue that investors should include low risk stocks as a separate asset class in the strategic asset allocation phase of their investment process.",
+        "desc": "",
+        "last_updated": "2025-04-30 04:46:00",
+        "public": [
+            "metrics.json",
+            "params.json",
+            "metadata.json",
+            "last_3_years_transactions.json",
+            "last_3_years_plot.html",
+            "last_3_years_plot_thumbnail.png"
+        ]
     }
 }
