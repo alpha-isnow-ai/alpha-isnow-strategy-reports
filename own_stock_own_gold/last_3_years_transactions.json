@@ -1,54 +1,20 @@
 [
     {
-        "datetime": "2022-01-04 00:00:00",
-        "date": "2022-01-04 00:00:00",
-        "trades": [
-            {
-                "symbol": "GLD",
-                "side": "SELL",
-                "size": -2,
-                "price": 168.9,
-                "value": 315.31,
-                "commission": 0.0
-            }
-        ],
-        "positions_value": 379667.25,
-        "cash": 41718.42,
-        "total_value": 421385.67
-    },
-    {
         "datetime": "2022-03-02 00:00:00",
         "date": "2022-03-02 00:00:00",
         "trades": [
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -17,
+                "size": -9,
                 "price": 180.13,
-                "value": 2680.12,
+                "value": 1421.24,
                 "commission": 0.0
             }
         ],
-        "positions_value": 399360.05,
-        "cash": 44780.63,
-        "total_value": 444140.68
-    },
-    {
-        "datetime": "2022-04-04 00:00:00",
-        "date": "2022-04-04 00:00:00",
-        "trades": [
-            {
-                "symbol": "GLD",
-                "side": "BUY",
-                "size": 2,
-                "price": 180.24,
-                "value": 360.48,
-                "commission": 0.0
-            }
-        ],
-        "positions_value": 401142.87,
-        "cash": 44420.15,
-        "total_value": 445563.02
+        "positions_value": 219989.51,
+        "cash": 24498.13,
+        "total_value": 244487.64
     },
     {
         "datetime": "2022-05-03 00:00:00",
@@ -57,15 +23,15 @@
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 7,
+                "size": 4,
                 "price": 173.89,
-                "value": 1217.23,
+                "value": 695.56,
                 "commission": 0.0
             }
         ],
-        "positions_value": 388394.78,
-        "cash": 43202.92,
-        "total_value": 431597.7
+        "positions_value": 213782.52,
+        "cash": 23802.57,
+        "total_value": 237585.08
     },
     {
         "datetime": "2022-06-02 00:00:00",
@@ -74,15 +40,15 @@
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 2,
+                "size": 1,
                 "price": 173.66,
-                "value": 347.32,
+                "value": 173.66,
                 "commission": 0.0
             }
         ],
-        "positions_value": 389323.56,
-        "cash": 42855.6,
-        "total_value": 432179.17
+        "positions_value": 214276.16,
+        "cash": 23628.91,
+        "total_value": 237905.06
     },
     {
         "datetime": "2022-07-04 00:00:00",
@@ -91,15 +57,15 @@
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 5,
+                "size": 3,
                 "price": 167.14,
-                "value": 835.7,
+                "value": 501.42,
                 "commission": 0.0
             }
         ],
-        "positions_value": 376700.18,
-        "cash": 42019.9,
-        "total_value": 418720.08
+        "positions_value": 207370.25,
+        "cash": 23127.49,
+        "total_value": 230497.73
     },
     {
         "datetime": "2022-08-02 00:00:00",
@@ -108,15 +74,15 @@
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 5,
+                "size": 2,
                 "price": 165.66,
-                "value": 828.3,
+                "value": 331.32,
                 "commission": 0.0
             }
         ],
-        "positions_value": 367964.16,
-        "cash": 41191.6,
-        "total_value": 409155.76
+        "positions_value": 202437.7,
+        "cash": 22796.17,
+        "total_value": 225233.87
     },
     {
         "datetime": "2022-09-02 00:00:00",
@@ -125,15 +91,15 @@
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 10,
+                "size": 6,
                 "price": 159.35,
-                "value": 1593.5,
+                "value": 956.1,
                 "commission": 0.0
             }
         ],
-        "positions_value": 358812.77,
-        "cash": 39598.1,
-        "total_value": 398410.87
+        "positions_value": 197482.39,
+        "cash": 21840.07,
+        "total_value": 219322.46
     },
     {
         "datetime": "2022-11-02 00:00:00",
@@ -142,15 +108,15 @@
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 6,
+                "size": 4,
                 "price": 154.16,
-                "value": 924.96,
+                "value": 616.64,
                 "commission": 0.0
             }
         ],
-        "positions_value": 344249.01,
-        "cash": 38673.14,
-        "total_value": 382922.15
+        "positions_value": 189573.16,
+        "cash": 21223.43,
+        "total_value": 210796.59
     },
     {
         "datetime": "2022-12-02 00:00:00",
@@ -159,15 +125,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -18,
+                "size": -10,
                 "price": 166.18,
-                "value": 2839.96,
+                "value": 1580.09,
                 "commission": 0.0
             }
         ],
-        "positions_value": 374829.65,
-        "cash": 41664.38,
-        "total_value": 416494.03
+        "positions_value": 206398.83,
+        "cash": 22885.23,
+        "total_value": 229284.06
     },
     {
         "datetime": "2023-01-03 00:00:00",
@@ -176,15 +142,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -3,
+                "size": -1,
                 "price": 171.32,
-                "value": 473.33,
+                "value": 158.01,
                 "commission": 0.0
             }
         ],
-        "positions_value": 382832.27,
-        "cash": 42178.34,
-        "total_value": 425010.62
+        "positions_value": 210916.98,
+        "cash": 23056.55,
+        "total_value": 233973.52
     },
     {
         "datetime": "2023-02-02 00:00:00",
@@ -193,15 +159,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -14,
+                "size": -9,
                 "price": 181.08,
-                "value": 2208.86,
+                "value": 1422.08,
                 "commission": 0.0
             }
         ],
-        "positions_value": 395649.59,
-        "cash": 44713.46,
-        "total_value": 440363.05
+        "positions_value": 217749.59,
+        "cash": 24686.27,
+        "total_value": 242435.86
     },
     {
         "datetime": "2023-03-02 00:00:00",
@@ -210,15 +176,15 @@
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 13,
+                "size": 7,
                 "price": 170.52,
-                "value": 2216.76,
+                "value": 1193.64,
                 "commission": 0.0
             }
         ],
-        "positions_value": 381766.43,
-        "cash": 42496.7,
-        "total_value": 424263.13
+        "positions_value": 210082.46,
+        "cash": 23492.63,
+        "total_value": 233575.09
     },
     {
         "datetime": "2023-04-04 00:00:00",
@@ -227,15 +193,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -16,
+                "size": -8,
                 "price": 184.72,
-                "value": 2525.59,
+                "value": 1264.64,
                 "commission": 0.0
             }
         ],
-        "positions_value": 417503.57,
-        "cash": 45452.22,
-        "total_value": 462955.79
+        "positions_value": 229899.53,
+        "cash": 24970.39,
+        "total_value": 254869.92
     },
     {
         "datetime": "2023-07-04 00:00:00",
@@ -244,32 +210,15 @@
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 7,
+                "size": 3,
                 "price": 178.61,
-                "value": 1250.27,
+                "value": 535.83,
                 "commission": 0.0
             }
         ],
-        "positions_value": 397631.16,
-        "cash": 44201.95,
-        "total_value": 441833.12
-    },
-    {
-        "datetime": "2023-08-02 00:00:00",
-        "date": "2023-08-02 00:00:00",
-        "trades": [
-            {
-                "symbol": "GLD",
-                "side": "SELL",
-                "size": -2,
-                "price": 180.57,
-                "value": 315.83,
-                "commission": 0.0
-            }
-        ],
-        "positions_value": 399789.61,
-        "cash": 44563.09,
-        "total_value": 444352.71
+        "positions_value": 218804.22,
+        "cash": 24434.56,
+        "total_value": 243238.78
     },
     {
         "datetime": "2023-10-03 00:00:00",
@@ -278,15 +227,15 @@
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 13,
+                "size": 7,
                 "price": 169.14,
-                "value": 2198.82,
+                "value": 1183.98,
                 "commission": 0.0
             }
         ],
-        "positions_value": 378749.25,
-        "cash": 42364.27,
-        "total_value": 421113.52
+        "positions_value": 208574.28,
+        "cash": 23250.58,
+        "total_value": 231824.86
     },
     {
         "datetime": "2023-11-02 00:00:00",
@@ -295,15 +244,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -16,
+                "size": -9,
                 "price": 184.13,
-                "value": 2527.68,
+                "value": 1423.74,
                 "commission": 0.0
             }
         ],
-        "positions_value": 409298.75,
-        "cash": 45310.35,
-        "total_value": 454609.1
+        "positions_value": 225362.87,
+        "cash": 24907.75,
+        "total_value": 250270.62
     },
     {
         "datetime": "2023-12-04 00:00:00",
@@ -312,15 +261,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -9,
+                "size": -5,
                 "price": 189.6,
-                "value": 1421.82,
+                "value": 790.97,
                 "commission": 0.0
             }
         ],
-        "positions_value": 415922.04,
-        "cash": 47016.75,
-        "total_value": 462938.79
+        "positions_value": 229001.34,
+        "cash": 25855.75,
+        "total_value": 254857.09
     },
     {
         "datetime": "2024-03-04 00:00:00",
@@ -329,15 +278,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -2,
+                "size": -1,
                 "price": 194.15,
-                "value": 315.96,
+                "value": 158.19,
                 "commission": 0.0
             }
         ],
-        "positions_value": 433574.11,
-        "cash": 47405.05,
-        "total_value": 480979.16
+        "positions_value": 238740.17,
+        "cash": 26049.9,
+        "total_value": 264790.07
     },
     {
         "datetime": "2024-04-02 00:00:00",
@@ -346,15 +295,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -15,
+                "size": -8,
                 "price": 209.07,
-                "value": 2369.7,
+                "value": 1265.55,
                 "commission": 0.0
             }
         ],
-        "positions_value": 463325.33,
-        "cash": 50541.1,
-        "total_value": 513866.43
+        "positions_value": 255176.9,
+        "cash": 27722.46,
+        "total_value": 282899.36
     },
     {
         "datetime": "2024-05-02 00:00:00",
@@ -363,15 +312,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -6,
+                "size": -4,
                 "price": 211.9,
-                "value": 947.88,
+                "value": 632.77,
                 "commission": 0.0
             }
         ],
-        "positions_value": 466967.84,
-        "cash": 51812.5,
-        "total_value": 518780.34
+        "positions_value": 257034.79,
+        "cash": 28570.06,
+        "total_value": 285604.84
     },
     {
         "datetime": "2024-06-04 00:00:00",
@@ -380,32 +329,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -4,
+                "size": -2,
                 "price": 216.24,
-                "value": 631.92,
+                "value": 316.39,
                 "commission": 0.0
             }
         ],
-        "positions_value": 470795.5,
-        "cash": 52677.46,
-        "total_value": 523472.96
-    },
-    {
-        "datetime": "2024-07-02 00:00:00",
-        "date": "2024-07-02 00:00:00",
-        "trades": [
-            {
-                "symbol": "GLD",
-                "side": "BUY",
-                "size": 1,
-                "price": 215.33,
-                "value": 215.33,
-                "commission": 0.0
-            }
-        ],
-        "positions_value": 471645.27,
-        "cash": 52462.13,
-        "total_value": 524107.41
+        "positions_value": 259185.09,
+        "cash": 29002.54,
+        "total_value": 288187.62
     },
     {
         "datetime": "2024-08-02 00:00:00",
@@ -414,15 +346,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -9,
+                "size": -4,
                 "price": 227.95,
-                "value": 1422.06,
+                "value": 632.77,
                 "commission": 0.0
             }
         ],
-        "positions_value": 491015.85,
-        "cash": 54513.68,
-        "total_value": 545529.54
+        "positions_value": 270408.0,
+        "cash": 29914.34,
+        "total_value": 300322.33
     },
     {
         "datetime": "2024-09-03 00:00:00",
@@ -431,15 +363,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -5,
+                "size": -3,
                 "price": 230.38,
-                "value": 790.03,
+                "value": 474.58,
                 "commission": 0.0
             }
         ],
-        "positions_value": 500650.45,
-        "cash": 55665.58,
-        "total_value": 556316.03
+        "positions_value": 275657.12,
+        "cash": 30605.48,
+        "total_value": 306262.6
     },
     {
         "datetime": "2024-10-02 00:00:00",
@@ -448,15 +380,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -13,
+                "size": -7,
                 "price": 245.61,
-                "value": 2054.08,
+                "value": 1107.35,
                 "commission": 0.0
             }
         ],
-        "positions_value": 530871.27,
-        "cash": 58858.51,
-        "total_value": 589729.78
+        "positions_value": 292335.4,
+        "cash": 32324.75,
+        "total_value": 324660.15
     },
     {
         "datetime": "2024-11-04 00:00:00",
@@ -465,15 +397,15 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -6,
+                "size": -3,
                 "price": 253.32,
-                "value": 948.04,
+                "value": 474.58,
                 "commission": 0.0
             }
         ],
-        "positions_value": 544848.65,
-        "cash": 60378.43,
-        "total_value": 605227.09
+        "positions_value": 300109.21,
+        "cash": 33084.71,
+        "total_value": 333193.92
     },
     {
         "datetime": "2024-12-03 00:00:00",
@@ -482,15 +414,15 @@
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 7,
+                "size": 3,
                 "price": 244.96,
-                "value": 1714.72,
+                "value": 734.88,
                 "commission": 0.0
             }
         ],
-        "positions_value": 527376.64,
-        "cash": 58663.71,
-        "total_value": 586040.36
+        "positions_value": 290276.69,
+        "cash": 32349.83,
+        "total_value": 322626.52
     },
     {
         "datetime": "2025-01-02 00:00:00",
@@ -505,9 +437,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": 530843.46,
-        "cash": 58419.49,
-        "total_value": 589262.95
+        "positions_value": 292295.22,
+        "cash": 32105.61,
+        "total_value": 324400.82
     },
     {
         "datetime": "2025-02-04 00:00:00",
@@ -516,14 +448,65 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -14,
+                "size": -7,
                 "price": 261.83,
-                "value": 2216.58,
+                "value": 1109.39,
                 "commission": 0.0
             }
         ],
-        "positions_value": 564112.5,
-        "cash": 62085.11,
-        "total_value": 626197.61
+        "positions_value": 310800.0,
+        "cash": 33938.42,
+        "total_value": 344738.42
+    },
+    {
+        "datetime": "2025-03-04 00:00:00",
+        "date": "2025-03-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -3,
+                "price": 269.01,
+                "value": 475.45,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 317759.86,
+        "cash": 34745.45,
+        "total_value": 352505.3
+    },
+    {
+        "datetime": "2025-04-02 00:00:00",
+        "date": "2025-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -9,
+                "price": 288.28,
+                "value": 1426.36,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 337723.52,
+        "cash": 37339.97,
+        "total_value": 375063.49
+    },
+    {
+        "datetime": "2025-05-02 00:00:00",
+        "date": "2025-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -4,
+                "price": 300.17,
+                "value": 633.94,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 348040.65,
+        "cash": 38540.65,
+        "total_value": 386581.3
     }
 ]

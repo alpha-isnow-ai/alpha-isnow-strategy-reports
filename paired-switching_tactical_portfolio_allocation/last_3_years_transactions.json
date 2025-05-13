@@ -6,23 +6,23 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -764,
-                "price": 413.79,
-                "value": 253810.2,
+                "size": -893,
+                "price": 412.55,
+                "value": 295775.88,
                 "commission": 0.0
             },
             {
                 "symbol": "AGG",
                 "side": "BUY",
-                "size": 3037,
-                "price": 100.59,
-                "value": 305495.48,
+                "size": 3561,
+                "price": 99.94,
+                "value": 355888.48,
                 "commission": 0.0
             }
         ],
-        "positions_value": 303252.02,
-        "cash": 37352.33,
-        "total_value": 340604.35
+        "positions_value": 353274.96,
+        "cash": 43494.07,
+        "total_value": 396769.03
     },
     {
         "datetime": "2022-06-02 00:00:00",
@@ -31,23 +31,23 @@
             {
                 "symbol": "AGG",
                 "side": "SELL",
-                "size": -3037,
-                "price": 94.46,
-                "value": 305495.48,
+                "size": -3561,
+                "price": 93.85,
+                "value": 355888.48,
                 "commission": 0.0
             },
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 740,
-                "price": 393.04,
-                "value": 290852.16,
+                "size": 865,
+                "price": 391.86,
+                "value": 338962.91,
                 "commission": 0.0
             }
         ],
-        "positions_value": 296514.06,
-        "cash": 33389.75,
-        "total_value": 329903.81
+        "positions_value": 345561.35,
+        "cash": 38744.85,
+        "total_value": 384306.2
     },
     {
         "datetime": "2022-09-02 00:00:00",
@@ -56,23 +56,23 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -740,
-                "price": 385.93,
-                "value": 290852.16,
+                "size": -865,
+                "price": 384.77,
+                "value": 338962.91,
                 "commission": 0.0
             },
             {
                 "symbol": "AGG",
                 "side": "BUY",
-                "size": 3084,
-                "price": 92.53,
-                "value": 285370.72,
+                "size": 3616,
+                "price": 91.93,
+                "value": 332434.13,
                 "commission": 0.0
             }
         ],
-        "positions_value": 285342.28,
-        "cash": 33606.47,
-        "total_value": 318948.75
+        "positions_value": 332401.0,
+        "cash": 39138.07,
+        "total_value": 371539.07
     },
     {
         "datetime": "2022-12-02 00:00:00",
@@ -81,22 +81,47 @@
             {
                 "symbol": "AGG",
                 "side": "SELL",
-                "size": -3084,
-                "price": 91.42,
-                "value": 285370.72,
+                "size": -3616,
+                "price": 90.83,
+                "value": 332434.13,
                 "commission": 0.0
             },
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 722,
-                "price": 389.42,
-                "value": 281162.33,
+                "size": 844,
+                "price": 388.25,
+                "value": 327685.97,
                 "commission": 0.0
             }
         ],
-        "positions_value": 284419.55,
-        "cash": 34372.78,
-        "total_value": 318792.33
+        "positions_value": 331482.16,
+        "cash": 39876.46,
+        "total_value": 371358.61
+    },
+    {
+        "datetime": "2025-03-04 00:00:00",
+        "date": "2025-03-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -844,
+                "price": 577.97,
+                "value": 327685.97,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AGG",
+                "side": "BUY",
+                "size": 4852,
+                "price": 98.65,
+                "value": 478663.91,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 476783.96,
+        "cash": 49020.39,
+        "total_value": 525804.35
     }
 ]

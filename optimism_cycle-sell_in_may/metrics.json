@@ -1,15 +1,17 @@
 {
-    "start_cash": 10000.0,
-    "final_value": 334492.33,
-    "net_profit": 324492.33,
-    "total_return_percent": 3244.92,
-    "sharpe_ratio": 1.28,
-    "annual_return_percent": 15.49,
-    "annual_volatility_percent": 12.12,
-    "max_drawdown_percent": {
-        "len": 855,
-        "drawdown": 31.77,
-        "moneydown": 79535.55
-    },
-    "risk_free_rate": 0.0
+    "start_cash": 100000,
+    "final_value": 312940.76,
+    "net_profit": 212940.76,
+    "total_return_percent": 212.94,
+    "sharpe_ratio": 0.45,
+    "annual_return_percent": -3.02,
+    "annual_volatility_percent": 12.22,
+    "max_drawdown_percent": 31.78,
+    "risk_free_rate": 0.0,
+    "max_drawdown_length": 855,
+    "avg_return": 0.02,
+    "total_trades": 25,
+    "win_trades": 18,
+    "loss_trades": 7,
+    "win_rate_percent": 72.0
 }

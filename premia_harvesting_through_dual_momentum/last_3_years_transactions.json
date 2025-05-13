@@ -6,39 +6,39 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -3,
-                "price": 458.63,
-                "value": 866.52,
+                "size": -2,
+                "price": 457.25,
+                "value": 577.07,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "BUY",
-                "size": 20,
-                "price": 73.03,
-                "value": 1460.55,
+                "size": 19,
+                "price": 72.31,
+                "value": 1373.93,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "SELL",
-                "size": -42,
-                "price": 102.51,
-                "value": 3240.26,
+                "size": -43,
+                "price": 101.47,
+                "value": 3283.52,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "BUY",
-                "size": 26,
-                "price": 81.37,
-                "value": 2115.74,
+                "size": 27,
+                "price": 80.56,
+                "value": 2175.11,
                 "commission": 0.0
             }
         ],
-        "positions_value": 291944.31,
-        "cash": 32242.1,
-        "total_value": 324186.41
+        "positions_value": 295973.25,
+        "cash": 32666.74,
+        "total_value": 328639.99
     },
     {
         "datetime": "2022-02-02 00:00:00",
@@ -48,38 +48,38 @@
                 "symbol": "SPY",
                 "side": "BUY",
                 "size": 2,
-                "price": 435.93,
-                "value": 871.85,
+                "price": 434.62,
+                "value": 869.24,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "SELL",
                 "size": -12,
-                "price": 71.52,
-                "value": 851.09,
+                "price": 70.82,
+                "value": 842.71,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "BUY",
-                "size": 34,
-                "price": 94.51,
-                "value": 3213.2,
+                "size": 35,
+                "price": 93.54,
+                "value": 3274.07,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "SELL",
                 "size": -31,
-                "price": 81.37,
-                "value": 2523.94,
+                "price": 80.56,
+                "value": 2498.66,
                 "commission": 0.0
             }
         ],
-        "positions_value": 283332.8,
-        "cash": 31537.93,
-        "total_value": 314870.73
+        "positions_value": 287322.59,
+        "cash": 31870.63,
+        "total_value": 319193.21
     },
     {
         "datetime": "2022-03-02 00:00:00",
@@ -89,38 +89,38 @@
                 "symbol": "SPY",
                 "side": "BUY",
                 "size": 5,
-                "price": 413.79,
-                "value": 2068.95,
+                "price": 412.55,
+                "value": 2062.74,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "SELL",
                 "size": -8,
-                "price": 70.25,
-                "value": 567.39,
+                "price": 69.56,
+                "value": 561.81,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "BUY",
-                "size": 10,
-                "price": 90.92,
-                "value": 909.18,
+                "size": 11,
+                "price": 89.99,
+                "value": 989.93,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "SELL",
-                "size": -866,
-                "price": 81.39,
-                "value": 70507.57,
+                "size": -887,
+                "price": 80.58,
+                "value": 71493.84,
                 "commission": 0.0
             }
         ],
-        "positions_value": 209078.88,
-        "cash": 99609.27,
-        "total_value": 308688.15
+        "positions_value": 212073.93,
+        "cash": 100847.88,
+        "total_value": 312921.81
     },
     {
         "datetime": "2022-04-04 00:00:00",
@@ -129,39 +129,39 @@
             {
                 "symbol": "HYG",
                 "side": "SELL",
-                "size": -980,
-                "price": 69.63,
-                "value": 69505.59,
+                "size": -1003,
+                "price": 68.95,
+                "value": 70436.53,
                 "commission": 0.0
             },
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -3,
-                "price": 435.01,
-                "value": 883.03,
+                "size": -4,
+                "price": 433.7,
+                "value": 1175.6,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "SELL",
-                "size": -39,
-                "price": 98.69,
-                "value": 3046.22,
+                "size": -41,
+                "price": 97.69,
+                "value": 3170.39,
                 "commission": 0.0
             },
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 395,
+                "size": 400,
                 "price": 180.24,
-                "value": 71194.8,
+                "value": 72096.0,
                 "commission": 0.0
             }
         ],
-        "positions_value": 213851.02,
-        "cash": 101808.94,
-        "total_value": 315659.97
+        "positions_value": 216344.87,
+        "cash": 103649.66,
+        "total_value": 319994.53
     },
     {
         "datetime": "2022-05-03 00:00:00",
@@ -170,39 +170,39 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 6,
-                "price": 398.41,
-                "value": 2390.46,
+                "size": 7,
+                "price": 397.21,
+                "value": 2780.5,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "BUY",
-                "size": 27,
-                "price": 90.88,
-                "value": 2453.75,
+                "size": 28,
+                "price": 89.96,
+                "value": 2518.75,
                 "commission": 0.0
             },
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -5,
+                "size": -4,
                 "price": 173.89,
-                "value": 901.2,
+                "value": 720.96,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "BUY",
-                "size": 831,
-                "price": 81.41,
-                "value": 67653.47,
+                "size": 851,
+                "price": 80.6,
+                "value": 68587.65,
                 "commission": 0.0
             }
         ],
-        "positions_value": 271987.78,
-        "cash": 30180.72,
-        "total_value": 302168.5
+        "positions_value": 275895.4,
+        "cash": 30458.31,
+        "total_value": 306353.71
     },
     {
         "datetime": "2022-06-02 00:00:00",
@@ -211,39 +211,39 @@
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -390,
+                "size": -396,
                 "price": 173.66,
-                "value": 70293.6,
+                "value": 71375.04,
                 "commission": 0.0
             },
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -170,
-                "price": 393.04,
-                "value": 50662.58,
+                "size": -173,
+                "price": 391.86,
+                "value": 51568.11,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "SELL",
-                "size": -747,
-                "price": 87.41,
-                "value": 58691.57,
+                "size": -765,
+                "price": 86.52,
+                "value": 59508.51,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "BUY",
-                "size": 2456,
-                "price": 81.43,
-                "value": 199994.15,
+                "size": 2515,
+                "price": 80.62,
+                "value": 202746.89,
                 "commission": 0.0
             }
         ],
-        "positions_value": 267692.46,
-        "cash": 30023.54,
-        "total_value": 297716.0
+        "positions_value": 271380.0,
+        "cash": 30458.95,
+        "total_value": 301838.95
     },
     {
         "datetime": "2022-07-04 00:00:00",
@@ -252,15 +252,15 @@
             {
                 "symbol": "BIL",
                 "side": "BUY",
-                "size": 2,
-                "price": 81.48,
-                "value": 162.96,
+                "size": 3,
+                "price": 80.66,
+                "value": 241.99,
                 "commission": 0.0
             }
         ],
-        "positions_value": 267981.26,
-        "cash": 29860.59,
-        "total_value": 297841.85
+        "positions_value": 271749.46,
+        "cash": 30216.97,
+        "total_value": 301966.43
     },
     {
         "datetime": "2022-08-02 00:00:00",
@@ -269,15 +269,15 @@
             {
                 "symbol": "BIL",
                 "side": "SELL",
-                "size": -821,
-                "price": 81.52,
-                "value": 66850.86,
+                "size": -842,
+                "price": 80.7,
+                "value": 67873.98,
                 "commission": 0.0
             }
         ],
-        "positions_value": 201213.25,
-        "cash": 96788.46,
-        "total_value": 298001.71
+        "positions_value": 203959.39,
+        "cash": 98169.09,
+        "total_value": 302128.48
     },
     {
         "datetime": "2022-09-02 00:00:00",
@@ -286,15 +286,15 @@
             {
                 "symbol": "BIL",
                 "side": "BUY",
-                "size": 819,
-                "price": 81.69,
-                "value": 66902.94,
+                "size": 839,
+                "price": 80.87,
+                "value": 67850.09,
                 "commission": 0.0
             }
         ],
-        "positions_value": 268539.71,
-        "cash": 29885.52,
-        "total_value": 298425.24
+        "positions_value": 272238.86,
+        "cash": 30319.0,
+        "total_value": 302557.86
     },
     {
         "datetime": "2022-12-02 00:00:00",
@@ -303,15 +303,15 @@
             {
                 "symbol": "BIL",
                 "side": "SELL",
-                "size": -823,
-                "price": 82.26,
-                "value": 67067.53,
+                "size": -842,
+                "price": 81.44,
+                "value": 67928.5,
                 "commission": 0.0
             }
         ],
-        "positions_value": 202677.65,
-        "cash": 97589.23,
-        "total_value": 300266.88
+        "positions_value": 205533.13,
+        "cash": 98891.82,
+        "total_value": 304424.96
     },
     {
         "datetime": "2023-01-03 00:00:00",
@@ -320,15 +320,15 @@
             {
                 "symbol": "BIL",
                 "side": "BUY",
-                "size": 817,
-                "price": 82.54,
-                "value": 67431.71,
+                "size": 836,
+                "price": 81.71,
+                "value": 68308.62,
                 "commission": 0.0
             }
         ],
-        "positions_value": 270799.8,
-        "cash": 30157.52,
-        "total_value": 300957.32
+        "positions_value": 274541.83,
+        "cash": 30583.2,
+        "total_value": 305125.03
     },
     {
         "datetime": "2023-02-02 00:00:00",
@@ -337,15 +337,15 @@
             {
                 "symbol": "BIL",
                 "side": "SELL",
-                "size": -820,
-                "price": 82.8,
-                "value": 67036.27,
+                "size": -840,
+                "price": 81.97,
+                "value": 67983.19,
                 "commission": 0.0
             }
         ],
-        "positions_value": 203778.11,
-        "cash": 98055.96,
-        "total_value": 301834.07
+        "positions_value": 206573.02,
+        "cash": 99440.87,
+        "total_value": 306013.89
     },
     {
         "datetime": "2023-03-02 00:00:00",
@@ -354,23 +354,23 @@
             {
                 "symbol": "EFA",
                 "side": "BUY",
-                "size": 1037,
+                "size": 1052,
                 "price": 65.1,
-                "value": 67511.63,
+                "value": 68488.16,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "SELL",
                 "size": -2,
-                "price": 83.09,
-                "value": 163.5,
+                "price": 82.26,
+                "value": 161.86,
                 "commission": 0.0
             }
         ],
-        "positions_value": 272417.8,
-        "cash": 30710.5,
-        "total_value": 303128.31
+        "positions_value": 276209.18,
+        "cash": 31117.23,
+        "total_value": 307326.41
     },
     {
         "datetime": "2023-04-04 00:00:00",
@@ -379,23 +379,23 @@
             {
                 "symbol": "EFA",
                 "side": "SELL",
-                "size": -21,
+                "size": -22,
                 "price": 67.8,
-                "value": 1367.16,
+                "value": 1432.26,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "SELL",
-                "size": -807,
-                "price": 83.41,
-                "value": 65973.5,
+                "size": -826,
+                "price": 82.57,
+                "value": 66850.14,
                 "commission": 0.0
             }
         ],
-        "positions_value": 206676.69,
-        "cash": 99444.66,
-        "total_value": 306121.35
+        "positions_value": 209548.39,
+        "cash": 100813.73,
+        "total_value": 310362.12
     },
     {
         "datetime": "2023-05-02 00:00:00",
@@ -412,23 +412,23 @@
             {
                 "symbol": "HYG",
                 "side": "BUY",
-                "size": 1029,
-                "price": 67.27,
-                "value": 69217.33,
+                "size": 1054,
+                "price": 66.61,
+                "value": 70204.31,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "SELL",
-                "size": -824,
-                "price": 83.69,
-                "value": 67363.28,
+                "size": -844,
+                "price": 82.86,
+                "value": 68306.92,
                 "commission": 0.0
             }
         ],
-        "positions_value": 207064.99,
-        "cash": 100081.12,
-        "total_value": 307146.11
+        "positions_value": 209971.66,
+        "cash": 101429.42,
+        "total_value": 311401.08
     },
     {
         "datetime": "2023-06-02 00:00:00",
@@ -446,30 +446,30 @@
                 "symbol": "HYG",
                 "side": "SELL",
                 "size": -2,
-                "price": 67.38,
-                "value": 134.53,
+                "price": 66.72,
+                "value": 133.22,
                 "commission": 0.0
             },
             {
                 "symbol": "MBB",
                 "side": "BUY",
-                "size": 782,
-                "price": 88.12,
-                "value": 68907.45,
+                "size": 799,
+                "price": 87.5,
+                "value": 69916.06,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "SELL",
-                "size": -828,
-                "price": 84.05,
-                "value": 67690.28,
+                "size": -848,
+                "price": 83.21,
+                "value": 68630.65,
                 "commission": 0.0
             }
         ],
-        "positions_value": 207629.71,
-        "cash": 99605.1,
-        "total_value": 307234.8
+        "positions_value": 210580.36,
+        "cash": 100910.44,
+        "total_value": 311490.8
     },
     {
         "datetime": "2023-07-04 00:00:00",
@@ -478,9 +478,9 @@
             {
                 "symbol": "MBB",
                 "side": "SELL",
-                "size": -782,
-                "price": 87.35,
-                "value": 68907.45,
+                "size": -799,
+                "price": 86.74,
+                "value": 69916.06,
                 "commission": 0.0
             },
             {
@@ -488,37 +488,37 @@
                 "side": "SELL",
                 "size": -21,
                 "price": 69.4,
-                "value": 1368.41,
+                "value": 1368.4,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "SELL",
                 "size": -4,
-                "price": 67.94,
-                "value": 269.07,
+                "price": 67.28,
+                "value": 266.43,
                 "commission": 0.0
             },
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 388,
+                "size": 394,
                 "price": 178.61,
-                "value": 69300.68,
+                "value": 70372.34,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "BUY",
-                "size": 821,
-                "price": 84.39,
-                "value": 69287.83,
+                "size": 841,
+                "price": 83.55,
+                "value": 70264.68,
                 "commission": 0.0
             }
         ],
-        "positions_value": 277348.07,
-        "cash": 31054.15,
-        "total_value": 308402.22
+        "positions_value": 281365.95,
+        "cash": 31308.18,
+        "total_value": 312674.13
     },
     {
         "datetime": "2023-08-02 00:00:00",
@@ -529,21 +529,21 @@
                 "side": "SELL",
                 "size": -7,
                 "price": 69.54,
-                "value": 456.14,
+                "value": 456.13,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "BUY",
                 "size": 4,
-                "price": 84.74,
-                "value": 338.96,
+                "price": 83.89,
+                "value": 335.56,
                 "commission": 0.0
             }
         ],
-        "positions_value": 277905.44,
-        "cash": 31201.99,
-        "total_value": 309107.43
+        "positions_value": 281930.52,
+        "cash": 31459.41,
+        "total_value": 313389.93
     },
     {
         "datetime": "2023-09-04 00:00:00",
@@ -560,23 +560,31 @@
             {
                 "symbol": "HYG",
                 "side": "SELL",
-                "size": -11,
-                "price": 69.06,
-                "value": 739.93,
+                "size": -12,
+                "price": 68.38,
+                "value": 799.29,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -1,
+                "price": 180.8,
+                "value": 178.61,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "SELL",
                 "size": -6,
-                "price": 85.14,
-                "value": 506.38,
+                "price": 84.29,
+                "value": 501.3,
                 "commission": 0.0
             }
         ],
-        "positions_value": 279080.66,
-        "cash": 30814.25,
-        "total_value": 309894.91
+        "positions_value": 282881.7,
+        "cash": 31308.29,
+        "total_value": 314189.99
     },
     {
         "datetime": "2023-10-03 00:00:00",
@@ -594,22 +602,22 @@
                 "symbol": "HYG",
                 "side": "SELL",
                 "size": -5,
-                "price": 67.03,
-                "value": 336.33,
+                "price": 66.37,
+                "value": 333.04,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "SELL",
-                "size": -819,
-                "price": 85.5,
-                "value": 69120.41,
+                "size": -839,
+                "price": 84.64,
+                "value": 70098.94,
                 "commission": 0.0
             }
         ],
-        "positions_value": 199563.46,
-        "cash": 99691.94,
-        "total_value": 299255.4
+        "positions_value": 202234.13,
+        "cash": 101174.04,
+        "total_value": 303408.17
     },
     {
         "datetime": "2023-11-02 00:00:00",
@@ -618,25 +626,25 @@
             {
                 "symbol": "EFA",
                 "side": "SELL",
-                "size": -1041,
+                "size": -1055,
                 "price": 65.77,
-                "value": 67912.16,
+                "value": 68823.61,
                 "commission": 0.0
             },
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 165,
-                "price": 419.48,
-                "value": 69213.65,
+                "size": 168,
+                "price": 418.22,
+                "value": 70260.72,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "BUY",
                 "size": 12,
-                "price": 68.07,
-                "value": 816.78,
+                "price": 67.4,
+                "value": 808.78,
                 "commission": 0.0
             },
             {
@@ -650,15 +658,15 @@
             {
                 "symbol": "BIL",
                 "side": "BUY",
-                "size": 802,
-                "price": 85.89,
-                "value": 68884.94,
+                "size": 822,
+                "price": 85.03,
+                "value": 69895.46,
                 "commission": 0.0
             }
         ],
-        "positions_value": 277705.0,
-        "cash": 31452.18,
-        "total_value": 309157.18
+        "positions_value": 281636.03,
+        "cash": 31805.47,
+        "total_value": 313441.5
     },
     {
         "datetime": "2023-12-04 00:00:00",
@@ -667,31 +675,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -5,
-                "price": 448.01,
-                "value": 2097.38,
+                "size": -6,
+                "price": 446.67,
+                "value": 2509.31,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "SELL",
                 "size": -4,
-                "price": 70.45,
-                "value": 269.1,
+                "price": 69.76,
+                "value": 266.47,
                 "commission": 0.0
             },
             {
                 "symbol": "BIL",
                 "side": "SELL",
-                "size": -802,
-                "price": 86.27,
-                "value": 68884.94,
+                "size": -822,
+                "price": 85.4,
+                "value": 69895.46,
                 "commission": 0.0
             }
         ],
-        "positions_value": 214228.35,
-        "cash": 103159.54,
-        "total_value": 317387.9
+        "positions_value": 216824.4,
+        "cash": 104964.95,
+        "total_value": 321789.35
     },
     {
         "datetime": "2024-01-02 00:00:00",
@@ -701,24 +709,24 @@
                 "symbol": "SPY",
                 "side": "SELL",
                 "size": -4,
-                "price": 466.18,
-                "value": 1677.91,
+                "price": 464.78,
+                "value": 1672.87,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "SELL",
                 "size": -10,
-                "price": 72.27,
-                "value": 672.76,
+                "price": 71.57,
+                "value": 666.17,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "BUY",
-                "size": 857,
-                "price": 84.69,
-                "value": 72581.31,
+                "size": 877,
+                "price": 83.83,
+                "value": 73519.93,
                 "commission": 0.0
             },
             {
@@ -730,9 +738,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": 291563.0,
-        "cash": 32208.49,
-        "total_value": 323771.49
+        "positions_value": 295184.73,
+        "cash": 33062.61,
+        "total_value": 328247.34
     },
     {
         "datetime": "2024-02-02 00:00:00",
@@ -741,47 +749,47 @@
             {
                 "symbol": "VNQ",
                 "side": "SELL",
-                "size": -857,
-                "price": 80.97,
-                "value": 72581.31,
+                "size": -877,
+                "price": 80.15,
+                "value": 73519.93,
                 "commission": 0.0
             },
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -5,
-                "price": 483.45,
-                "value": 2097.38,
+                "size": -4,
+                "price": 482.0,
+                "value": 1672.87,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "SELL",
-                "size": -6,
-                "price": 72.56,
-                "value": 403.66,
+                "size": -7,
+                "price": 71.85,
+                "value": 466.32,
                 "commission": 0.0
             },
             {
                 "symbol": "MBB",
                 "side": "BUY",
-                "size": 806,
-                "price": 89.44,
-                "value": 72091.06,
+                "size": 823,
+                "price": 88.82,
+                "value": 73099.95,
                 "commission": 0.0
             },
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 1,
+                "size": 2,
                 "price": 188.07,
-                "value": 188.07,
+                "value": 376.14,
                 "commission": 0.0
             }
         ],
-        "positions_value": 290444.21,
-        "cash": 32173.16,
-        "total_value": 322617.37
+        "positions_value": 294767.4,
+        "cash": 32306.0,
+        "total_value": 327073.41
     },
     {
         "datetime": "2024-03-04 00:00:00",
@@ -790,39 +798,47 @@
             {
                 "symbol": "MBB",
                 "side": "SELL",
-                "size": -806,
-                "price": 88.56,
-                "value": 72091.06,
+                "size": -823,
+                "price": 87.95,
+                "value": 73099.95,
                 "commission": 0.0
             },
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -5,
-                "price": 505.55,
-                "value": 2097.38,
+                "size": -6,
+                "price": 504.03,
+                "value": 2509.31,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "BUY",
-                "size": 7,
-                "price": 73.04,
-                "value": 511.27,
+                "size": 8,
+                "price": 72.32,
+                "value": 578.58,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "BUY",
-                "size": 883,
-                "price": 83.04,
-                "value": 73322.48,
+                "size": 904,
+                "price": 82.19,
+                "value": 74302.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -1,
+                "price": 194.15,
+                "value": 178.82,
                 "commission": 0.0
             }
         ],
-        "positions_value": 296453.59,
-        "cash": 32247.43,
-        "total_value": 328701.02
+        "positions_value": 300229.56,
+        "cash": 33021.98,
+        "total_value": 333251.54
     },
     {
         "datetime": "2024-04-02 00:00:00",
@@ -832,16 +848,16 @@
                 "symbol": "HYG",
                 "side": "BUY",
                 "size": 18,
-                "price": 73.07,
-                "value": 1315.24,
+                "price": 72.35,
+                "value": 1302.36,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "BUY",
-                "size": 27,
-                "price": 81.85,
-                "value": 2209.85,
+                "size": 28,
+                "price": 81.01,
+                "value": 2268.39,
                 "commission": 0.0
             },
             {
@@ -849,13 +865,13 @@
                 "side": "SELL",
                 "size": -20,
                 "price": 209.07,
-                "value": 3576.05,
+                "value": 3576.48,
                 "commission": 0.0
             }
         ],
-        "positions_value": 300433.33,
-        "cash": 32903.74,
-        "total_value": 333337.08
+        "positions_value": 304312.52,
+        "cash": 33632.63,
+        "total_value": 337945.15
     },
     {
         "datetime": "2024-05-02 00:00:00",
@@ -864,25 +880,25 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 2,
-                "price": 499.31,
-                "value": 998.62,
+                "size": 3,
+                "price": 497.81,
+                "value": 1493.44,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "SELL",
-                "size": -14,
-                "price": 73.19,
-                "value": 943.84,
+                "size": -13,
+                "price": 72.47,
+                "value": 867.86,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "BUY",
-                "size": 44,
-                "price": 77.99,
-                "value": 3431.35,
+                "size": 45,
+                "price": 77.19,
+                "value": 3473.65,
                 "commission": 0.0
             },
             {
@@ -890,13 +906,13 @@
                 "side": "SELL",
                 "size": -17,
                 "price": 211.9,
-                "value": 3039.65,
+                "value": 3040.01,
                 "commission": 0.0
             }
         ],
-        "positions_value": 296486.02,
-        "cash": 33100.68,
-        "total_value": 329586.69
+        "positions_value": 300940.81,
+        "cash": 33209.93,
+        "total_value": 334150.74
     },
     {
         "datetime": "2024-06-04 00:00:00",
@@ -905,39 +921,39 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -2,
-                "price": 521.41,
-                "value": 841.11,
+                "size": -3,
+                "price": 519.84,
+                "value": 1259.4,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "BUY",
-                "size": 14,
-                "price": 73.95,
-                "value": 1035.31,
+                "size": 13,
+                "price": 73.23,
+                "value": 951.94,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "SELL",
                 "size": -12,
-                "price": 80.33,
-                "value": 993.25,
+                "price": 79.52,
+                "value": 983.15,
                 "commission": 0.0
             },
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 4,
+                "size": 3,
                 "price": 216.24,
-                "value": 864.96,
+                "value": 648.72,
                 "commission": 0.0
             }
         ],
-        "positions_value": 303786.08,
-        "cash": 33207.22,
-        "total_value": 336993.3
+        "positions_value": 307548.32,
+        "cash": 34123.0,
+        "total_value": 341671.32
     },
     {
         "datetime": "2024-07-02 00:00:00",
@@ -946,47 +962,47 @@
             {
                 "symbol": "VNQ",
                 "side": "SELL",
-                "size": -942,
-                "price": 81.72,
-                "value": 77970.42,
+                "size": -965,
+                "price": 80.89,
+                "value": 79061.89,
                 "commission": 0.0
             },
             {
                 "symbol": "SPY",
                 "side": "SELL",
                 "size": -4,
-                "price": 540.22,
-                "value": 1682.22,
+                "price": 538.6,
+                "value": 1679.2,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "BUY",
-                "size": 8,
-                "price": 74.16,
-                "value": 593.26,
+                "size": 9,
+                "price": 73.43,
+                "value": 660.88,
                 "commission": 0.0
             },
             {
                 "symbol": "MBB",
                 "side": "BUY",
-                "size": 862,
-                "price": 89.12,
-                "value": 76821.82,
+                "size": 880,
+                "price": 88.5,
+                "value": 77880.88,
                 "commission": 0.0
             },
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 6,
+                "size": 7,
                 "price": 215.33,
-                "value": 1291.98,
+                "value": 1507.31,
                 "commission": 0.0
             }
         ],
-        "positions_value": 307451.41,
-        "cash": 33645.41,
-        "total_value": 341096.82
+        "positions_value": 311531.29,
+        "cash": 34290.46,
+        "total_value": 345821.76
     },
     {
         "datetime": "2024-08-02 00:00:00",
@@ -995,33 +1011,33 @@
             {
                 "symbol": "MBB",
                 "side": "SELL",
-                "size": -862,
-                "price": 92.9,
-                "value": 76821.82,
+                "size": -880,
+                "price": 92.26,
+                "value": 77880.88,
                 "commission": 0.0
             },
             {
                 "symbol": "SPY",
                 "side": "BUY",
                 "size": 3,
-                "price": 532.32,
-                "value": 1596.96,
+                "price": 530.72,
+                "value": 1592.17,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "BUY",
                 "size": 1,
-                "price": 75.59,
-                "value": 75.59,
+                "price": 74.85,
+                "value": 74.85,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "BUY",
-                "size": 873,
-                "price": 89.47,
-                "value": 78110.39,
+                "size": 894,
+                "price": 88.56,
+                "value": 79176.0,
                 "commission": 0.0
             },
             {
@@ -1029,40 +1045,32 @@
                 "side": "SELL",
                 "size": -8,
                 "price": 227.95,
-                "value": 1438.74,
+                "value": 1438.77,
                 "commission": 0.0
             }
         ],
-        "positions_value": 311203.79,
-        "cash": 35769.12,
-        "total_value": 346972.91
+        "positions_value": 315328.29,
+        "cash": 36458.12,
+        "total_value": 351786.41
     },
     {
         "datetime": "2024-09-03 00:00:00",
         "date": "2024-09-03 00:00:00",
         "trades": [
             {
-                "symbol": "SPY",
-                "side": "SELL",
-                "size": -1,
-                "price": 556.88,
-                "value": 422.87,
-                "commission": 0.0
-            },
-            {
                 "symbol": "HYG",
                 "side": "BUY",
                 "size": 13,
-                "price": 77.0,
-                "value": 1001.04,
+                "price": 75.88,
+                "value": 986.48,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "SELL",
                 "size": -9,
-                "price": 93.05,
-                "value": 805.26,
+                "price": 92.1,
+                "value": 797.07,
                 "commission": 0.0
             },
             {
@@ -1074,28 +1082,44 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": 320154.79,
-        "cash": 35932.02,
-        "total_value": 356086.81
+        "positions_value": 324554.85,
+        "cash": 36070.18,
+        "total_value": 360625.03
     },
     {
         "datetime": "2024-10-02 00:00:00",
         "date": "2024-10-02 00:00:00",
         "trades": [
             {
-                "symbol": "SPY",
-                "side": "BUY",
-                "size": 2,
-                "price": 565.81,
-                "value": 1131.61,
+                "symbol": "HYG",
+                "side": "SELL",
+                "size": -1071,
+                "price": 77.12,
+                "value": 71769.4,
                 "commission": 0.0
             },
             {
-                "symbol": "HYG",
+                "symbol": "SPY",
                 "side": "BUY",
-                "size": 10,
-                "price": 78.26,
-                "value": 782.62,
+                "size": 1,
+                "price": 564.11,
+                "value": 564.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LQD",
+                "side": "BUY",
+                "size": 760,
+                "price": 109.57,
+                "value": 83275.84,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VNQ",
+                "side": "SELL",
+                "size": -1,
+                "price": 94.1,
+                "value": 88.56,
                 "commission": 0.0
             },
             {
@@ -1103,54 +1127,62 @@
                 "side": "SELL",
                 "size": -11,
                 "price": 245.61,
-                "value": 1979.86,
+                "value": 1979.88,
                 "commission": 0.0
             }
         ],
-        "positions_value": 330844.54,
-        "cash": 36719.5,
-        "total_value": 367564.04
+        "positions_value": 334845.99,
+        "cash": 37625.51,
+        "total_value": 372471.5
     },
     {
         "datetime": "2024-11-04 00:00:00",
         "date": "2024-11-04 00:00:00",
         "trades": [
             {
+                "symbol": "LQD",
+                "side": "SELL",
+                "size": -760,
+                "price": 106.5,
+                "value": 83275.84,
+                "commission": 0.0
+            },
+            {
                 "symbol": "SPY",
                 "side": "SELL",
                 "size": -1,
-                "price": 569.26,
-                "value": 424.83,
+                "price": 567.56,
+                "value": 423.02,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "BUY",
-                "size": 6,
-                "price": 77.93,
-                "value": 467.61,
+                "size": 1084,
+                "price": 76.8,
+                "value": 83252.63,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "BUY",
-                "size": 30,
-                "price": 92.51,
-                "value": 2775.45,
+                "size": 25,
+                "price": 91.57,
+                "value": 2289.36,
                 "commission": 0.0
             },
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -10,
+                "size": -13,
                 "price": 253.32,
-                "value": 1799.87,
+                "value": 2339.86,
                 "commission": 0.0
             }
         ],
-        "positions_value": 331049.24,
-        "cash": 36578.91,
-        "total_value": 367628.15
+        "positions_value": 333462.73,
+        "cash": 36884.19,
+        "total_value": 370346.92
     },
     {
         "datetime": "2024-12-03 00:00:00",
@@ -1159,39 +1191,39 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -5,
-                "price": 601.37,
-                "value": 2124.13,
+                "size": -6,
+                "price": 599.56,
+                "value": 2538.14,
                 "commission": 0.0
             },
             {
                 "symbol": "HYG",
                 "side": "BUY",
-                "size": 1,
-                "price": 78.95,
-                "value": 78.95,
+                "size": 3,
+                "price": 77.8,
+                "value": 233.41,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "SELL",
-                "size": -18,
-                "price": 95.89,
-                "value": 1612.36,
+                "size": -17,
+                "price": 94.92,
+                "value": 1506.99,
                 "commission": 0.0
             },
             {
                 "symbol": "GLD",
                 "side": "BUY",
-                "size": 17,
+                "size": 18,
                 "price": 244.96,
-                "value": 4164.32,
+                "value": 4409.28,
                 "commission": 0.0
             }
         ],
-        "positions_value": 335525.47,
-        "cash": 37068.53,
-        "total_value": 372594.0
+        "positions_value": 337911.57,
+        "cash": 37452.47,
+        "total_value": 375364.04
     },
     {
         "datetime": "2025-01-02 00:00:00",
@@ -1200,17 +1232,17 @@
             {
                 "symbol": "HYG",
                 "side": "SELL",
-                "size": -17,
-                "price": 78.52,
-                "value": 1153.47,
+                "size": -18,
+                "price": 77.38,
+                "value": 1382.47,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "BUY",
                 "size": 42,
-                "price": 89.09,
-                "value": 3741.78,
+                "price": 88.18,
+                "value": 3703.73,
                 "commission": 0.0
             },
             {
@@ -1218,45 +1250,176 @@
                 "side": "SELL",
                 "size": -6,
                 "price": 244.22,
-                "value": 1099.19,
+                "value": 1100.15,
                 "commission": 0.0
             }
         ],
-        "positions_value": 327946.02,
-        "cash": 36126.98,
-        "total_value": 364072.99
+        "positions_value": 330179.04,
+        "cash": 36606.93,
+        "total_value": 366785.97
     },
     {
         "datetime": "2025-02-04 00:00:00",
         "date": "2025-02-04 00:00:00",
         "trades": [
             {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 1,
+                "price": 596.04,
+                "value": 596.04,
+                "commission": 0.0
+            },
+            {
                 "symbol": "HYG",
                 "side": "BUY",
-                "size": 14,
-                "price": 79.3,
-                "value": 1110.2,
+                "size": 15,
+                "price": 78.15,
+                "value": 1172.2,
                 "commission": 0.0
             },
             {
                 "symbol": "VNQ",
                 "side": "BUY",
                 "size": 12,
-                "price": 89.81,
-                "value": 1077.72,
+                "price": 88.9,
+                "value": 1066.76,
                 "commission": 0.0
             },
             {
                 "symbol": "GLD",
                 "side": "SELL",
-                "size": -14,
+                "size": -15,
                 "price": 261.83,
-                "value": 2564.77,
+                "value": 2750.39,
                 "commission": 0.0
             }
         ],
-        "positions_value": 337679.71,
-        "cash": 37604.68,
-        "total_value": 375284.38
+        "positions_value": 340384.04,
+        "cash": 37699.38,
+        "total_value": 378083.41
+    },
+    {
+        "datetime": "2025-03-04 00:00:00",
+        "date": "2025-03-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 5,
+                "price": 577.97,
+                "value": 2889.86,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HYG",
+                "side": "BUY",
+                "size": 4,
+                "price": 78.72,
+                "value": 314.89,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VNQ",
+                "side": "SELL",
+                "size": -27,
+                "price": 93.37,
+                "value": 2392.99,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -4,
+                "price": 269.01,
+                "value": 733.44,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 341731.0,
+        "cash": 38091.69,
+        "total_value": 379822.69
+    },
+    {
+        "datetime": "2025-04-02 00:00:00",
+        "date": "2025-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 6,
+                "price": 555.05,
+                "value": 3330.3,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HYG",
+                "side": "BUY",
+                "size": 8,
+                "price": 78.14,
+                "value": 625.11,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VNQ",
+                "side": "BUY",
+                "size": 28,
+                "price": 90.28,
+                "value": 2527.84,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -23,
+                "price": 288.28,
+                "value": 4217.26,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 344810.22,
+        "cash": 38238.87,
+        "total_value": 383049.09
+    },
+    {
+        "datetime": "2025-05-02 00:00:00",
+        "date": "2025-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 1,
+                "price": 564.73,
+                "value": 564.73,
+                "commission": 0.0
+            },
+            {
+                "symbol": "HYG",
+                "side": "BUY",
+                "size": 2,
+                "price": 78.5,
+                "value": 157.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "VNQ",
+                "side": "BUY",
+                "size": 23,
+                "price": 89.72,
+                "value": 2063.56,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GLD",
+                "side": "SELL",
+                "size": -9,
+                "price": 300.17,
+                "value": 1650.23,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 346950.86,
+        "cash": 38155.11,
+        "total_value": 385105.98
     }
 ]

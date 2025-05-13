@@ -3,6 +3,6 @@
     "leverage_cap": 4,
     "period": 252,
     "targeted_volatility": 0.1,
-    "total_days": 6395,
+    "total_days": 6415,
     "vol_target_period": 60
 }

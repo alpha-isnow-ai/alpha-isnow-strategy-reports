@@ -8,7 +8,7 @@
                 "side": "BUY",
                 "size": 2,
                 "price": 174.15,
-                "value": -296.01,
+                "value": -295.87,
                 "commission": 0.0
             },
             {
@@ -23,16 +23,16 @@
                 "symbol": "ALB",
                 "side": "BUY",
                 "size": 1,
-                "price": 231.82,
-                "value": 231.82,
+                "price": 230.53,
+                "value": 230.53,
                 "commission": 0.0
             },
             {
                 "symbol": "AMAT",
                 "side": "SELL",
                 "size": -2,
-                "price": 155.85,
-                "value": 199.23,
+                "price": 155.49,
+                "value": 198.77,
                 "commission": 0.0
             },
             {
@@ -55,8 +55,8 @@
                 "symbol": "AVY",
                 "side": "SELL",
                 "size": -2,
-                "price": 202.32,
-                "value": 410.19,
+                "price": 201.33,
+                "value": 408.2,
                 "commission": 0.0
             },
             {
@@ -87,16 +87,16 @@
                 "symbol": "COF",
                 "side": "SELL",
                 "size": -2,
-                "price": 141.68,
-                "value": 250.88,
+                "price": 141.26,
+                "value": 250.14,
                 "commission": 0.0
             },
             {
                 "symbol": "COST",
                 "side": "BUY",
                 "size": 1,
-                "price": 540.14,
-                "value": 540.14,
+                "price": 539.44,
+                "value": 539.44,
                 "commission": 0.0
             },
             {
@@ -135,32 +135,32 @@
                 "symbol": "EFX",
                 "side": "SELL",
                 "size": -2,
-                "price": 279.38,
-                "value": 461.76,
+                "price": 278.93,
+                "value": 461.01,
                 "commission": 0.0
             },
             {
                 "symbol": "ERIE",
                 "side": "BUY",
                 "size": 2,
-                "price": 183.1,
-                "value": -366.43,
+                "price": 182.47,
+                "value": -365.17,
                 "commission": 0.0
             },
             {
                 "symbol": "EXPE",
                 "side": "SELL",
                 "size": -2,
-                "price": 187.85,
-                "value": 269.14,
+                "price": 187.46,
+                "value": 268.58,
                 "commission": 0.0
             },
             {
                 "symbol": "FDS",
                 "side": "BUY",
                 "size": 1,
-                "price": 465.97,
-                "value": 465.97,
+                "price": 464.91,
+                "value": 464.91,
                 "commission": 0.0
             },
             {
@@ -175,8 +175,8 @@
                 "symbol": "GPN",
                 "side": "SELL",
                 "size": -2,
-                "price": 139.47,
-                "value": -278.93,
+                "price": 139.09,
+                "value": -278.17,
                 "commission": 0.0
             },
             {
@@ -191,8 +191,8 @@
                 "symbol": "HCA",
                 "side": "SELL",
                 "size": -2,
-                "price": 248.46,
-                "value": 454.39,
+                "price": 247.9,
+                "value": 453.37,
                 "commission": 0.0
             },
             {
@@ -215,32 +215,24 @@
                 "symbol": "LH",
                 "side": "SELL",
                 "size": -1,
-                "price": 246.86,
-                "value": 219.43,
+                "price": 246.16,
+                "value": 218.8,
                 "commission": 0.0
             },
             {
                 "symbol": "LIN",
                 "side": "BUY",
                 "size": 1,
-                "price": 325.29,
-                "value": -277.11,
+                "price": 324.21,
+                "value": -276.19,
                 "commission": 0.0
             },
             {
                 "symbol": "LOW",
                 "side": "BUY",
                 "size": 1,
-                "price": 240.19,
-                "value": 240.19,
-                "commission": 0.0
-            },
-            {
-                "symbol": "MCK",
-                "side": "BUY",
-                "size": 1,
-                "price": 243.83,
-                "value": 243.83,
+                "price": 238.93,
+                "value": 238.93,
                 "commission": 0.0
             },
             {
@@ -255,8 +247,8 @@
                 "symbol": "MPWR",
                 "side": "BUY",
                 "size": 1,
-                "price": 488.31,
-                "value": 488.31,
+                "price": 486.99,
+                "value": 486.99,
                 "commission": 0.0
             },
             {
@@ -271,24 +263,24 @@
                 "symbol": "NUE",
                 "side": "SELL",
                 "size": -3,
-                "price": 109.16,
-                "value": 276.34,
+                "price": 108.67,
+                "value": 275.1,
                 "commission": 0.0
             },
             {
                 "symbol": "ODFL",
                 "side": "BUY",
                 "size": 2,
-                "price": 171.18,
-                "value": 342.37,
+                "price": 170.91,
+                "value": 341.82,
                 "commission": 0.0
             },
             {
                 "symbol": "PNC",
                 "side": "SELL",
                 "size": -1,
-                "price": 185.31,
-                "value": 150.87,
+                "price": 183.4,
+                "value": 149.31,
                 "commission": 0.0
             },
             {
@@ -303,8 +295,8 @@
                 "symbol": "QCOM",
                 "side": "BUY",
                 "size": 2,
-                "price": 174.83,
-                "value": 349.66,
+                "price": 173.89,
+                "value": 347.78,
                 "commission": 0.0
             },
             {
@@ -319,16 +311,16 @@
                 "symbol": "REGN",
                 "side": "BUY",
                 "size": 1,
-                "price": 622.95,
-                "value": -486.85,
+                "price": 622.15,
+                "value": -486.23,
                 "commission": 0.0
             },
             {
                 "symbol": "SNA",
                 "side": "SELL",
                 "size": -1,
-                "price": 199.09,
-                "value": 217.2,
+                "price": 197.82,
+                "value": 215.82,
                 "commission": 0.0
             },
             {
@@ -380,9 +372,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": 1381.95,
-        "cash": 75084.89,
-        "total_value": 76466.85
+        "positions_value": 1134.94,
+        "cash": 75706.01,
+        "total_value": 76840.95
     },
     {
         "datetime": "2022-02-02 00:00:00",
@@ -440,24 +432,24 @@
                 "symbol": "FANG",
                 "side": "BUY",
                 "size": 2,
-                "price": 110.5,
-                "value": 221.0,
+                "price": 109.72,
+                "value": 219.45,
                 "commission": 0.0
             },
             {
                 "symbol": "GPN",
                 "side": "BUY",
                 "size": 2,
-                "price": 148.06,
-                "value": -285.41,
+                "price": 147.66,
+                "value": -284.64,
                 "commission": 0.0
             },
             {
                 "symbol": "GRMN",
                 "side": "SELL",
                 "size": -2,
-                "price": 117.83,
-                "value": -235.66,
+                "price": 117.41,
+                "value": -234.82,
                 "commission": 0.0
             },
             {
@@ -474,6 +466,14 @@
                 "size": -1,
                 "price": 170.27,
                 "value": 202.65,
+                "commission": 0.0
+            },
+            {
+                "symbol": "MCK",
+                "side": "BUY",
+                "size": 1,
+                "price": 251.71,
+                "value": 251.71,
                 "commission": 0.0
             },
             {
@@ -512,8 +512,8 @@
                 "symbol": "UNP",
                 "side": "BUY",
                 "size": 1,
-                "price": 229.55,
-                "value": 229.55,
+                "price": 228.3,
+                "value": 228.3,
                 "commission": 0.0
             },
             {
@@ -525,9 +525,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": -338.0,
-        "cash": 76333.47,
-        "total_value": 75995.46
+        "positions_value": -343.95,
+        "cash": 76705.63,
+        "total_value": 76361.68
     },
     {
         "datetime": "2022-03-02 00:00:00",
@@ -585,56 +585,56 @@
                 "symbol": "FANG",
                 "side": "SELL",
                 "size": -2,
-                "price": 119.17,
-                "value": 221.0,
+                "price": 118.33,
+                "value": 219.45,
                 "commission": 0.0
             },
             {
                 "symbol": "GRMN",
                 "side": "BUY",
                 "size": 2,
-                "price": 102.19,
-                "value": -235.66,
+                "price": 101.82,
+                "value": -234.82,
                 "commission": 0.0
             },
             {
                 "symbol": "LOW",
                 "side": "SELL",
                 "size": -1,
-                "price": 207.95,
-                "value": 240.19,
+                "price": 206.86,
+                "value": 238.93,
                 "commission": 0.0
             },
             {
                 "symbol": "MA",
                 "side": "BUY",
                 "size": 1,
-                "price": 336.89,
-                "value": -352.65,
+                "price": 336.36,
+                "value": -352.09,
                 "commission": 0.0
             },
             {
                 "symbol": "META",
                 "side": "SELL",
                 "size": -1,
-                "price": 204.0,
-                "value": -204.0,
+                "price": 203.82,
+                "value": -203.82,
                 "commission": 0.0
             },
             {
                 "symbol": "MTCH",
                 "side": "SELL",
                 "size": -2,
-                "price": 110.15,
-                "value": -220.29,
+                "price": 109.48,
+                "value": -218.96,
                 "commission": 0.0
             },
             {
                 "symbol": "ODFL",
                 "side": "SELL",
                 "size": -1,
-                "price": 154.18,
-                "value": 171.68,
+                "price": 153.94,
+                "value": 171.4,
                 "commission": 0.0
             },
             {
@@ -681,14 +681,14 @@
                 "symbol": "TROW",
                 "side": "SELL",
                 "size": -2,
-                "price": 124.18,
-                "value": -248.37,
+                "price": 122.47,
+                "value": -244.94,
                 "commission": 0.0
             }
         ],
-        "positions_value": -1098.02,
-        "cash": 77391.35,
-        "total_value": 76293.33
+        "positions_value": -1097.49,
+        "cash": 77756.84,
+        "total_value": 76659.34
     },
     {
         "datetime": "2022-04-04 00:00:00",
@@ -743,27 +743,11 @@
                 "commission": 0.0
             },
             {
-                "symbol": "DLTR",
-                "side": "SELL",
-                "size": -2,
-                "price": 159.36,
-                "value": 282.16,
-                "commission": 0.0
-            },
-            {
                 "symbol": "ENPH",
                 "side": "BUY",
                 "size": 2,
                 "price": 207.27,
                 "value": 414.54,
-                "commission": 0.0
-            },
-            {
-                "symbol": "FICO",
-                "side": "BUY",
-                "size": 1,
-                "price": 450.88,
-                "value": -475.0,
                 "commission": 0.0
             },
             {
@@ -786,33 +770,49 @@
                 "symbol": "QCOM",
                 "side": "BUY",
                 "size": 1,
-                "price": 138.7,
-                "value": 138.7,
+                "price": 137.96,
+                "value": 137.96,
                 "commission": 0.0
             },
             {
                 "symbol": "UNP",
                 "side": "SELL",
                 "size": -1,
-                "price": 243.55,
-                "value": 229.55,
+                "price": 242.22,
+                "value": 228.3,
                 "commission": 0.0
             }
         ],
-        "positions_value": -1338.82,
-        "cash": 77822.5,
-        "total_value": 76483.68
+        "positions_value": -1476.47,
+        "cash": 78319.55,
+        "total_value": 76843.08
     },
     {
         "datetime": "2022-05-03 00:00:00",
         "date": "2022-05-03 00:00:00",
         "trades": [
             {
+                "symbol": "ADSK",
+                "side": "SELL",
+                "size": -1,
+                "price": 192.36,
+                "value": -192.36,
+                "commission": 0.0
+            },
+            {
                 "symbol": "AMD",
                 "side": "SELL",
                 "size": -3,
                 "price": 89.85,
                 "value": 400.97,
+                "commission": 0.0
+            },
+            {
+                "symbol": "BX",
+                "side": "BUY",
+                "size": 1,
+                "price": 95.24,
+                "value": 95.24,
                 "commission": 0.0
             },
             {
@@ -829,6 +829,14 @@
                 "size": -1,
                 "price": 57.21,
                 "value": -57.21,
+                "commission": 0.0
+            },
+            {
+                "symbol": "DLTR",
+                "side": "SELL",
+                "size": -2,
+                "price": 163.77,
+                "value": 282.16,
                 "commission": 0.0
             },
             {
@@ -883,8 +891,8 @@
                 "symbol": "MTCH",
                 "side": "SELL",
                 "size": -1,
-                "price": 80.02,
-                "value": -80.02,
+                "price": 79.54,
+                "value": -79.54,
                 "commission": 0.0
             },
             {
@@ -899,8 +907,8 @@
                 "symbol": "NUE",
                 "side": "BUY",
                 "size": 2,
-                "price": 144.37,
-                "value": 288.74,
+                "price": 143.72,
+                "value": 287.43,
                 "commission": 0.0
             },
             {
@@ -915,14 +923,14 @@
                 "symbol": "QCOM",
                 "side": "SELL",
                 "size": -1,
-                "price": 135.86,
-                "value": 162.31,
+                "price": 135.13,
+                "value": 161.44,
                 "commission": 0.0
             }
         ],
-        "positions_value": -1538.71,
-        "cash": 78442.42,
-        "total_value": 76903.71
+        "positions_value": -2004.69,
+        "cash": 79364.22,
+        "total_value": 77359.53
     },
     {
         "datetime": "2022-06-02 00:00:00",
@@ -934,6 +942,14 @@
                 "size": -2,
                 "price": 117.13,
                 "value": -234.26,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ADSK",
+                "side": "BUY",
+                "size": 1,
+                "price": 207.22,
+                "value": -242.75,
                 "commission": 0.0
             },
             {
@@ -969,6 +985,14 @@
                 "commission": 0.0
             },
             {
+                "symbol": "FICO",
+                "side": "BUY",
+                "size": 1,
+                "price": 403.57,
+                "value": -475.0,
+                "commission": 0.0
+            },
+            {
                 "symbol": "GNRC",
                 "side": "BUY",
                 "size": 1,
@@ -988,38 +1012,46 @@
                 "symbol": "META",
                 "side": "SELL",
                 "size": -1,
-                "price": 187.73,
-                "value": -187.73,
+                "price": 187.57,
+                "value": -187.57,
                 "commission": 0.0
             },
             {
                 "symbol": "NUE",
                 "side": "SELL",
                 "size": -2,
-                "price": 127.32,
-                "value": 288.74,
+                "price": 126.74,
+                "value": 287.43,
                 "commission": 0.0
             },
             {
                 "symbol": "PSA",
                 "side": "BUY",
                 "size": 1,
-                "price": 285.46,
-                "value": 285.46,
+                "price": 282.63,
+                "value": 282.63,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PYPL",
+                "side": "SELL",
+                "size": -1,
+                "price": 82.22,
+                "value": -82.22,
                 "commission": 0.0
             },
             {
                 "symbol": "ROK",
                 "side": "SELL",
                 "size": -1,
-                "price": 208.44,
-                "value": -208.44,
+                "price": 207.52,
+                "value": -207.52,
                 "commission": 0.0
             }
         ],
-        "positions_value": -2233.8,
-        "cash": 79002.04,
-        "total_value": 76768.24
+        "positions_value": -2212.32,
+        "cash": 79395.85,
+        "total_value": 77183.53
     },
     {
         "datetime": "2022-07-04 00:00:00",
@@ -1038,7 +1070,7 @@
                 "side": "BUY",
                 "size": 2,
                 "price": 172.78,
-                "value": -535.89,
+                "value": -485.5,
                 "commission": 0.0
             },
             {
@@ -1053,8 +1085,8 @@
                 "symbol": "APD",
                 "side": "BUY",
                 "size": 1,
-                "price": 224.29,
-                "value": -263.52,
+                "price": 222.93,
+                "value": -261.92,
                 "commission": 0.0
             },
             {
@@ -1092,9 +1124,9 @@
             {
                 "symbol": "BX",
                 "side": "SELL",
-                "size": -2,
-                "price": 82.58,
-                "value": 199.89,
+                "size": -3,
+                "price": 82.0,
+                "value": 293.73,
                 "commission": 0.0
             },
             {
@@ -1117,8 +1149,8 @@
                 "symbol": "COST",
                 "side": "SELL",
                 "size": -1,
-                "price": 462.09,
-                "value": 540.14,
+                "price": 461.49,
+                "value": 539.44,
                 "commission": 0.0
             },
             {
@@ -1149,40 +1181,40 @@
                 "symbol": "EFX",
                 "side": "SELL",
                 "size": -1,
-                "price": 180.0,
-                "value": -180.0,
+                "price": 179.71,
+                "value": -179.71,
                 "commission": 0.0
             },
             {
                 "symbol": "ELV",
                 "side": "BUY",
                 "size": 1,
-                "price": 465.57,
-                "value": 465.57,
+                "price": 463.62,
+                "value": 463.62,
                 "commission": 0.0
             },
             {
                 "symbol": "EXPE",
                 "side": "SELL",
                 "size": -3,
-                "price": 94.74,
-                "value": -284.22,
+                "price": 94.54,
+                "value": -283.62,
                 "commission": 0.0
             },
             {
                 "symbol": "FDS",
                 "side": "SELL",
                 "size": -1,
-                "price": 376.04,
-                "value": 465.97,
+                "price": 375.18,
+                "value": 464.91,
                 "commission": 0.0
             },
             {
                 "symbol": "FDX",
                 "side": "BUY",
                 "size": 2,
-                "price": 211.03,
-                "value": -414.71,
+                "price": 209.89,
+                "value": -412.45,
                 "commission": 0.0
             },
             {
@@ -1197,16 +1229,16 @@
                 "symbol": "GPN",
                 "side": "BUY",
                 "size": 2,
-                "price": 107.05,
-                "value": -285.41,
+                "price": 106.76,
+                "value": -284.64,
                 "commission": 0.0
             },
             {
                 "symbol": "HUM",
                 "side": "BUY",
                 "size": 1,
-                "price": 456.56,
-                "value": 456.56,
+                "price": 455.07,
+                "value": 455.07,
                 "commission": 0.0
             },
             {
@@ -1237,16 +1269,16 @@
                 "symbol": "LMT",
                 "side": "BUY",
                 "size": 1,
-                "price": 402.53,
-                "value": 402.53,
+                "price": 399.58,
+                "value": 399.58,
                 "commission": 0.0
             },
             {
                 "symbol": "MKTX",
                 "side": "BUY",
                 "size": 1,
-                "price": 250.25,
-                "value": -553.49,
+                "price": 249.27,
+                "value": -551.33,
                 "commission": 0.0
             },
             {
@@ -1261,8 +1293,8 @@
                 "symbol": "MPWR",
                 "side": "SELL",
                 "size": -1,
-                "price": 372.56,
-                "value": 488.31,
+                "price": 371.55,
+                "value": 486.99,
                 "commission": 0.0
             },
             {
@@ -1277,8 +1309,8 @@
                 "symbol": "MTCH",
                 "side": "SELL",
                 "size": -1,
-                "price": 69.11,
-                "value": -69.11,
+                "price": 68.69,
+                "value": -68.69,
                 "commission": 0.0
             },
             {
@@ -1293,40 +1325,40 @@
                 "symbol": "NOC",
                 "side": "BUY",
                 "size": 1,
-                "price": 459.91,
-                "value": 459.91,
+                "price": 457.86,
+                "value": 457.86,
                 "commission": 0.0
             },
             {
                 "symbol": "NUE",
                 "side": "BUY",
                 "size": 2,
-                "price": 100.55,
-                "value": 201.1,
+                "price": 100.1,
+                "value": 200.2,
                 "commission": 0.0
             },
             {
                 "symbol": "ODFL",
                 "side": "SELL",
                 "size": -2,
-                "price": 125.95,
-                "value": 343.36,
+                "price": 125.75,
+                "value": 342.81,
                 "commission": 0.0
             },
             {
                 "symbol": "PYPL",
                 "side": "SELL",
-                "size": -2,
+                "size": -1,
                 "price": 69.84,
-                "value": -139.68,
+                "value": -69.84,
                 "commission": 0.0
             },
             {
                 "symbol": "QCOM",
                 "side": "SELL",
                 "size": -3,
-                "price": 118.68,
-                "value": 486.94,
+                "price": 118.04,
+                "value": 484.33,
                 "commission": 0.0
             },
             {
@@ -1341,16 +1373,16 @@
                 "symbol": "ROK",
                 "side": "SELL",
                 "size": -2,
-                "price": 190.87,
-                "value": -381.74,
+                "price": 190.02,
+                "value": -380.04,
                 "commission": 0.0
             },
             {
                 "symbol": "SBAC",
                 "side": "BUY",
                 "size": 1,
-                "price": 307.12,
-                "value": 307.12,
+                "price": 305.55,
+                "value": 305.55,
                 "commission": 0.0
             },
             {
@@ -1364,17 +1396,17 @@
             {
                 "symbol": "SWK",
                 "side": "SELL",
-                "size": -2,
-                "price": 96.19,
-                "value": -192.37,
+                "size": -3,
+                "price": 95.25,
+                "value": -285.74,
                 "commission": 0.0
             },
             {
                 "symbol": "TFX",
                 "side": "BUY",
                 "size": 1,
-                "price": 242.8,
-                "value": -285.02,
+                "price": 242.2,
+                "value": -284.31,
                 "commission": 0.0
             },
             {
@@ -1405,8 +1437,8 @@
                 "symbol": "UNH",
                 "side": "BUY",
                 "size": 1,
-                "price": 493.86,
-                "value": 493.86,
+                "price": 491.76,
+                "value": 491.76,
                 "commission": 0.0
             },
             {
@@ -1426,9 +1458,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": -2304.73,
-        "cash": 79473.85,
-        "total_value": 77169.11
+        "positions_value": -2409.87,
+        "cash": 79983.11,
+        "total_value": 77573.24
     },
     {
         "datetime": "2022-08-02 00:00:00",
@@ -1462,8 +1494,8 @@
                 "symbol": "DG",
                 "side": "BUY",
                 "size": 1,
-                "price": 242.28,
-                "value": 242.28,
+                "price": 240.72,
+                "value": 240.72,
                 "commission": 0.0
             },
             {
@@ -1478,8 +1510,8 @@
                 "symbol": "EFX",
                 "side": "BUY",
                 "size": 1,
-                "price": 205.52,
-                "value": -180.0,
+                "price": 205.18,
+                "value": -179.71,
                 "commission": 0.0
             },
             {
@@ -1494,8 +1526,8 @@
                 "symbol": "MKTX",
                 "side": "SELL",
                 "size": -1,
-                "price": 262.09,
-                "value": -262.09,
+                "price": 261.07,
+                "value": -261.07,
                 "commission": 0.0
             },
             {
@@ -1518,8 +1550,8 @@
                 "symbol": "NUE",
                 "side": "SELL",
                 "size": -2,
-                "price": 129.02,
-                "value": 201.1,
+                "price": 128.44,
+                "value": 200.2,
                 "commission": 0.0
             },
             {
@@ -1527,31 +1559,23 @@
                 "side": "BUY",
                 "size": 4,
                 "price": 87.11,
-                "value": -505.4,
+                "value": -511.59,
                 "commission": 0.0
             },
             {
                 "symbol": "RCL",
                 "side": "SELL",
                 "size": -8,
-                "price": 35.24,
-                "value": -281.89,
+                "price": 35.11,
+                "value": -280.91,
                 "commission": 0.0
             },
             {
                 "symbol": "ROK",
                 "side": "BUY",
                 "size": 1,
-                "price": 240.02,
-                "value": -196.73,
-                "commission": 0.0
-            },
-            {
-                "symbol": "SWK",
-                "side": "SELL",
-                "size": -1,
-                "price": 87.64,
-                "value": -87.64,
+                "price": 238.95,
+                "value": -195.85,
                 "commission": 0.0
             },
             {
@@ -1563,9 +1587,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": -4124.51,
-        "cash": 80235.43,
-        "total_value": 76110.92
+        "positions_value": -4131.65,
+        "cash": 80656.83,
+        "total_value": 76525.19
     },
     {
         "datetime": "2022-09-02 00:00:00",
@@ -1591,8 +1615,8 @@
                 "symbol": "DG",
                 "side": "SELL",
                 "size": -1,
-                "price": 233.37,
-                "value": 242.28,
+                "price": 231.88,
+                "value": 240.72,
                 "commission": 0.0
             },
             {
@@ -1615,8 +1639,16 @@
                 "symbol": "ERIE",
                 "side": "BUY",
                 "size": 1,
-                "price": 209.79,
-                "value": 209.79,
+                "price": 209.07,
+                "value": 209.07,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ESS",
+                "side": "SELL",
+                "size": -1,
+                "price": 242.33,
+                "value": -242.33,
                 "commission": 0.0
             },
             {
@@ -1647,24 +1679,24 @@
                 "symbol": "HCA",
                 "side": "SELL",
                 "size": -1,
-                "price": 198.15,
-                "value": -198.15,
+                "price": 197.71,
+                "value": -197.71,
                 "commission": 0.0
             },
             {
                 "symbol": "KLAC",
                 "side": "BUY",
                 "size": 1,
-                "price": 333.55,
-                "value": 333.55,
+                "price": 332.8,
+                "value": 332.8,
                 "commission": 0.0
             },
             {
                 "symbol": "META",
                 "side": "BUY",
                 "size": 1,
-                "price": 166.81,
-                "value": -240.62,
+                "price": 166.66,
+                "value": -240.4,
                 "commission": 0.0
             },
             {
@@ -1679,16 +1711,16 @@
                 "symbol": "MTCH",
                 "side": "SELL",
                 "size": -1,
-                "price": 56.03,
-                "value": -56.03,
+                "price": 55.69,
+                "value": -55.69,
                 "commission": 0.0
             },
             {
                 "symbol": "NUE",
                 "side": "BUY",
                 "size": 2,
-                "price": 128.0,
-                "value": 256.01,
+                "price": 127.43,
+                "value": 254.85,
                 "commission": 0.0
             },
             {
@@ -1703,16 +1735,24 @@
                 "symbol": "POOL",
                 "side": "SELL",
                 "size": -1,
-                "price": 332.76,
-                "value": -332.76,
+                "price": 331.6,
+                "value": -331.6,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SWK",
+                "side": "BUY",
+                "size": 3,
+                "price": 80.37,
+                "value": -285.74,
                 "commission": 0.0
             },
             {
                 "symbol": "TFX",
                 "side": "SELL",
                 "size": -1,
-                "price": 225.61,
-                "value": -225.61,
+                "price": 225.05,
+                "value": -225.05,
                 "commission": 0.0
             },
             {
@@ -1726,15 +1766,15 @@
             {
                 "symbol": "UHS",
                 "side": "SELL",
-                "size": -2,
-                "price": 97.29,
-                "value": -194.59,
+                "size": -3,
+                "price": 97.18,
+                "value": -291.55,
                 "commission": 0.0
             }
         ],
-        "positions_value": -1767.62,
-        "cash": 78483.23,
-        "total_value": 76715.61
+        "positions_value": -1874.75,
+        "cash": 79001.57,
+        "total_value": 77126.82
     },
     {
         "datetime": "2022-10-04 00:00:00",
@@ -1752,8 +1792,8 @@
                 "symbol": "CE",
                 "side": "SELL",
                 "size": -3,
-                "price": 91.36,
-                "value": -274.07,
+                "price": 91.24,
+                "value": -273.72,
                 "commission": 0.0
             },
             {
@@ -1762,6 +1802,14 @@
                 "size": -1,
                 "price": 174.58,
                 "value": 168.24,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ESS",
+                "side": "BUY",
+                "size": 1,
+                "price": 225.25,
+                "value": -242.33,
                 "commission": 0.0
             },
             {
@@ -1776,64 +1824,72 @@
                 "symbol": "GS",
                 "side": "BUY",
                 "size": 2,
-                "price": 288.45,
-                "value": 576.9,
+                "price": 287.03,
+                "value": 574.05,
                 "commission": 0.0
             },
             {
                 "symbol": "HCA",
                 "side": "BUY",
                 "size": 1,
-                "price": 193.0,
-                "value": -198.15,
+                "price": 192.56,
+                "value": -197.71,
                 "commission": 0.0
             },
             {
                 "symbol": "HUBB",
                 "side": "BUY",
                 "size": 1,
-                "price": 222.94,
-                "value": 222.94,
+                "price": 222.14,
+                "value": 222.14,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ISRG",
+                "side": "SELL",
+                "size": -1,
+                "price": 197.87,
+                "value": -197.87,
                 "commission": 0.0
             },
             {
                 "symbol": "META",
                 "side": "SELL",
                 "size": -2,
-                "price": 139.96,
-                "value": -279.91,
+                "price": 139.83,
+                "value": -279.66,
                 "commission": 0.0
             },
             {
                 "symbol": "MKTX",
                 "side": "BUY",
                 "size": 1,
-                "price": 228.36,
-                "value": -262.09,
+                "price": 227.47,
+                "value": -261.07,
                 "commission": 0.0
             },
             {
                 "symbol": "MSI",
                 "side": "BUY",
                 "size": 1,
-                "price": 226.72,
-                "value": 226.72,
+                "price": 226.12,
+                "value": 226.12,
                 "commission": 0.0
             },
             {
                 "symbol": "NUE",
                 "side": "SELL",
                 "size": -2,
-                "price": 112.43,
-                "value": 256.01,
+                "price": 111.92,
+                "value": 254.85,
                 "commission": 0.0
             },
             {
                 "symbol": "PLD",
                 "side": "SELL",
-                "size": -2,
-                "price": 99.05,
-                "value": -198.09,
+                "size": -3,
+                "price": 98.17,
+                "value": -294.52,
                 "commission": 0.0
             },
             {
@@ -1848,16 +1904,24 @@
                 "symbol": "STE",
                 "side": "SELL",
                 "size": -1,
-                "price": 168.45,
-                "value": -168.45,
+                "price": 168.01,
+                "value": -168.01,
+                "commission": 0.0
+            },
+            {
+                "symbol": "SWK",
+                "side": "SELL",
+                "size": -4,
+                "price": 73.28,
+                "value": -293.13,
                 "commission": 0.0
             },
             {
                 "symbol": "UHS",
                 "side": "BUY",
-                "size": 2,
-                "price": 92.72,
-                "value": -194.59,
+                "size": 3,
+                "price": 92.61,
+                "value": -291.55,
                 "commission": 0.0
             },
             {
@@ -1872,8 +1936,8 @@
                 "symbol": "WST",
                 "side": "SELL",
                 "size": -1,
-                "price": 257.84,
-                "value": -257.84,
+                "price": 257.58,
+                "value": -257.58,
                 "commission": 0.0
             },
             {
@@ -1885,9 +1949,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": -2685.3,
-        "cash": 79674.32,
-        "total_value": 76989.01
+        "positions_value": -3069.7,
+        "cash": 80465.71,
+        "total_value": 77396.01
     },
     {
         "datetime": "2022-11-02 00:00:00",
@@ -1945,8 +2009,8 @@
                 "symbol": "CCI",
                 "side": "SELL",
                 "size": -2,
-                "price": 116.07,
-                "value": -232.15,
+                "price": 114.16,
+                "value": -228.33,
                 "commission": 0.0
             },
             {
@@ -1969,32 +2033,32 @@
                 "symbol": "EFX",
                 "side": "SELL",
                 "size": -1,
-                "price": 165.59,
-                "value": -165.59,
+                "price": 165.33,
+                "value": -165.33,
                 "commission": 0.0
             },
             {
                 "symbol": "ESS",
                 "side": "SELL",
                 "size": -1,
-                "price": 201.19,
-                "value": -201.19,
+                "price": 199.5,
+                "value": -199.5,
                 "commission": 0.0
             },
             {
                 "symbol": "EXPE",
                 "side": "BUY",
                 "size": 3,
-                "price": 94.95,
-                "value": -284.22,
+                "price": 94.75,
+                "value": -283.62,
                 "commission": 0.0
             },
             {
                 "symbol": "FDX",
                 "side": "SELL",
                 "size": -1,
-                "price": 149.46,
-                "value": -149.46,
+                "price": 148.64,
+                "value": -148.64,
                 "commission": 0.0
             },
             {
@@ -2009,16 +2073,24 @@
                 "symbol": "GS",
                 "side": "SELL",
                 "size": -1,
-                "price": 326.83,
-                "value": 288.45,
+                "price": 325.22,
+                "value": 287.03,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ISRG",
+                "side": "BUY",
+                "size": 1,
+                "price": 245.43,
+                "value": -200.0,
                 "commission": 0.0
             },
             {
                 "symbol": "META",
                 "side": "SELL",
                 "size": -2,
-                "price": 93.85,
-                "value": -187.7,
+                "price": 93.77,
+                "value": -187.54,
                 "commission": 0.0
             },
             {
@@ -2033,16 +2105,16 @@
                 "symbol": "MSI",
                 "side": "SELL",
                 "size": -1,
-                "price": 236.24,
-                "value": 226.72,
+                "price": 235.62,
+                "value": 226.12,
                 "commission": 0.0
             },
             {
                 "symbol": "MTCH",
                 "side": "SELL",
                 "size": -1,
-                "price": 51.55,
-                "value": -51.55,
+                "price": 51.24,
+                "value": -51.24,
                 "commission": 0.0
             },
             {
@@ -2056,9 +2128,9 @@
             {
                 "symbol": "PLD",
                 "side": "BUY",
-                "size": 2,
-                "price": 100.77,
-                "value": -198.09,
+                "size": 3,
+                "price": 99.88,
+                "value": -294.52,
                 "commission": 0.0
             },
             {
@@ -2073,54 +2145,54 @@
                 "symbol": "RCL",
                 "side": "BUY",
                 "size": 8,
-                "price": 51.26,
-                "value": -281.89,
+                "price": 51.08,
+                "value": -280.91,
                 "commission": 0.0
             },
             {
                 "symbol": "ROK",
                 "side": "BUY",
                 "size": 2,
-                "price": 230.65,
-                "value": -393.46,
+                "price": 229.63,
+                "value": -391.71,
                 "commission": 0.0
             },
             {
                 "symbol": "SBAC",
                 "side": "SELL",
                 "size": -1,
-                "price": 263.79,
-                "value": 307.12,
+                "price": 262.44,
+                "value": 305.55,
                 "commission": 0.0
             },
             {
                 "symbol": "SHW",
                 "side": "SELL",
                 "size": -1,
-                "price": 220.39,
-                "value": -220.39,
+                "price": 219.9,
+                "value": -219.9,
                 "commission": 0.0
             },
             {
                 "symbol": "SWK",
                 "side": "BUY",
-                "size": 3,
-                "price": 69.97,
-                "value": -280.01,
+                "size": 4,
+                "price": 69.29,
+                "value": -293.13,
                 "commission": 0.0
             },
             {
                 "symbol": "TROW",
                 "side": "SELL",
                 "size": -1,
-                "price": 96.17,
-                "value": -96.17,
+                "price": 94.84,
+                "value": -94.84,
                 "commission": 0.0
             }
         ],
-        "positions_value": -965.39,
-        "cash": 78812.41,
-        "total_value": 77847.01
+        "positions_value": -971.63,
+        "cash": 79184.64,
+        "total_value": 78213.01
     },
     {
         "datetime": "2022-12-02 00:00:00",
@@ -2146,8 +2218,8 @@
                 "symbol": "CE",
                 "side": "BUY",
                 "size": 3,
-                "price": 101.45,
-                "value": -274.07,
+                "price": 101.33,
+                "value": -273.72,
                 "commission": 0.0
             },
             {
@@ -2162,32 +2234,32 @@
                 "symbol": "DE",
                 "side": "BUY",
                 "size": 1,
-                "price": 428.67,
-                "value": 428.67,
+                "price": 427.18,
+                "value": 427.18,
                 "commission": 0.0
             },
             {
                 "symbol": "EFX",
                 "side": "BUY",
                 "size": 1,
-                "price": 195.16,
-                "value": -165.59,
+                "price": 194.84,
+                "value": -165.33,
                 "commission": 0.0
             },
             {
                 "symbol": "EL",
                 "side": "SELL",
                 "size": -1,
-                "price": 219.93,
-                "value": -219.93,
+                "price": 218.87,
+                "value": -218.87,
                 "commission": 0.0
             },
             {
                 "symbol": "META",
                 "side": "BUY",
                 "size": 1,
-                "price": 117.38,
-                "value": -158.14,
+                "price": 117.28,
+                "value": -158.0,
                 "commission": 0.0
             },
             {
@@ -2202,16 +2274,16 @@
                 "symbol": "MSI",
                 "side": "BUY",
                 "size": 1,
-                "price": 261.87,
-                "value": 261.87,
+                "price": 261.18,
+                "value": 261.18,
                 "commission": 0.0
             },
             {
                 "symbol": "SHW",
                 "side": "BUY",
                 "size": 1,
-                "price": 243.89,
-                "value": -220.39,
+                "price": 243.36,
+                "value": -219.9,
                 "commission": 0.0
             },
             {
@@ -2231,9 +2303,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": 153.39,
-        "cash": 77206.05,
-        "total_value": 77359.43
+        "positions_value": 145.9,
+        "cash": 77580.74,
+        "total_value": 77726.65
     },
     {
         "datetime": "2023-01-03 00:00:00",
@@ -2259,8 +2331,8 @@
                 "symbol": "ALB",
                 "side": "SELL",
                 "size": -2,
-                "price": 213.94,
-                "value": 463.83,
+                "price": 212.74,
+                "value": 461.24,
                 "commission": 0.0
             },
             {
@@ -2275,16 +2347,16 @@
                 "symbol": "AMT",
                 "side": "SELL",
                 "size": -1,
-                "price": 200.17,
-                "value": -200.17,
+                "price": 198.53,
+                "value": -198.53,
                 "commission": 0.0
             },
             {
                 "symbol": "APD",
                 "side": "BUY",
-                "size": 1,
-                "price": 294.64,
-                "value": 294.64,
+                "size": 2,
+                "price": 292.85,
+                "value": 585.7,
                 "commission": 0.0
             },
             {
@@ -2323,16 +2395,16 @@
                 "symbol": "CAT",
                 "side": "BUY",
                 "size": 1,
-                "price": 231.28,
-                "value": 231.28,
+                "price": 230.17,
+                "value": 230.17,
                 "commission": 0.0
             },
             {
                 "symbol": "CCI",
                 "side": "SELL",
                 "size": -2,
-                "price": 122.07,
-                "value": -244.15,
+                "price": 120.07,
+                "value": -240.13,
                 "commission": 0.0
             },
             {
@@ -2387,8 +2459,8 @@
                 "symbol": "ELV",
                 "side": "SELL",
                 "size": -1,
-                "price": 495.56,
-                "value": 465.57,
+                "price": 493.49,
+                "value": 463.62,
                 "commission": 0.0
             },
             {
@@ -2403,32 +2475,32 @@
                 "symbol": "ERIE",
                 "side": "BUY",
                 "size": 1,
-                "price": 239.74,
-                "value": 239.74,
+                "price": 238.92,
+                "value": 238.92,
                 "commission": 0.0
             },
             {
                 "symbol": "ESS",
                 "side": "SELL",
                 "size": -1,
-                "price": 195.88,
-                "value": -195.88,
+                "price": 194.24,
+                "value": -194.24,
                 "commission": 0.0
             },
             {
                 "symbol": "EXR",
                 "side": "SELL",
                 "size": -2,
-                "price": 135.74,
-                "value": -271.49,
+                "price": 134.22,
+                "value": -268.44,
                 "commission": 0.0
             },
             {
                 "symbol": "FDX",
                 "side": "SELL",
                 "size": -2,
-                "price": 167.92,
-                "value": -335.84,
+                "price": 167.01,
+                "value": -334.01,
                 "commission": 0.0
             },
             {
@@ -2451,32 +2523,32 @@
                 "symbol": "HCA",
                 "side": "BUY",
                 "size": 1,
-                "price": 237.62,
-                "value": 237.62,
+                "price": 237.09,
+                "value": 237.09,
                 "commission": 0.0
             },
             {
                 "symbol": "HON",
                 "side": "BUY",
                 "size": 1,
-                "price": 206.1,
-                "value": 206.1,
+                "price": 205.0,
+                "value": 205.0,
                 "commission": 0.0
             },
             {
                 "symbol": "HUBB",
                 "side": "BUY",
                 "size": 1,
-                "price": 230.91,
-                "value": 230.91,
+                "price": 230.08,
+                "value": 230.08,
                 "commission": 0.0
             },
             {
                 "symbol": "HUM",
                 "side": "SELL",
                 "size": -1,
-                "price": 498.77,
-                "value": 456.56,
+                "price": 497.13,
+                "value": 455.07,
                 "commission": 0.0
             },
             {
@@ -2492,7 +2564,7 @@
                 "side": "BUY",
                 "size": 3,
                 "price": 269.59,
-                "value": -132.55,
+                "value": -130.42,
                 "commission": 0.0
             },
             {
@@ -2507,8 +2579,8 @@
                 "symbol": "KLAC",
                 "side": "SELL",
                 "size": -1,
-                "price": 376.05,
-                "value": 333.55,
+                "price": 375.21,
+                "value": 332.8,
                 "commission": 0.0
             },
             {
@@ -2523,16 +2595,16 @@
                 "symbol": "LMT",
                 "side": "SELL",
                 "size": -1,
-                "price": 458.62,
-                "value": 402.53,
+                "price": 455.26,
+                "value": 399.58,
                 "commission": 0.0
             },
             {
                 "symbol": "MCK",
                 "side": "SELL",
                 "size": -1,
-                "price": 368.87,
-                "value": 243.83,
+                "price": 368.46,
+                "value": 251.71,
                 "commission": 0.0
             },
             {
@@ -2555,8 +2627,8 @@
                 "symbol": "MTCH",
                 "side": "BUY",
                 "size": 6,
-                "price": 42.1,
-                "value": -477.0,
+                "price": 41.85,
+                "value": -474.12,
                 "commission": 0.0
             },
             {
@@ -2571,16 +2643,16 @@
                 "symbol": "NOC",
                 "side": "SELL",
                 "size": -1,
-                "price": 527.26,
-                "value": 459.91,
+                "price": 524.9,
+                "value": 457.86,
                 "commission": 0.0
             },
             {
                 "symbol": "PSA",
                 "side": "SELL",
                 "size": -1,
-                "price": 259.0,
-                "value": 285.46,
+                "price": 256.44,
+                "value": 282.63,
                 "commission": 0.0
             },
             {
@@ -2588,23 +2660,23 @@
                 "side": "BUY",
                 "size": 4,
                 "price": 73.69,
-                "value": -505.4,
+                "value": -511.59,
                 "commission": 0.0
             },
             {
                 "symbol": "ROK",
                 "side": "BUY",
                 "size": 2,
-                "price": 250.64,
-                "value": 501.27,
+                "price": 249.52,
+                "value": 499.04,
                 "commission": 0.0
             },
             {
                 "symbol": "TROW",
                 "side": "BUY",
                 "size": 3,
-                "price": 101.28,
-                "value": -344.54,
+                "price": 99.88,
+                "value": -339.79,
                 "commission": 0.0
             },
             {
@@ -2635,8 +2707,8 @@
                 "symbol": "UNH",
                 "side": "SELL",
                 "size": -1,
-                "price": 509.37,
-                "value": 493.86,
+                "price": 507.2,
+                "value": 491.76,
                 "commission": 0.0
             },
             {
@@ -2651,14 +2723,14 @@
                 "symbol": "WST",
                 "side": "SELL",
                 "size": -1,
-                "price": 237.04,
-                "value": -237.04,
+                "price": 236.8,
+                "value": -236.8,
                 "commission": 0.0
             }
         ],
-        "positions_value": -279.17,
-        "cash": 77481.93,
-        "total_value": 77202.76
+        "positions_value": 19.75,
+        "cash": 77547.72,
+        "total_value": 77567.46
     },
     {
         "datetime": "2023-02-02 00:00:00",
@@ -2684,16 +2756,16 @@
                 "symbol": "AVB",
                 "side": "SELL",
                 "size": -1,
-                "price": 167.74,
-                "value": -167.74,
+                "price": 166.37,
+                "value": -166.37,
                 "commission": 0.0
             },
             {
                 "symbol": "CCI",
                 "side": "BUY",
                 "size": 1,
-                "price": 134.52,
-                "value": -119.07,
+                "price": 132.31,
+                "value": -117.11,
                 "commission": 0.0
             },
             {
@@ -2716,8 +2788,8 @@
                 "symbol": "HON",
                 "side": "SELL",
                 "size": -1,
-                "price": 190.58,
-                "value": 206.1,
+                "price": 189.57,
+                "value": 205.0,
                 "commission": 0.0
             },
             {
@@ -2732,56 +2804,56 @@
                 "symbol": "META",
                 "side": "BUY",
                 "size": 1,
-                "price": 182.68,
-                "value": -158.14,
+                "price": 182.52,
+                "value": -158.0,
                 "commission": 0.0
             },
             {
                 "symbol": "MPWR",
                 "side": "SELL",
                 "size": -1,
-                "price": 454.69,
-                "value": -454.69,
+                "price": 453.47,
+                "value": -453.47,
                 "commission": 0.0
             },
             {
                 "symbol": "MSFT",
                 "side": "SELL",
                 "size": -1,
-                "price": 254.64,
-                "value": -254.64,
+                "price": 254.13,
+                "value": -254.13,
                 "commission": 0.0
             },
             {
                 "symbol": "PSA",
                 "side": "SELL",
                 "size": -1,
-                "price": 284.19,
-                "value": -284.19,
+                "price": 281.38,
+                "value": -281.38,
                 "commission": 0.0
             },
             {
                 "symbol": "SBAC",
                 "side": "SELL",
                 "size": -1,
-                "price": 295.16,
-                "value": -295.16,
+                "price": 293.65,
+                "value": -293.65,
                 "commission": 0.0
             },
             {
                 "symbol": "UHS",
                 "side": "BUY",
                 "size": 1,
-                "price": 149.97,
-                "value": 149.97,
+                "price": 149.79,
+                "value": 149.79,
                 "commission": 0.0
             },
             {
                 "symbol": "WTW",
                 "side": "BUY",
                 "size": 1,
-                "price": 248.17,
-                "value": 248.17,
+                "price": 247.5,
+                "value": 247.5,
                 "commission": 0.0
             },
             {
@@ -2793,9 +2865,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": -2778.53,
-        "cash": 78115.72,
-        "total_value": 75337.19
+        "positions_value": -2481.68,
+        "cash": 78176.28,
+        "total_value": 75694.6
     },
     {
         "datetime": "2023-03-02 00:00:00",
@@ -2805,8 +2877,8 @@
                 "symbol": "ALB",
                 "side": "SELL",
                 "size": -1,
-                "price": 240.51,
-                "value": -240.51,
+                "price": 239.17,
+                "value": -239.17,
                 "commission": 0.0
             },
             {
@@ -2821,8 +2893,8 @@
                 "symbol": "AMT",
                 "side": "BUY",
                 "size": 1,
-                "price": 180.82,
-                "value": -200.17,
+                "price": 179.35,
+                "value": -198.53,
                 "commission": 0.0
             },
             {
@@ -2837,32 +2909,32 @@
                 "symbol": "AVB",
                 "side": "BUY",
                 "size": 1,
-                "price": 155.66,
-                "value": -167.74,
+                "price": 154.38,
+                "value": -166.37,
                 "commission": 0.0
             },
             {
                 "symbol": "EXR",
                 "side": "BUY",
                 "size": 2,
-                "price": 149.64,
-                "value": -271.49,
+                "price": 147.96,
+                "value": -268.44,
                 "commission": 0.0
             },
             {
                 "symbol": "FDX",
                 "side": "BUY",
                 "size": 1,
-                "price": 195.13,
-                "value": -161.76,
+                "price": 194.07,
+                "value": -160.89,
                 "commission": 0.0
             },
             {
                 "symbol": "META",
                 "side": "BUY",
                 "size": 2,
-                "price": 171.72,
-                "value": -316.28,
+                "price": 171.57,
+                "value": -316.0,
                 "commission": 0.0
             },
             {
@@ -2877,48 +2949,48 @@
                 "symbol": "MSFT",
                 "side": "BUY",
                 "size": 1,
-                "price": 243.18,
-                "value": -254.64,
+                "price": 242.69,
+                "value": -254.13,
                 "commission": 0.0
             },
             {
                 "symbol": "PSA",
                 "side": "BUY",
                 "size": 1,
-                "price": 271.08,
-                "value": -284.19,
+                "price": 268.4,
+                "value": -281.38,
                 "commission": 0.0
             },
             {
                 "symbol": "SBAC",
                 "side": "SELL",
                 "size": -1,
-                "price": 245.6,
-                "value": -245.6,
+                "price": 244.34,
+                "value": -244.34,
                 "commission": 0.0
             },
             {
                 "symbol": "STE",
                 "side": "SELL",
                 "size": -2,
-                "price": 184.21,
-                "value": -368.43,
+                "price": 183.74,
+                "value": -367.48,
                 "commission": 0.0
             },
             {
                 "symbol": "STLD",
                 "side": "BUY",
                 "size": 2,
-                "price": 124.6,
-                "value": 249.21,
+                "price": 124.1,
+                "value": 248.2,
                 "commission": 0.0
             },
             {
                 "symbol": "SYK",
                 "side": "BUY",
                 "size": 1,
-                "price": 252.9,
-                "value": 252.9,
+                "price": 252.32,
+                "value": 252.32,
                 "commission": 0.0
             },
             {
@@ -2933,38 +3005,38 @@
                 "symbol": "UHS",
                 "side": "BUY",
                 "size": 1,
-                "price": 129.85,
-                "value": 129.85,
+                "price": 129.7,
+                "value": 129.7,
                 "commission": 0.0
             },
             {
                 "symbol": "WST",
                 "side": "BUY",
                 "size": 1,
-                "price": 313.66,
-                "value": -247.44,
+                "price": 313.35,
+                "value": -247.19,
                 "commission": 0.0
             },
             {
                 "symbol": "WTW",
                 "side": "SELL",
                 "size": -1,
-                "price": 224.42,
-                "value": 248.17,
+                "price": 223.8,
+                "value": 247.5,
                 "commission": 0.0
             },
             {
                 "symbol": "WYNN",
                 "side": "BUY",
                 "size": 2,
-                "price": 109.69,
-                "value": 219.37,
+                "price": 109.38,
+                "value": 218.77,
                 "commission": 0.0
             }
         ],
-        "positions_value": 242.32,
-        "cash": 75850.98,
-        "total_value": 76093.3
+        "positions_value": 524.21,
+        "cash": 75920.66,
+        "total_value": 76444.88
     },
     {
         "datetime": "2023-04-04 00:00:00",
@@ -2982,8 +3054,8 @@
                 "symbol": "CAT",
                 "side": "SELL",
                 "size": -1,
-                "price": 221.01,
-                "value": 231.28,
+                "price": 219.95,
+                "value": 230.17,
                 "commission": 0.0
             },
             {
@@ -2998,40 +3070,40 @@
                 "symbol": "DG",
                 "side": "SELL",
                 "size": -1,
-                "price": 203.71,
-                "value": -203.71,
+                "price": 202.4,
+                "value": -202.4,
                 "commission": 0.0
             },
             {
                 "symbol": "ERIE",
                 "side": "SELL",
                 "size": -2,
-                "price": 226.35,
-                "value": 449.54,
+                "price": 225.57,
+                "value": 447.99,
                 "commission": 0.0
             },
             {
                 "symbol": "FDX",
                 "side": "BUY",
                 "size": 2,
-                "price": 220.56,
-                "value": -323.53,
+                "price": 219.36,
+                "value": -321.77,
                 "commission": 0.0
             },
             {
                 "symbol": "HCA",
                 "side": "SELL",
                 "size": -1,
-                "price": 261.14,
-                "value": 237.62,
+                "price": 260.56,
+                "value": 237.09,
                 "commission": 0.0
             },
             {
                 "symbol": "HD",
                 "side": "SELL",
                 "size": -1,
-                "price": 284.57,
-                "value": -284.57,
+                "price": 282.78,
+                "value": -282.78,
                 "commission": 0.0
             },
             {
@@ -3046,54 +3118,54 @@
                 "symbol": "META",
                 "side": "BUY",
                 "size": 2,
-                "price": 212.58,
-                "value": -316.28,
+                "price": 212.39,
+                "value": -316.0,
                 "commission": 0.0
             },
             {
                 "symbol": "MTB",
                 "side": "SELL",
                 "size": -2,
-                "price": 112.85,
-                "value": -225.71,
+                "price": 112.06,
+                "value": -224.12,
                 "commission": 0.0
             },
             {
                 "symbol": "NSC",
                 "side": "SELL",
                 "size": -1,
-                "price": 200.33,
-                "value": -200.33,
+                "price": 199.11,
+                "value": -199.11,
                 "commission": 0.0
             },
             {
                 "symbol": "STE",
                 "side": "BUY",
                 "size": 1,
-                "price": 188.11,
-                "value": -178.96,
+                "price": 187.62,
+                "value": -178.5,
                 "commission": 0.0
             },
             {
                 "symbol": "STLD",
                 "side": "SELL",
                 "size": -2,
-                "price": 109.44,
-                "value": 249.21,
+                "price": 109.0,
+                "value": 248.2,
                 "commission": 0.0
             },
             {
                 "symbol": "WST",
                 "side": "BUY",
                 "size": 1,
-                "price": 346.63,
-                "value": -247.44,
+                "price": 346.29,
+                "value": -247.19,
                 "commission": 0.0
             }
         ],
-        "positions_value": -192.69,
-        "cash": 76136.02,
-        "total_value": 75943.33
+        "positions_value": 91.5,
+        "cash": 76199.31,
+        "total_value": 76290.81
     },
     {
         "datetime": "2023-05-02 00:00:00",
@@ -3103,8 +3175,8 @@
                 "symbol": "ARE",
                 "side": "SELL",
                 "size": -2,
-                "price": 111.68,
-                "value": -223.36,
+                "price": 110.14,
+                "value": -220.28,
                 "commission": 0.0
             },
             {
@@ -3143,8 +3215,8 @@
                 "symbol": "CRM",
                 "side": "BUY",
                 "size": 2,
-                "price": 196.92,
-                "value": 393.84,
+                "price": 196.61,
+                "value": 393.22,
                 "commission": 0.0
             },
             {
@@ -3167,16 +3239,16 @@
                 "symbol": "HCA",
                 "side": "BUY",
                 "size": 1,
-                "price": 278.63,
-                "value": 278.63,
+                "price": 278.0,
+                "value": 278.0,
                 "commission": 0.0
             },
             {
                 "symbol": "HD",
                 "side": "BUY",
                 "size": 1,
-                "price": 285.47,
-                "value": -284.57,
+                "price": 283.67,
+                "value": -282.78,
                 "commission": 0.0
             },
             {
@@ -3191,8 +3263,8 @@
                 "symbol": "JKHY",
                 "side": "SELL",
                 "size": -1,
-                "price": 158.37,
-                "value": -158.37,
+                "price": 157.85,
+                "value": -157.85,
                 "commission": 0.0
             },
             {
@@ -3207,8 +3279,8 @@
                 "symbol": "MPWR",
                 "side": "BUY",
                 "size": 1,
-                "price": 466.54,
-                "value": -454.69,
+                "price": 465.29,
+                "value": -453.47,
                 "commission": 0.0
             },
             {
@@ -3223,8 +3295,8 @@
                 "symbol": "PNC",
                 "side": "SELL",
                 "size": -2,
-                "price": 114.73,
-                "value": -229.46,
+                "price": 113.55,
+                "value": -227.09,
                 "commission": 0.0
             },
             {
@@ -3239,22 +3311,22 @@
                 "symbol": "TFX",
                 "side": "BUY",
                 "size": 1,
-                "price": 270.69,
-                "value": -225.61,
+                "price": 270.02,
+                "value": -225.05,
                 "commission": 0.0
             },
             {
                 "symbol": "UHS",
                 "side": "SELL",
                 "size": -2,
-                "price": 145.78,
-                "value": 279.81,
+                "price": 145.61,
+                "value": 279.49,
                 "commission": 0.0
             }
         ],
-        "positions_value": 1055.38,
-        "cash": 75353.71,
-        "total_value": 76409.09
+        "positions_value": 1346.64,
+        "cash": 75415.67,
+        "total_value": 76762.31
     },
     {
         "datetime": "2023-06-02 00:00:00",
@@ -3312,40 +3384,40 @@
                 "symbol": "DE",
                 "side": "SELL",
                 "size": -1,
-                "price": 351.1,
-                "value": 428.67,
+                "price": 349.88,
+                "value": 427.18,
                 "commission": 0.0
             },
             {
                 "symbol": "DG",
                 "side": "BUY",
                 "size": 1,
-                "price": 156.39,
-                "value": -203.71,
+                "price": 155.39,
+                "value": -202.4,
                 "commission": 0.0
             },
             {
                 "symbol": "EL",
                 "side": "SELL",
                 "size": -2,
-                "price": 178.58,
-                "value": -357.16,
+                "price": 177.72,
+                "value": -355.45,
                 "commission": 0.0
             },
             {
                 "symbol": "HCA",
                 "side": "SELL",
                 "size": -1,
-                "price": 265.63,
-                "value": 278.63,
+                "price": 265.03,
+                "value": 278.0,
                 "commission": 0.0
             },
             {
                 "symbol": "JKHY",
                 "side": "BUY",
                 "size": 1,
-                "price": 149.09,
-                "value": -158.37,
+                "price": 148.6,
+                "value": -157.85,
                 "commission": 0.0
             },
             {
@@ -3368,8 +3440,8 @@
                 "symbol": "NSC",
                 "side": "BUY",
                 "size": 1,
-                "price": 205.64,
-                "value": -200.33,
+                "price": 204.39,
+                "value": -199.11,
                 "commission": 0.0
             },
             {
@@ -3384,8 +3456,8 @@
                 "symbol": "SYK",
                 "side": "SELL",
                 "size": -1,
-                "price": 274.17,
-                "value": 252.9,
+                "price": 273.54,
+                "value": 252.32,
                 "commission": 0.0
             },
             {
@@ -3408,14 +3480,14 @@
                 "symbol": "WYNN",
                 "side": "SELL",
                 "size": -2,
-                "price": 96.36,
-                "value": 219.37,
+                "price": 96.1,
+                "value": 218.77,
                 "commission": 0.0
             }
         ],
-        "positions_value": 1553.36,
-        "cash": 74621.44,
-        "total_value": 76174.8
+        "positions_value": 1835.15,
+        "cash": 74681.45,
+        "total_value": 76516.6
     },
     {
         "datetime": "2023-07-04 00:00:00",
@@ -3472,17 +3544,17 @@
             {
                 "symbol": "APD",
                 "side": "SELL",
-                "size": -1,
-                "price": 286.8,
-                "value": 294.64,
+                "size": -2,
+                "price": 285.06,
+                "value": 585.7,
                 "commission": 0.0
             },
             {
                 "symbol": "ARE",
                 "side": "SELL",
                 "size": -3,
-                "price": 106.12,
-                "value": -318.36,
+                "price": 104.65,
+                "value": -313.96,
                 "commission": 0.0
             },
             {
@@ -3521,8 +3593,8 @@
                 "symbol": "CCI",
                 "side": "BUY",
                 "size": 3,
-                "price": 104.19,
-                "value": -357.22,
+                "price": 102.48,
+                "value": -351.34,
                 "commission": 0.0
             },
             {
@@ -3537,16 +3609,8 @@
                 "symbol": "CI",
                 "side": "SELL",
                 "size": -2,
-                "price": 271.94,
-                "value": -543.88,
-                "commission": 0.0
-            },
-            {
-                "symbol": "CRL",
-                "side": "SELL",
-                "size": -1,
-                "price": 209.79,
-                "value": -209.79,
+                "price": 270.61,
+                "value": -541.22,
                 "commission": 0.0
             },
             {
@@ -3561,8 +3625,8 @@
                 "symbol": "DG",
                 "side": "SELL",
                 "size": -1,
-                "price": 163.65,
-                "value": -163.65,
+                "price": 162.6,
+                "value": -162.6,
                 "commission": 0.0
             },
             {
@@ -3585,8 +3649,8 @@
                 "symbol": "ESS",
                 "side": "BUY",
                 "size": 2,
-                "price": 220.49,
-                "value": -397.07,
+                "price": 218.64,
+                "value": -393.73,
                 "commission": 0.0
             },
             {
@@ -3609,24 +3673,24 @@
                 "symbol": "GS",
                 "side": "SELL",
                 "size": -1,
-                "price": 309.64,
-                "value": 288.45,
+                "price": 308.11,
+                "value": 287.03,
                 "commission": 0.0
             },
             {
                 "symbol": "HUBB",
                 "side": "SELL",
                 "size": -1,
-                "price": 323.44,
-                "value": 226.92,
+                "price": 322.28,
+                "value": 226.11,
                 "commission": 0.0
             },
             {
                 "symbol": "HUM",
                 "side": "SELL",
                 "size": -1,
-                "price": 437.39,
-                "value": -437.39,
+                "price": 435.96,
+                "value": -435.96,
                 "commission": 0.0
             },
             {
@@ -3638,19 +3702,27 @@
                 "commission": 0.0
             },
             {
+                "symbol": "KEYS",
+                "side": "SELL",
+                "size": -1,
+                "price": 166.22,
+                "value": -166.22,
+                "commission": 0.0
+            },
+            {
                 "symbol": "META",
                 "side": "BUY",
-                "size": 1,
-                "price": 285.61,
-                "value": 285.61,
+                "size": 2,
+                "price": 285.36,
+                "value": 570.71,
                 "commission": 0.0
             },
             {
                 "symbol": "MPWR",
                 "side": "BUY",
                 "size": 1,
-                "price": 539.43,
-                "value": 539.43,
+                "price": 537.98,
+                "value": 537.98,
                 "commission": 0.0
             },
             {
@@ -3665,32 +3737,32 @@
                 "symbol": "MSFT",
                 "side": "BUY",
                 "size": 1,
-                "price": 335.28,
-                "value": 335.28,
+                "price": 334.61,
+                "value": 334.61,
                 "commission": 0.0
             },
             {
                 "symbol": "MSI",
                 "side": "SELL",
                 "size": -1,
-                "price": 286.23,
-                "value": 261.87,
+                "price": 285.47,
+                "value": 261.18,
                 "commission": 0.0
             },
             {
                 "symbol": "MTB",
                 "side": "SELL",
                 "size": -2,
-                "price": 117.8,
-                "value": -235.6,
+                "price": 116.97,
+                "value": -233.95,
                 "commission": 0.0
             },
             {
                 "symbol": "NOC",
                 "side": "SELL",
                 "size": -1,
-                "price": 441.93,
-                "value": -441.93,
+                "price": 439.96,
+                "value": -439.96,
                 "commission": 0.0
             },
             {
@@ -3705,8 +3777,8 @@
                 "symbol": "NSC",
                 "side": "SELL",
                 "size": -1,
-                "price": 216.04,
-                "value": -216.04,
+                "price": 214.72,
+                "value": -214.72,
                 "commission": 0.0
             },
             {
@@ -3721,8 +3793,8 @@
                 "symbol": "PNC",
                 "side": "SELL",
                 "size": -2,
-                "price": 117.71,
-                "value": -235.41,
+                "price": 116.5,
+                "value": -232.99,
                 "commission": 0.0
             },
             {
@@ -3737,32 +3809,32 @@
                 "symbol": "POOL",
                 "side": "BUY",
                 "size": 1,
-                "price": 365.1,
-                "value": -332.76,
+                "price": 363.83,
+                "value": -331.6,
                 "commission": 0.0
             },
             {
                 "symbol": "PWR",
                 "side": "BUY",
                 "size": 1,
-                "price": 195.45,
-                "value": 195.45,
+                "price": 195.37,
+                "value": 195.37,
                 "commission": 0.0
             },
             {
                 "symbol": "ROK",
                 "side": "SELL",
                 "size": -2,
-                "price": 320.56,
-                "value": 501.27,
+                "price": 319.13,
+                "value": 499.04,
                 "commission": 0.0
             },
             {
                 "symbol": "STE",
                 "side": "BUY",
                 "size": 2,
-                "price": 219.61,
-                "value": -357.92,
+                "price": 219.05,
+                "value": -356.99,
                 "commission": 0.0
             },
             {
@@ -3785,8 +3857,8 @@
                 "symbol": "WST",
                 "side": "BUY",
                 "size": 1,
-                "price": 377.67,
-                "value": 377.67,
+                "price": 377.3,
+                "value": 377.3,
                 "commission": 0.0
             },
             {
@@ -3798,9 +3870,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": 1250.36,
-        "cash": 74633.58,
-        "total_value": 75883.94
+        "positions_value": 1602.74,
+        "cash": 74638.87,
+        "total_value": 76241.61
     },
     {
         "datetime": "2023-08-02 00:00:00",
@@ -3810,8 +3882,8 @@
                 "symbol": "ALB",
                 "side": "SELL",
                 "size": -1,
-                "price": 201.33,
-                "value": -201.33,
+                "price": 200.21,
+                "value": -200.21,
                 "commission": 0.0
             },
             {
@@ -3826,8 +3898,8 @@
                 "symbol": "ARE",
                 "side": "BUY",
                 "size": 2,
-                "price": 113.07,
-                "value": -216.69,
+                "price": 111.51,
+                "value": -213.7,
                 "commission": 0.0
             },
             {
@@ -3850,16 +3922,24 @@
                 "symbol": "CI",
                 "side": "BUY",
                 "size": 1,
-                "price": 291.71,
-                "value": -271.94,
+                "price": 290.29,
+                "value": -270.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CRL",
+                "side": "SELL",
+                "size": -1,
+                "price": 207.62,
+                "value": -207.62,
                 "commission": 0.0
             },
             {
                 "symbol": "ETN",
                 "side": "BUY",
                 "size": 1,
-                "price": 213.71,
-                "value": 213.71,
+                "price": 212.93,
+                "value": 212.93,
                 "commission": 0.0
             },
             {
@@ -3868,6 +3948,14 @@
                 "size": -1,
                 "price": 713.82,
                 "value": 547.34,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KEYS",
+                "side": "BUY",
+                "size": 1,
+                "price": 160.0,
+                "value": -166.22,
                 "commission": 0.0
             },
             {
@@ -3882,8 +3970,8 @@
                 "symbol": "MTB",
                 "side": "BUY",
                 "size": 1,
-                "price": 129.9,
-                "value": -115.33,
+                "price": 128.98,
+                "value": -114.52,
                 "commission": 0.0
             },
             {
@@ -3898,16 +3986,16 @@
                 "symbol": "NSC",
                 "side": "BUY",
                 "size": 1,
-                "price": 223.58,
-                "value": -216.04,
+                "price": 222.22,
+                "value": -214.72,
                 "commission": 0.0
             },
             {
                 "symbol": "PNC",
                 "side": "BUY",
                 "size": 1,
-                "price": 126.36,
-                "value": -116.22,
+                "price": 125.06,
+                "value": -115.02,
                 "commission": 0.0
             },
             {
@@ -3922,16 +4010,16 @@
                 "symbol": "RCL",
                 "side": "BUY",
                 "size": 2,
-                "price": 106.01,
-                "value": 212.01,
+                "price": 105.64,
+                "value": 211.27,
                 "commission": 0.0
             },
             {
                 "symbol": "VRSK",
                 "side": "BUY",
                 "size": 1,
-                "price": 224.41,
-                "value": 224.41,
+                "price": 224.07,
+                "value": 224.07,
                 "commission": 0.0
             },
             {
@@ -3943,9 +4031,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": 24.53,
-        "cash": 75791.49,
-        "total_value": 75816.01
+        "positions_value": 355.22,
+        "cash": 75853.26,
+        "total_value": 76208.49
     },
     {
         "datetime": "2023-09-04 00:00:00",
@@ -3987,8 +4075,8 @@
                 "symbol": "BR",
                 "side": "BUY",
                 "size": 1,
-                "price": 182.45,
-                "value": 182.45,
+                "price": 181.74,
+                "value": 181.74,
                 "commission": 0.0
             },
             {
@@ -4004,7 +4092,7 @@
                 "side": "BUY",
                 "size": 1,
                 "price": 209.35,
-                "value": -209.79,
+                "value": -207.62,
                 "commission": 0.0
             },
             {
@@ -4019,16 +4107,16 @@
                 "symbol": "DE",
                 "side": "SELL",
                 "size": -1,
-                "price": 405.59,
-                "value": -405.59,
+                "price": 404.18,
+                "value": -404.18,
                 "commission": 0.0
             },
             {
                 "symbol": "DG",
                 "side": "SELL",
                 "size": -1,
-                "price": 132.12,
-                "value": -132.12,
+                "price": 131.27,
+                "value": -131.27,
                 "commission": 0.0
             },
             {
@@ -4075,14 +4163,14 @@
                 "symbol": "TMO",
                 "side": "SELL",
                 "size": -1,
-                "price": 561.16,
-                "value": -561.16,
+                "price": 560.68,
+                "value": -560.68,
                 "commission": 0.0
             }
         ],
-        "positions_value": -603.57,
-        "cash": 76837.91,
-        "total_value": 76234.33
+        "positions_value": -290.3,
+        "cash": 76897.66,
+        "total_value": 76607.37
     },
     {
         "datetime": "2023-10-03 00:00:00",
@@ -4092,8 +4180,8 @@
                 "symbol": "ALB",
                 "side": "SELL",
                 "size": -1,
-                "price": 157.1,
-                "value": -157.1,
+                "price": 156.23,
+                "value": -156.23,
                 "commission": 0.0
             },
             {
@@ -4124,8 +4212,8 @@
                 "symbol": "CAT",
                 "side": "BUY",
                 "size": 1,
-                "price": 264.59,
-                "value": 264.59,
+                "price": 263.32,
+                "value": 263.32,
                 "commission": 0.0
             },
             {
@@ -4148,16 +4236,16 @@
                 "symbol": "EL",
                 "side": "SELL",
                 "size": -1,
-                "price": 138.77,
-                "value": -138.77,
+                "price": 138.11,
+                "value": -138.11,
                 "commission": 0.0
             },
             {
                 "symbol": "FMC",
                 "side": "SELL",
                 "size": -4,
-                "price": 61.48,
-                "value": -245.91,
+                "price": 60.63,
+                "value": -242.53,
                 "commission": 0.0
             },
             {
@@ -4180,8 +4268,8 @@
                 "symbol": "ODFL",
                 "side": "BUY",
                 "size": 1,
-                "price": 198.82,
-                "value": 198.82,
+                "price": 198.5,
+                "value": 198.5,
                 "commission": 0.0
             },
             {
@@ -4196,16 +4284,24 @@
                 "symbol": "PWR",
                 "side": "SELL",
                 "size": -1,
-                "price": 174.91,
-                "value": 195.45,
+                "price": 174.84,
+                "value": 195.37,
                 "commission": 0.0
             },
             {
                 "symbol": "RCL",
                 "side": "BUY",
                 "size": 1,
-                "price": 90.09,
-                "value": 90.09,
+                "price": 89.78,
+                "value": 89.78,
+                "commission": 0.0
+            },
+            {
+                "symbol": "RMD",
+                "side": "SELL",
+                "size": -1,
+                "price": 142.57,
+                "value": -142.57,
                 "commission": 0.0
             },
             {
@@ -4220,14 +4316,14 @@
                 "symbol": "VMC",
                 "side": "BUY",
                 "size": 1,
-                "price": 198.09,
-                "value": 198.09,
+                "price": 197.65,
+                "value": 197.65,
                 "commission": 0.0
             }
         ],
-        "positions_value": 29.31,
-        "cash": 76182.93,
-        "total_value": 76212.24
+        "positions_value": 205.62,
+        "cash": 76382.61,
+        "total_value": 76588.23
     },
     {
         "datetime": "2023-11-02 00:00:00",
@@ -4237,8 +4333,8 @@
                 "symbol": "ALB",
                 "side": "SELL",
                 "size": -1,
-                "price": 116.85,
-                "value": -116.85,
+                "price": 116.19,
+                "value": -116.19,
                 "commission": 0.0
             },
             {
@@ -4261,32 +4357,32 @@
                 "symbol": "BR",
                 "side": "SELL",
                 "size": -1,
-                "price": 168.07,
-                "value": 182.45,
+                "price": 167.41,
+                "value": 181.74,
                 "commission": 0.0
             },
             {
                 "symbol": "CDW",
                 "side": "BUY",
                 "size": 1,
-                "price": 197.39,
-                "value": 197.39,
+                "price": 196.73,
+                "value": 196.73,
                 "commission": 0.0
             },
             {
                 "symbol": "CI",
                 "side": "BUY",
                 "size": 1,
-                "price": 299.95,
-                "value": -271.94,
+                "price": 298.48,
+                "value": -270.61,
                 "commission": 0.0
             },
             {
                 "symbol": "CLX",
                 "side": "SELL",
                 "size": -5,
-                "price": 122.42,
-                "value": -612.11,
+                "price": 121.37,
+                "value": -606.85,
                 "commission": 0.0
             },
             {
@@ -4309,8 +4405,8 @@
                 "symbol": "EL",
                 "side": "SELL",
                 "size": -1,
-                "price": 101.04,
-                "value": -101.04,
+                "price": 100.56,
+                "value": -100.56,
                 "commission": 0.0
             },
             {
@@ -4325,16 +4421,16 @@
                 "symbol": "ETN",
                 "side": "SELL",
                 "size": -1,
-                "price": 213.1,
-                "value": 213.71,
+                "price": 212.33,
+                "value": 212.93,
                 "commission": 0.0
             },
             {
                 "symbol": "FMC",
                 "side": "SELL",
                 "size": -2,
-                "price": 48.05,
-                "value": -96.1,
+                "price": 47.39,
+                "value": -94.78,
                 "commission": 0.0
             },
             {
@@ -4349,24 +4445,24 @@
                 "symbol": "HUBB",
                 "side": "SELL",
                 "size": -1,
-                "price": 275.68,
-                "value": 226.92,
+                "price": 274.7,
+                "value": 226.11,
                 "commission": 0.0
             },
             {
                 "symbol": "JBL",
                 "side": "BUY",
                 "size": 2,
-                "price": 125.68,
-                "value": 251.36,
+                "price": 125.62,
+                "value": 251.24,
                 "commission": 0.0
             },
             {
                 "symbol": "MPC",
                 "side": "BUY",
                 "size": 1,
-                "price": 151.29,
-                "value": 151.29,
+                "price": 150.42,
+                "value": 150.42,
                 "commission": 0.0
             },
             {
@@ -4389,30 +4485,30 @@
                 "symbol": "RCL",
                 "side": "SELL",
                 "size": -3,
-                "price": 86.53,
-                "value": 302.1,
+                "price": 86.23,
+                "value": 301.05,
                 "commission": 0.0
             },
             {
                 "symbol": "VMC",
                 "side": "SELL",
                 "size": -1,
-                "price": 204.14,
-                "value": 198.09,
+                "price": 203.69,
+                "value": 197.65,
                 "commission": 0.0
             },
             {
                 "symbol": "VRSK",
                 "side": "SELL",
                 "size": -1,
-                "price": 221.27,
-                "value": 224.41,
+                "price": 220.93,
+                "value": 224.07,
                 "commission": 0.0
             }
         ],
-        "positions_value": -1409.04,
-        "cash": 78314.89,
-        "total_value": 76905.85
+        "positions_value": -1220.36,
+        "cash": 78505.84,
+        "total_value": 77285.48
     },
     {
         "datetime": "2023-12-04 00:00:00",
@@ -4422,8 +4518,8 @@
                 "symbol": "CAT",
                 "side": "SELL",
                 "size": -1,
-                "price": 248.66,
-                "value": 264.59,
+                "price": 247.46,
+                "value": 263.32,
                 "commission": 0.0
             },
             {
@@ -4438,16 +4534,16 @@
                 "symbol": "CDW",
                 "side": "SELL",
                 "size": -1,
-                "price": 208.49,
-                "value": 197.39,
+                "price": 207.8,
+                "value": 196.73,
                 "commission": 0.0
             },
             {
                 "symbol": "CLX",
                 "side": "BUY",
                 "size": 2,
-                "price": 137.77,
-                "value": -244.84,
+                "price": 136.59,
+                "value": -242.74,
                 "commission": 0.0
             },
             {
@@ -4462,8 +4558,8 @@
                 "symbol": "EG",
                 "side": "BUY",
                 "size": 1,
-                "price": 399.69,
-                "value": 399.69,
+                "price": 395.41,
+                "value": 395.41,
                 "commission": 0.0
             },
             {
@@ -4486,8 +4582,8 @@
                 "symbol": "JBL",
                 "side": "SELL",
                 "size": -2,
-                "price": 117.49,
-                "value": 251.36,
+                "price": 117.43,
+                "value": 251.24,
                 "commission": 0.0
             },
             {
@@ -4510,8 +4606,8 @@
                 "symbol": "PAYC",
                 "side": "SELL",
                 "size": -3,
-                "price": 182.76,
-                "value": -548.27,
+                "price": 182.43,
+                "value": -547.3,
                 "commission": 0.0
             },
             {
@@ -4531,25 +4627,17 @@
                 "commission": 0.0
             },
             {
-                "symbol": "WAT",
-                "side": "BUY",
-                "size": 1,
-                "price": 288.0,
-                "value": -262.78,
-                "commission": 0.0
-            },
-            {
                 "symbol": "ZBH",
                 "side": "SELL",
                 "size": -2,
-                "price": 116.07,
-                "value": -232.14,
+                "price": 115.82,
+                "value": -231.64,
                 "commission": 0.0
             }
         ],
-        "positions_value": -1581.14,
-        "cash": 78184.81,
-        "total_value": 76603.67
+        "positions_value": -1683.67,
+        "cash": 78666.95,
+        "total_value": 76983.28
     },
     {
         "datetime": "2024-01-02 00:00:00",
@@ -4591,8 +4679,8 @@
                 "symbol": "ARE",
                 "side": "BUY",
                 "size": 3,
-                "price": 121.3,
-                "value": -325.03,
+                "price": 119.63,
+                "value": -320.54,
                 "commission": 0.0
             },
             {
@@ -4631,8 +4719,8 @@
                 "symbol": "CLX",
                 "side": "BUY",
                 "size": 3,
-                "price": 136.26,
-                "value": -367.26,
+                "price": 135.09,
+                "value": -364.11,
                 "commission": 0.0
             },
             {
@@ -4647,16 +4735,16 @@
                 "symbol": "DE",
                 "side": "BUY",
                 "size": 1,
-                "price": 393.2,
-                "value": -405.59,
+                "price": 391.83,
+                "value": -404.18,
                 "commission": 0.0
             },
             {
                 "symbol": "DG",
                 "side": "SELL",
                 "size": -2,
-                "price": 133.07,
-                "value": -266.14,
+                "price": 132.22,
+                "value": -264.43,
                 "commission": 0.0
             },
             {
@@ -4665,14 +4753,6 @@
                 "size": -2,
                 "price": 142.23,
                 "value": -284.46,
-                "commission": 0.0
-            },
-            {
-                "symbol": "EL",
-                "side": "BUY",
-                "size": 1,
-                "price": 141.2,
-                "value": -163.38,
                 "commission": 0.0
             },
             {
@@ -4695,24 +4775,24 @@
                 "symbol": "ERIE",
                 "side": "BUY",
                 "size": 1,
-                "price": 327.14,
-                "value": 327.14,
+                "price": 326.01,
+                "value": 326.01,
                 "commission": 0.0
             },
             {
                 "symbol": "EXPE",
                 "side": "BUY",
                 "size": 1,
-                "price": 151.67,
-                "value": 151.67,
+                "price": 151.35,
+                "value": 151.35,
                 "commission": 0.0
             },
             {
                 "symbol": "FMC",
                 "side": "BUY",
                 "size": 1,
-                "price": 60.32,
-                "value": -57.0,
+                "price": 59.49,
+                "value": -56.22,
                 "commission": 0.0
             },
             {
@@ -4735,8 +4815,8 @@
                 "symbol": "HCA",
                 "side": "SELL",
                 "size": -1,
-                "price": 267.41,
-                "value": -267.41,
+                "price": 266.81,
+                "value": -266.81,
                 "commission": 0.0
             },
             {
@@ -4751,8 +4831,8 @@
                 "symbol": "HUM",
                 "side": "BUY",
                 "size": 1,
-                "price": 454.6,
-                "value": -437.39,
+                "price": 453.11,
+                "value": -435.96,
                 "commission": 0.0
             },
             {
@@ -4772,11 +4852,19 @@
                 "commission": 0.0
             },
             {
+                "symbol": "META",
+                "side": "SELL",
+                "size": -1,
+                "price": 349.67,
+                "value": 285.36,
+                "commission": 0.0
+            },
+            {
                 "symbol": "MPWR",
                 "side": "SELL",
                 "size": -1,
-                "price": 616.27,
-                "value": 539.43,
+                "price": 614.61,
+                "value": 537.98,
                 "commission": 0.0
             },
             {
@@ -4791,48 +4879,48 @@
                 "symbol": "MSFT",
                 "side": "SELL",
                 "size": -1,
-                "price": 371.09,
-                "value": 335.28,
+                "price": 370.34,
+                "value": 334.61,
                 "commission": 0.0
             },
             {
                 "symbol": "MTB",
                 "side": "BUY",
                 "size": 3,
-                "price": 132.22,
-                "value": -345.98,
+                "price": 131.29,
+                "value": -343.55,
                 "commission": 0.0
             },
             {
                 "symbol": "NOC",
                 "side": "BUY",
                 "size": 1,
-                "price": 461.43,
-                "value": -441.93,
+                "price": 459.37,
+                "value": -439.96,
                 "commission": 0.0
             },
             {
                 "symbol": "PNC",
                 "side": "BUY",
                 "size": 3,
-                "price": 147.0,
-                "value": -348.65,
+                "price": 145.48,
+                "value": -345.06,
                 "commission": 0.0
             },
             {
                 "symbol": "RMD",
                 "side": "SELL",
-                "size": -2,
+                "size": -1,
                 "price": 169.33,
-                "value": -338.65,
+                "value": -169.33,
                 "commission": 0.0
             },
             {
                 "symbol": "SBAC",
                 "side": "BUY",
                 "size": 2,
-                "price": 247.3,
-                "value": -540.76,
+                "price": 246.03,
+                "value": -537.98,
                 "commission": 0.0
             },
             {
@@ -4847,8 +4935,8 @@
                 "symbol": "TMO",
                 "side": "BUY",
                 "size": 1,
-                "price": 528.12,
-                "value": -561.16,
+                "price": 527.68,
+                "value": -560.68,
                 "commission": 0.0
             },
             {
@@ -4863,24 +4951,24 @@
                 "symbol": "TT",
                 "side": "BUY",
                 "size": 1,
-                "price": 239.51,
-                "value": 239.51,
+                "price": 238.37,
+                "value": 238.37,
                 "commission": 0.0
             },
             {
                 "symbol": "WAT",
                 "side": "BUY",
-                "size": 1,
+                "size": 2,
                 "price": 327.57,
-                "value": -262.78,
+                "value": -525.55,
                 "commission": 0.0
             },
             {
                 "symbol": "WST",
                 "side": "SELL",
                 "size": -1,
-                "price": 348.58,
-                "value": 377.67,
+                "price": 348.23,
+                "value": 377.3,
                 "commission": 0.0
             },
             {
@@ -4892,9 +4980,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": -1076.97,
-        "cash": 77072.01,
-        "total_value": 75995.04
+        "positions_value": -1211.31,
+        "cash": 77570.26,
+        "total_value": 76358.95
     },
     {
         "datetime": "2024-02-02 00:00:00",
@@ -4904,16 +4992,16 @@
                 "symbol": "ALB",
                 "side": "SELL",
                 "size": -1,
-                "price": 112.59,
-                "value": -112.59,
+                "price": 111.96,
+                "value": -111.96,
                 "commission": 0.0
             },
             {
                 "symbol": "ALL",
                 "side": "BUY",
                 "size": 1,
-                "price": 153.77,
-                "value": 153.77,
+                "price": 153.01,
+                "value": 153.01,
                 "commission": 0.0
             },
             {
@@ -4949,6 +5037,14 @@
                 "commission": 0.0
             },
             {
+                "symbol": "CDNS",
+                "side": "BUY",
+                "size": 1,
+                "price": 290.75,
+                "value": 290.75,
+                "commission": 0.0
+            },
+            {
                 "symbol": "CRL",
                 "side": "SELL",
                 "size": -1,
@@ -4968,8 +5064,8 @@
                 "symbol": "DG",
                 "side": "BUY",
                 "size": 1,
-                "price": 132.27,
-                "value": -140.48,
+                "price": 131.42,
+                "value": -139.58,
                 "commission": 0.0
             },
             {
@@ -4984,16 +5080,16 @@
                 "symbol": "EFX",
                 "side": "BUY",
                 "size": 1,
-                "price": 246.55,
-                "value": 246.55,
+                "price": 246.15,
+                "value": 246.15,
                 "commission": 0.0
             },
             {
                 "symbol": "EL",
                 "side": "BUY",
-                "size": 1,
-                "price": 128.15,
-                "value": -163.38,
+                "size": 2,
+                "price": 127.54,
+                "value": -325.19,
                 "commission": 0.0
             },
             {
@@ -5008,8 +5104,8 @@
                 "symbol": "HCA",
                 "side": "BUY",
                 "size": 1,
-                "price": 310.57,
-                "value": -267.41,
+                "price": 309.87,
+                "value": -266.81,
                 "commission": 0.0
             },
             {
@@ -5049,13 +5145,13 @@
                 "side": "BUY",
                 "size": 1,
                 "price": 189.78,
-                "value": -165.81,
+                "value": -156.9,
                 "commission": 0.0
             }
         ],
-        "positions_value": 1918.56,
-        "cash": 75658.69,
-        "total_value": 77577.25
+        "positions_value": 2217.75,
+        "cash": 75741.34,
+        "total_value": 77959.09
     },
     {
         "datetime": "2024-03-04 00:00:00",
@@ -5065,16 +5161,16 @@
                 "symbol": "ALL",
                 "side": "SELL",
                 "size": -1,
-                "price": 152.04,
-                "value": 153.77,
+                "price": 151.28,
+                "value": 153.01,
                 "commission": 0.0
             },
             {
                 "symbol": "APD",
                 "side": "SELL",
                 "size": -1,
-                "price": 229.3,
-                "value": -229.3,
+                "price": 227.9,
+                "value": -227.9,
                 "commission": 0.0
             },
             {
@@ -5089,8 +5185,8 @@
                 "symbol": "AXP",
                 "side": "BUY",
                 "size": 1,
-                "price": 216.67,
-                "value": 216.67,
+                "price": 215.95,
+                "value": 215.95,
                 "commission": 0.0
             },
             {
@@ -5099,6 +5195,14 @@
                 "size": 1,
                 "price": 201.82,
                 "value": 201.82,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CDNS",
+                "side": "SELL",
+                "size": -1,
+                "price": 315.24,
+                "value": 290.75,
                 "commission": 0.0
             },
             {
@@ -5121,8 +5225,8 @@
                 "symbol": "CRM",
                 "side": "SELL",
                 "size": -2,
-                "price": 312.82,
-                "value": 393.84,
+                "price": 312.33,
+                "value": 393.22,
                 "commission": 0.0
             },
             {
@@ -5131,14 +5235,6 @@
                 "size": 1,
                 "price": 154.87,
                 "value": 154.87,
-                "commission": 0.0
-            },
-            {
-                "symbol": "DG",
-                "side": "BUY",
-                "size": 1,
-                "price": 145.74,
-                "value": -140.48,
                 "commission": 0.0
             },
             {
@@ -5153,16 +5249,8 @@
                 "symbol": "EFX",
                 "side": "SELL",
                 "size": -1,
-                "price": 268.95,
-                "value": 246.55,
-                "commission": 0.0
-            },
-            {
-                "symbol": "EL",
-                "side": "BUY",
-                "size": 1,
-                "price": 145.97,
-                "value": -163.38,
+                "price": 268.51,
+                "value": 246.15,
                 "commission": 0.0
             },
             {
@@ -5177,8 +5265,8 @@
                 "symbol": "EXPE",
                 "side": "SELL",
                 "size": -1,
-                "price": 136.62,
-                "value": 151.67,
+                "price": 136.33,
+                "value": 151.35,
                 "commission": 0.0
             },
             {
@@ -5193,16 +5281,16 @@
                 "symbol": "HII",
                 "side": "BUY",
                 "size": 1,
-                "price": 287.78,
-                "value": 287.78,
+                "price": 285.55,
+                "value": 285.55,
                 "commission": 0.0
             },
             {
                 "symbol": "MKTX",
                 "side": "SELL",
                 "size": -2,
-                "price": 215.96,
-                "value": -431.92,
+                "price": 215.11,
+                "value": -430.23,
                 "commission": 0.0
             },
             {
@@ -5222,27 +5310,19 @@
                 "commission": 0.0
             },
             {
-                "symbol": "PSA",
-                "side": "SELL",
-                "size": -1,
-                "price": 271.38,
-                "value": -271.38,
-                "commission": 0.0
-            },
-            {
                 "symbol": "RL",
                 "side": "BUY",
                 "size": 1,
-                "price": 177.04,
-                "value": 177.04,
+                "price": 176.39,
+                "value": 176.39,
                 "commission": 0.0
             },
             {
                 "symbol": "SBAC",
                 "side": "SELL",
                 "size": -1,
-                "price": 204.33,
-                "value": -204.33,
+                "price": 203.28,
+                "value": -203.28,
                 "commission": 0.0
             },
             {
@@ -5265,22 +5345,22 @@
                 "symbol": "TRV",
                 "side": "BUY",
                 "size": 1,
-                "price": 214.56,
-                "value": 214.56,
+                "price": 213.68,
+                "value": 213.68,
                 "commission": 0.0
             },
             {
                 "symbol": "WTW",
                 "side": "BUY",
                 "size": 1,
-                "price": 266.62,
-                "value": 266.62,
+                "price": 265.89,
+                "value": 265.89,
                 "commission": 0.0
             }
         ],
-        "positions_value": 1314.58,
-        "cash": 76370.64,
-        "total_value": 77685.22
+        "positions_value": 1302.85,
+        "cash": 76787.48,
+        "total_value": 78090.32
     },
     {
         "datetime": "2024-04-02 00:00:00",
@@ -5290,32 +5370,32 @@
                 "symbol": "ALB",
                 "side": "BUY",
                 "size": 2,
-                "price": 125.51,
-                "value": -331.36,
+                "price": 124.81,
+                "value": -329.5,
                 "commission": 0.0
             },
             {
                 "symbol": "AMAT",
                 "side": "BUY",
                 "size": 1,
-                "price": 205.33,
-                "value": 205.33,
+                "price": 204.85,
+                "value": 204.85,
                 "commission": 0.0
             },
             {
                 "symbol": "APD",
                 "side": "BUY",
                 "size": 1,
-                "price": 238.51,
-                "value": -229.3,
+                "price": 237.07,
+                "value": -227.9,
                 "commission": 0.0
             },
             {
                 "symbol": "CEG",
                 "side": "BUY",
                 "size": 1,
-                "price": 183.77,
-                "value": 183.77,
+                "price": 183.43,
+                "value": 183.43,
                 "commission": 0.0
             },
             {
@@ -5327,11 +5407,27 @@
                 "commission": 0.0
             },
             {
+                "symbol": "DG",
+                "side": "BUY",
+                "size": 1,
+                "price": 152.03,
+                "value": -139.58,
+                "commission": 0.0
+            },
+            {
                 "symbol": "DHR",
                 "side": "SELL",
                 "size": -1,
-                "price": 244.21,
-                "value": -244.21,
+                "price": 243.84,
+                "value": -243.84,
+                "commission": 0.0
+            },
+            {
+                "symbol": "EL",
+                "side": "BUY",
+                "size": 1,
+                "price": 150.88,
+                "value": -162.6,
                 "commission": 0.0
             },
             {
@@ -5351,51 +5447,43 @@
                 "commission": 0.0
             },
             {
-                "symbol": "PSA",
-                "side": "BUY",
-                "size": 1,
-                "price": 275.57,
-                "value": -271.38,
-                "commission": 0.0
-            },
-            {
                 "symbol": "PWR",
                 "side": "BUY",
                 "size": 1,
-                "price": 256.59,
-                "value": 256.59,
+                "price": 256.5,
+                "value": 256.5,
                 "commission": 0.0
             },
             {
                 "symbol": "SBAC",
                 "side": "BUY",
                 "size": 1,
-                "price": 209.07,
-                "value": -204.33,
+                "price": 208.0,
+                "value": -203.28,
                 "commission": 0.0
             },
             {
                 "symbol": "TFX",
                 "side": "SELL",
                 "size": -2,
-                "price": 220.32,
-                "value": -440.64,
+                "price": 219.77,
+                "value": -439.54,
                 "commission": 0.0
             },
             {
                 "symbol": "TRV",
                 "side": "SELL",
                 "size": -1,
-                "price": 226.08,
-                "value": 214.56,
+                "price": 225.16,
+                "value": 213.68,
                 "commission": 0.0
             },
             {
                 "symbol": "WTW",
                 "side": "SELL",
                 "size": -1,
-                "price": 270.95,
-                "value": 266.62,
+                "price": 270.21,
+                "value": 265.89,
                 "commission": 0.0
             },
             {
@@ -5407,9 +5495,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": 1486.07,
-        "cash": 75982.36,
-        "total_value": 77468.42
+        "positions_value": 1486.87,
+        "cash": 76373.55,
+        "total_value": 77860.43
     },
     {
         "datetime": "2024-05-02 00:00:00",
@@ -5451,56 +5539,56 @@
                 "symbol": "DELL",
                 "side": "BUY",
                 "size": 2,
-                "price": 120.31,
-                "value": 240.62,
+                "price": 119.54,
+                "value": 239.08,
                 "commission": 0.0
             },
             {
                 "symbol": "DHR",
                 "side": "BUY",
                 "size": 1,
-                "price": 248.19,
-                "value": -244.21,
+                "price": 247.81,
+                "value": -243.84,
                 "commission": 0.0
             },
             {
                 "symbol": "GE",
                 "side": "BUY",
                 "size": 1,
-                "price": 160.62,
-                "value": 160.62,
+                "price": 160.32,
+                "value": 160.32,
                 "commission": 0.0
             },
             {
                 "symbol": "GL",
                 "side": "SELL",
                 "size": -3,
-                "price": 79.03,
-                "value": -237.08,
+                "price": 78.87,
+                "value": -236.6,
                 "commission": 0.0
             },
             {
                 "symbol": "HII",
                 "side": "SELL",
                 "size": -1,
-                "price": 257.98,
-                "value": 287.78,
+                "price": 255.99,
+                "value": 285.55,
                 "commission": 0.0
             },
             {
                 "symbol": "NVDA",
                 "side": "BUY",
                 "size": 3,
-                "price": 84.43,
-                "value": 253.29,
+                "price": 84.42,
+                "value": 253.26,
                 "commission": 0.0
             },
             {
                 "symbol": "PAYC",
                 "side": "BUY",
                 "size": 1,
-                "price": 178.91,
-                "value": -182.76,
+                "price": 178.59,
+                "value": -182.43,
                 "commission": 0.0
             },
             {
@@ -5515,8 +5603,8 @@
                 "symbol": "TT",
                 "side": "SELL",
                 "size": -1,
-                "price": 316.14,
-                "value": 239.51,
+                "price": 314.63,
+                "value": 238.37,
                 "commission": 0.0
             },
             {
@@ -5536,9 +5624,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": 616.55,
-        "cash": 76406.5,
-        "total_value": 77023.05
+        "positions_value": 618.73,
+        "cash": 76796.25,
+        "total_value": 77414.98
     },
     {
         "datetime": "2024-06-04 00:00:00",
@@ -5548,8 +5636,8 @@
                 "symbol": "ACN",
                 "side": "SELL",
                 "size": -1,
-                "price": 279.39,
-                "value": -279.39,
+                "price": 276.84,
+                "value": -276.84,
                 "commission": 0.0
             },
             {
@@ -5596,32 +5684,32 @@
                 "symbol": "MU",
                 "side": "BUY",
                 "size": 2,
-                "price": 126.93,
-                "value": 253.86,
+                "price": 126.77,
+                "value": 253.53,
                 "commission": 0.0
             },
             {
                 "symbol": "QCOM",
                 "side": "BUY",
                 "size": 1,
-                "price": 203.79,
-                "value": 203.79,
+                "price": 202.69,
+                "value": 202.69,
                 "commission": 0.0
             },
             {
                 "symbol": "RL",
                 "side": "SELL",
                 "size": -1,
-                "price": 181.91,
-                "value": 177.04,
+                "price": 181.25,
+                "value": 176.39,
                 "commission": 0.0
             },
             {
                 "symbol": "SBAC",
                 "side": "SELL",
                 "size": -1,
-                "price": 195.0,
-                "value": -195.0,
+                "price": 194.0,
+                "value": -194.0,
                 "commission": 0.0
             },
             {
@@ -5644,14 +5732,14 @@
                 "symbol": "VST",
                 "side": "BUY",
                 "size": 3,
-                "price": 92.14,
-                "value": 276.42,
+                "price": 91.98,
+                "value": 275.95,
                 "commission": 0.0
             }
         ],
-        "positions_value": 880.13,
-        "cash": 76244.42,
-        "total_value": 77124.55
+        "positions_value": 883.78,
+        "cash": 76631.86,
+        "total_value": 77515.64
     },
     {
         "datetime": "2024-07-02 00:00:00",
@@ -5661,16 +5749,16 @@
                 "symbol": "ALB",
                 "side": "BUY",
                 "size": 3,
-                "price": 97.97,
-                "value": -497.03,
+                "price": 97.42,
+                "value": -494.25,
                 "commission": 0.0
             },
             {
                 "symbol": "AMAT",
                 "side": "BUY",
                 "size": 1,
-                "price": 234.02,
-                "value": 234.02,
+                "price": 233.48,
+                "value": 233.48,
                 "commission": 0.0
             },
             {
@@ -5679,6 +5767,14 @@
                 "size": -1,
                 "price": 303.21,
                 "value": 276.62,
+                "commission": 0.0
+            },
+            {
+                "symbol": "BA",
+                "side": "SELL",
+                "size": -2,
+                "price": 186.34,
+                "value": -372.68,
                 "commission": 0.0
             },
             {
@@ -5701,8 +5797,8 @@
                 "symbol": "CEG",
                 "side": "BUY",
                 "size": 1,
-                "price": 202.76,
-                "value": 202.76,
+                "price": 202.38,
+                "value": 202.38,
                 "commission": 0.0
             },
             {
@@ -5725,16 +5821,16 @@
                 "symbol": "DELL",
                 "side": "BUY",
                 "size": 2,
-                "price": 138.69,
-                "value": 277.37,
+                "price": 137.8,
+                "value": 275.6,
                 "commission": 0.0
             },
             {
                 "symbol": "DG",
                 "side": "BUY",
                 "size": 2,
-                "price": 128.03,
-                "value": -280.95,
+                "price": 127.21,
+                "value": -279.15,
                 "commission": 0.0
             },
             {
@@ -5749,16 +5845,16 @@
                 "symbol": "EG",
                 "side": "SELL",
                 "size": -1,
-                "price": 370.09,
-                "value": 399.69,
+                "price": 366.12,
+                "value": 395.41,
                 "commission": 0.0
             },
             {
                 "symbol": "EL",
                 "side": "BUY",
                 "size": 2,
-                "price": 104.72,
-                "value": -326.76,
+                "price": 104.22,
+                "value": -325.19,
                 "commission": 0.0
             },
             {
@@ -5781,16 +5877,16 @@
                 "symbol": "ERIE",
                 "side": "SELL",
                 "size": -1,
-                "price": 359.74,
-                "value": 327.14,
+                "price": 358.5,
+                "value": 326.01,
                 "commission": 0.0
             },
             {
                 "symbol": "ETN",
                 "side": "BUY",
                 "size": 1,
-                "price": 307.55,
-                "value": 307.55,
+                "price": 306.42,
+                "value": 306.42,
                 "commission": 0.0
             },
             {
@@ -5805,8 +5901,8 @@
                 "symbol": "FMC",
                 "side": "BUY",
                 "size": 5,
-                "price": 55.66,
-                "value": -285.0,
+                "price": 54.89,
+                "value": -281.09,
                 "commission": 0.0
             },
             {
@@ -5821,16 +5917,16 @@
                 "symbol": "GE",
                 "side": "BUY",
                 "size": 2,
-                "price": 158.06,
-                "value": 316.12,
+                "price": 157.77,
+                "value": 315.53,
                 "commission": 0.0
             },
             {
                 "symbol": "GL",
                 "side": "SELL",
                 "size": -4,
-                "price": 81.93,
-                "value": -327.74,
+                "price": 81.77,
+                "value": -327.07,
                 "commission": 0.0
             },
             {
@@ -5845,8 +5941,8 @@
                 "symbol": "HUM",
                 "side": "SELL",
                 "size": -1,
-                "price": 371.45,
-                "value": -371.45,
+                "price": 370.23,
+                "value": -370.23,
                 "commission": 0.0
             },
             {
@@ -5893,8 +5989,8 @@
                 "symbol": "MKTX",
                 "side": "SELL",
                 "size": -1,
-                "price": 194.13,
-                "value": -194.13,
+                "price": 193.37,
+                "value": -193.37,
                 "commission": 0.0
             },
             {
@@ -5909,8 +6005,8 @@
                 "symbol": "MPC",
                 "side": "SELL",
                 "size": -1,
-                "price": 175.55,
-                "value": 151.29,
+                "price": 174.54,
+                "value": 150.42,
                 "commission": 0.0
             },
             {
@@ -5925,8 +6021,8 @@
                 "symbol": "MU",
                 "side": "BUY",
                 "size": 2,
-                "price": 129.48,
-                "value": 258.96,
+                "price": 129.31,
+                "value": 258.63,
                 "commission": 0.0
             },
             {
@@ -5941,16 +6037,16 @@
                 "symbol": "NVDA",
                 "side": "BUY",
                 "size": 1,
-                "price": 121.11,
-                "value": 121.11,
+                "price": 121.1,
+                "value": 121.1,
                 "commission": 0.0
             },
             {
                 "symbol": "ODFL",
                 "side": "SELL",
                 "size": -1,
-                "price": 178.61,
-                "value": 198.82,
+                "price": 178.32,
+                "value": 198.5,
                 "commission": 0.0
             },
             {
@@ -5973,16 +6069,16 @@
                 "symbol": "POOL",
                 "side": "SELL",
                 "size": -1,
-                "price": 306.58,
-                "value": -306.58,
+                "price": 305.51,
+                "value": -305.51,
                 "commission": 0.0
             },
             {
                 "symbol": "QCOM",
                 "side": "BUY",
                 "size": 1,
-                "price": 196.2,
-                "value": 196.2,
+                "price": 195.15,
+                "value": 195.15,
                 "commission": 0.0
             },
             {
@@ -5990,7 +6086,7 @@
                 "side": "BUY",
                 "size": 2,
                 "price": 186.23,
-                "value": -331.63,
+                "value": -313.8,
                 "commission": 0.0
             },
             {
@@ -6029,32 +6125,32 @@
                 "symbol": "TT",
                 "side": "BUY",
                 "size": 1,
-                "price": 322.29,
-                "value": 322.29,
+                "price": 320.75,
+                "value": 320.75,
                 "commission": 0.0
             },
             {
                 "symbol": "UNH",
                 "side": "SELL",
                 "size": -1,
-                "price": 490.63,
-                "value": -490.63,
+                "price": 488.54,
+                "value": -488.54,
                 "commission": 0.0
             },
             {
                 "symbol": "VST",
                 "side": "BUY",
                 "size": 3,
-                "price": 86.62,
-                "value": 259.87,
+                "price": 86.47,
+                "value": 259.42,
                 "commission": 0.0
             },
             {
                 "symbol": "ZBH",
                 "side": "BUY",
                 "size": 2,
-                "price": 105.4,
-                "value": -232.14,
+                "price": 105.17,
+                "value": -231.64,
                 "commission": 0.0
             },
             {
@@ -6066,9 +6162,9 @@
                 "commission": 0.0
             }
         ],
-        "positions_value": -893.57,
-        "cash": 78827.07,
-        "total_value": 77933.5
+        "positions_value": -1265.49,
+        "cash": 79591.23,
+        "total_value": 78325.75
     },
     {
         "datetime": "2024-08-02 00:00:00",
@@ -6094,16 +6190,24 @@
                 "symbol": "APD",
                 "side": "BUY",
                 "size": 1,
-                "price": 279.4,
-                "value": 279.4,
+                "price": 277.71,
+                "value": 277.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "BA",
+                "side": "BUY",
+                "size": 1,
+                "price": 175.22,
+                "value": -193.91,
                 "commission": 0.0
             },
             {
                 "symbol": "CEG",
                 "side": "BUY",
                 "size": 1,
-                "price": 173.87,
-                "value": 173.87,
+                "price": 173.55,
+                "value": 173.55,
                 "commission": 0.0
             },
             {
@@ -6126,40 +6230,40 @@
                 "symbol": "DELL",
                 "side": "BUY",
                 "size": 1,
-                "price": 100.94,
-                "value": 100.94,
+                "price": 100.29,
+                "value": 100.29,
                 "commission": 0.0
             },
             {
                 "symbol": "EL",
                 "side": "SELL",
-                "size": -2,
-                "price": 95.31,
-                "value": -190.63,
+                "size": -3,
+                "price": 94.86,
+                "value": -284.57,
                 "commission": 0.0
             },
             {
                 "symbol": "ESS",
                 "side": "BUY",
                 "size": 1,
-                "price": 280.87,
-                "value": 280.87,
+                "price": 278.51,
+                "value": 278.51,
                 "commission": 0.0
             },
             {
                 "symbol": "FDS",
                 "side": "SELL",
                 "size": -1,
-                "price": 407.56,
-                "value": -407.56,
+                "price": 406.63,
+                "value": -406.63,
                 "commission": 0.0
             },
             {
                 "symbol": "FDX",
                 "side": "BUY",
                 "size": 1,
-                "price": 290.12,
-                "value": 290.12,
+                "price": 288.54,
+                "value": 288.54,
                 "commission": 0.0
             },
             {
@@ -6174,8 +6278,8 @@
                 "symbol": "MKTX",
                 "side": "BUY",
                 "size": 1,
-                "price": 218.04,
-                "value": -208.68,
+                "price": 217.19,
+                "value": -207.86,
                 "commission": 0.0
             },
             {
@@ -6190,24 +6294,24 @@
                 "symbol": "MU",
                 "side": "BUY",
                 "size": 1,
-                "price": 96.92,
-                "value": 96.92,
+                "price": 96.8,
+                "value": 96.8,
                 "commission": 0.0
             },
             {
                 "symbol": "NVDA",
                 "side": "BUY",
                 "size": 1,
-                "price": 103.74,
-                "value": 103.74,
+                "price": 103.73,
+                "value": 103.73,
                 "commission": 0.0
             },
             {
                 "symbol": "QCOM",
                 "side": "BUY",
                 "size": 1,
-                "price": 158.86,
-                "value": 158.86,
+                "price": 158.01,
+                "value": 158.01,
                 "commission": 0.0
             },
             {
@@ -6246,22 +6350,22 @@
                 "symbol": "VST",
                 "side": "BUY",
                 "size": 1,
-                "price": 73.99,
-                "value": 73.99,
+                "price": 73.87,
+                "value": 73.87,
                 "commission": 0.0
             },
             {
                 "symbol": "WST",
                 "side": "SELL",
                 "size": -1,
-                "price": 298.93,
-                "value": -298.93,
+                "price": 298.63,
+                "value": -298.63,
                 "commission": 0.0
             }
         ],
-        "positions_value": -2143.63,
-        "cash": 78022.18,
-        "total_value": 75878.54
+        "positions_value": -2410.82,
+        "cash": 78712.41,
+        "total_value": 76301.59
     },
     {
         "datetime": "2024-09-03 00:00:00",
@@ -6279,24 +6383,32 @@
                 "symbol": "ALB",
                 "side": "SELL",
                 "size": -3,
-                "price": 86.56,
-                "value": -259.68,
+                "price": 86.08,
+                "value": -258.23,
                 "commission": 0.0
             },
             {
                 "symbol": "APD",
                 "side": "SELL",
                 "size": -1,
-                "price": 273.21,
-                "value": 279.4,
+                "price": 271.55,
+                "value": 277.71,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CDNS",
+                "side": "SELL",
+                "size": -1,
+                "price": 266.89,
+                "value": -266.89,
                 "commission": 0.0
             },
             {
                 "symbol": "CEG",
                 "side": "SELL",
                 "size": -1,
-                "price": 195.19,
-                "value": 186.8,
+                "price": 194.83,
+                "value": 186.45,
                 "commission": 0.0
             },
             {
@@ -6319,8 +6431,8 @@
                 "symbol": "DELL",
                 "side": "SELL",
                 "size": -2,
-                "price": 114.02,
-                "value": 247.57,
+                "price": 113.29,
+                "value": 245.99,
                 "commission": 0.0
             },
             {
@@ -6332,43 +6444,35 @@
                 "commission": 0.0
             },
             {
-                "symbol": "EL",
-                "side": "SELL",
-                "size": -1,
-                "price": 90.3,
-                "value": -90.3,
-                "commission": 0.0
-            },
-            {
                 "symbol": "ESS",
                 "side": "SELL",
                 "size": -1,
-                "price": 295.59,
-                "value": 280.87,
+                "price": 293.11,
+                "value": 278.51,
                 "commission": 0.0
             },
             {
                 "symbol": "GE",
                 "side": "SELL",
                 "size": -1,
-                "price": 173.65,
-                "value": 158.91,
+                "price": 173.33,
+                "value": 158.62,
                 "commission": 0.0
             },
             {
                 "symbol": "GEV",
                 "side": "BUY",
                 "size": 1,
-                "price": 199.85,
-                "value": 199.85,
+                "price": 199.7,
+                "value": 199.7,
                 "commission": 0.0
             },
             {
                 "symbol": "GL",
                 "side": "BUY",
                 "size": 4,
-                "price": 104.11,
-                "value": -322.75,
+                "price": 103.89,
+                "value": -322.1,
                 "commission": 0.0
             },
             {
@@ -6391,32 +6495,32 @@
                 "symbol": "MU",
                 "side": "SELL",
                 "size": -2,
-                "price": 93.4,
-                "value": 243.9,
+                "price": 93.28,
+                "value": 243.58,
                 "commission": 0.0
             },
             {
                 "symbol": "NUE",
                 "side": "SELL",
                 "size": -1,
-                "price": 148.52,
-                "value": -148.52,
+                "price": 147.85,
+                "value": -147.85,
                 "commission": 0.0
             },
             {
                 "symbol": "PAYC",
                 "side": "BUY",
                 "size": 2,
-                "price": 161.45,
-                "value": -365.51,
+                "price": 161.16,
+                "value": -364.87,
                 "commission": 0.0
             },
             {
                 "symbol": "QCOM",
                 "side": "SELL",
                 "size": -1,
-                "price": 170.12,
-                "value": 186.28,
+                "price": 169.2,
+                "value": 185.29,
                 "commission": 0.0
             },
             {
@@ -6431,30 +6535,30 @@
                 "symbol": "UHS",
                 "side": "BUY",
                 "size": 1,
-                "price": 237.03,
-                "value": 237.03,
+                "price": 236.76,
+                "value": 236.76,
                 "commission": 0.0
             },
             {
                 "symbol": "UNH",
                 "side": "BUY",
                 "size": 1,
-                "price": 588.17,
-                "value": -490.63,
+                "price": 585.67,
+                "value": -488.54,
                 "commission": 0.0
             },
             {
                 "symbol": "VST",
                 "side": "SELL",
                 "size": -3,
-                "price": 84.66,
-                "value": 261.55,
+                "price": 84.52,
+                "value": 261.1,
                 "commission": 0.0
             }
         ],
-        "positions_value": -2923.31,
-        "cash": 78680.86,
-        "total_value": 75757.55
+        "positions_value": -3338.51,
+        "cash": 79542.02,
+        "total_value": 76203.51
     },
     {
         "datetime": "2024-10-02 00:00:00",
@@ -6464,16 +6568,16 @@
                 "symbol": "ALB",
                 "side": "BUY",
                 "size": 3,
-                "price": 94.02,
-                "value": -259.68,
+                "price": 93.49,
+                "value": -258.23,
                 "commission": 0.0
             },
             {
                 "symbol": "AMT",
                 "side": "BUY",
                 "size": 1,
-                "price": 227.3,
-                "value": 227.3,
+                "price": 225.45,
+                "value": 225.45,
                 "commission": 0.0
             },
             {
@@ -6496,8 +6600,8 @@
                 "symbol": "DG",
                 "side": "SELL",
                 "size": -3,
-                "price": 82.94,
-                "value": -248.82,
+                "price": 82.41,
+                "value": -247.23,
                 "commission": 0.0
             },
             {
@@ -6512,16 +6616,16 @@
                 "symbol": "DPZ",
                 "side": "SELL",
                 "size": -1,
-                "price": 424.88,
-                "value": -424.88,
+                "price": 423.15,
+                "value": -423.15,
                 "commission": 0.0
             },
             {
                 "symbol": "MCK",
                 "side": "SELL",
                 "size": -1,
-                "price": 495.51,
-                "value": -495.51,
+                "price": 494.96,
+                "value": -494.96,
                 "commission": 0.0
             },
             {
@@ -6536,24 +6640,24 @@
                 "symbol": "MU",
                 "side": "SELL",
                 "size": -3,
-                "price": 100.35,
-                "value": 365.85,
+                "price": 100.22,
+                "value": 365.37,
                 "commission": 0.0
             },
             {
                 "symbol": "NUE",
                 "side": "BUY",
                 "size": 1,
-                "price": 152.44,
-                "value": -148.52,
+                "price": 151.76,
+                "value": -147.85,
                 "commission": 0.0
             },
             {
                 "symbol": "NVDA",
                 "side": "SELL",
                 "size": -2,
-                "price": 116.43,
-                "value": 191.26,
+                "price": 116.42,
+                "value": 191.24,
                 "commission": 0.0
             },
             {
@@ -6608,14 +6712,14 @@
                 "symbol": "VST",
                 "side": "SELL",
                 "size": -1,
-                "price": 119.86,
-                "value": 87.18,
+                "price": 119.65,
+                "value": 87.03,
                 "commission": 0.0
             }
         ],
-        "positions_value": -2656.71,
-        "cash": 79180.46,
-        "total_value": 76523.75
+        "positions_value": -3075.2,
+        "cash": 80041.26,
+        "total_value": 76966.06
     },
     {
         "datetime": "2024-11-04 00:00:00",
@@ -6641,16 +6745,16 @@
                 "symbol": "AMAT",
                 "side": "SELL",
                 "size": -2,
-                "price": 182.77,
-                "value": 439.35,
+                "price": 182.35,
+                "value": 438.34,
                 "commission": 0.0
             },
             {
                 "symbol": "AMT",
                 "side": "SELL",
                 "size": -1,
-                "price": 211.17,
-                "value": 227.3,
+                "price": 209.45,
+                "value": 225.45,
                 "commission": 0.0
             },
             {
@@ -6665,16 +6769,16 @@
                 "symbol": "EL",
                 "side": "BUY",
                 "size": 3,
-                "price": 66.96,
-                "value": -280.93,
+                "price": 66.64,
+                "value": -284.57,
                 "commission": 0.0
             },
             {
                 "symbol": "ELV",
                 "side": "SELL",
                 "size": -1,
-                "price": 413.31,
-                "value": -413.31,
+                "price": 411.58,
+                "value": -411.58,
                 "commission": 0.0
             },
             {
@@ -6697,8 +6801,8 @@
                 "symbol": "HUM",
                 "side": "SELL",
                 "size": -1,
-                "price": 259.99,
-                "value": -259.99,
+                "price": 259.14,
+                "value": -259.14,
                 "commission": 0.0
             },
             {
@@ -6721,8 +6825,8 @@
                 "symbol": "MKTX",
                 "side": "BUY",
                 "size": 2,
-                "price": 287.77,
-                "value": -417.36,
+                "price": 286.65,
+                "value": -415.73,
                 "commission": 0.0
             },
             {
@@ -6737,30 +6841,30 @@
                 "symbol": "TMO",
                 "side": "SELL",
                 "size": -1,
-                "price": 556.27,
-                "value": -556.27,
+                "price": 555.8,
+                "value": -555.8,
                 "commission": 0.0
             },
             {
                 "symbol": "UHS",
                 "side": "SELL",
                 "size": -1,
-                "price": 204.61,
-                "value": 237.03,
+                "price": 204.37,
+                "value": 236.76,
                 "commission": 0.0
             },
             {
                 "symbol": "VST",
                 "side": "BUY",
                 "size": 1,
-                "price": 117.5,
-                "value": 117.5,
+                "price": 117.3,
+                "value": 117.3,
                 "commission": 0.0
             }
         ],
-        "positions_value": -2825.1,
-        "cash": 79272.13,
-        "total_value": 76447.04
+        "positions_value": -3265.91,
+        "cash": 80130.51,
+        "total_value": 76864.6
     },
     {
         "datetime": "2024-12-03 00:00:00",
@@ -6778,24 +6882,32 @@
                 "symbol": "BX",
                 "side": "BUY",
                 "size": 1,
-                "price": 185.74,
-                "value": 185.74,
+                "price": 184.44,
+                "value": 184.44,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CDNS",
+                "side": "BUY",
+                "size": 1,
+                "price": 306.75,
+                "value": -266.89,
                 "commission": 0.0
             },
             {
                 "symbol": "CE",
                 "side": "SELL",
                 "size": -3,
-                "price": 74.55,
-                "value": -223.65,
+                "price": 74.46,
+                "value": -223.37,
                 "commission": 0.0
             },
             {
                 "symbol": "CRM",
                 "side": "BUY",
                 "size": 1,
-                "price": 327.03,
-                "value": 327.03,
+                "price": 326.51,
+                "value": 326.51,
                 "commission": 0.0
             },
             {
@@ -6834,8 +6946,8 @@
                 "symbol": "HII",
                 "side": "SELL",
                 "size": -1,
-                "price": 194.9,
-                "value": -194.9,
+                "price": 193.39,
+                "value": -193.39,
                 "commission": 0.0
             },
             {
@@ -6858,38 +6970,38 @@
                 "symbol": "MTB",
                 "side": "BUY",
                 "size": 1,
-                "price": 215.56,
-                "value": 215.56,
+                "price": 214.04,
+                "value": 214.04,
                 "commission": 0.0
             },
             {
                 "symbol": "PAYC",
                 "side": "BUY",
                 "size": 1,
-                "price": 230.29,
-                "value": 230.29,
+                "price": 229.88,
+                "value": 229.88,
                 "commission": 0.0
             },
             {
                 "symbol": "RCL",
                 "side": "BUY",
                 "size": 1,
-                "price": 246.93,
-                "value": 246.93,
+                "price": 246.07,
+                "value": 246.07,
                 "commission": 0.0
             },
             {
                 "symbol": "TRGP",
                 "side": "BUY",
                 "size": 1,
-                "price": 194.83,
-                "value": 194.83,
+                "price": 193.73,
+                "value": 193.73,
                 "commission": 0.0
             }
         ],
-        "positions_value": -965.97,
-        "cash": 77932.22,
-        "total_value": 76966.24
+        "positions_value": -1121.68,
+        "cash": 78487.74,
+        "total_value": 77366.06
     },
     {
         "datetime": "2025-01-02 00:00:00",
@@ -6899,8 +7011,8 @@
                 "symbol": "ACN",
                 "side": "BUY",
                 "size": 1,
-                "price": 353.1,
-                "value": -279.39,
+                "price": 349.87,
+                "value": -276.84,
                 "commission": 0.0
             },
             {
@@ -6915,48 +7027,48 @@
                 "symbol": "AVGO",
                 "side": "BUY",
                 "size": 1,
-                "price": 236.16,
-                "value": 236.16,
+                "price": 235.45,
+                "value": 235.45,
                 "commission": 0.0
             },
             {
                 "symbol": "AXP",
                 "side": "SELL",
                 "size": -1,
-                "price": 299.3,
-                "value": 216.67,
+                "price": 298.31,
+                "value": 215.95,
                 "commission": 0.0
             },
             {
                 "symbol": "BA",
                 "side": "BUY",
-                "size": 1,
+                "size": 2,
                 "price": 178.31,
-                "value": -209.06,
+                "value": -387.83,
                 "commission": 0.0
             },
             {
                 "symbol": "BX",
                 "side": "BUY",
                 "size": 2,
-                "price": 171.66,
-                "value": 343.31,
+                "price": 170.45,
+                "value": 340.91,
                 "commission": 0.0
             },
             {
                 "symbol": "CE",
                 "side": "SELL",
                 "size": -5,
-                "price": 69.51,
-                "value": -347.55,
+                "price": 69.42,
+                "value": -347.11,
                 "commission": 0.0
             },
             {
                 "symbol": "CEG",
                 "side": "SELL",
                 "size": -2,
-                "price": 226.38,
-                "value": 373.61,
+                "price": 225.96,
+                "value": 372.91,
                 "commission": 0.0
             },
             {
@@ -6979,8 +7091,8 @@
                 "symbol": "DELL",
                 "side": "SELL",
                 "size": -3,
-                "price": 114.8,
-                "value": 371.35,
+                "price": 114.07,
+                "value": 368.99,
                 "commission": 0.0
             },
             {
@@ -6995,32 +7107,32 @@
                 "symbol": "ETN",
                 "side": "SELL",
                 "size": -1,
-                "price": 334.68,
-                "value": 307.55,
+                "price": 333.46,
+                "value": 306.42,
                 "commission": 0.0
             },
             {
                 "symbol": "EXPE",
                 "side": "BUY",
                 "size": 1,
-                "price": 187.38,
-                "value": 187.38,
+                "price": 186.99,
+                "value": 186.99,
                 "commission": 0.0
             },
             {
                 "symbol": "FDS",
                 "side": "BUY",
                 "size": 1,
-                "price": 484.33,
-                "value": -407.56,
+                "price": 483.22,
+                "value": -406.63,
                 "commission": 0.0
             },
             {
                 "symbol": "FDX",
                 "side": "SELL",
                 "size": -1,
-                "price": 281.54,
-                "value": 290.12,
+                "price": 280.01,
+                "value": 288.54,
                 "commission": 0.0
             },
             {
@@ -7051,24 +7163,24 @@
                 "symbol": "GE",
                 "side": "SELL",
                 "size": -2,
-                "price": 167.92,
-                "value": 317.82,
+                "price": 167.61,
+                "value": 317.23,
                 "commission": 0.0
             },
             {
                 "symbol": "GL",
                 "side": "BUY",
                 "size": 3,
-                "price": 111.29,
-                "value": -242.06,
+                "price": 111.06,
+                "value": -241.57,
                 "commission": 0.0
             },
             {
                 "symbol": "HII",
                 "side": "SELL",
                 "size": -2,
-                "price": 189.84,
-                "value": -379.68,
+                "price": 188.37,
+                "value": -376.74,
                 "commission": 0.0
             },
             {
@@ -7091,16 +7203,16 @@
                 "symbol": "MCK",
                 "side": "BUY",
                 "size": 1,
-                "price": 572.79,
-                "value": -495.51,
+                "price": 572.15,
+                "value": -494.96,
                 "commission": 0.0
             },
             {
                 "symbol": "META",
                 "side": "SELL",
                 "size": -1,
-                "price": 589.72,
-                "value": 285.61,
+                "price": 589.2,
+                "value": 285.36,
                 "commission": 0.0
             },
             {
@@ -7131,16 +7243,16 @@
                 "symbol": "NVDA",
                 "side": "SELL",
                 "size": -3,
-                "price": 136.0,
-                "value": 286.89,
+                "price": 135.99,
+                "value": 286.86,
                 "commission": 0.0
             },
             {
                 "symbol": "PAYC",
                 "side": "BUY",
                 "size": 1,
-                "price": 207.0,
-                "value": 207.0,
+                "price": 206.64,
+                "value": 206.64,
                 "commission": 0.0
             },
             {
@@ -7155,56 +7267,56 @@
                 "symbol": "POOL",
                 "side": "BUY",
                 "size": 1,
-                "price": 343.11,
-                "value": -306.58,
+                "price": 341.91,
+                "value": -305.51,
                 "commission": 0.0
             },
             {
                 "symbol": "PWR",
                 "side": "SELL",
                 "size": -1,
-                "price": 318.54,
-                "value": 256.59,
+                "price": 318.42,
+                "value": 256.5,
                 "commission": 0.0
             },
             {
                 "symbol": "QCOM",
                 "side": "SELL",
                 "size": -2,
-                "price": 155.01,
-                "value": 372.57,
+                "price": 154.18,
+                "value": 370.57,
                 "commission": 0.0
             },
             {
                 "symbol": "RCL",
                 "side": "BUY",
                 "size": 1,
-                "price": 231.54,
-                "value": 231.54,
+                "price": 230.73,
+                "value": 230.73,
                 "commission": 0.0
             },
             {
                 "symbol": "SBAC",
                 "side": "BUY",
                 "size": 1,
-                "price": 205.06,
-                "value": -195.0,
+                "price": 204.01,
+                "value": -194.0,
                 "commission": 0.0
             },
             {
                 "symbol": "SNA",
                 "side": "BUY",
                 "size": 1,
-                "price": 342.18,
-                "value": 342.18,
+                "price": 340.0,
+                "value": 340.0,
                 "commission": 0.0
             },
             {
                 "symbol": "TRGP",
                 "side": "BUY",
                 "size": 2,
-                "price": 179.51,
-                "value": 359.02,
+                "price": 178.5,
+                "value": 357.01,
                 "commission": 0.0
             },
             {
@@ -7219,8 +7331,8 @@
                 "symbol": "TT",
                 "side": "SELL",
                 "size": -1,
-                "price": 371.03,
-                "value": 322.29,
+                "price": 370.01,
+                "value": 320.75,
                 "commission": 0.0
             },
             {
@@ -7251,14 +7363,14 @@
                 "symbol": "WST",
                 "side": "BUY",
                 "size": 1,
-                "price": 329.49,
-                "value": -298.93,
+                "price": 329.17,
+                "value": -298.63,
                 "commission": 0.0
             }
         ],
-        "positions_value": 1073.24,
-        "cash": 75856.76,
-        "total_value": 76930.0
+        "positions_value": 1070.66,
+        "cash": 76236.92,
+        "total_value": 77307.58
     },
     {
         "datetime": "2025-02-04 00:00:00",
@@ -7276,8 +7388,8 @@
                 "symbol": "AVGO",
                 "side": "SELL",
                 "size": -1,
-                "price": 219.35,
-                "value": 236.16,
+                "price": 218.69,
+                "value": 235.45,
                 "commission": 0.0
             },
             {
@@ -7292,16 +7404,16 @@
                 "symbol": "BX",
                 "side": "SELL",
                 "size": -1,
-                "price": 172.32,
-                "value": 176.35,
+                "price": 171.11,
+                "value": 175.11,
                 "commission": 0.0
             },
             {
                 "symbol": "COF",
                 "side": "BUY",
                 "size": 1,
-                "price": 202.45,
-                "value": 202.45,
+                "price": 201.85,
+                "value": 201.85,
                 "commission": 0.0
             },
             {
@@ -7324,16 +7436,16 @@
                 "symbol": "DFS",
                 "side": "BUY",
                 "size": 1,
-                "price": 201.18,
-                "value": 201.18,
+                "price": 200.49,
+                "value": 200.49,
                 "commission": 0.0
             },
             {
                 "symbol": "DG",
                 "side": "SELL",
                 "size": -1,
-                "price": 71.01,
-                "value": -71.01,
+                "price": 70.55,
+                "value": -70.55,
                 "commission": 0.0
             },
             {
@@ -7348,8 +7460,8 @@
                 "symbol": "EXPE",
                 "side": "SELL",
                 "size": -1,
-                "price": 169.36,
-                "value": 187.38,
+                "price": 169.01,
+                "value": 186.99,
                 "commission": 0.0
             },
             {
@@ -7380,8 +7492,8 @@
                 "symbol": "HCA",
                 "side": "SELL",
                 "size": -1,
-                "price": 330.22,
-                "value": -330.22,
+                "price": 329.48,
+                "value": -329.48,
                 "commission": 0.0
             },
             {
@@ -7396,16 +7508,16 @@
                 "symbol": "RJF",
                 "side": "BUY",
                 "size": 1,
-                "price": 166.43,
-                "value": 166.43,
+                "price": 165.83,
+                "value": 165.83,
                 "commission": 0.0
             },
             {
                 "symbol": "RL",
                 "side": "BUY",
                 "size": 1,
-                "price": 249.1,
-                "value": 249.1,
+                "price": 248.19,
+                "value": 248.19,
                 "commission": 0.0
             },
             {
@@ -7420,22 +7532,22 @@
                 "symbol": "STZ",
                 "side": "SELL",
                 "size": -1,
-                "price": 172.73,
-                "value": -172.73,
+                "price": 171.78,
+                "value": -171.78,
                 "commission": 0.0
             },
             {
                 "symbol": "UHS",
                 "side": "SELL",
                 "size": -1,
-                "price": 189.46,
-                "value": -189.46,
+                "price": 189.24,
+                "value": -189.24,
                 "commission": 0.0
             }
         ],
-        "positions_value": 929.58,
-        "cash": 76260.52,
-        "total_value": 77190.09
+        "positions_value": 928.77,
+        "cash": 76638.9,
+        "total_value": 77567.66
     },
     {
         "datetime": "2025-03-04 00:00:00",
@@ -7469,8 +7581,8 @@
                 "symbol": "CE",
                 "side": "SELL",
                 "size": -4,
-                "price": 46.58,
-                "value": -186.32,
+                "price": 46.55,
+                "value": -186.19,
                 "commission": 0.0
             },
             {
@@ -7493,8 +7605,8 @@
                 "symbol": "DHI",
                 "side": "SELL",
                 "size": -2,
-                "price": 124.7,
-                "value": -249.4,
+                "price": 124.3,
+                "value": -248.61,
                 "commission": 0.0
             },
             {
@@ -7538,19 +7650,19 @@
                 "commission": 0.0
             },
             {
-                "symbol": "JBL",
-                "side": "BUY",
-                "size": 1,
-                "price": 144.3,
-                "value": 144.3,
-                "commission": 0.0
-            },
-            {
                 "symbol": "LEN",
                 "side": "SELL",
                 "size": -2,
-                "price": 117.16,
-                "value": -234.32,
+                "price": 116.62,
+                "value": -233.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "MPWR",
+                "side": "SELL",
+                "size": -1,
+                "price": 576.57,
+                "value": -576.57,
                 "commission": 0.0
             },
             {
@@ -7574,7 +7686,7 @@
                 "side": "SELL",
                 "size": -1,
                 "price": 147.76,
-                "value": 166.43,
+                "value": 165.83,
                 "commission": 0.0
             },
             {
@@ -7587,10 +7699,10 @@
             },
             {
                 "symbol": "UAL",
-                "side": "BUY",
-                "size": 1,
+                "side": "SELL",
+                "size": -2,
                 "price": 88.49,
-                "value": 88.49,
+                "value": 194.58,
                 "commission": 0.0
             },
             {
@@ -7598,21 +7710,21 @@
                 "side": "BUY",
                 "size": 1,
                 "price": 176.26,
-                "value": -189.46,
+                "value": -189.24,
                 "commission": 0.0
             },
             {
                 "symbol": "WST",
                 "side": "SELL",
                 "size": -1,
-                "price": 226.63,
-                "value": -226.63,
+                "price": 226.41,
+                "value": -226.41,
                 "commission": 0.0
             }
         ],
-        "positions_value": 1313.77,
-        "cash": 75669.0,
-        "total_value": 76982.77
+        "positions_value": 325.17,
+        "cash": 77031.49,
+        "total_value": 77356.66
     },
     {
         "datetime": "2025-04-02 00:00:00",
@@ -7670,8 +7782,8 @@
                 "symbol": "CE",
                 "side": "BUY",
                 "size": 1,
-                "price": 54.97,
-                "value": -63.13,
+                "price": 54.93,
+                "value": -63.06,
                 "commission": 0.0
             },
             {
@@ -7687,7 +7799,7 @@
                 "side": "SELL",
                 "size": -1,
                 "price": 175.0,
-                "value": 202.45,
+                "value": 201.85,
                 "commission": 0.0
             },
             {
@@ -7703,7 +7815,7 @@
                 "side": "SELL",
                 "size": -1,
                 "price": 167.89,
-                "value": 201.18,
+                "value": 200.49,
                 "commission": 0.0
             },
             {
@@ -7712,6 +7824,14 @@
                 "size": -1,
                 "price": 165.56,
                 "value": 190.44,
+                "commission": 0.0
+            },
+            {
+                "symbol": "GNRC",
+                "side": "SELL",
+                "size": -2,
+                "price": 124.34,
+                "value": -248.68,
                 "commission": 0.0
             },
             {
@@ -7727,15 +7847,7 @@
                 "side": "BUY",
                 "size": 1,
                 "price": 200.0,
-                "value": -191.53,
-                "commission": 0.0
-            },
-            {
-                "symbol": "JBL",
-                "side": "SELL",
-                "size": -1,
-                "price": 134.09,
-                "value": 144.3,
+                "value": -190.04,
                 "commission": 0.0
             },
             {
@@ -7766,16 +7878,8 @@
                 "symbol": "TRGP",
                 "side": "SELL",
                 "size": -1,
-                "price": 200.02,
-                "value": 184.62,
-                "commission": 0.0
-            },
-            {
-                "symbol": "UAL",
-                "side": "SELL",
-                "size": -3,
-                "price": 66.16,
-                "value": 283.07,
+                "price": 198.9,
+                "value": 183.58,
                 "commission": 0.0
             },
             {
@@ -7791,12 +7895,181 @@
                 "side": "SELL",
                 "size": -1,
                 "price": 118.85,
-                "value": 94.76,
+                "value": 94.6,
                 "commission": 0.0
             }
         ],
-        "positions_value": 356.31,
-        "cash": 76260.26,
-        "total_value": 76616.56
+        "positions_value": -491.54,
+        "cash": 77537.77,
+        "total_value": 77046.23
+    },
+    {
+        "datetime": "2025-05-02 00:00:00",
+        "date": "2025-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "ALGN",
+                "side": "BUY",
+                "size": 1,
+                "price": 180.14,
+                "value": -155.74,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AMD",
+                "side": "BUY",
+                "size": 2,
+                "price": 98.4,
+                "value": -203.04,
+                "commission": 0.0
+            },
+            {
+                "symbol": "AVGO",
+                "side": "BUY",
+                "size": 1,
+                "price": 203.9,
+                "value": 203.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CE",
+                "side": "BUY",
+                "size": 4,
+                "price": 46.38,
+                "value": -252.22,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CI",
+                "side": "BUY",
+                "size": 1,
+                "price": 344.03,
+                "value": 344.03,
+                "commission": 0.0
+            },
+            {
+                "symbol": "CRL",
+                "side": "SELL",
+                "size": -2,
+                "price": 120.22,
+                "value": -240.44,
+                "commission": 0.0
+            },
+            {
+                "symbol": "DHI",
+                "side": "BUY",
+                "size": 2,
+                "price": 126.04,
+                "value": -248.61,
+                "commission": 0.0
+            },
+            {
+                "symbol": "DHR",
+                "side": "BUY",
+                "size": 1,
+                "price": 200.9,
+                "value": -205.37,
+                "commission": 0.0
+            },
+            {
+                "symbol": "DPZ",
+                "side": "BUY",
+                "size": 1,
+                "price": 486.22,
+                "value": -423.15,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ELV",
+                "side": "BUY",
+                "size": 1,
+                "price": 412.3,
+                "value": -411.58,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEX",
+                "side": "SELL",
+                "size": -1,
+                "price": 179.36,
+                "value": -179.36,
+                "commission": 0.0
+            },
+            {
+                "symbol": "KKR",
+                "side": "SELL",
+                "size": -2,
+                "price": 116.5,
+                "value": -233.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LEN",
+                "side": "BUY",
+                "size": 2,
+                "price": 109.16,
+                "value": -233.23,
+                "commission": 0.0
+            },
+            {
+                "symbol": "LULU",
+                "side": "SELL",
+                "size": -1,
+                "price": 273.93,
+                "value": 277.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "NDSN",
+                "side": "SELL",
+                "size": -1,
+                "price": 193.9,
+                "value": -193.9,
+                "commission": 0.0
+            },
+            {
+                "symbol": "ODFL",
+                "side": "SELL",
+                "size": -1,
+                "price": 153.0,
+                "value": -153.0,
+                "commission": 0.0
+            },
+            {
+                "symbol": "PLTR",
+                "side": "SELL",
+                "size": -3,
+                "price": 118.66,
+                "value": 240.48,
+                "commission": 0.0
+            },
+            {
+                "symbol": "STZ",
+                "side": "BUY",
+                "size": 1,
+                "price": 187.09,
+                "value": -171.78,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TER",
+                "side": "SELL",
+                "size": -3,
+                "price": 75.69,
+                "value": -227.07,
+                "commission": 0.0
+            },
+            {
+                "symbol": "TMUS",
+                "side": "SELL",
+                "size": -1,
+                "price": 247.73,
+                "value": 268.5,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 722.6,
+        "cash": 76774.88,
+        "total_value": 77497.48
     }
 ]

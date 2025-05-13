@@ -994,12 +994,12 @@
                 "side": "BUY",
                 "size": 26,
                 "price": 5304.72,
-                "value": 137922.72,
+                "value": 137922.66,
                 "commission": 0.0
             }
         ],
-        "positions_value": 137922.72,
-        "cash": 19815.94,
+        "positions_value": 137922.66,
+        "cash": 19816.0,
         "total_value": 157738.66
     },
     {
@@ -1011,7 +1011,7 @@
                 "side": "SELL",
                 "size": -26,
                 "price": 5304.72,
-                "value": 137922.72,
+                "value": 137922.66,
                 "commission": 0.0
             }
         ],
@@ -1028,13 +1028,13 @@
                 "side": "BUY",
                 "size": 26,
                 "price": 5431.6,
-                "value": 141221.6,
+                "value": 141221.64,
                 "commission": 0.0
             }
         ],
         "positions_value": 142304.06,
-        "cash": 16517.06,
-        "total_value": 158821.12
+        "cash": 16517.01,
+        "total_value": 158821.08
     },
     {
         "datetime": "2024-06-20 00:00:00",
@@ -1045,13 +1045,13 @@
                 "side": "SELL",
                 "size": -26,
                 "price": 5487.03,
-                "value": 141221.6,
+                "value": 141221.64,
                 "commission": 0.0
             }
         ],
         "positions_value": 0.0,
-        "cash": 159179.75,
-        "total_value": 159179.75
+        "cash": 159179.7,
+        "total_value": 159179.7
     },
     {
         "datetime": "2024-07-02 00:00:00",
@@ -1067,8 +1067,8 @@
             }
         ],
         "positions_value": 143234.29,
-        "cash": 16827.45,
-        "total_value": 160061.74
+        "cash": 16827.41,
+        "total_value": 160061.69
     },
     {
         "datetime": "2024-07-05 00:00:00",
@@ -1084,8 +1084,8 @@
             }
         ],
         "positions_value": 0.0,
-        "cash": 160789.95,
-        "total_value": 160789.95
+        "cash": 160789.9,
+        "total_value": 160789.9
     },
     {
         "datetime": "2024-08-13 00:00:00",
@@ -1101,8 +1101,8 @@
             }
         ],
         "positions_value": 140750.92,
-        "cash": 21179.53,
-        "total_value": 161930.46
+        "cash": 21179.49,
+        "total_value": 161930.42
     },
     {
         "datetime": "2024-08-16 00:00:00",
@@ -1118,8 +1118,8 @@
             }
         ],
         "positions_value": 0.0,
-        "cash": 163583.21,
-        "total_value": 163583.21
+        "cash": 163583.17,
+        "total_value": 163583.17
     },
     {
         "datetime": "2024-08-31 00:00:00",
@@ -1130,13 +1130,13 @@
                 "side": "BUY",
                 "size": 26,
                 "price": 5648.4,
-                "value": 146858.4,
+                "value": 146858.33,
                 "commission": 0.0
             }
         ],
-        "positions_value": 146858.4,
-        "cash": 16724.81,
-        "total_value": 163583.21
+        "positions_value": 146858.33,
+        "cash": 16724.84,
+        "total_value": 163583.17
     },
     {
         "datetime": "2024-09-03 00:00:00",
@@ -1147,13 +1147,13 @@
                 "side": "SELL",
                 "size": -26,
                 "price": 5648.4,
-                "value": 146858.4,
+                "value": 146858.33,
                 "commission": 0.0
             }
         ],
         "positions_value": 0.0,
-        "cash": 163583.21,
-        "total_value": 163583.21
+        "cash": 163583.17,
+        "total_value": 163583.17
     },
     {
         "datetime": "2024-11-26 00:00:00",
@@ -1169,8 +1169,8 @@
             }
         ],
         "positions_value": 144519.18,
-        "cash": 19886.42,
-        "total_value": 164405.6
+        "cash": 19886.38,
+        "total_value": 164405.56
     },
     {
         "datetime": "2024-11-29 00:00:00",
@@ -1186,8 +1186,8 @@
             }
         ],
         "positions_value": 0.0,
-        "cash": 163856.13,
-        "total_value": 163856.13
+        "cash": 163856.14,
+        "total_value": 163856.14
     },
     {
         "datetime": "2024-12-22 00:00:00",
@@ -1204,7 +1204,7 @@
         ],
         "positions_value": 144143.17,
         "cash": 19712.97,
-        "total_value": 163856.13
+        "total_value": 163856.14
     },
     {
         "datetime": "2024-12-27 00:00:00",
@@ -1271,7 +1271,7 @@
             }
         ],
         "positions_value": 141816.74,
-        "cash": 18889.35,
+        "cash": 18889.36,
         "total_value": 160706.09
     },
     {
@@ -1300,12 +1300,12 @@
                 "side": "BUY",
                 "size": 24,
                 "price": 5996.66,
-                "value": 143919.84,
+                "value": 143919.95,
                 "commission": 0.0
             }
         ],
-        "positions_value": 143919.84,
-        "cash": 17007.46,
+        "positions_value": 143919.95,
+        "cash": 17007.35,
         "total_value": 160927.3
     },
     {
@@ -1317,7 +1317,7 @@
                 "side": "SELL",
                 "size": -24,
                 "price": 5996.66,
-                "value": 143919.84,
+                "value": 143919.95,
                 "commission": 0.0
             }
         ],
@@ -1334,12 +1334,12 @@
                 "side": "BUY",
                 "size": 23,
                 "price": 6114.63,
-                "value": 140636.49,
+                "value": 140636.52,
                 "commission": 0.0
             }
         ],
-        "positions_value": 140636.49,
-        "cash": 20290.81,
+        "positions_value": 140636.52,
+        "cash": 20290.78,
         "total_value": 160927.3
     },
     {
@@ -1351,7 +1351,7 @@
                 "side": "SELL",
                 "size": -23,
                 "price": 6114.63,
-                "value": 140636.49,
+                "value": 140636.52,
                 "commission": 0.0
             }
         ],
@@ -1360,37 +1360,71 @@
         "total_value": 160927.3
     },
     {
-        "datetime": "2025-03-15 00:00:00",
-        "date": "2025-03-15 00:00:00",
+        "datetime": "2025-04-15 00:00:00",
+        "date": "2025-04-15 00:00:00",
+        "trades": [
+            {
+                "symbol": "OSEAX",
+                "side": "BUY",
+                "size": 931,
+                "price": 155.41,
+                "value": 144689.87,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 144657.67,
+        "cash": 16237.44,
+        "total_value": 160895.11
+    },
+    {
+        "datetime": "2025-04-22 00:00:00",
+        "date": "2025-04-22 00:00:00",
+        "trades": [
+            {
+                "symbol": "OSEAX",
+                "side": "SELL",
+                "size": -931,
+                "price": 156.81,
+                "value": 144689.87,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 0.0,
+        "cash": 162229.22,
+        "total_value": 162229.22
+    },
+    {
+        "datetime": "2025-04-29 00:00:00",
+        "date": "2025-04-29 00:00:00",
         "trades": [
             {
                 "symbol": "CAC",
                 "side": "BUY",
                 "size": 16,
-                "price": 8734.49,
-                "value": 139751.84,
+                "price": 8649.46,
+                "value": 138391.38,
                 "commission": 0.0
             }
         ],
-        "positions_value": 139751.84,
-        "cash": 21175.46,
-        "total_value": 160927.3
+        "positions_value": 137642.56,
+        "cash": 23837.84,
+        "total_value": 161480.4
     },
     {
-        "datetime": "2025-04-01 00:00:00",
-        "date": "2025-04-01 00:00:00",
+        "datetime": "2025-05-02 00:00:00",
+        "date": "2025-05-02 00:00:00",
         "trades": [
             {
                 "symbol": "CAC",
                 "side": "SELL",
                 "size": -16,
-                "price": 8734.49,
-                "value": 139751.84,
+                "price": 8602.83,
+                "value": 138391.38,
                 "commission": 0.0
             }
         ],
         "positions_value": 0.0,
-        "cash": 160927.3,
-        "total_value": 160927.3
+        "cash": 161483.11,
+        "total_value": 161483.11
     }
 ]

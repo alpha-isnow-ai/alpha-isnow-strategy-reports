@@ -6,31 +6,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -18,
-                "price": 458.63,
-                "value": 2542.52,
+                "size": -8,
+                "price": 457.25,
+                "value": 1151.36,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -41,
-                "price": 104.25,
-                "value": 4143.96,
+                "size": -19,
+                "price": 103.28,
+                "value": 1902.71,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 508,
+                "size": 227,
                 "price": 18.89,
-                "value": 9595.05,
+                "value": 4287.55,
                 "commission": 0.0
             }
         ],
-        "positions_value": 671164.38,
-        "cash": 74769.43,
-        "total_value": 745933.81
+        "positions_value": 300551.16,
+        "cash": 33498.97,
+        "total_value": 334050.14
     },
     {
         "datetime": "2022-02-02 00:00:00",
@@ -39,31 +39,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 32,
-                "price": 435.93,
-                "value": 13949.63,
+                "size": 14,
+                "price": 434.62,
+                "value": 6084.66,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 121,
-                "price": 103.18,
-                "value": 12484.91,
+                "size": 55,
+                "price": 102.22,
+                "value": 5622.17,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -1228,
+                "size": -550,
                 "price": 20.34,
-                "value": 18004.76,
+                "value": 8063.09,
                 "commission": 0.0
             }
         ],
-        "positions_value": 662752.71,
-        "cash": 73318.49,
-        "total_value": 736071.2
+        "positions_value": 296647.75,
+        "cash": 32981.87,
+        "total_value": 329629.61
     },
     {
         "datetime": "2022-03-02 00:00:00",
@@ -72,31 +72,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 38,
-                "price": 413.79,
-                "value": 15724.02,
+                "size": 17,
+                "price": 412.55,
+                "value": 7013.33,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 97,
-                "price": 103.33,
-                "value": 10022.93,
+                "size": 44,
+                "price": 102.37,
+                "value": 4504.2,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -1120,
+                "size": -501,
                 "price": 22.77,
-                "value": 16421.28,
+                "value": 7344.74,
                 "commission": 0.0
             }
         ],
-        "positions_value": 658587.71,
-        "cash": 73077.74,
-        "total_value": 731665.45
+        "positions_value": 294784.94,
+        "cash": 32873.81,
+        "total_value": 327658.75
     },
     {
         "datetime": "2022-04-04 00:00:00",
@@ -105,31 +105,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -28,
-                "price": 435.01,
-                "value": 4538.81,
+                "size": -13,
+                "price": 433.7,
+                "value": 2134.52,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 4,
-                "price": 98.2,
-                "value": 392.81,
+                "size": 2,
+                "price": 97.29,
+                "value": 194.58,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 445,
+                "size": 199,
                 "price": 24.07,
-                "value": 10710.51,
+                "value": 4789.65,
                 "commission": 0.0
             }
         ],
-        "positions_value": 672815.23,
-        "cash": 74154.56,
-        "total_value": 746969.79
+        "positions_value": 300979.6,
+        "cash": 33527.69,
+        "total_value": 334507.29
     },
     {
         "datetime": "2022-05-03 00:00:00",
@@ -138,31 +138,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 39,
-                "price": 398.41,
-                "value": 15537.98,
+                "size": 18,
+                "price": 397.21,
+                "value": 7149.87,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -141,
-                "price": 94.42,
-                "value": 14291.12,
+                "size": -64,
+                "price": 93.54,
+                "value": 6427.04,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 33,
+                "size": 15,
                 "price": 24.94,
-                "value": 823.05,
+                "value": 374.12,
                 "commission": 0.0
             }
         ],
-        "positions_value": 636980.76,
-        "cash": 71106.35,
-        "total_value": 708087.12
+        "positions_value": 285132.23,
+        "cash": 31990.2,
+        "total_value": 317122.43
     },
     {
         "datetime": "2022-06-02 00:00:00",
@@ -171,31 +171,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 12,
-                "price": 393.04,
-                "value": 4716.52,
+                "size": 6,
+                "price": 391.86,
+                "value": 2351.19,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 125,
-                "price": 94.89,
-                "value": 11861.86,
+                "size": 57,
+                "price": 94.01,
+                "value": 5358.69,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -641,
+                "size": -287,
                 "price": 26.28,
-                "value": 10034.36,
+                "value": 4492.29,
                 "commission": 0.0
             }
         ],
-        "positions_value": 647031.85,
-        "cash": 71374.19,
-        "total_value": 718406.03
+        "positions_value": 289924.37,
+        "cash": 31823.01,
+        "total_value": 321747.38
     },
     {
         "datetime": "2022-07-04 00:00:00",
@@ -204,31 +204,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 22,
-                "price": 363.06,
-                "value": 7987.31,
+                "size": 9,
+                "price": 361.97,
+                "value": 3257.73,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 44,
-                "price": 95.23,
-                "value": 4190.25,
+                "size": 20,
+                "price": 94.35,
+                "value": 1886.94,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -376,
+                "size": -168,
                 "price": 24.28,
-                "value": 5885.99,
+                "value": 2629.63,
                 "commission": 0.0
             }
         ],
-        "positions_value": 609038.77,
-        "cash": 68327.58,
-        "total_value": 677366.36
+        "positions_value": 272593.36,
+        "cash": 30758.12,
+        "total_value": 303351.48
     },
     {
         "datetime": "2022-08-02 00:00:00",
@@ -237,64 +237,56 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -32,
-                "price": 394.45,
-                "value": 5715.45,
+                "size": -14,
+                "price": 393.27,
+                "value": 2529.13,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 159,
-                "price": 97.66,
-                "value": 15527.47,
+                "size": 71,
+                "price": 96.75,
+                "value": 6869.16,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -230,
+                "size": -104,
                 "price": 23.03,
-                "value": 3600.47,
+                "value": 1627.87,
                 "commission": 0.0
             }
         ],
-        "positions_value": 629660.28,
-        "cash": 70720.45,
-        "total_value": 700380.74
+        "positions_value": 281856.0,
+        "cash": 31790.29,
+        "total_value": 313646.29
     },
     {
         "datetime": "2022-09-02 00:00:00",
         "date": "2022-09-02 00:00:00",
         "trades": [
             {
-                "symbol": "SPY",
-                "side": "BUY",
-                "size": 1,
-                "price": 385.93,
-                "value": 385.93,
-                "commission": 0.0
-            },
-            {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 167,
-                "price": 93.01,
-                "value": 15532.89,
+                "size": 76,
+                "price": 92.15,
+                "value": 7003.11,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -602,
+                "size": -269,
                 "price": 22.96,
-                "value": 9423.84,
+                "value": 4210.54,
                 "commission": 0.0
             }
         ],
-        "positions_value": 611080.26,
-        "cash": 68624.92,
-        "total_value": 679705.18
+        "positions_value": 273430.5,
+        "cash": 30964.03,
+        "total_value": 304394.53
     },
     {
         "datetime": "2022-10-04 00:00:00",
@@ -303,31 +295,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 24,
-                "price": 360.52,
-                "value": 8652.56,
+                "size": 11,
+                "price": 359.44,
+                "value": 3953.86,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 89,
-                "price": 90.38,
-                "value": 8043.75,
+                "size": 40,
+                "price": 89.54,
+                "value": 3581.54,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -587,
+                "size": -263,
                 "price": 22.41,
-                "value": 9189.03,
+                "value": 4116.62,
                 "commission": 0.0
             }
         ],
-        "positions_value": 596389.46,
-        "cash": 65085.41,
-        "total_value": 661474.86
+        "positions_value": 266915.65,
+        "cash": 29323.41,
+        "total_value": 296239.06
     },
     {
         "datetime": "2022-11-02 00:00:00",
@@ -336,31 +328,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -25,
-                "price": 371.66,
-                "value": 4581.04,
+                "size": -11,
+                "price": 370.54,
+                "value": 2036.01,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 239,
-                "price": 87.76,
-                "value": 20975.51,
+                "size": 108,
+                "price": 86.95,
+                "value": 9390.3,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -563,
+                "size": -252,
                 "price": 22.91,
-                "value": 8813.33,
+                "value": 3944.45,
                 "commission": 0.0
             }
         ],
-        "positions_value": 587818.44,
-        "cash": 66298.7,
-        "total_value": 654117.14
+        "positions_value": 263162.13,
+        "cash": 29781.97,
+        "total_value": 292944.1
     },
     {
         "datetime": "2022-12-02 00:00:00",
@@ -369,31 +361,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -12,
-                "price": 389.42,
-                "value": 2198.9,
+                "size": -6,
+                "price": 388.25,
+                "value": 1110.55,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -139,
-                "price": 91.3,
-                "value": 13651.06,
+                "size": -63,
+                "price": 90.46,
+                "value": 6129.82,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 629,
+                "size": 281,
                 "price": 22.68,
-                "value": 14267.89,
+                "value": 6374.05,
                 "commission": 0.0
             }
         ],
-        "positions_value": 623877.6,
-        "cash": 69395.19,
-        "total_value": 693272.79
+        "positions_value": 279034.88,
+        "cash": 31436.11,
+        "total_value": 310471.0
     },
     {
         "datetime": "2023-01-03 00:00:00",
@@ -402,31 +394,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 17,
-                "price": 373.82,
-                "value": 6354.95,
+                "size": 8,
+                "price": 372.7,
+                "value": 2981.59,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 102,
-                "price": 90.54,
-                "value": 9234.94,
+                "size": 47,
+                "price": 89.7,
+                "value": 4215.73,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -577,
+                "size": -258,
                 "price": 22.04,
-                "value": 10197.39,
+                "value": 4558.49,
                 "commission": 0.0
             }
         ],
-        "positions_value": 598700.2,
-        "cash": 66523.68,
-        "total_value": 665223.88
+        "positions_value": 268001.13,
+        "cash": 29925.69,
+        "total_value": 297926.82
     },
     {
         "datetime": "2023-02-02 00:00:00",
@@ -435,31 +427,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -20,
-                "price": 403.47,
-                "value": 3731.84,
+                "size": -9,
+                "price": 402.26,
+                "value": 1696.95,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -115,
-                "price": 93.64,
-                "value": 11254.55,
+                "size": -53,
+                "price": 92.77,
+                "value": 5138.45,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 673,
+                "size": 301,
                 "price": 22.26,
-                "value": 14980.58,
+                "value": 6700.08,
                 "commission": 0.0
             }
         ],
-        "positions_value": 635800.52,
-        "cash": 70381.66,
-        "total_value": 706182.17
+        "positions_value": 284495.05,
+        "cash": 31762.95,
+        "total_value": 316258.0
     },
     {
         "datetime": "2023-03-02 00:00:00",
@@ -468,31 +460,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 4,
-                "price": 381.9,
-                "value": 1527.61,
+                "size": 2,
+                "price": 380.76,
+                "value": 761.51,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -110,
-                "price": 88.46,
-                "value": 10765.22,
+                "size": -49,
+                "price": 87.64,
+                "value": 4750.64,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 497,
+                "size": 223,
                 "price": 21.85,
-                "value": 10860.55,
+                "value": 4873.05,
                 "commission": 0.0
             }
         ],
-        "positions_value": 610413.01,
-        "cash": 67724.15,
-        "total_value": 678137.16
+        "positions_value": 273287.49,
+        "cash": 30422.64,
+        "total_value": 303710.13
     },
     {
         "datetime": "2023-04-04 00:00:00",
@@ -501,31 +493,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -7,
-                "price": 401.85,
-                "value": 1311.89,
+                "size": -3,
+                "price": 400.65,
+                "value": 568.35,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -160,
-                "price": 93.04,
-                "value": 15658.5,
+                "size": -73,
+                "price": 92.17,
+                "value": 7077.48,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 688,
+                "size": 308,
                 "price": 21.86,
-                "value": 15040.55,
+                "value": 6733.27,
                 "commission": 0.0
             }
         ],
-        "positions_value": 630321.9,
-        "cash": 70382.18,
-        "total_value": 700704.08
+        "positions_value": 282193.34,
+        "cash": 31619.7,
+        "total_value": 313813.04
     },
     {
         "datetime": "2023-05-02 00:00:00",
@@ -534,31 +526,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -10,
-                "price": 404.93,
-                "value": 1874.13,
+                "size": -5,
+                "price": 403.71,
+                "value": 947.25,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -120,
-                "price": 92.97,
-                "value": 11743.88,
+                "size": -54,
+                "price": 92.1,
+                "value": 5235.4,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 713,
+                "size": 320,
                 "price": 20.97,
-                "value": 14954.83,
+                "value": 6711.84,
                 "commission": 0.0
             }
         ],
-        "positions_value": 627449.41,
-        "cash": 70632.59,
-        "total_value": 698082.0
+        "positions_value": 280741.4,
+        "cash": 31899.91,
+        "total_value": 312641.3
     },
     {
         "datetime": "2023-06-02 00:00:00",
@@ -567,31 +559,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -11,
-                "price": 414.42,
-                "value": 2061.55,
+                "size": -5,
+                "price": 413.18,
+                "value": 947.25,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -131,
-                "price": 92.5,
-                "value": 12820.4,
+                "size": -59,
+                "price": 91.64,
+                "value": 5720.16,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 818,
+                "size": 366,
                 "price": 20.48,
-                "value": 16750.06,
+                "value": 7494.53,
                 "commission": 0.0
             }
         ],
-        "positions_value": 639272.55,
-        "cash": 70558.37,
-        "total_value": 709830.93
+        "positions_value": 286016.59,
+        "cash": 31877.88,
+        "total_value": 317894.48
     },
     {
         "datetime": "2023-07-04 00:00:00",
@@ -600,64 +592,56 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -25,
-                "price": 434.01,
-                "value": 4685.33,
+                "size": -11,
+                "price": 432.71,
+                "value": 2083.95,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -65,
-                "price": 91.2,
-                "value": 6361.27,
+                "size": -29,
+                "price": 90.35,
+                "value": 2811.6,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 706,
+                "size": 316,
                 "price": 20.63,
-                "value": 14565.25,
+                "value": 6519.29,
                 "commission": 0.0
             }
         ],
-        "positions_value": 651016.66,
-        "cash": 72771.2,
-        "total_value": 723787.86
+        "positions_value": 291396.53,
+        "cash": 32738.5,
+        "total_value": 324135.03
     },
     {
         "datetime": "2023-08-02 00:00:00",
         "date": "2023-08-02 00:00:00",
         "trades": [
             {
-                "symbol": "SPY",
-                "side": "SELL",
-                "size": -1,
-                "price": 444.14,
-                "value": 187.41,
-                "commission": 0.0
-            },
-            {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -93,
-                "price": 89.85,
-                "value": 9101.5,
+                "size": -42,
+                "price": 89.02,
+                "value": 4071.98,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 315,
+                "size": 141,
                 "price": 22.17,
-                "value": 6983.21,
+                "value": 3125.82,
                 "commission": 0.0
             }
         ],
-        "positions_value": 660893.15,
-        "cash": 74588.29,
-        "total_value": 735481.44
+        "positions_value": 296016.44,
+        "cash": 33351.33,
+        "total_value": 329367.78
     },
     {
         "datetime": "2023-09-04 00:00:00",
@@ -666,31 +650,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 6,
-                "price": 444.06,
-                "value": 2664.35,
+                "size": 2,
+                "price": 442.73,
+                "value": 885.45,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 153,
-                "price": 90.0,
-                "value": 13769.33,
+                "size": 69,
+                "price": 89.16,
+                "value": 6151.93,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -702,
+                "size": -315,
                 "price": 22.48,
-                "value": 14294.29,
+                "value": 6413.83,
                 "commission": 0.0
             }
         ],
-        "positions_value": 665426.15,
-        "cash": 73933.17,
-        "total_value": 739359.32
+        "positions_value": 297711.56,
+        "cash": 33394.07,
+        "total_value": 331105.63
     },
     {
         "datetime": "2023-10-03 00:00:00",
@@ -699,31 +683,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 14,
-                "price": 417.98,
-                "value": 5851.75,
+                "size": 7,
+                "price": 416.73,
+                "value": 2917.1,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 147,
-                "price": 86.27,
-                "value": 12681.9,
+                "size": 66,
+                "price": 85.47,
+                "value": 5640.95,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -733,
+                "size": -328,
                 "price": 22.36,
-                "value": 14925.52,
+                "value": 6678.53,
                 "commission": 0.0
             }
         ],
-        "positions_value": 635490.77,
-        "cash": 71788.63,
-        "total_value": 707279.4
+        "positions_value": 284584.16,
+        "cash": 32169.75,
+        "total_value": 316753.91
     },
     {
         "datetime": "2023-11-02 00:00:00",
@@ -732,31 +716,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 4,
-                "price": 419.48,
-                "value": 1677.91,
+                "size": 1,
+                "price": 418.22,
+                "value": 418.22,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 135,
-                "price": 87.12,
-                "value": 11761.77,
+                "size": 61,
+                "price": 86.31,
+                "value": 5265.14,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -567,
+                "size": -253,
                 "price": 22.21,
-                "value": 11545.39,
+                "value": 5151.42,
                 "commission": 0.0
             }
         ],
-        "positions_value": 647345.55,
-        "cash": 70944.38,
-        "total_value": 718289.93
+        "positions_value": 289575.45,
+        "cash": 32106.57,
+        "total_value": 321682.02
     },
     {
         "datetime": "2023-12-04 00:00:00",
@@ -765,31 +749,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -29,
-                "price": 448.01,
-                "value": 5614.34,
+                "size": -12,
+                "price": 446.67,
+                "value": 2340.99,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 166,
-                "price": 89.87,
-                "value": 14918.51,
+                "size": 75,
+                "price": 89.03,
+                "value": 6677.59,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -278,
+                "size": -125,
                 "price": 21.37,
-                "value": 5660.7,
+                "value": 2545.17,
                 "commission": 0.0
             }
         ],
-        "positions_value": 667969.76,
-        "cash": 74959.86,
-        "total_value": 742929.62
+        "positions_value": 299237.71,
+        "cash": 33460.6,
+        "total_value": 332698.31
     },
     {
         "datetime": "2024-01-02 00:00:00",
@@ -798,31 +782,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -12,
-                "price": 466.18,
-                "value": 2323.18,
+                "size": -6,
+                "price": 464.78,
+                "value": 1170.5,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 142,
-                "price": 92.31,
-                "value": 13108.17,
+                "size": 65,
+                "price": 91.45,
+                "value": 5944.41,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -452,
+                "size": -202,
                 "price": 21.02,
-                "value": 9203.73,
+                "value": 4112.99,
                 "commission": 0.0
             }
         ],
-        "positions_value": 684729.04,
-        "cash": 76945.95,
-        "total_value": 761674.99
+        "positions_value": 306547.0,
+        "cash": 34550.51,
+        "total_value": 341097.5
     },
     {
         "datetime": "2024-02-02 00:00:00",
@@ -831,31 +815,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -10,
-                "price": 483.45,
-                "value": 1935.98,
+                "size": -4,
+                "price": 482.0,
+                "value": 780.33,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 175,
-                "price": 92.34,
-                "value": 16160.3,
+                "size": 78,
+                "price": 91.49,
+                "value": 7135.88,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -614,
+                "size": -275,
                 "price": 20.73,
-                "value": 12502.42,
+                "value": 5599.37,
                 "commission": 0.0
             }
         ],
-        "positions_value": 701458.45,
-        "cash": 78350.28,
-        "total_value": 779808.73
+        "positions_value": 314170.6,
+        "cash": 35044.23,
+        "total_value": 349214.83
     },
     {
         "datetime": "2024-03-04 00:00:00",
@@ -864,31 +848,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -23,
-                "price": 505.55,
-                "value": 4452.75,
+                "size": -11,
+                "price": 504.03,
+                "value": 2145.91,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -53,
-                "price": 90.98,
-                "value": 5022.7,
+                "size": -24,
+                "price": 90.14,
+                "value": 2253.36,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 730,
+                "size": 326,
                 "price": 21.12,
-                "value": 15419.31,
+                "value": 6885.88,
                 "commission": 0.0
             }
         ],
-        "positions_value": 714098.71,
-        "cash": 79380.66,
-        "total_value": 793479.36
+        "positions_value": 319475.51,
+        "cash": 35865.97,
+        "total_value": 355341.48
     },
     {
         "datetime": "2024-04-02 00:00:00",
@@ -897,31 +881,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -7,
-                "price": 513.27,
-                "value": 1355.19,
+                "size": -3,
+                "price": 511.73,
+                "value": 585.25,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -113,
-                "price": 90.31,
-                "value": 10708.78,
+                "size": -50,
+                "price": 89.47,
+                "value": 4694.5,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 561,
+                "size": 252,
                 "price": 22.06,
-                "value": 12376.88,
+                "value": 5559.67,
                 "commission": 0.0
             }
         ],
-        "positions_value": 721782.19,
-        "cash": 80801.57,
-        "total_value": 802583.76
+        "positions_value": 323100.23,
+        "cash": 36314.94,
+        "total_value": 359415.17
     },
     {
         "datetime": "2024-05-02 00:00:00",
@@ -930,31 +914,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 12,
-                "price": 499.31,
-                "value": 5991.74,
+                "size": 6,
+                "price": 497.81,
+                "value": 2986.88,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -179,
-                "price": 89.03,
-                "value": 16963.46,
+                "size": -82,
+                "price": 88.2,
+                "value": 7698.97,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 549,
+                "size": 245,
                 "price": 21.85,
-                "value": 11997.47,
+                "value": 5354.06,
                 "commission": 0.0
             }
         ],
-        "positions_value": 709121.6,
-        "cash": 78748.87,
-        "total_value": 787870.47
+        "positions_value": 317623.43,
+        "cash": 35206.61,
+        "total_value": 352830.03
     },
     {
         "datetime": "2024-06-04 00:00:00",
@@ -963,31 +947,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -16,
-                "price": 521.41,
-                "value": 3166.46,
+                "size": -8,
+                "price": 519.84,
+                "value": 1598.6,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 187,
-                "price": 91.17,
-                "value": 17048.74,
+                "size": 85,
+                "price": 90.32,
+                "value": 7677.35,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -503,
+                "size": -225,
                 "price": 21.59,
-                "value": 10501.35,
+                "value": 4697.28,
                 "commission": 0.0
             }
         ],
-        "positions_value": 729055.42,
-        "cash": 80901.17,
-        "total_value": 809956.59
+        "positions_value": 326179.88,
+        "cash": 36545.2,
+        "total_value": 362725.08
     },
     {
         "datetime": "2024-07-02 00:00:00",
@@ -996,31 +980,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -12,
-                "price": 540.22,
-                "value": 2374.85,
+                "size": -5,
+                "price": 538.6,
+                "value": 999.13,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 218,
-                "price": 91.08,
-                "value": 19854.6,
+                "size": 98,
+                "price": 90.23,
+                "value": 8842.44,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -682,
+                "size": -305,
                 "price": 22.42,
-                "value": 14238.41,
+                "value": 6367.42,
                 "commission": 0.0
             }
         ],
-        "positions_value": 748144.6,
-        "cash": 82821.62,
-        "total_value": 830966.22
+        "positions_value": 334889.44,
+        "cash": 37234.74,
+        "total_value": 372124.18
     },
     {
         "datetime": "2024-08-02 00:00:00",
@@ -1029,31 +1013,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 7,
-                "price": 532.32,
-                "value": 3726.24,
+                "size": 3,
+                "price": 530.72,
+                "value": 1592.17,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 70,
-                "price": 95.41,
-                "value": 6678.36,
+                "size": 32,
+                "price": 94.52,
+                "value": 3024.57,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -509,
+                "size": -228,
                 "price": 20.94,
-                "value": 10626.62,
+                "value": 4759.91,
                 "commission": 0.0
             }
         ],
-        "positions_value": 741478.89,
-        "cash": 83076.49,
-        "total_value": 824555.38
+        "positions_value": 331858.88,
+        "cash": 37392.78,
+        "total_value": 369251.66
     },
     {
         "datetime": "2024-09-03 00:00:00",
@@ -1062,31 +1046,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -13,
-                "price": 556.88,
-                "value": 2609.37,
+                "size": -6,
+                "price": 555.21,
+                "value": 1214.92,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -127,
-                "price": 95.81,
-                "value": 11963.65,
+                "size": -57,
+                "price": 94.92,
+                "value": 5319.74,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 817,
+                "size": 366,
                 "price": 20.65,
-                "value": 16869.16,
+                "value": 7557.05,
                 "commission": 0.0
             }
         ],
-        "positions_value": 754268.1,
-        "cash": 85614.3,
-        "total_value": 839882.41
+        "positions_value": 337534.66,
+        "cash": 38577.2,
+        "total_value": 376111.87
     },
     {
         "datetime": "2024-10-02 00:00:00",
@@ -1095,31 +1079,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 2,
-                "price": 565.81,
-                "value": 1131.61,
+                "size": 1,
+                "price": 564.11,
+                "value": 564.11,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -169,
-                "price": 96.52,
-                "value": 15920.13,
+                "size": -76,
+                "price": 95.62,
+                "value": 7092.99,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 681,
+                "size": 304,
                 "price": 21.76,
-                "value": 14817.46,
+                "value": 6614.55,
                 "commission": 0.0
             }
         ],
-        "positions_value": 774807.15,
-        "cash": 85977.4,
-        "total_value": 860784.55
+        "positions_value": 346798.73,
+        "cash": 38665.96,
+        "total_value": 385464.69
     },
     {
         "datetime": "2024-11-04 00:00:00",
@@ -1128,31 +1112,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -12,
-                "price": 569.26,
-                "value": 2419.34,
+                "size": -5,
+                "price": 567.56,
+                "value": 1017.35,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -88,
-                "price": 93.42,
-                "value": 8289.77,
+                "size": -40,
+                "price": 92.55,
+                "value": 3733.15,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 737,
+                "size": 331,
                 "price": 21.49,
-                "value": 15840.03,
+                "value": 7114.04,
                 "commission": 0.0
             }
         ],
-        "positions_value": 768358.05,
-        "cash": 85189.79,
-        "total_value": 853547.85
+        "positions_value": 344130.53,
+        "cash": 38091.88,
+        "total_value": 382222.41
     },
     {
         "datetime": "2024-12-03 00:00:00",
@@ -1161,31 +1145,31 @@
             {
                 "symbol": "SPY",
                 "side": "SELL",
-                "size": -19,
-                "price": 601.37,
-                "value": 3830.61,
+                "size": -9,
+                "price": 599.56,
+                "value": 1831.22,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -134,
-                "price": 94.38,
-                "value": 12623.06,
+                "size": -61,
+                "price": 93.5,
+                "value": 5693.05,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 1010,
+                "size": 452,
                 "price": 21.05,
-                "value": 21256.86,
+                "value": 9512.97,
                 "commission": 0.0
             }
         ],
-        "positions_value": 792275.83,
-        "cash": 88005.34,
-        "total_value": 880281.17
+        "positions_value": 354518.19,
+        "cash": 39678.38,
+        "total_value": 394196.57
     },
     {
         "datetime": "2025-01-02 00:00:00",
@@ -1194,31 +1178,31 @@
             {
                 "symbol": "SPY",
                 "side": "BUY",
-                "size": 8,
-                "price": 589.39,
-                "value": 4715.12,
+                "size": 4,
+                "price": 587.62,
+                "value": 2350.49,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "SELL",
-                "size": -154,
-                "price": 92.36,
-                "value": 14507.1,
+                "size": -70,
+                "price": 91.5,
+                "value": 6533.01,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "BUY",
-                "size": 492,
+                "size": 220,
                 "price": 21.55,
-                "value": 10602.6,
+                "value": 4741.0,
                 "commission": 0.0
             }
         ],
-        "positions_value": 779091.02,
-        "cash": 86910.32,
-        "total_value": 866001.34
+        "positions_value": 348815.54,
+        "cash": 38991.62,
+        "total_value": 387807.16
     },
     {
         "datetime": "2025-02-04 00:00:00",
@@ -1228,29 +1212,128 @@
                 "symbol": "SPY",
                 "side": "SELL",
                 "size": -1,
-                "price": 597.83,
-                "value": 205.5,
+                "price": 596.04,
+                "value": 207.76,
                 "commission": 0.0
             },
             {
                 "symbol": "IEF",
                 "side": "BUY",
-                "size": 191,
-                "price": 92.6,
-                "value": 17686.6,
+                "size": 87,
+                "price": 91.74,
+                "value": 7981.26,
                 "commission": 0.0
             },
             {
                 "symbol": "DBC",
                 "side": "SELL",
-                "size": -829,
+                "size": -371,
                 "price": 21.85,
-                "value": 17480.16,
+                "value": 7822.69,
                 "commission": 0.0
             }
         ],
-        "positions_value": 797029.12,
-        "cash": 87935.2,
-        "total_value": 884964.32
+        "positions_value": 356583.78,
+        "cash": 39712.75,
+        "total_value": 396296.53
+    },
+    {
+        "datetime": "2025-03-04 00:00:00",
+        "date": "2025-03-04 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 6,
+                "price": 577.97,
+                "value": 3467.83,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "BUY",
+                "size": 39,
+                "price": 94.93,
+                "value": 3702.08,
+                "commission": 0.0
+            },
+            {
+                "symbol": "DBC",
+                "side": "SELL",
+                "size": -310,
+                "price": 21.87,
+                "value": 6536.48,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 349512.04,
+        "cash": 39322.54,
+        "total_value": 388834.58
+    },
+    {
+        "datetime": "2025-04-02 00:00:00",
+        "date": "2025-04-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "BUY",
+                "size": 8,
+                "price": 555.05,
+                "value": 4440.4,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -91,
+                "price": 95.49,
+                "value": 8485.75,
+                "commission": 0.0
+            },
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 210,
+                "price": 22.46,
+                "value": 4716.6,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 348416.37,
+        "cash": 38854.94,
+        "total_value": 387271.3
+    },
+    {
+        "datetime": "2025-05-02 00:00:00",
+        "date": "2025-05-02 00:00:00",
+        "trades": [
+            {
+                "symbol": "SPY",
+                "side": "SELL",
+                "size": -4,
+                "price": 564.73,
+                "value": 884.95,
+                "commission": 0.0
+            },
+            {
+                "symbol": "IEF",
+                "side": "SELL",
+                "size": -85,
+                "price": 94.85,
+                "value": 7926.25,
+                "commission": 0.0
+            },
+            {
+                "symbol": "DBC",
+                "side": "BUY",
+                "size": 515,
+                "price": 20.82,
+                "value": 10722.3,
+                "commission": 0.0
+            }
+        ],
+        "positions_value": 344699.48,
+        "cash": 38453.81,
+        "total_value": 383153.29
     }
 ]
